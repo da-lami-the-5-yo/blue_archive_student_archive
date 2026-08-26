@@ -1476,9 +1476,9 @@
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna",
     "school_ja": "ゲヘナ",
-    "club_kr": "판데모니움 소사이어티",
+    "club_kr": "만마전",
     "club_en": "Pandemonium Society",
-    "club_ja": "パンデモニウム・ソサエティー",
+    "club_ja": "万魔殿",
     "seasonal": "기본",
     "status": "출시",
     "role": "택티컬 서포트",
@@ -1532,17 +1532,17 @@
     "name_kr": "나츠메 이로하",
     "name_en": "Natsume Iroha",
     "name_ja": "棗イロハ",
-    "full_name_kr": "나츠메 이로하 (해적수영복)",
-    "full_name_en": "Natsume Iroha (해적수영복)",
-    "full_name_ja": "棗イロハ（해적수영복）",
+    "full_name_kr": "나츠메 이로하 (수영복)",
+    "full_name_en": "Natsume Iroha (Swimsuit)",
+    "full_name_ja": "棗イロハ（水着）",
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna Academy",
     "school_ja": "ゲヘナ学園",
     "club_kr": "만마전",
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
-    "seasonal": "해적수영복",
-    "status": "미출시 시즈널",
+    "seasonal": "수영복",
+    "status": "출시",
     "role": "택티컬 서포트",
     "position": "스페셜",
     "bullet_type": "신비",
@@ -1554,11 +1554,11 @@
       "kr": [
         "나츠메",
         "나츠메 이로하",
-        "나츠메 이로하(해적수영복)",
         "나츠메이로하",
         "이로하",
-        "이로하(해적수영복)",
-        "해적수영복"
+        "나츠메 이로하 (수영복)",
+        "이로하 수영복",
+        "수영복 이로하"
       ],
       "en": [
         "natsume iroha",
@@ -1574,7 +1574,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/나츠메 이로하/해적수영복/공식/official_wiki_portrait.png"
+        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -1837,20 +1837,71 @@
   },
   {
     "id": null,
+    "family_name_kr": "모토미야",
+    "personal_name_kr": "치아키",
+    "canonical_name_kr": "모토미야 치아키",
     "name_kr": "모토미야 치아키",
     "name_en": "Motomiya Chiaki",
     "name_ja": "元宮チアキ",
-    "full_name_kr": "모토미야 치아키 (해적수영복)",
-    "full_name_en": "Motomiya Chiaki (해적수영복)",
-    "full_name_ja": "元宮チアキ（해적수영복）",
+    "full_name_kr": "모토미야 치아키",
+    "full_name_en": "Motomiya Chiaki",
+    "full_name_ja": "元宮チアキ",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": "万魔殿",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "게헨나 학원 학생회 만마전(판데모니움 소사이어티) 소속의 의원이자 언론/홍보 담당.",
+    "description_en": "A council member and PR/press officer of the Pandemonium Society at Gehenna Academy.",
+    "description_ja": "ゲヘナ学園生徒会「万魔殿」所属の議員兼広報担当。",
+    "search_tags": {
+      "kr": [
+        "모토미야 치아키",
+        "모토미야치아키",
+        "치아키",
+        "만마전"
+      ],
+      "en": [
+        "chiaki",
+        "motomiya_chiaki"
+      ],
+      "ja": [
+        "チアキ",
+        "元宮チアキ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_portrait.png"
+      }
+    ],
+    "image_count": 1
+  },
+  {
+    "id": null,
+    "name_kr": "모토미야 치아키",
+    "name_en": "Motomiya Chiaki",
+    "name_ja": "元宮チアキ",
+    "full_name_kr": "모토미야 치아키 (수영복)",
+    "full_name_en": "Motomiya Chiaki (Swimsuit)",
+    "full_name_ja": "元宮チアキ（水着）",
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna Academy",
     "school_ja": "ゲヘナ学園",
     "club_kr": "만마전",
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
-    "seasonal": "해적수영복",
-    "status": "미출시 시즈널",
+    "seasonal": "수영복",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "관통",
@@ -1862,11 +1913,11 @@
       "kr": [
         "모토미야",
         "모토미야 치아키",
-        "모토미야 치아키(해적수영복)",
         "모토미야치아키",
         "치아키",
-        "치아키(해적수영복)",
-        "해적수영복"
+        "모토미야 치아키 (수영복)",
+        "치아키 수영복",
+        "수영복 치아키"
       ],
       "en": [
         "motomiya chiaki",
@@ -1882,7 +1933,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/모토미야 치아키/해적수영복/공식/official_wiki_portrait.png"
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -4037,11 +4088,6 @@
         "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7075349_rank01.jpg",
         "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/비공식/rank01/fanart_7075349_rank01.jpg",
@@ -4054,7 +4100,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "사츠키",
     "family_name_kr": "쿄고쿠",
     "canonical_name_kr": "쿄고쿠 사츠키"
@@ -4064,17 +4110,17 @@
     "name_kr": "쿄고쿠 사츠키",
     "name_en": "Kyogoku Satsuki",
     "name_ja": "京極サツキ",
-    "full_name_kr": "쿄고쿠 사츠키 (해적수영복)",
-    "full_name_en": "Kyogoku Satsuki (해적수영복)",
-    "full_name_ja": "京極サツキ（해적수영복）",
+    "full_name_kr": "쿄고쿠 사츠키 (수영복)",
+    "full_name_en": "Kyogoku Satsuki (Swimsuit)",
+    "full_name_ja": "京極サツキ（水着）",
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna Academy",
     "school_ja": "ゲヘナ学園",
     "club_kr": "만마전",
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
-    "seasonal": "해적수영복",
-    "status": "미출시 시즈널",
+    "seasonal": "수영복",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -4085,12 +4131,12 @@
     "search_tags": {
       "kr": [
         "사츠키",
-        "사츠키(해적수영복)",
         "쿄고쿠",
         "쿄고쿠 사츠키",
-        "쿄고쿠 사츠키(해적수영복)",
         "쿄고쿠사츠키",
-        "해적수영복"
+        "쿄고쿠 사츠키 (수영복)",
+        "사츠키 수영복",
+        "수영복 사츠키"
       ],
       "en": [
         "kyogoku satsuki",
@@ -4106,7 +4152,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/해적수영복/공식/official_wiki_portrait.png"
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -4434,9 +4480,9 @@
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna",
     "school_ja": "ゲヘナ",
-    "club_kr": "판데모니움 소사이어티",
+    "club_kr": "만마전",
     "club_en": "Pandemonium Society",
-    "club_ja": "パンデモニウム・ソサエティー",
+    "club_ja": "万魔殿",
     "seasonal": "기본",
     "status": "출시",
     "role": "서포터",
@@ -4545,17 +4591,17 @@
     "name_kr": "탄가 이부키",
     "name_en": "Tanga Ibuki",
     "name_ja": "丹花イブキ",
-    "full_name_kr": "탄가 이부키 (해적수영복)",
-    "full_name_en": "Tanga Ibuki (해적수영복)",
-    "full_name_ja": "丹花イブキ（해적수영복）",
+    "full_name_kr": "탄가 이부키 (수영복)",
+    "full_name_en": "Tanga Ibuki (Swimsuit)",
+    "full_name_ja": "丹花イブキ（水着）",
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna Academy",
     "school_ja": "ゲヘナ学園",
     "club_kr": "만마전",
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
-    "seasonal": "해적수영복",
-    "status": "미출시 시즈널",
+    "seasonal": "수영복",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -4566,12 +4612,12 @@
     "search_tags": {
       "kr": [
         "이부키",
-        "이부키(해적수영복)",
         "탄가",
         "탄가 이부키",
-        "탄가 이부키(해적수영복)",
         "탄가이부키",
-        "해적수영복"
+        "탄가 이부키 (수영복)",
+        "이부키 수영복",
+        "수영복 이부키"
       ],
       "en": [
         "tanga ibuki",
@@ -4587,7 +4633,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/탄가 이부키/해적수영복/공식/official_wiki_portrait.png"
+        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -4606,9 +4652,9 @@
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna",
     "school_ja": "ゲヘナ",
-    "club_kr": "판데모니움 소사이어티",
+    "club_kr": "만마전",
     "club_en": "Pandemonium Society",
-    "club_ja": "パンデモニウム・ソサエティー",
+    "club_ja": "万魔殿",
     "seasonal": "기본",
     "status": "출시",
     "role": "어태커",
@@ -4717,17 +4763,17 @@
     "name_kr": "하누마 마코토",
     "name_en": "Hanuma Makoto",
     "name_ja": "羽沼マコト",
-    "full_name_kr": "하누마 마코토 (해적수영복)",
-    "full_name_en": "Hanuma Makoto (해적수영복)",
-    "full_name_ja": "羽沼マコト（해적수영복）",
+    "full_name_kr": "하누마 마코토 (수영복)",
+    "full_name_en": "Hanuma Makoto (Swimsuit)",
+    "full_name_ja": "羽沼マコト（水着）",
     "school_kr": "게헨나 학원",
     "school_en": "Gehenna Academy",
     "school_ja": "ゲヘナ学園",
     "club_kr": "만마전",
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
-    "seasonal": "해적수영복",
-    "status": "미출시 시즈널",
+    "seasonal": "수영복",
+    "status": "출시",
     "role": "탱커",
     "position": "스트라이커",
     "bullet_type": "관통",
@@ -4738,12 +4784,12 @@
     "search_tags": {
       "kr": [
         "마코토",
-        "마코토(해적수영복)",
         "하누마",
         "하누마 마코토",
-        "하누마 마코토(해적수영복)",
         "하누마마코토",
-        "해적수영복"
+        "하누마 마코토 (수영복)",
+        "마코토 수영복",
+        "수영복 마코토"
       ],
       "en": [
         "hanuma makoto",
@@ -4759,7 +4805,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/하누마 마코토/해적수영복/공식/official_wiki_portrait.png"
+        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -4814,11 +4860,6 @@
         "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7050530_rank01.jpg",
         "path": "게헨나 학원/귀가부/하타미 에리카/기본/비공식/rank01/fanart_7050530_rank01.jpg",
@@ -4831,7 +4872,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "에리카",
     "family_name_kr": "하타미",
     "canonical_name_kr": "하타미 에리카"
@@ -9066,55 +9107,6 @@
     "image_count": 2
   },
   {
-    "id": null,
-    "family_name_kr": "미소노",
-    "personal_name_kr": "미카",
-    "canonical_name_kr": "미소노 미카",
-    "name_kr": "미소노 미카",
-    "name_en": "Misono Mika",
-    "name_ja": "聖園ミカ",
-    "full_name_kr": "미소노 미카 (파자마)",
-    "full_name_en": "Misono Mika (Pajamas)",
-    "full_name_ja": "聖園ミカ（パジャマ）",
-    "school_kr": "트리니티 종합학원",
-    "school_en": "Trinity General School",
-    "school_ja": "トリニティ総合学園",
-    "club_kr": "티파티",
-    "club_en": "Tea Party",
-    "club_ja": "ティーパーティー",
-    "seasonal": "파자마",
-    "status": "미출시 시즈널",
-    "role": "서포터",
-    "position": "스페셜",
-    "bullet_type": "신비",
-    "armor_type": "특수장갑",
-    "description_kr": "트리니티 기숙사 취침 및 합숙 시 착용하는 토끼귀 후드 분홍 파자마 복장의 미카.",
-    "description_en": "Mika in cute relaxing pajamas at the Trinity dorm.",
-    "description_ja": "トリニティ寮で着用する可愛らしいパジャマ姿のミカ。",
-    "search_tags": {
-      "kr": [
-        "미소노 미카 (파자마)",
-        "파자마 미카",
-        "잠옷 미카",
-        "미카"
-      ],
-      "en": [
-        "mika_pajamas"
-      ],
-      "ja": [
-        "パジャマミカ"
-      ]
-    },
-    "images": [
-      {
-        "category": "비공식/rank00",
-        "filename": "fanart_mika_pajamas.jpg",
-        "path": "트리니티 종합학원/티파티/미소노 미카/파자마/비공식/rank00/fanart_mika_pajamas.jpg"
-      }
-    ],
-    "image_count": 1
-  },
-  {
     "id": 26003,
     "name_kr": "스미 세리나",
     "name_en": "Serina",
@@ -12131,11 +12123,6 @@
         "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7084025_rank01.jpg",
         "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/비공식/rank01/fanart_7084025_rank01.jpg",
@@ -12148,7 +12135,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "나구사",
     "family_name_kr": "고료",
     "canonical_name_kr": "고료 나구사"
@@ -12203,11 +12190,6 @@
         "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7084025_rank01.jpg",
         "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
@@ -12220,7 +12202,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "나구사",
     "family_name_kr": "고료",
     "canonical_name_kr": "고료 나구사"
@@ -12560,11 +12542,6 @@
         "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_6983827_rank01.jpg",
         "path": "백귀야행 연합학원/음양부/아마치 니야/기본/비공식/rank01/fanart_6983827_rank01.jpg",
@@ -12577,7 +12554,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "니야",
     "family_name_kr": "아마치",
     "canonical_name_kr": "아마치 니야"
@@ -14248,11 +14225,6 @@
         "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7080192_rank01.jpg",
         "path": "산해경 고급중학교/현룡문/류게 키사키/기본/비공식/rank01/fanart_7080192_rank01.jpg",
@@ -14265,7 +14237,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "키사키",
     "family_name_kr": "류게",
     "canonical_name_kr": "류게 키사키"
@@ -14320,11 +14292,6 @@
         "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7080192_rank01.jpg",
         "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7080192_rank01.jpg",
@@ -14337,7 +14304,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "키사키",
     "family_name_kr": "류게",
     "canonical_name_kr": "류게 키사키"
@@ -15213,11 +15180,6 @@
         "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_6940389_rank01.jpg",
         "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/비공식/rank01/fanart_6940389_rank01.jpg",
@@ -15230,7 +15192,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "레이조",
     "family_name_kr": "카야마",
     "canonical_name_kr": "카야마 레이조"
@@ -18536,11 +18498,6 @@
         "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7086046_rank01.jpg",
         "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/비공식/rank01/fanart_7086046_rank01.jpg",
@@ -18553,7 +18510,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "노조미",
     "family_name_kr": "타치바나",
     "canonical_name_kr": "타치바나 노조미"
@@ -18605,11 +18562,6 @@
         "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7086046_rank01.jpg",
         "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/비공식/rank01/fanart_7086046_rank01.jpg",
@@ -18622,7 +18574,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "히카리",
     "family_name_kr": "타치바나",
     "canonical_name_kr": "타치바나 히카리"
@@ -18721,11 +18673,6 @@
         "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_792324_rank01.jpg",
         "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/비공식/rank01/fanart_792324_rank01.jpg",
@@ -18738,7 +18685,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "미요",
     "family_name_kr": "사쿠라이",
     "canonical_name_kr": "사쿠라이 미요"
@@ -18790,11 +18737,6 @@
         "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7089097_rank01.jpg",
         "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/비공식/rank01/fanart_7089097_rank01.jpg",
@@ -18807,7 +18749,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "에리",
     "family_name_kr": "시라오",
     "canonical_name_kr": "시라오 에리"
@@ -18911,11 +18853,6 @@
         "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7059801_rank01.jpg",
         "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/비공식/rank01/fanart_7059801_rank01.jpg",
@@ -18928,7 +18865,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "후유",
     "family_name_kr": "와카사",
     "canonical_name_kr": "와카사 후유"
@@ -18978,14 +18915,9 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "와일드헌트 예술학원/예술 평의회/우루와시 마나미/기본/공식/official_portrait.png"
-      },
-      {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/예술 평의회/우루와시 마나미/기본/공식/official_icon.png"
       }
     ],
-    "image_count": 2,
+    "image_count": 1,
     "personal_name_kr": "마나미",
     "family_name_kr": "우루와시",
     "canonical_name_kr": "우루와시 마나미"
@@ -19037,11 +18969,6 @@
         "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7047872_rank01.jpg",
         "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/비공식/rank01/fanart_7047872_rank01.jpg",
@@ -19054,7 +18981,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "리츠",
     "family_name_kr": "우스바",
     "canonical_name_kr": "우스바 리츠"
@@ -19106,11 +19033,6 @@
         "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7086008_rank01.jpg",
         "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/비공식/rank01/fanart_7086008_rank01.jpg",
@@ -19123,7 +19045,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "카노에",
     "family_name_kr": "이타가키",
     "canonical_name_kr": "이타가키 카노에"
@@ -19175,11 +19097,6 @@
         "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_icon.png"
-      },
-      {
         "category": "비공식",
         "filename": "fanart_7070870_rank01.jpg",
         "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/비공식/rank01/fanart_7070870_rank01.jpg",
@@ -19192,7 +19109,7 @@
         "similarity": 0.65
       }
     ],
-    "image_count": 4,
+    "image_count": 3,
     "personal_name_kr": "레나",
     "family_name_kr": "키누이",
     "canonical_name_kr": "키누이 레나"
@@ -19422,14 +19339,9 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (안경 단발)/기본/공식/official_portrait.png"
-      },
-      {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (안경 단발)/기본/공식/official_icon.png"
       }
     ],
-    "image_count": 2,
+    "image_count": 1,
     "personal_name_kr": "오디세이아 학생회 간부 (안경 단발)",
     "family_name_kr": "",
     "canonical_name_kr": "오디세이아 학생회 간부 (안경 단발)"
@@ -19478,14 +19390,9 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (제복 포니테일)/기본/공식/official_portrait.png"
-      },
-      {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (제복 포니테일)/기본/공식/official_icon.png"
       }
     ],
-    "image_count": 2,
+    "image_count": 1,
     "personal_name_kr": "오디세이아 학생회 간부 (제복 포니테일)",
     "family_name_kr": "",
     "canonical_name_kr": "오디세이아 학생회 간부 (제복 포니테일)"
@@ -19811,56 +19718,6 @@
     "personal_name_kr": "마이",
     "family_name_kr": "카자마키",
     "canonical_name_kr": "카자마키 마이"
-  },
-  {
-    "id": null,
-    "family_name_kr": "",
-    "personal_name_kr": "가짜 총학생회장",
-    "canonical_name_kr": "가짜 총학생회장",
-    "name_kr": "가짜 총학생회장",
-    "name_en": "Fake General Student Council President",
-    "name_ja": "偽連邦生徒会長",
-    "full_name_kr": "가짜 총학생회장",
-    "full_name_en": "Fake General Student Council President",
-    "full_name_ja": "偽連邦生徒会長",
-    "school_kr": "총학생회",
-    "school_en": "General Student Council",
-    "school_ja": "連邦生徒会",
-    "club_kr": "회장",
-    "club_en": "President",
-    "club_ja": "会長",
-    "seasonal": "기본",
-    "status": "미출시 학생",
-    "role": "서포터",
-    "position": "스페셜",
-    "bullet_type": "신비",
-    "armor_type": "특수장갑",
-    "description_kr": "메인 스토리 2부 Vol.0 1장에 등장한 의문의 가짜 총학생회장.",
-    "description_en": "Mysterious figure appearing as the General Student Council President in Main Story Vol.0.",
-    "description_ja": "メインストーリー2部Vol.0 1章に登場した謎の偽連邦生徒会長。",
-    "search_tags": {
-      "kr": [
-        "가짜 총학생회장",
-        "총학생회장",
-        "가짜"
-      ],
-      "en": [
-        "fake_president",
-        "fake_gsc_president"
-      ],
-      "ja": [
-        "偽連邦生徒会長",
-        "連邦生徒会長"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "총학생회/회장/가짜 총학생회장/기본/공식/official_portrait.png"
-      }
-    ],
-    "image_count": 1
   },
   {
     "id": null,
@@ -20705,14 +20562,9 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "일곱 죄수/범죄 컨설턴트/히죽히죽 교수/기본/공식/official_portrait.png"
-      },
-      {
-        "category": "공식",
-        "filename": "official_icon.png",
-        "path": "일곱 죄수/범죄 컨설턴트/히죽히죽 교수/기본/공식/official_icon.png"
       }
     ],
-    "image_count": 2,
+    "image_count": 1,
     "personal_name_kr": "히죽히죽 교수",
     "family_name_kr": "",
     "canonical_name_kr": "히죽히죽 교수 (니야니야 교수)"
