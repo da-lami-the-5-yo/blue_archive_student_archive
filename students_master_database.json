@@ -1,5 +1,48 @@
 [
   {
+    "id": null,
+    "family_name_kr": "스나오오카미",
+    "personal_name_kr": "시로코",
+    "canonical_name_kr": "스나오오카미 시로코",
+    "name_kr": "스나오오카미 시로코",
+    "name_en": "Sunaookami Shiroko",
+    "name_ja": "砂狼シロコ",
+    "full_name_kr": "스나오오카미 시로코 (1학년)",
+    "full_name_en": "Sunaookami Shiroko (1st Year)",
+    "full_name_ja": "砂狼シロコ（1年生）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "1학년",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "메인스토리 대책위원회 편 3장에 등장한 아비도스 1학년 시절의 단발머리 시로코(1로코).",
+    "description_en": "Shiroko during her 1st year at Abydos appearing in Main Story Vol.1 Chapter 3.",
+    "description_ja": "対策委員会編3章に登場したアビドス1年生時代のショートヘアのシロコ。",
+    "search_tags": {
+      "kr": [
+        "스나오오카미 시로코 (1학년)",
+        "1학년 시로코",
+        "1로코",
+        "시로코"
+      ],
+      "en": [
+        "shiroko_1st_year"
+      ],
+      "ja": [
+        "1年生シロコ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 10010,
     "name_kr": "스나오오카미 시로코",
     "name_en": "Shiroko",
@@ -412,6 +455,48 @@
   },
   {
     "id": null,
+    "family_name_kr": "오쿠소라",
+    "personal_name_kr": "아야네",
+    "canonical_name_kr": "오쿠소라 아야네",
+    "name_kr": "오쿠소라 아야네",
+    "name_en": "Okusora Ayane",
+    "name_ja": "奥空アヤネ",
+    "full_name_kr": "오쿠소라 아야네 (아이돌)",
+    "full_name_en": "Okusora Ayane (Idol)",
+    "full_name_ja": "奥空アヤネ（アイドル）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 화려한 아이돌 무대 의상을 입은 아야네.",
+    "description_en": "Ayane in idol costume during Serenade Promenade.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のアヤネ。",
+    "search_tags": {
+      "kr": [
+        "오쿠소라 아야네 (아이돌)",
+        "아이돌 아야네",
+        "아야네"
+      ],
+      "en": [
+        "ayane_idol"
+      ],
+      "ja": [
+        "アイドルアヤネ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
+    "id": null,
     "name_kr": "오쿠소라 아야네",
     "name_en": "Okusora Ayane",
     "name_ja": "奥空アヤネ",
@@ -464,6 +549,49 @@
     "personal_name_kr": "아야네",
     "family_name_kr": "오쿠소라",
     "canonical_name_kr": "오쿠소라 아야네"
+  },
+  {
+    "id": null,
+    "family_name_kr": "이자요이",
+    "personal_name_kr": "노노미",
+    "canonical_name_kr": "이자요이 노노미",
+    "name_kr": "이자요이 노노미",
+    "name_en": "Izayoi Nonomi",
+    "name_ja": "十六夜ノノミ",
+    "full_name_kr": "이자요이 노노미 (1학년)",
+    "full_name_en": "Izayoi Nonomi (1st Year)",
+    "full_name_ja": "十六夜ノノミ（1年生）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "1학년",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "메인스토리 대책위원회 편 3장에 등장한 아비도스 1학년 시절의 양갈래머리 노노미(1노미).",
+    "description_en": "Nonomi during her 1st year at Abydos appearing in Main Story Vol.1 Chapter 3.",
+    "description_ja": "対策委員会編3章に登場したアビドス1年生時代のツインテール姿のノノミ。",
+    "search_tags": {
+      "kr": [
+        "이자요이 노노미 (1학년)",
+        "1학년 노노미",
+        "1노미",
+        "노노미"
+      ],
+      "en": [
+        "nonomi_1st_year"
+      ],
+      "ja": [
+        "1年生ノノミ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 13004,
@@ -786,6 +914,48 @@
   },
   {
     "id": null,
+    "family_name_kr": "쿠로미",
+    "personal_name_kr": "세리카",
+    "canonical_name_kr": "쿠로미 세리카",
+    "name_kr": "쿠로미 세리카",
+    "name_en": "Kuromi Serika",
+    "name_ja": "黒見セリカ",
+    "full_name_kr": "쿠로미 세리카 (아이돌)",
+    "full_name_en": "Kuromi Serika (Idol)",
+    "full_name_ja": "黒見セリカ（アイドル）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 귀여운 아이돌 무대 의상을 입은 세리카.",
+    "description_en": "Serika in idol stage costume during Serenade Promenade.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のセリカ。",
+    "search_tags": {
+      "kr": [
+        "쿠로미 세리카 (아이돌)",
+        "아이돌 세리카",
+        "세리카"
+      ],
+      "en": [
+        "serika_idol"
+      ],
+      "ja": [
+        "アイドルセリカ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
+    "id": null,
     "name_kr": "쿠치나시 유메",
     "name_en": "Kuchinashi Yume",
     "name_ja": "クチナシ・ユメ",
@@ -860,6 +1030,109 @@
     "personal_name_kr": "유메",
     "family_name_kr": "쿠치나시",
     "canonical_name_kr": "쿠치나시 유메"
+  },
+  {
+    "id": null,
+    "family_name_kr": "타카나시",
+    "personal_name_kr": "호시노",
+    "canonical_name_kr": "타카나시 호시노",
+    "name_kr": "타카나시 호시노",
+    "name_en": "Takanashi Hoshino",
+    "name_ja": "小鳥遊ホシノ",
+    "full_name_kr": "타카나시 호시노 (1학년)",
+    "full_name_en": "Takanashi Hoshino (1st Year)",
+    "full_name_ja": "小鳥遊ホシノ（1年生）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "아비도스 학생회",
+    "club_en": "Abydos Student Council",
+    "club_ja": "アビドス生徒会",
+    "seasonal": "1학년",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "유메 선배와 함께 아비도스를 지키던 과거 단발머리 1학년 시절의 호시노. 호전적이고 패기 넘치던 시기.",
+    "description_en": "Hoshino during her first year at Abydos appearing in Main Story Vol.1 Chapter 3.",
+    "description_ja": "対策委員会編3章に登場したアビドス1年生時代の制服ホシノ。",
+    "search_tags": {
+      "kr": [
+        "타카나시 호시노 (1학년)",
+        "1학년 호시노",
+        "1시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino_1st_year"
+      ],
+      "ja": [
+        "1年生ホシノ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_hoshino_1st_year.jpg",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/비공식/rank00/fanart_hoshino_1st_year.jpg"
+      }
+    ],
+    "image_count": 1
+  },
+  {
+    "id": null,
+    "family_name_kr": "타카나시",
+    "personal_name_kr": "호시노",
+    "canonical_name_kr": "타카나시 호시노",
+    "name_kr": "타카나시 호시노",
+    "name_en": "Takanashi Hoshino",
+    "name_ja": "小鳥遊ホシノ",
+    "full_name_kr": "타카나시 호시노 (2학년)",
+    "full_name_en": "Takanashi Hoshino (2nd Year)",
+    "full_name_ja": "小鳥遊ホシノ（2年生）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "아비도스 학생회",
+    "club_en": "Abydos Student Council",
+    "club_ja": "アビドス生徒会",
+    "seasonal": "2학년",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "유메 선배의 실종/사망 이후 홀로 남아 방황하며 차갑고 고독하게 학교를 지키던 2학년 시절의 호시노.",
+    "description_en": "Hoshino during her 2nd year with short hair, before Yume passed away.",
+    "description_ja": "クチナシ・ユメが生きていた頃の好戦的だったショートヘアの2年生ホシノ。",
+    "search_tags": {
+      "kr": [
+        "타카나시 호시노 (2학년)",
+        "2학년 호시노",
+        "2시노",
+        "단발 호시노",
+        "과거 호시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino_2nd_year",
+        "short_hair_hoshino",
+        "past_hoshino"
+      ],
+      "ja": [
+        "2年生ホシノ",
+        "ショートホシノ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_hoshino_2nd_year.jpg",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/2학년/비공식/rank00/fanart_hoshino_2nd_year.jpg"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": 10005,
@@ -1077,6 +1350,120 @@
     "personal_name_kr": "호시노",
     "family_name_kr": "타카나시",
     "canonical_name_kr": "타카나시 호시노"
+  },
+  {
+    "id": null,
+    "family_name_kr": "타카나시",
+    "personal_name_kr": "호시노",
+    "canonical_name_kr": "타카나시 호시노",
+    "name_kr": "타카나시 호시노",
+    "name_en": "Takanashi Hoshino",
+    "name_ja": "小鳥遊ホシノ",
+    "full_name_kr": "타카나시 호시노 (체육복)",
+    "full_name_en": "Takanashi Hoshino (Track)",
+    "full_name_ja": "小鳥遊ホシノ（体操服）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "황륜대제 및 아비도스 체육 활동 시 착용하는 져지/반바지 체육복 복장의 호시노.",
+    "description_en": "Hoshino in Abydos track uniform / gym uniform for Kivotos Halo Festival.",
+    "description_ja": "黄輪大祭など運動会で着用するアビドス体操服姿のホシノ。",
+    "search_tags": {
+      "kr": [
+        "타카나시 호시노 (체육복)",
+        "체육복 호시노",
+        "학교 체육복 호시노",
+        "체시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino_gym",
+        "hoshino_track"
+      ],
+      "ja": [
+        "体操服ホシノ",
+        "ジャージホシノ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_hoshino_gym.jpg",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/체육복/비공식/rank00/fanart_hoshino_gym.jpg"
+      },
+      {
+        "category": "비공식/rank01",
+        "filename": "fanart_hoshino_gym_02.jpg",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/체육복/비공식/rank01/fanart_hoshino_gym_02.jpg"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "family_name_kr": "타카나시",
+    "personal_name_kr": "호시노",
+    "canonical_name_kr": "타카나시 호시노",
+    "name_kr": "타카나시 호시노",
+    "name_en": "Takanashi Hoshino",
+    "name_ja": "小鳥遊ホシノ",
+    "full_name_kr": "타카나시 호시노 (학교 수영복)",
+    "full_name_en": "Takanashi Hoshino (School Swimsuit)",
+    "full_name_ja": "小鳥遊ホシノ（スクール水着）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "아비도스 학생회",
+    "club_en": "Abydos Student Council",
+    "club_ja": "アビドス生徒会",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "미들",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "아비도스 명찰과 호루라기가 달린 남색 학교 지정 수영복을 착용한 호시노(학수노).",
+    "description_en": "Hoshino wearing Abydos official school swimsuit appearing in Vol.1 Chapter 3.",
+    "description_ja": "メインストーリー対策委員会編3章に登場したアビドス指定スクール水着姿のホシノ。",
+    "search_tags": {
+      "kr": [
+        "타카나시 호시노 (학교 수영복)",
+        "학교 수영복 호시노",
+        "스쿠미즈 호시노",
+        "학수구 호시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino_school_swimsuit",
+        "sukumizu_hoshino"
+      ],
+      "ja": [
+        "スク水ホシノ",
+        "アビドス水着ホシノ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_hoshino_school_swimsuit.jpg",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/학교 수영복/비공식/rank00/fanart_hoshino_school_swimsuit.jpg"
+      },
+      {
+        "category": "비공식/rank01",
+        "filename": "fanart_hoshino_school_swimsuit_02.jpg",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/학교 수영복/비공식/rank01/fanart_hoshino_school_swimsuit_02.jpg"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 20016,
@@ -5660,6 +6047,48 @@
     "canonical_name_kr": "시라이시 우타하"
   },
   {
+    "canonical_name_kr": "시라이시 우타하",
+    "personal_name_kr": "우타하",
+    "family_name_kr": "시라이시",
+    "name_en": "Shiraishi Utaha",
+    "name_ja": "白石ウタハ",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "엔지니어부",
+    "club_en": "Engineer Department",
+    "club_ja": "エンジニア部",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 아이돌 무대 의상을 입은 엔지니어부 부장 우타하.",
+    "description_en": "Utaha in idol costume during Serenade Promenade event.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のウタハ。",
+    "search_tags": {
+      "kr": [
+        "시라이시 우타하 (아이돌)",
+        "아이돌 우타하",
+        "우타하"
+      ],
+      "en": [
+        "utaha_idol"
+      ],
+      "ja": [
+        "アイドルウタハ"
+      ]
+    },
+    "id": null,
+    "name_kr": "시라이시 우타하",
+    "full_name_kr": "시라이시 우타하 (아이돌)",
+    "full_name_en": "Shiraishi Utaha (아이돌)",
+    "full_name_ja": "白石ウタハ（아이돌）",
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 10051,
     "name_kr": "시라이시 우타하",
     "name_en": "Utaha",
@@ -5723,6 +6152,49 @@
     "personal_name_kr": "우타하",
     "family_name_kr": "시라이시",
     "canonical_name_kr": "시라이시 우타하"
+  },
+  {
+    "id": null,
+    "family_name_kr": "아스마",
+    "personal_name_kr": "토키",
+    "canonical_name_kr": "아스마 토키",
+    "name_kr": "아스마 토키",
+    "name_en": "Asuma Toki",
+    "name_ja": "飛鳥馬トキ",
+    "full_name_kr": "아스마 토키 (교복)",
+    "full_name_en": "Asuma Toki (School Uniform)",
+    "full_name_ja": "飛鳥馬トキ（制服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "C&C",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "C&C",
+    "seasonal": "교복",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "밀레니엄 이벤트 《Code: BOX》에 등장한 정식 밀레니엄 교복을 착용한 토키(교토키).",
+    "description_en": "Toki wearing Millennium official school uniform appearing in Code: BOX event.",
+    "description_ja": "ミレニアムイベント『Code: BOX』に登場した制服姿のトキ。",
+    "search_tags": {
+      "kr": [
+        "아스마 토키 (교복)",
+        "교복 토키",
+        "교토키",
+        "토키"
+      ],
+      "en": [
+        "toki_school_uniform"
+      ],
+      "ja": [
+        "制服トキ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 10062,
@@ -6093,6 +6565,48 @@
     "canonical_name_kr": "오마가리 하레"
   },
   {
+    "id": null,
+    "family_name_kr": "오마가리",
+    "personal_name_kr": "하레",
+    "canonical_name_kr": "오마가리 하레",
+    "name_kr": "오마가리 하레",
+    "name_en": "Omagari Hare",
+    "name_ja": "小鈎ハレ",
+    "full_name_kr": "오마가리 하레 (파자마)",
+    "full_name_en": "Omagari Hare (Pajamas)",
+    "full_name_ja": "小鈎ハレ（パジャマ）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "베리타스",
+    "club_en": "Veritas",
+    "club_ja": "ヴェリタス",
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "《비밀의 미드나잇 파티》 이벤트에 등장한 파자마 차림의 오마가리 하레.",
+    "description_en": "Hare in pajamas during Veritas Midnight Party.",
+    "description_ja": "パジャマ姿のハレ。",
+    "search_tags": {
+      "kr": [
+        "오마가리 하레 (파자마)",
+        "파자마 하레",
+        "하레"
+      ],
+      "en": [
+        "hare_pajamas"
+      ],
+      "ja": [
+        "パジャマハレ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 26001,
     "name_kr": "오토세 코타마",
     "name_en": "Kotama",
@@ -6218,6 +6732,48 @@
     "personal_name_kr": "코타마",
     "family_name_kr": "오토세",
     "canonical_name_kr": "오토세 코타마"
+  },
+  {
+    "id": null,
+    "family_name_kr": "오토세",
+    "personal_name_kr": "코타마",
+    "canonical_name_kr": "오토세 코타마",
+    "name_kr": "오토세 코타마",
+    "name_en": "Otose Kotama",
+    "name_ja": "音瀬コタマ",
+    "full_name_kr": "오토세 코타마 (파자마)",
+    "full_name_en": "Otose Kotama (Pajamas)",
+    "full_name_ja": "音瀬コタマ（パジャマ）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "베리타스",
+    "club_en": "Veritas",
+    "club_ja": "ヴェリタス",
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "《비밀의 미드나잇 파티》 이벤트에 등장한 파자마 차림의 오토세 코타마.",
+    "description_en": "Kotama in pajamas during Veritas Midnight Party.",
+    "description_ja": "パジャマ姿のコタマ。",
+    "search_tags": {
+      "kr": [
+        "오토세 코타마 (파자마)",
+        "파자마 코타마",
+        "코타마"
+      ],
+      "en": [
+        "kotama_pajamas"
+      ],
+      "ja": [
+        "パジャマコタマ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 10012,
@@ -6725,6 +7281,49 @@
     "canonical_name_kr": "츠카츠키 리오"
   },
   {
+    "id": null,
+    "family_name_kr": "츠카츠키",
+    "personal_name_kr": "리오",
+    "canonical_name_kr": "츠카츠키 리오",
+    "name_kr": "츠카츠키 리오",
+    "name_en": "Tsukatsuki Rio",
+    "name_ja": "調月リオ",
+    "full_name_kr": "츠카츠키 리오 (방한복)",
+    "full_name_en": "Tsukatsuki Rio (Winter Coat)",
+    "full_name_ja": "調月リオ（防寒服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "세미나",
+    "club_en": "Seminar",
+    "club_ja": "セミナー",
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "데카그라마톤 편 2장 Part 2에 등장한 따뜻한 방한 코트를 입은 세미나 전 회장 리오.",
+    "description_en": "Rio in winter coat appearing in Decagrammaton Chapter 2 Part 2.",
+    "description_ja": "デカグラマトン編2章Part2に登場した防寒服姿の元セミナー会長リオ。",
+    "search_tags": {
+      "kr": [
+        "츠카츠키 리오 (방한복)",
+        "방한복 리오",
+        "코트 리오",
+        "리오"
+      ],
+      "en": [
+        "rio_winter_coat"
+      ],
+      "ja": [
+        "防寒リオ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 20013,
     "name_kr": "카가미 치히로",
     "name_en": "Chihiro",
@@ -6840,6 +7439,48 @@
     "personal_name_kr": "치히로",
     "family_name_kr": "카가미",
     "canonical_name_kr": "카가미 치히로"
+  },
+  {
+    "id": null,
+    "family_name_kr": "카가미",
+    "personal_name_kr": "치히로",
+    "canonical_name_kr": "카가미 치히로",
+    "name_kr": "카가미 치히로",
+    "name_en": "Kagami Chihiro",
+    "name_ja": "各務チヒロ",
+    "full_name_kr": "카가미 치히로 (파자마)",
+    "full_name_en": "Kagami Chihiro (Pajamas)",
+    "full_name_ja": "各務チヒロ（パジャマ）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "베리타스",
+    "club_en": "Veritas",
+    "club_ja": "ヴェリタス",
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "중갑",
+    "armor_type": "중장갑",
+    "description_kr": "《비밀의 미드나잇 파티》 이벤트에 등장한 파자마 차림의 베리타스 부장 카가미 치히로.",
+    "description_en": "Chihiro in comfy pajamas during Veritas Midnight Party.",
+    "description_ja": "パジャマ姿のチヒロ。",
+    "search_tags": {
+      "kr": [
+        "카가미 치히로 (파자마)",
+        "파자마 치히로",
+        "치히로"
+      ],
+      "en": [
+        "chihiro_pajamas"
+      ],
+      "ja": [
+        "パジャマチヒロ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 20001,
@@ -7031,6 +7672,48 @@
     "canonical_name_kr": "코누리 마키"
   },
   {
+    "id": null,
+    "family_name_kr": "코누리",
+    "personal_name_kr": "마키",
+    "canonical_name_kr": "코누리 마키",
+    "name_kr": "코누리 마키",
+    "name_en": "Konuri Maki",
+    "name_ja": "小塗マキ",
+    "full_name_kr": "코누리 마키 (파자마)",
+    "full_name_en": "Konuri Maki (Pajamas)",
+    "full_name_ja": "小塗マキ（パジャマ）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "베리타스",
+    "club_en": "Veritas",
+    "club_ja": "ヴェリタス",
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "《비밀의 미드나잇 파티》 이벤트에 등장한 파자마 차림의 코누리 마키.",
+    "description_en": "Maki in pajamas during Veritas Midnight Party.",
+    "description_ja": "パジャマ姿のマキ。",
+    "search_tags": {
+      "kr": [
+        "코누리 마키 (파자마)",
+        "파자마 마키",
+        "마키"
+      ],
+      "en": [
+        "maki_pajamas"
+      ],
+      "ja": [
+        "パジャママキ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 10063,
     "name_kr": "쿠로사키 코유키",
     "name_en": "Koyuki",
@@ -7146,6 +7829,48 @@
     "personal_name_kr": "코유키",
     "family_name_kr": "쿠로사키",
     "canonical_name_kr": "쿠로사키 코유키"
+  },
+  {
+    "id": null,
+    "family_name_kr": "쿠로사키",
+    "personal_name_kr": "코유키",
+    "canonical_name_kr": "쿠로사키 코유키",
+    "name_kr": "쿠로사키 코유키",
+    "name_en": "Kurosaki Koyuki",
+    "name_ja": "黒崎コユキ",
+    "full_name_kr": "쿠로사키 코유키 (파자마)",
+    "full_name_en": "Kurosaki Koyuki (Pajamas)",
+    "full_name_ja": "黒崎コユキ（パジャマ）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "세미나",
+    "club_en": "Seminar",
+    "club_ja": "セミナー",
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "《비밀의 미드나잇 파티》 복각에 맞춰 공개된 장난기 가득한 파자마 차림의 코유키.",
+    "description_en": "Koyuki wearing cute playful pajamas.",
+    "description_ja": "パジャマ姿のコユキ。",
+    "search_tags": {
+      "kr": [
+        "쿠로사키 코유키 (파자마)",
+        "파자마 코유키",
+        "코유키"
+      ],
+      "en": [
+        "koyuki_pajamas"
+      ],
+      "ja": [
+        "パジャマコユキ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 10015,
@@ -8010,6 +8735,50 @@
     "canonical_name_kr": "나카마사 이치카"
   },
   {
+    "canonical_name_kr": "나카마사 이치카",
+    "personal_name_kr": "이치카",
+    "family_name_kr": "나카마사",
+    "name_en": "Nakamasa Ichika",
+    "name_ja": "仲正イチカ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Realization Committee",
+    "club_ja": "正義実現委員会",
+    "seasonal": "연극",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "진동",
+    "armor_type": "중장갑",
+    "description_kr": "《Serenade Promenade》 트리니티 문화제 연극 무대에서 늠름한 왕자님 분장을 한 이치카.",
+    "description_en": "Ichika dressed as a handsome prince for the Trinity festival play.",
+    "description_ja": "トリニティ学園祭の演劇で王子様衣装を着たイチカ。",
+    "search_tags": {
+      "kr": [
+        "나카마사 이치카 (연극)",
+        "왕자 이치카",
+        "연극 이치카",
+        "이치카"
+      ],
+      "en": [
+        "ichika_prince",
+        "ichika_play"
+      ],
+      "ja": [
+        "王子様イチカ"
+      ]
+    },
+    "id": null,
+    "name_kr": "나카마사 이치카",
+    "full_name_kr": "나카마사 이치카 (연극)",
+    "full_name_en": "Nakamasa Ichika (연극)",
+    "full_name_ja": "仲正イチカ（연극）",
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 16003,
     "name_kr": "모리즈키 스즈미",
     "name_en": "Suzumi",
@@ -8132,6 +8901,218 @@
     "personal_name_kr": "미카",
     "family_name_kr": "미소노",
     "canonical_name_kr": "미소노 미카"
+  },
+  {
+    "id": null,
+    "family_name_kr": "미소노",
+    "personal_name_kr": "미카",
+    "canonical_name_kr": "미소노 미카",
+    "name_kr": "미소노 미카",
+    "name_en": "Misono Mika",
+    "name_ja": "聖園ミカ",
+    "full_name_kr": "미소노 미카 (드레스)",
+    "full_name_en": "Misono Mika (Dress)",
+    "full_name_ja": "聖園ミカ（ドレス）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": "ティーパーティー",
+    "seasonal": "드레스",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "트리니티 다과회 및 공식 연회에 어울리는 우아한 화이트 드레스와 양산을 든 미카(드미카).",
+    "description_en": "Mika in elegant white Trinity dress with a parasol.",
+    "description_ja": "トリニティのお茶会や公式パーティーに相応しいエレガントなドレス姿のミカ。",
+    "search_tags": {
+      "kr": [
+        "미소노 미카 (드레스)",
+        "드레스 미카",
+        "드미카",
+        "미카 드레스",
+        "미카"
+      ],
+      "en": [
+        "mika_dress",
+        "dress_mika"
+      ],
+      "ja": [
+        "ドレスミカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_mika_dress.png",
+        "path": "트리니티 종합학원/티파티/미소노 미카/드레스/비공식/rank00/fanart_mika_dress.png"
+      }
+    ],
+    "image_count": 1
+  },
+  {
+    "id": null,
+    "family_name_kr": "미소노",
+    "personal_name_kr": "미카",
+    "canonical_name_kr": "미소노 미카",
+    "name_kr": "미소노 미카",
+    "name_en": "Misono Mika",
+    "name_ja": "聖園ミカ",
+    "full_name_kr": "미소노 미카 (수영복)",
+    "full_name_en": "Misono Mika (Swimsuit)",
+    "full_name_ja": "聖園ミカ（水着）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": "ティーパーティー",
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "에덴조약 및 공식 여름 이벤트에 등장하는 화이트 비키니 수영복 복장의 미카(수미카).",
+    "description_en": "4.5th Anniversary Limited Fest Character Swimsuit Mika from Trinity Tea Party.",
+    "description_ja": "ブルーアーカイブ4.5周年記念フェス限定キャラとして登場した水着姿のミカ。",
+    "search_tags": {
+      "kr": [
+        "미소노 미카 (수영복)",
+        "수영복 미카",
+        "수미카",
+        "미카"
+      ],
+      "en": [
+        "mika_swimsuit",
+        "swimsuit_mika"
+      ],
+      "ja": [
+        "水着ミカ",
+        "ミカ（水着）"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_mika_swimsuit.png",
+        "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank00/fanart_mika_swimsuit.png"
+      },
+      {
+        "category": "비공식/rank01",
+        "filename": "fanart_mika_swimsuit_02.png",
+        "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank01/fanart_mika_swimsuit_02.png"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "family_name_kr": "미소노",
+    "personal_name_kr": "미카",
+    "canonical_name_kr": "미소노 미카",
+    "name_kr": "미소노 미카",
+    "name_en": "Misono Mika",
+    "name_ja": "聖園ミカ",
+    "full_name_kr": "미소노 미카 (체육복)",
+    "full_name_en": "Misono Mika (Track)",
+    "full_name_ja": "聖園ミカ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": "ティーパーティー",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "황륜대제 트리니티 전용 트랙수트 체육복과 스포티한 똥머리 헤어스타일의 미카(체미카).",
+    "description_en": "Mika wearing Trinity track uniform / gym jacket during Kivotos Halo Festival.",
+    "description_ja": "キヴォトス大運動会・黄輪大祭で着用したトリニティ体操服姿のミカ。",
+    "search_tags": {
+      "kr": [
+        "미소노 미카 (체육복)",
+        "체육복 미카",
+        "체미카",
+        "미카"
+      ],
+      "en": [
+        "mika_track",
+        "mika_gym"
+      ],
+      "ja": [
+        "体操服ミカ",
+        "ジャージミカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_mika_gym.jpg",
+        "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank00/fanart_mika_gym.jpg"
+      },
+      {
+        "category": "비공식/rank01",
+        "filename": "fanart_mika_gym_02.png",
+        "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank01/fanart_mika_gym_02.png"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "family_name_kr": "미소노",
+    "personal_name_kr": "미카",
+    "canonical_name_kr": "미소노 미카",
+    "name_kr": "미소노 미카",
+    "name_en": "Misono Mika",
+    "name_ja": "聖園ミカ",
+    "full_name_kr": "미소노 미카 (파자마)",
+    "full_name_en": "Misono Mika (Pajamas)",
+    "full_name_ja": "聖園ミカ（パジャマ）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": "ティーパーティー",
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "트리니티 기숙사 취침 및 합숙 시 착용하는 토끼귀 후드 분홍 파자마 복장의 미카.",
+    "description_en": "Mika in cute relaxing pajamas at the Trinity dorm.",
+    "description_ja": "トリニティ寮で着用する可愛らしいパジャマ姿のミカ。",
+    "search_tags": {
+      "kr": [
+        "미소노 미카 (파자마)",
+        "파자마 미카",
+        "잠옷 미카",
+        "미카"
+      ],
+      "en": [
+        "mika_pajamas"
+      ],
+      "ja": [
+        "パジャマミカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "비공식/rank00",
+        "filename": "fanart_mika_pajamas.jpg",
+        "path": "트리니티 종합학원/티파티/미소노 미카/파자마/비공식/rank00/fanart_mika_pajamas.jpg"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": 26003,
@@ -9802,6 +10783,49 @@
     "canonical_name_kr": "유토리 나츠"
   },
   {
+    "canonical_name_kr": "유토리 나츠",
+    "personal_name_kr": "나츠",
+    "family_name_kr": "유토리",
+    "name_en": "Yutori Natsu",
+    "name_ja": "柚鳥ナツ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "방과후 디저트부",
+    "club_en": "After-School Sweets Club",
+    "club_ja": "放課後スイーツ部",
+    "seasonal": "유령의 집",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "프론트",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "《Serenade Promenade》 트리니티 문화제 유령의 집 프랑켄슈타인 분장을 한 나츠.",
+    "description_en": "Natsu in Frankenstein haunted house costume during Trinity festival.",
+    "description_ja": "トリニティ学園祭のお化け屋敷フランケンシュタイン衣装を着たナツ。",
+    "search_tags": {
+      "kr": [
+        "유토리 나츠 (유령의 집)",
+        "유령의 집 나츠",
+        "프랑켄 나츠",
+        "나츠"
+      ],
+      "en": [
+        "natsu_franken"
+      ],
+      "ja": [
+        "フランケンナツ"
+      ]
+    },
+    "id": null,
+    "name_kr": "유토리 나츠",
+    "full_name_kr": "유토리 나츠 (유령의 집)",
+    "full_name_en": "Yutori Natsu (유령의 집)",
+    "full_name_ja": "柚鳥ナツ（유령의 집）",
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 26005,
     "name_kr": "이바라기 요시미",
     "name_en": "Yoshimi",
@@ -9927,6 +10951,49 @@
     "personal_name_kr": "요시미",
     "family_name_kr": "이바라기",
     "canonical_name_kr": "이바라기 요시미"
+  },
+  {
+    "canonical_name_kr": "이바라기 요시미",
+    "personal_name_kr": "요시미",
+    "family_name_kr": "이바라기",
+    "name_en": "Ibaragi Yoshimi",
+    "name_ja": "伊原木ヨシミ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "방과후 디저트부",
+    "club_en": "After-School Sweets Club",
+    "club_ja": "放課後スイーツ部",
+    "seasonal": "유령의 집",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "《Serenade Promenade》 트리니티 문화제 유령의 집 미라 분장을 한 요시미.",
+    "description_en": "Yoshimi in mummy haunted house costume during Trinity festival.",
+    "description_ja": "トリニティ学園祭のお化け屋敷ミイラ衣装を着たヨシミ。",
+    "search_tags": {
+      "kr": [
+        "이바라기 요시미 (유령의 집)",
+        "유령의 집 요시미",
+        "미라 요시미",
+        "요시미"
+      ],
+      "en": [
+        "yoshimi_mummy"
+      ],
+      "ja": [
+        "ミイラヨシミ"
+      ]
+    },
+    "id": null,
+    "name_kr": "이바라기 요시미",
+    "full_name_kr": "이바라기 요시미 (유령의 집)",
+    "full_name_en": "Ibaragi Yoshimi (유령의 집)",
+    "full_name_ja": "伊原木ヨシミ（유령의 집）",
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 23008,
@@ -10224,6 +11291,50 @@
     "canonical_name_kr": "켄자키 츠루기"
   },
   {
+    "canonical_name_kr": "켄자키 츠루기",
+    "personal_name_kr": "츠루기",
+    "family_name_kr": "켄자키",
+    "name_en": "Kenzaki Tsurugi",
+    "name_ja": "剣先ツルギ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Realization Committee",
+    "club_ja": "正義実現委員会",
+    "seasonal": "연극",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "《Serenade Promenade》 트리니티 문화제 연극 무대에서 우아한 드레스 공주님 분장을 한 츠루기.",
+    "description_en": "Tsurugi dressed as a delicate princess for the Trinity festival play.",
+    "description_ja": "トリニティ学園祭の演劇でお姫様衣装を着たツルギ。",
+    "search_tags": {
+      "kr": [
+        "켄자키 츠루기 (연극)",
+        "공주 츠루기",
+        "연극 츠루기",
+        "츠루기"
+      ],
+      "en": [
+        "tsurugi_princess",
+        "tsurugi_play"
+      ],
+      "ja": [
+        "お姫様ツルギ"
+      ]
+    },
+    "id": null,
+    "name_kr": "켄자키 츠루기",
+    "full_name_kr": "켄자키 츠루기 (연극)",
+    "full_name_en": "Kenzaki Tsurugi (연극)",
+    "full_name_ja": "剣先ツルギ（연극）",
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": null,
     "name_kr": "코마카제 라브",
     "name_en": "Komakaze Rabu",
@@ -10274,6 +11385,49 @@
     "personal_name_kr": "라브",
     "family_name_kr": "코마카제",
     "canonical_name_kr": "코마카제 라브"
+  },
+  {
+    "canonical_name_kr": "코마카제 라브",
+    "personal_name_kr": "라브",
+    "family_name_kr": "코마카제",
+    "name_en": "Komakaze Rabukaze",
+    "name_ja": "駒風ラブ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "헬멧단",
+    "club_en": "Helmet Gang",
+    "club_ja": "ヘルメット団",
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "《Say-Bing!》 여름 이벤트에 등장한 시원한 수영복을 입은 헬멧단 두목 라브(수라브).",
+    "description_en": "Rabukaze in swimsuit appearing in Say-Bing! summer event.",
+    "description_ja": "Say-Bing!イベントに登場した水着姿のラブ。",
+    "search_tags": {
+      "kr": [
+        "코마카제 라브 (수영복)",
+        "수영복 라브",
+        "수라브",
+        "라브"
+      ],
+      "en": [
+        "rabukaze_swimsuit"
+      ],
+      "ja": [
+        "水着ラブ"
+      ]
+    },
+    "id": null,
+    "name_kr": "코마카제 라브",
+    "full_name_kr": "코마카제 라브 (수영복)",
+    "full_name_en": "Komakaze Rabukaze (수영복)",
+    "full_name_ja": "駒風ラブ（수영복）",
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 10035,
@@ -10530,6 +11684,49 @@
     "canonical_name_kr": "쿄야마 카즈사"
   },
   {
+    "canonical_name_kr": "쿄야마 카즈사",
+    "personal_name_kr": "카즈사",
+    "family_name_kr": "쿄야마",
+    "name_en": "Kyoyama Kazusa",
+    "name_ja": "杏山カズサ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "방과후 디저트부",
+    "club_en": "After-School Sweets Club",
+    "club_ja": "放課後スイーツ部",
+    "seasonal": "유령의 집",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "《Serenade Promenade》 트리니티 문화제 유령의 집 분장을 한 카즈사.",
+    "description_en": "Kazusa in haunted house costume during Trinity school festival.",
+    "description_ja": "トリニティ学園祭のお化け屋敷衣装を着たカズサ。",
+    "search_tags": {
+      "kr": [
+        "쿄야마 카즈사 (유령의 집)",
+        "유령의 집 카즈사",
+        "할로윈 카즈사",
+        "카즈사"
+      ],
+      "en": [
+        "kazusa_haunted_house"
+      ],
+      "ja": [
+        "お化け屋敷カズサ"
+      ]
+    },
+    "id": null,
+    "name_kr": "쿄야마 카즈사",
+    "full_name_kr": "쿄야마 카즈사 (유령의 집)",
+    "full_name_en": "Kyoyama Kazusa (유령의 집)",
+    "full_name_ja": "杏山カズサ（유령의 집）",
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 23000,
     "name_kr": "쿠리무라 아이리",
     "name_en": "Airi",
@@ -10655,6 +11852,48 @@
     "personal_name_kr": "아이리",
     "family_name_kr": "쿠리무라",
     "canonical_name_kr": "쿠리무라 아이리"
+  },
+  {
+    "canonical_name_kr": "쿠리무라 아이리",
+    "personal_name_kr": "아이리",
+    "family_name_kr": "쿠리무라",
+    "name_en": "Kurimura Airi",
+    "name_ja": "栗村アイ리",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "방과후 디저트부",
+    "club_en": "After-School Sweets Club",
+    "club_ja": "放課後スイーツ部",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 귀여운 아이돌 무대 의상을 입은 아이리.",
+    "description_en": "Airi in idol stage costume during Serenade Promenade event.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のアイリ。",
+    "search_tags": {
+      "kr": [
+        "쿠리무라 아이리 (아이돌)",
+        "아이돌 아이리",
+        "아이리"
+      ],
+      "en": [
+        "airi_idol"
+      ],
+      "ja": [
+        "アイドルアイリ"
+      ]
+    },
+    "id": null,
+    "name_kr": "쿠리무라 아이리",
+    "full_name_kr": "쿠리무라 아이리 (아이돌)",
+    "full_name_en": "Kurimura Airi (아이돌)",
+    "full_name_ja": "栗村アイ리（아이돌）",
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 20024,
@@ -11938,6 +13177,49 @@
     "personal_name_kr": "유카리",
     "family_name_kr": "카데노코지",
     "canonical_name_kr": "카데노코지 유카리"
+  },
+  {
+    "canonical_name_kr": "카데노코지 유카리",
+    "personal_name_kr": "유카리",
+    "family_name_kr": "카데노코지",
+    "name_en": "Kadenokoji Yukari",
+    "name_ja": "勘解由小路ユカリ",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란",
+    "club_en": "Hyakkaryoran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "중학생",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "백화요란 편 1장에 등장한 과거 중학생 시절의 어린 카데노코지 유카리(응애유카리).",
+    "description_en": "Middle school younger version of Yukari appearing in Hyakkaryoran Chapter 1.",
+    "description_ja": "百花繚乱編1章に登場した中学生時代のユカリ。",
+    "search_tags": {
+      "kr": [
+        "카데노코지 유카리 (중학생)",
+        "중학생 유카리",
+        "응애유카리",
+        "유카리"
+      ],
+      "en": [
+        "yukari_middle_school"
+      ],
+      "ja": [
+        "中学生ユカリ"
+      ]
+    },
+    "id": null,
+    "name_kr": "카데노코지 유카리",
+    "full_name_kr": "카데노코지 유카리 (중학생)",
+    "full_name_en": "Kadenokoji Yukari (중학생)",
+    "full_name_ja": "勘解由小路ユカリ（중학생）",
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -13556,6 +14838,50 @@
     "canonical_name_kr": "아케시로 루미"
   },
   {
+    "id": null,
+    "family_name_kr": "아케시로",
+    "personal_name_kr": "루미",
+    "canonical_name_kr": "아케시로 루미",
+    "name_kr": "아케시로 루미",
+    "name_en": "Akeshiro Rumi",
+    "name_ja": "朱城ルミ",
+    "full_name_kr": "아케시로 루미 (어린이)",
+    "full_name_en": "Akeshiro Rumi (Kid)",
+    "full_name_ja": "朱城ルミ（子供）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현무상회",
+    "club_en": "Black Tortoise Promenade",
+    "club_ja": "玄武商会",
+    "seasonal": "어린이",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "《오욕내강》 이벤트에 등장한 회춘약을 마시고 어린아이가 된 현무상회 회장 루미(응애루미).",
+    "description_en": "Young child version of Rumi appearing in Oyokunaiko event.",
+    "description_ja": "五欲内剛イベントに登場した幼女化ルミ。",
+    "search_tags": {
+      "kr": [
+        "아케시로 루미 (어린이)",
+        "어린이 루미",
+        "응애루미",
+        "루미"
+      ],
+      "en": [
+        "rumi_kid",
+        "child_rumi"
+      ],
+      "ja": [
+        "幼女ルミ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 20002,
     "name_kr": "야쿠시 사야",
     "name_en": "Saya",
@@ -14190,6 +15516,49 @@
     "personal_name_kr": "체리노",
     "family_name_kr": "렌카와",
     "canonical_name_kr": "렌카와 체리노"
+  },
+  {
+    "id": null,
+    "family_name_kr": "렌카와",
+    "personal_name_kr": "체리노",
+    "canonical_name_kr": "렌카와 체리노",
+    "name_kr": "렌카와 체리노",
+    "name_en": "Renkawa Cherino",
+    "name_ja": "連河チェリノ",
+    "full_name_kr": "렌카와 체리노 (치파오)",
+    "full_name_en": "Renkawa Cherino (Qipao)",
+    "full_name_ja": "連河チェリノ（チャイナ服）",
+    "school_kr": "붉은겨울 연방학원",
+    "school_en": "Red Winter Federal Academy",
+    "school_ja": "レッドウィンター連邦学園",
+    "club_kr": "붉은겨울 사무국",
+    "club_en": "Red Winter Secretariat",
+    "club_ja": "レッドウィンター事務局",
+    "seasonal": "치파오",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "《월화몽소》 이벤트에 등장한 산해경풍 붉은 치파오를 입은 붉은겨울의 서기장 체리노(치리노).",
+    "description_en": "Cherino in Shanhaijing-style Qipao appearing in Tsukihana Moso event.",
+    "description_ja": "月華夢想イベントに登場したチャイナ服姿のチェリノ。",
+    "search_tags": {
+      "kr": [
+        "렌카와 체리노 (치파오)",
+        "치파오 체리노",
+        "치리노",
+        "체리노"
+      ],
+      "en": [
+        "cherino_qipao"
+      ],
+      "ja": [
+        "チャイナチェリノ"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": 10055,
@@ -15042,6 +16411,48 @@
     "canonical_name_kr": "나카츠카사 키리노"
   },
   {
+    "canonical_name_kr": "나카츠카사 키리노",
+    "personal_name_kr": "키리노",
+    "family_name_kr": "나카츠카사",
+    "name_en": "Nakatsukasa Kirino",
+    "name_ja": "中務キリノ",
+    "school_kr": "발키리 경찰학교",
+    "school_en": "Valkyrie Police Academy",
+    "school_ja": "ヴァルキューレ警察学校",
+    "club_kr": "공안국",
+    "club_en": "Public Security Bureau",
+    "club_ja": "公安局",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 발키리 경찰학교 홍보 아이돌 제복을 입은 키리노.",
+    "description_en": "Kirino in Valkyrie police idol PR costume during Serenade Promenade.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のキリノ。",
+    "search_tags": {
+      "kr": [
+        "나카츠카사 키리노 (아이돌)",
+        "아이돌 키리노",
+        "키리노"
+      ],
+      "en": [
+        "kirino_idol"
+      ],
+      "ja": [
+        "アイドルキリノ"
+      ]
+    },
+    "id": null,
+    "name_kr": "나카츠카사 키리노",
+    "full_name_kr": "나카츠카사 키리노 (아이돌)",
+    "full_name_en": "Nakatsukasa Kirino (아이돌)",
+    "full_name_ja": "中務キリノ（아이돌）",
+    "images": [],
+    "image_count": 0
+  },
+  {
     "id": 16008,
     "name_kr": "네무가키 후부키",
     "name_en": "Fubuki",
@@ -15167,6 +16578,48 @@
     "personal_name_kr": "후부키",
     "family_name_kr": "네무가키",
     "canonical_name_kr": "네무가키 후부키"
+  },
+  {
+    "canonical_name_kr": "네무가키 후부키",
+    "personal_name_kr": "후부키",
+    "family_name_kr": "네무가키",
+    "name_en": "Nemugaki Fubuki",
+    "name_ja": "眠柿フブキ",
+    "school_kr": "발키리 경찰학교",
+    "school_en": "Valkyrie Police Academy",
+    "school_ja": "ヴァルキューレ警察学校",
+    "club_kr": "생활안전국",
+    "club_en": "Public Safety Bureau",
+    "club_ja": "生活安全局",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 귀찮아하면서도 무대에 선 아이돌 복장의 후부키.",
+    "description_en": "Fubuki in idol PR costume during Serenade Promenade.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のフブキ。",
+    "search_tags": {
+      "kr": [
+        "네무가키 후부키 (아이돌)",
+        "아이돌 후부키",
+        "후부키"
+      ],
+      "en": [
+        "fubuki_idol"
+      ],
+      "ja": [
+        "アイドルフブキ"
+      ]
+    },
+    "id": null,
+    "name_kr": "네무가키 후부키",
+    "full_name_kr": "네무가키 후부키 (아이돌)",
+    "full_name_en": "Nemugaki Fubuki (아이돌)",
+    "full_name_ja": "眠柿フブキ（아이돌）",
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -18210,6 +19663,50 @@
     "personal_name_kr": "코토네",
     "family_name_kr": "후치가미",
     "canonical_name_kr": "후치가미 코토네"
+  },
+  {
+    "id": null,
+    "family_name_kr": "",
+    "personal_name_kr": "메리",
+    "canonical_name_kr": "메리",
+    "name_kr": "메리",
+    "name_en": "Mary",
+    "name_ja": "メアリー",
+    "full_name_kr": "메리",
+    "full_name_en": "Mary (Default)",
+    "full_name_ja": "メアリー（基本）",
+    "school_kr": "크로노스 스쿨",
+    "school_en": "Cronos School",
+    "school_ja": "クロノススクール",
+    "club_kr": "보도부",
+    "club_en": "Press Club",
+    "club_ja": "報道部",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "크로노스 스쿨 소속의 학생 기자이자 언론 담당 학생.",
+    "description_en": "Student journalist from Cronos School Press Club.",
+    "description_ja": "クロノススクール報道部所属の生徒記者。",
+    "search_tags": {
+      "kr": [
+        "메리",
+        "크로노스 메리",
+        "크로노스 스쿨"
+      ],
+      "en": [
+        "mary",
+        "cronos_mary"
+      ],
+      "ja": [
+        "メアリー",
+        "クロノスメアリー"
+      ]
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
