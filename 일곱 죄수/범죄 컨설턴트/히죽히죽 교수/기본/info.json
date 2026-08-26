@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "name_kr": "히죽히죽 교수",
+  "name_en": "Smiling Professor",
+  "name_ja": "ニヤニヤ教授",
+  "full_name_kr": "히죽히죽 교수 (기본)",
+  "full_name_en": "Smiling Professor (Professor Niyaniya)",
+  "full_name_ja": "ニヤニヤ教授（基本）",
+  "school_kr": "일곱 죄수",
+  "school_en": "Seven Prisoners",
+  "school_ja": "七囚人",
+  "club_kr": "범죄 컨설턴트",
+  "club_en": "Crime Consultant",
+  "club_ja": "犯罪コンサルタント",
+  "seasonal": "기본",
+  "status": "미출시 학생",
+  "role": "서포터",
+  "position": "스페셜",
+  "bullet_type": "신비",
+  "armor_type": "특수장갑",
+  "description_kr": "연방교정국에서 일곱 죄수를 탈옥시킨 주모자이자 범죄 컨설턴트. 별명은 '니야니야 교수'. 긴 금발에 여유로운 미소가 특징이다.",
+  "description_en": "The crime consultant responsible for releasing the Seven Prisoners from the Corrections Bureau, also known as Professor Niyaniya.",
+  "description_ja": "矯正局から七囚人を脱獄させた首謀者にして犯罪コンサルタント。通称「ニヤニヤ教授」。",
+  "search_tags": {
+    "kr": [
+      "히죽히죽 교수",
+      "니야니야 교수",
+      "니야니야",
+      "칠수인 교수",
+      "일곱 죄수"
+    ],
+    "en": [
+      "smiling professor",
+      "professor niyaniya",
+      "niyaniya",
+      "seven prisoners"
+    ],
+    "ja": [
+      "ニヤニヤ教授",
+      "七囚人"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "일곱 죄수/범죄 컨설턴트/히죽히죽 교수/기본/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_icon.png",
+      "path": "일곱 죄수/범죄 컨설턴트/히죽히죽 교수/기본/공식/official_icon.png"
+    }
+  ],
+  "image_count": 2
+}

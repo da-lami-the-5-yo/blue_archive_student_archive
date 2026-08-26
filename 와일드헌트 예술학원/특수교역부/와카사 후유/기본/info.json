@@ -1,0 +1,65 @@
+{
+  "id": null,
+  "name_kr": "와카사 후유",
+  "name_en": "Wakasa Fuyu",
+  "name_ja": "若狭フユ",
+  "full_name_kr": "와카사 후유 (기본)",
+  "full_name_en": "Wakasa Fuyu (Default)",
+  "full_name_ja": "若狭フユ（基本）",
+  "school_kr": "와일드헌트 예술학원",
+  "school_en": "Wild Hunt Academy of Arts",
+  "school_ja": "ワイルドハント芸術学院",
+  "club_kr": "특수교역부",
+  "club_en": "Free Trade Cartel",
+  "club_ja": "特殊交易部",
+  "seasonal": "기본",
+  "status": "출시",
+  "role": "딜러",
+  "position": "스트라이커",
+  "bullet_type": "진동",
+  "armor_type": "중장갑",
+  "description_kr": "와일드헌트 예술학원 특수교역부 영업실장.",
+  "description_en": "Sales director of the Free Trade Cartel at Wild Hunt Academy of Arts.",
+  "description_ja": "ワイルドハント芸術学院特殊交易部の営業室長。",
+  "search_tags": {
+    "kr": [
+      "와카사 후유",
+      "후유",
+      "특수교역부 후유"
+    ],
+    "en": [
+      "wakasa fuyu",
+      "fuyu",
+      "fuyu_(blue_archive)"
+    ],
+    "ja": [
+      "若狭フユ",
+      "フユ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_icon.png",
+      "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_icon.png"
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_7059801_rank01.jpg",
+      "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/비공식/rank01/fanart_7059801_rank01.jpg",
+      "similarity": 0.65
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_7022250_rank01.jpg",
+      "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/비공식/rank01/fanart_7022250_rank01.jpg",
+      "similarity": 0.65
+    }
+  ],
+  "image_count": 4
+}

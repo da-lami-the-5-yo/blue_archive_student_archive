@@ -1,0 +1,65 @@
+{
+  "id": null,
+  "name_kr": "이타가키 카노에",
+  "name_en": "Itagaki Kanoe",
+  "name_ja": "板垣カノエ",
+  "full_name_kr": "이타가키 카노에 (기본)",
+  "full_name_en": "Itagaki Kanoe (Default)",
+  "full_name_ja": "板垣カノエ（基本）",
+  "school_kr": "와일드헌트 예술학원",
+  "school_en": "Wild Hunt Academy of Arts",
+  "school_ja": "ワイルドハント芸術学院",
+  "club_kr": "오컬트 연구회",
+  "club_en": "Occult Research Society",
+  "club_ja": "オカルト研究会",
+  "seasonal": "기본",
+  "status": "출시",
+  "role": "힐러",
+  "position": "스페셜",
+  "bullet_type": "폭발",
+  "armor_type": "경장갑",
+  "description_kr": "와일드헌트 예술학원 오컬트 연구회 부원. 마법사 모자를 쓴 신비로운 학생.",
+  "description_en": "Member of the Occult Research Society at Wild Hunt Academy of Arts.",
+  "description_ja": "ワイルドハント芸術学院オカルト研究会の部員。魔法使いを模したスタイル。",
+  "search_tags": {
+    "kr": [
+      "이타가키 카노에",
+      "카노에",
+      "와일드헌트 카노에"
+    ],
+    "en": [
+      "itagaki kanoe",
+      "kanoe",
+      "kanoe_(blue_archive)"
+    ],
+    "ja": [
+      "板垣カノエ",
+      "カノエ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_icon.png",
+      "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_icon.png"
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_7086008_rank01.jpg",
+      "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/비공식/rank01/fanart_7086008_rank01.jpg",
+      "similarity": 0.65
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_7085576_rank01.jpg",
+      "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/비공식/rank01/fanart_7085576_rank01.jpg",
+      "similarity": 0.65
+    }
+  ],
+  "image_count": 4
+}

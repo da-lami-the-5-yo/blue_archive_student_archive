@@ -12211,15 +12211,23 @@
     "position": "스트라이커",
     "bullet_type": "신비",
     "armor_type": "특수장갑",
-    "description_kr": "백귀야행 화조풍월부의 부장이자 음모를 꾸미는 흑막.",
+    "description_kr": "백귀야행 화조풍월부의 부장이자 음모를 꾸미는 흑막. (칠수인에 필적하는 백귀야행의 흑막이자 대역죄인 '코쿠리코 사마')",
     "description_en": "Unreleased student from Allied Hyakkiyako Academy Kachoufuugetsu Club.",
     "description_ja": "百鬼夜行連合学院 花鳥風月部所属の未実装生徒。",
     "search_tags": {
       "kr": [
-        "코쿠리코"
+        "코쿠리코",
+        "코쿠리코 사마",
+        "칠수인",
+        "일곱 죄수",
+        "화조풍월부 당주",
+        "대역죄인"
       ],
       "en": [
-        "kokuriko_(blue_archive)"
+        "kokuriko_(blue_archive)",
+        "kokuriko-sama",
+        "seven prisoners",
+        "kadenokouji kokuriko"
       ],
       "ja": [
         "コクリコ(ブルーアーカイブ)"
@@ -16231,5 +16239,1392 @@
       }
     ],
     "image_count": 1
+  },
+  {
+    "id": null,
+    "name_kr": "시라오 에리",
+    "name_en": "Shirao Eri",
+    "name_ja": "白尾エリ",
+    "full_name_kr": "시라오 에리 (기본)",
+    "full_name_en": "Shirao Eri (Default)",
+    "full_name_ja": "白尾エリ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "오컬트 연구회",
+    "club_en": "Occult Research Society",
+    "club_ja": "オカルト研究会",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "와일드헌트 예술학원 기숙사 4동 404호 오컬트 연구회 부장. 마녀 컨셉의 타로 점성술사.",
+    "description_en": "President of the Occult Research Society at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院オカルト研究会の部長。魔女の衣装をまとった占い師。",
+    "search_tags": {
+      "kr": [
+        "시라오 에리",
+        "에리",
+        "와일드헌트 에리",
+        "오컬트연구회"
+      ],
+      "en": [
+        "shirao eri",
+        "eri",
+        "wild hunt eri",
+        "eri_(blue_archive)"
+      ],
+      "ja": [
+        "白尾エリ",
+        "エリ",
+        "オカルト研究会"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7089097_rank01.jpg",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/비공식/rank01/fanart_7089097_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7088715_rank01.jpg",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/비공식/rank01/fanart_7088715_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "이타가키 카노에",
+    "name_en": "Itagaki Kanoe",
+    "name_ja": "板垣カノエ",
+    "full_name_kr": "이타가키 카노에 (기본)",
+    "full_name_en": "Itagaki Kanoe (Default)",
+    "full_name_ja": "板垣カノエ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "오컬트 연구회",
+    "club_en": "Occult Research Society",
+    "club_ja": "オカルト研究会",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "와일드헌트 예술학원 오컬트 연구회 부원. 마법사 모자를 쓴 신비로운 학생.",
+    "description_en": "Member of the Occult Research Society at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院オカルト研究会の部員。魔法使いを模したスタイル。",
+    "search_tags": {
+      "kr": [
+        "이타가키 카노에",
+        "카노에",
+        "와일드헌트 카노에"
+      ],
+      "en": [
+        "itagaki kanoe",
+        "kanoe",
+        "kanoe_(blue_archive)"
+      ],
+      "ja": [
+        "板垣カノエ",
+        "カノエ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7086008_rank01.jpg",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/비공식/rank01/fanart_7086008_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7085576_rank01.jpg",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/비공식/rank01/fanart_7085576_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "키누이 레나",
+    "name_en": "Kinui Rena",
+    "name_ja": "絹井レナ",
+    "full_name_kr": "키누이 레나 (기본)",
+    "full_name_en": "Kinui Rena (Default)",
+    "full_name_ja": "絹井レナ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "오컬트 연구회",
+    "club_en": "Occult Research Society",
+    "club_ja": "オカルト研究会",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "와일드헌트 예술학원 오컬트 연구회 부원. 정숙하고 차분한 매력의 연구부원.",
+    "description_en": "Member of the Occult Research Society at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院オカルト研究会の部員。",
+    "search_tags": {
+      "kr": [
+        "키누이 레나",
+        "레나",
+        "와일드헌트 레나"
+      ],
+      "en": [
+        "kinui rena",
+        "rena",
+        "rena_(blue_archive)"
+      ],
+      "ja": [
+        "絹井レナ",
+        "レナ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7070870_rank01.jpg",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/비공식/rank01/fanart_7070870_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7070868_rank01.jpg",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/비공식/rank01/fanart_7070868_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "사쿠라이 미요",
+    "name_en": "Sakurai Miyo",
+    "name_ja": "桜井ミヨ",
+    "full_name_kr": "사쿠라이 미요 (기본)",
+    "full_name_en": "Sakurai Miyo (Default)",
+    "full_name_ja": "桜井ミヨ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "특수교역부",
+    "club_en": "Free Trade Cartel",
+    "club_ja": "特殊交易部",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "와일드헌트 예술학원 기숙사 5동 402호 특수교역부(밀수부) 부장.",
+    "description_en": "Head of the Free Trade Cartel (Smuggling Club) at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院特殊交易部（密輸部）の部長。",
+    "search_tags": {
+      "kr": [
+        "사쿠라이 미요",
+        "미요",
+        "와일드헌트 미요",
+        "특수교역부",
+        "밀수부"
+      ],
+      "en": [
+        "sakurai miyo",
+        "miyo",
+        "sakurai_miyo",
+        "free trade cartel"
+      ],
+      "ja": [
+        "桜井ミヨ",
+        "ミヨ",
+        "特殊交易部"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_792324_rank01.jpg",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/비공식/rank01/fanart_792324_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_473084_rank01.jpg",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/비공식/rank01/fanart_473084_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "와카사 후유",
+    "name_en": "Wakasa Fuyu",
+    "name_ja": "若狭フユ",
+    "full_name_kr": "와카사 후유 (기본)",
+    "full_name_en": "Wakasa Fuyu (Default)",
+    "full_name_ja": "若狭フユ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "특수교역부",
+    "club_en": "Free Trade Cartel",
+    "club_ja": "特殊交易部",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "진동",
+    "armor_type": "중장갑",
+    "description_kr": "와일드헌트 예술학원 특수교역부 영업실장.",
+    "description_en": "Sales director of the Free Trade Cartel at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院特殊交易部の営業室長。",
+    "search_tags": {
+      "kr": [
+        "와카사 후유",
+        "후유",
+        "특수교역부 후유"
+      ],
+      "en": [
+        "wakasa fuyu",
+        "fuyu",
+        "fuyu_(blue_archive)"
+      ],
+      "ja": [
+        "若狭フユ",
+        "フユ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7059801_rank01.jpg",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/비공식/rank01/fanart_7059801_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7022250_rank01.jpg",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/비공식/rank01/fanart_7022250_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "우스바 리츠",
+    "name_en": "Usuba Ritsu",
+    "name_ja": "薄羽リツ",
+    "full_name_kr": "우스바 리츠 (기본)",
+    "full_name_en": "Usuba Ritsu (Default)",
+    "full_name_ja": "薄羽リツ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "특수교역부",
+    "club_en": "Free Trade Cartel",
+    "club_ja": "特殊交易部",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "와일드헌트 예술학원 특수교역부 실무담당.",
+    "description_en": "Administrative specialist of the Free Trade Cartel at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院特殊交易部の実務担当。",
+    "search_tags": {
+      "kr": [
+        "우스바 리츠",
+        "리츠",
+        "특수교역부 리츠"
+      ],
+      "en": [
+        "usuba ritsu",
+        "ritsu",
+        "ritsu_(blue_archive)"
+      ],
+      "ja": [
+        "薄羽リツ",
+        "リツ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7047872_rank01.jpg",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/비공식/rank01/fanart_7047872_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7047433_rank01.jpg",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/비공식/rank01/fanart_7047433_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "우루와시 마나미",
+    "name_en": "Uruwashi Manami",
+    "name_ja": "麗マナミ",
+    "full_name_kr": "우루와시 마나미 (기본)",
+    "full_name_en": "Uruwashi Manami (Default)",
+    "full_name_ja": "麗マナミ（基本）",
+    "school_kr": "와일드헌트 예술학원",
+    "school_en": "Wild Hunt Academy of Arts",
+    "school_ja": "ワイルドハント芸術学院",
+    "club_kr": "예술 평의회",
+    "club_en": "Arts Council",
+    "club_ja": "芸術評議会",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "와일드헌트 예술학원의 학생회 격 조직인 예술 평의회의 평의회장. 교내 최고의 권력을 쥐고 있다.",
+    "description_en": "President of the Arts Council at Wild Hunt Academy of Arts.",
+    "description_ja": "ワイルドハント芸術学院の芸術評議会長。校内最大の権力を持つ。",
+    "search_tags": {
+      "kr": [
+        "우루와시 마나미",
+        "마나미",
+        "예술평의회장",
+        "와일드헌트 회장"
+      ],
+      "en": [
+        "uruwashi manami",
+        "manami",
+        "arts council president"
+      ],
+      "ja": [
+        "麗マナミ",
+        "マナミ",
+        "芸術評議会"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "와일드헌트 예술학원/예술 평의회/우루와시 마나미/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "와일드헌트 예술학원/예술 평의회/우루와시 마나미/기본/공식/official_icon.png"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "토우미 코코로",
+    "name_en": "Toumi Kokoro",
+    "name_ja": "遠海ココロ",
+    "full_name_kr": "토우미 코코로 (기본)",
+    "full_name_en": "Toumi Kokoro (Default)",
+    "full_name_ja": "遠海ココロ（基本）",
+    "school_kr": "오디세이아 해양학교",
+    "school_en": "Odyssey Maritime School",
+    "school_ja": "オデッセイア海洋学校",
+    "club_kr": "다이빙부",
+    "club_en": "Diving Club",
+    "club_ja": "ダイビング部",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "오디세이아 해양학교 다이빙부 부장. 분홍색 트윈테일과 래시가드를 착용한 밝고 활발한 학생.",
+    "description_en": "President of the Diving Club at Odyssey Maritime School.",
+    "description_ja": "オデッセイア海洋学校ダイビング部の部長。ピンクツインテールとラッシュガードが特徴。",
+    "search_tags": {
+      "kr": [
+        "토우미 코코로",
+        "코코로",
+        "오디세이아 코코로",
+        "다이빙부 부장"
+      ],
+      "en": [
+        "toumi kokoro",
+        "kokoro",
+        "kokoro_(blue_archive)"
+      ],
+      "ja": [
+        "遠海ココロ",
+        "ココロ",
+        "ダイビング部"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "오디세이아 해양학교/다이빙부/토우미 코코로/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7084672_rank01.jpg",
+        "path": "오디세이아 해양학교/다이빙부/토우미 코코로/기본/비공식/rank01/fanart_7084672_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "후치가미 코토네",
+    "name_en": "Fuchigami Kotone",
+    "name_ja": "渕上コトネ",
+    "full_name_kr": "후치가미 코토네 (기본)",
+    "full_name_en": "Fuchigami Kotone (Default)",
+    "full_name_ja": "渕上コトネ（基本）",
+    "school_kr": "오디세이아 해양학교",
+    "school_en": "Odyssey Maritime School",
+    "school_ja": "オデッセイア海洋学校",
+    "club_kr": "다이빙부",
+    "club_en": "Diving Club",
+    "club_ja": "ダイビング部",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "오디세이아 해양학교 다이빙부 부원. 안경과 수중 헤드셋을 착용한 회색 머리의 거유 학생.",
+    "description_en": "Member of the Diving Club at Odyssey Maritime School.",
+    "description_ja": "オデッセイア海洋学校ダイビング部の部員。メガネとイヤーマフを着用。",
+    "search_tags": {
+      "kr": [
+        "후치가미 코토네",
+        "코토네",
+        "오디세이아 코토네"
+      ],
+      "en": [
+        "fuchigami kotone",
+        "kotone",
+        "kotone_(blue_archive)"
+      ],
+      "ja": [
+        "渕上コトネ",
+        "コトネ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7088019_rank01.jpg",
+        "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/비공식/rank01/fanart_7088019_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7084959_rank01.jpg",
+        "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/비공식/rank01/fanart_7084959_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 3
+  },
+  {
+    "id": null,
+    "name_kr": "오디세이아 학생회 간부 (제복 포니테일)",
+    "name_en": "Odyssey Student Council Officer (Ponytail)",
+    "name_ja": "オデッセイア生徒会幹部（ポニーテール）",
+    "full_name_kr": "오디세이아 학생회 간부 (제복 포니테일) (기본)",
+    "full_name_en": "Odyssey Student Council Officer (Ponytail) (Default)",
+    "full_name_ja": "オデッセイア生徒会幹部（ポニーテール）（基本）",
+    "school_kr": "오디세이아 해양학교",
+    "school_en": "Odyssey Maritime School",
+    "school_ja": "オデッセイア海洋学校",
+    "club_kr": "학생회",
+    "club_en": "Student Council",
+    "club_ja": "生徒会",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "스트라이커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "오디세이아 해양학교 학생회(상선사관 파벌)의 핵심 간부. 정모와 제복 코트를 숄더 로빙으로 착용한 금발 사이드 포니테일 학생.",
+    "description_en": "Executive officer of the Odyssey Maritime School Student Council.",
+    "description_ja": "オデッセイア海洋学校生徒会の幹部。金髪サイドアップポニーテールと肩掛けコートが特徴。",
+    "search_tags": {
+      "kr": [
+        "오디세이아 학생회장",
+        "오디세이아 제복",
+        "오디세이아 포니테일",
+        "상선사관"
+      ],
+      "en": [
+        "odyssey student council officer",
+        "odyssey maritime school"
+      ],
+      "ja": [
+        "オデッセイア生徒会",
+        "オデッセイア幹部"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (제복 포니테일)/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (제복 포니테일)/기본/공식/official_icon.png"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "오디세이아 학생회 간부 (안경 단발)",
+    "name_en": "Odyssey Student Council Officer (Glasses)",
+    "name_ja": "オデッセイア生徒会幹部（メガネ短髪）",
+    "full_name_kr": "오디세이아 학생회 간부 (안경 단발) (기본)",
+    "full_name_en": "Odyssey Student Council Officer (Glasses) (Default)",
+    "full_name_ja": "オデッセイア生徒会幹部（メガネ短髪）（基本）",
+    "school_kr": "오디세이아 해양학교",
+    "school_en": "Odyssey Maritime School",
+    "school_ja": "オデッセイア海洋学校",
+    "club_kr": "학생회",
+    "club_en": "Student Council",
+    "club_ja": "生徒会",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "오디세이아 해양학교 학생회 소속. 안경을 쓰고 분홍색 눈동자를 가진 푸른 단발머리의 지적인 학생.",
+    "description_en": "Intellectual officer of the Odyssey Maritime School Student Council with glasses.",
+    "description_ja": "オデッセイア海洋学校生徒会所属のメガネをかけた青髪ショートヘアの生徒。",
+    "search_tags": {
+      "kr": [
+        "오디세이아 안경",
+        "오디세이아 단발",
+        "오디세이아 학생회"
+      ],
+      "en": [
+        "odyssey student council glasses",
+        "odyssey maritime"
+      ],
+      "ja": [
+        "オデッセイアメガネ",
+        "オデッセイア青髪"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (안경 단발)/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (안경 단발)/기본/공식/official_icon.png"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "히죽히죽 교수",
+    "name_en": "Smiling Professor",
+    "name_ja": "ニヤニヤ教授",
+    "full_name_kr": "히죽히죽 교수 (기본)",
+    "full_name_en": "Smiling Professor (Professor Niyaniya)",
+    "full_name_ja": "ニヤニヤ教授（基本）",
+    "school_kr": "일곱 죄수",
+    "school_en": "Seven Prisoners",
+    "school_ja": "七囚人",
+    "club_kr": "범죄 컨설턴트",
+    "club_en": "Crime Consultant",
+    "club_ja": "犯罪コンサルタント",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "연방교정국에서 일곱 죄수를 탈옥시킨 주모자이자 범죄 컨설턴트. 별명은 '니야니야 교수'. 긴 금발에 여유로운 미소가 특징이다.",
+    "description_en": "The crime consultant responsible for releasing the Seven Prisoners from the Corrections Bureau, also known as Professor Niyaniya.",
+    "description_ja": "矯正局から七囚人を脱獄させた首謀者にして犯罪コンサルタント。通称「ニヤニヤ教授」。",
+    "search_tags": {
+      "kr": [
+        "히죽히죽 교수",
+        "니야니야 교수",
+        "니야니야",
+        "칠수인 교수",
+        "일곱 죄수"
+      ],
+      "en": [
+        "smiling professor",
+        "professor niyaniya",
+        "niyaniya",
+        "seven prisoners"
+      ],
+      "ja": [
+        "ニヤニヤ教授",
+        "七囚人"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "일곱 죄수/범죄 컨설턴트/히죽히죽 교수/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "일곱 죄수/범죄 컨설턴트/히죽히죽 교수/기본/공식/official_icon.png"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "류게 키사키",
+    "name_en": "Ryuuge Kisaki",
+    "name_ja": "竜華キサキ",
+    "full_name_kr": "류게 키사키 (기본)",
+    "full_name_en": "Ryuuge Kisaki (Default)",
+    "full_name_ja": "竜華キサキ（基本）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Genryumon",
+    "club_ja": "玄竜門",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "산해경 고급중학교의 학생회 격인 현룡문의 수장이자 최고 권력자. 키보토스 굴지의 카리스마를 지녔다.",
+    "description_en": "Head of Genryumon and the supreme authority of Shanhaijing Senior Secondary School.",
+    "description_ja": "山海経高級中学校の生徒会にあたる玄竜門の門主。",
+    "search_tags": {
+      "kr": [
+        "류게 키사키",
+        "키사키",
+        "현룡문",
+        "산해경 키사키"
+      ],
+      "en": [
+        "ryuuge kisaki",
+        "kisaki",
+        "kisaki_(blue_archive)"
+      ],
+      "ja": [
+        "竜華キサキ",
+        "キサキ",
+        "玄竜門"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7080192_rank01.jpg",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/비공식/rank01/fanart_7080192_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7077886_rank01.jpg",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/비공식/rank01/fanart_7077886_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "류게 키사키",
+    "name_en": "Ryuuge Kisaki",
+    "name_ja": "竜華キサキ",
+    "full_name_kr": "류게 키사키 (수영복)",
+    "full_name_en": "Ryuuge Kisaki (Swimsuit)",
+    "full_name_ja": "竜華キサキ（水着）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Genryumon",
+    "club_ja": "玄竜門",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "여름 바캉스에서 우아하고 매혹적인 수영복을 입은 현룡문 수장 류게 키사키.",
+    "description_en": "Swimsuit variant of Ryuuge Kisaki during the summer vacation.",
+    "description_ja": "夏のバカンスで水着姿になった玄竜門主・竜華キサキ。",
+    "search_tags": {
+      "kr": [
+        "수사키",
+        "수영복 키사키",
+        "류게 키사키 수영복"
+      ],
+      "en": [
+        "kisaki swimsuit",
+        "kisaki_(swimsuit)_(blue_archive)"
+      ],
+      "ja": [
+        "水着キサキ",
+        "キサキ(水着)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7080192_rank01.jpg",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7080192_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7077886_rank01.jpg",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7077886_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "카야마 레이조",
+    "name_en": "Kayama Reijo",
+    "name_ja": "鹿山レイジョ",
+    "full_name_kr": "카야마 레이조 (기본)",
+    "full_name_en": "Kayama Reijo (Default)",
+    "full_name_ja": "鹿山レイジョ（基本）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Genryumon",
+    "club_ja": "玄竜門",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "산해경 고급중학교 현룡문 소속 학생이자 키사키의 든든한 보좌관. 뛰어난 무술 실력을 자랑한다.",
+    "description_en": "Genryumon member and reliable enforcer at Shanhaijing Senior Secondary School.",
+    "description_ja": "山海経高級中学校玄竜門所属。武術に長けたキサキの補佐役。",
+    "search_tags": {
+      "kr": [
+        "카야마 레이조",
+        "레이조",
+        "현룡문 레이조"
+      ],
+      "en": [
+        "kayama reijo",
+        "reijo",
+        "reijo_(blue_archive)"
+      ],
+      "ja": [
+        "鹿山レイジョ",
+        "レイジョ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_6940389_rank01.jpg",
+        "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/비공식/rank01/fanart_6940389_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_6918258_rank01.jpg",
+        "path": "산해경 고급중학교/현룡문/카야마 레이조/기본/비공식/rank01/fanart_6918258_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "고료 나구사",
+    "name_en": "Goryou Nagusa",
+    "name_ja": "五稜ナグサ",
+    "full_name_kr": "고료 나구사 (기본)",
+    "full_name_en": "Goryou Nagusa (Default)",
+    "full_name_ja": "五稜ナグサ（基本）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란 분쟁조정제",
+    "club_en": "Hyakkayouran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "백귀야행 연합학원 백화요란 분쟁조정제 부부장. 아야메의 뒤를 이어 백화요란을 지키기 위해 고뇌하는 학생.",
+    "description_en": "Vice President of the Hyakkayouran Conflict Resolution Council at Hyakkiyako Alliance Academy.",
+    "description_ja": "百鬼夜行連合学院百花繚乱紛争調停委員会の副部長。",
+    "search_tags": {
+      "kr": [
+        "고료 나구사",
+        "나구사",
+        "백화요란 나구사"
+      ],
+      "en": [
+        "goryou nagusa",
+        "nagusa",
+        "nagusa_(blue_archive)"
+      ],
+      "ja": [
+        "五稜ナグサ",
+        "ナグサ",
+        "百花繚乱"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7084025_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/비공식/rank01/fanart_7084025_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7074475_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/비공식/rank01/fanart_7074475_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "고료 나구사",
+    "name_en": "Goryou Nagusa",
+    "name_ja": "五稜ナグサ",
+    "full_name_kr": "고료 나구사 (수영복)",
+    "full_name_en": "Goryou Nagusa (Swimsuit)",
+    "full_name_ja": "五稜ナグサ（水着）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란 분쟁조정제",
+    "club_en": "Hyakkayouran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "수영복 차림으로 여름 휴양지에 참여한 백화요란 분쟁조정제 부부장 고료 나구사.",
+    "description_en": "Swimsuit variant of Goryou Nagusa during the summer festival.",
+    "description_ja": "水着姿の百花繚乱副部長・五稜ナグサ。",
+    "search_tags": {
+      "kr": [
+        "수구사",
+        "수영복 나구사",
+        "고료 나구사 수영복"
+      ],
+      "en": [
+        "nagusa swimsuit",
+        "nagusa_(swimsuit)_(blue_archive)"
+      ],
+      "ja": [
+        "水着ナグサ",
+        "ナグサ(水着)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7084025_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7074475_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/비공식/rank01/fanart_7074475_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "아마치 니야",
+    "name_en": "Amachi Niya",
+    "name_ja": "天池ニヤ",
+    "full_name_kr": "아마치 니야 (기본)",
+    "full_name_en": "Amachi Niya (Default)",
+    "full_name_ja": "天池ニヤ（基本）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "음양부",
+    "club_en": "Yin-Yang Board",
+    "club_ja": "陰陽部",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "백귀야행 연합학원의 음양부 부장. 백귀야행의 정세를 뒤에서 조율하는 능구렁이 같은 지략가.",
+    "description_en": "President of the Yin-Yang Board at Hyakkiyako Alliance Academy.",
+    "description_ja": "百鬼夜行連合学院陰陽部の部長。策士として学院の政を操る。",
+    "search_tags": {
+      "kr": [
+        "아마치 니야",
+        "니야",
+        "음양부 니야"
+      ],
+      "en": [
+        "amachi niya",
+        "niya",
+        "niya_(blue_archive)"
+      ],
+      "ja": [
+        "天池ニヤ",
+        "ニヤ",
+        "陰陽部"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_6983827_rank01.jpg",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/비공식/rank01/fanart_6983827_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_6848102_rank01.jpg",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/비공식/rank01/fanart_6848102_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "하타미 에리카",
+    "name_en": "Hatami Erika",
+    "name_ja": "羽留エリカ",
+    "full_name_kr": "하타미 에리카 (기본)",
+    "full_name_en": "Hatami Erika (Default)",
+    "full_name_ja": "羽留エリカ（基本）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "귀가부",
+    "club_en": "Go-Home Club",
+    "club_ja": "帰宅部",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "게헨나 학원 귀가부 소속 학생. 키라라와 단짝으로 방과 후 자유로운 학원 생활을 즐긴다.",
+    "description_en": "Member of the Go-Home Club at Gehenna Academy and close friend of Kirara.",
+    "description_ja": "ゲヘナ学園帰宅部所属。キララの大親友。",
+    "search_tags": {
+      "kr": [
+        "하타미 에리카",
+        "에리카",
+        "게헨나 에리카",
+        "귀가부"
+      ],
+      "en": [
+        "hatami erika",
+        "erika",
+        "erika_(blue_archive)"
+      ],
+      "ja": [
+        "羽留エリカ",
+        "エリカ",
+        "帰宅部"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7050530_rank01.jpg",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/비공식/rank01/fanart_7050530_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7043006_rank01.jpg",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/비공식/rank01/fanart_7043006_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "쿄고쿠 사츠키",
+    "name_en": "Kyogoku Satsuki",
+    "name_ja": "京極サツ키",
+    "full_name_kr": "쿄고쿠 사츠키 (기본)",
+    "full_name_en": "Kyogoku Satsuki (Default)",
+    "full_name_ja": "京極サツキ（基本）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": "万魔殿",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "게헨나 학원 학생회 만마전의 정보부원이자 최면술 전문가. 마코토를 보좌하며 게헨나의 막후를 관찰한다.",
+    "description_en": "Intelligence officer and hypnotist of the Pandemonium Society at Gehenna Academy.",
+    "description_ja": "ゲヘナ学園万魔殿所属の催眠術士。",
+    "search_tags": {
+      "kr": [
+        "쿄고쿠 사츠키",
+        "사츠키",
+        "만마전 사츠키"
+      ],
+      "en": [
+        "kyogoku satsuki",
+        "satsuki",
+        "satsuki_(blue_archive)"
+      ],
+      "ja": [
+        "京極サツキ",
+        "サツキ",
+        "万魔殿"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7075349_rank01.jpg",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/비공식/rank01/fanart_7075349_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7023758_rank01.jpg",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/비공식/rank01/fanart_7023758_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "타치바나 히카리",
+    "name_en": "Tachibana Hikari",
+    "name_ja": "橘ヒカリ",
+    "full_name_kr": "타치바나 히카리 (기본)",
+    "full_name_en": "Tachibana Hikari (Default)",
+    "full_name_ja": "橘ヒカリ（基本）",
+    "school_kr": "하이랜더 철도학원",
+    "school_en": "Highlander Railway Academy",
+    "school_ja": "ハイランダー鉄道学園",
+    "club_kr": "중앙통제실",
+    "club_en": "Central Control Room",
+    "club_ja": "中央統括管制室",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "하이랜더 철도학원 중앙통제실의 관리자이자 쌍둥이 중 언니. 기차 모자와 당돌한 태도가 매력적이다.",
+    "description_en": "Elder of the twin controllers at the Central Control Room of Highlander Railway Academy.",
+    "description_ja": "ハイランダー鉄道学園中央統括管制室の双子の姉。",
+    "search_tags": {
+      "kr": [
+        "타치바나 히카리",
+        "히카리",
+        "하이랜더 쌍둥이",
+        "중앙통제실"
+      ],
+      "en": [
+        "tachibana hikari",
+        "hikari",
+        "hikari_(blue_archive)"
+      ],
+      "ja": [
+        "橘ヒカリ",
+        "ヒカリ",
+        "ハイランダー"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7086046_rank01.jpg",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/비공식/rank01/fanart_7086046_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7085420_rank01.jpg",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/비공식/rank01/fanart_7085420_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
+  },
+  {
+    "id": null,
+    "name_kr": "타치바나 노조미",
+    "name_en": "Tachibana Nozomi",
+    "name_ja": "橘ノゾミ",
+    "full_name_kr": "타치바나 노조미 (기본)",
+    "full_name_en": "Tachibana Nozomi (Default)",
+    "full_name_ja": "橘ノゾミ（基本）",
+    "school_kr": "하이랜더 철도학원",
+    "school_en": "Highlander Railway Academy",
+    "school_ja": "ハイランダー鉄道学園",
+    "club_kr": "중앙통제실",
+    "club_en": "Central Control Room",
+    "club_ja": "中央統括管制室",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "진동",
+    "armor_type": "중장갑",
+    "description_kr": "하이랜더 철도학원 중앙통제실의 관리자이자 쌍둥이 중 동생. 히카리와 함께 하이랜더 철도망을 장악하고 있다.",
+    "description_en": "Younger of the twin controllers at the Central Control Room of Highlander Railway Academy.",
+    "description_ja": "ハイランダー鉄道学園中央統括管制室の双子の妹。",
+    "search_tags": {
+      "kr": [
+        "타치바나 노조미",
+        "노조미",
+        "하이랜더 노조미"
+      ],
+      "en": [
+        "tachibana nozomi",
+        "nozomi",
+        "nozomi_(blue_archive)"
+      ],
+      "ja": [
+        "橘ノゾミ",
+        "ノゾミ",
+        "ハイランダー"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_icon.png",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_icon.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7086046_rank01.jpg",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/비공식/rank01/fanart_7086046_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7085436_rank01.jpg",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/비공식/rank01/fanart_7085436_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 4
   }
 ]

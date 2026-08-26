@@ -1,0 +1,69 @@
+{
+  "id": null,
+  "name_kr": "사쿠라이 미요",
+  "name_en": "Sakurai Miyo",
+  "name_ja": "桜井ミヨ",
+  "full_name_kr": "사쿠라이 미요 (기본)",
+  "full_name_en": "Sakurai Miyo (Default)",
+  "full_name_ja": "桜井ミヨ（基本）",
+  "school_kr": "와일드헌트 예술학원",
+  "school_en": "Wild Hunt Academy of Arts",
+  "school_ja": "ワイルドハント芸術学院",
+  "club_kr": "특수교역부",
+  "club_en": "Free Trade Cartel",
+  "club_ja": "特殊交易部",
+  "seasonal": "기본",
+  "status": "출시",
+  "role": "서포터",
+  "position": "스트라이커",
+  "bullet_type": "진동",
+  "armor_type": "특수장갑",
+  "description_kr": "와일드헌트 예술학원 기숙사 5동 402호 특수교역부(밀수부) 부장.",
+  "description_en": "Head of the Free Trade Cartel (Smuggling Club) at Wild Hunt Academy of Arts.",
+  "description_ja": "ワイルドハント芸術学院特殊交易部（密輸部）の部長。",
+  "search_tags": {
+    "kr": [
+      "사쿠라이 미요",
+      "미요",
+      "와일드헌트 미요",
+      "특수교역부",
+      "밀수부"
+    ],
+    "en": [
+      "sakurai miyo",
+      "miyo",
+      "sakurai_miyo",
+      "free trade cartel"
+    ],
+    "ja": [
+      "桜井ミヨ",
+      "ミヨ",
+      "特殊交易部"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_icon.png",
+      "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_icon.png"
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_792324_rank01.jpg",
+      "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/비공식/rank01/fanart_792324_rank01.jpg",
+      "similarity": 0.65
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_473084_rank01.jpg",
+      "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/비공식/rank01/fanart_473084_rank01.jpg",
+      "similarity": 0.65
+    }
+  ],
+  "image_count": 4
+}

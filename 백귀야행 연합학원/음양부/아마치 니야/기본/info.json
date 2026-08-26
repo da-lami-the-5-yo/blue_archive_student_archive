@@ -1,0 +1,66 @@
+{
+  "id": null,
+  "name_kr": "아마치 니야",
+  "name_en": "Amachi Niya",
+  "name_ja": "天池ニヤ",
+  "full_name_kr": "아마치 니야 (기본)",
+  "full_name_en": "Amachi Niya (Default)",
+  "full_name_ja": "天池ニヤ（基本）",
+  "school_kr": "백귀야행 연합학원",
+  "school_en": "Hyakkiyako Alliance Academy",
+  "school_ja": "百鬼夜行連合学院",
+  "club_kr": "음양부",
+  "club_en": "Yin-Yang Board",
+  "club_ja": "陰陽部",
+  "seasonal": "기본",
+  "status": "출시",
+  "role": "서포터",
+  "position": "스페셜",
+  "bullet_type": "신비",
+  "armor_type": "경장갑",
+  "description_kr": "백귀야행 연합학원의 음양부 부장. 백귀야행의 정세를 뒤에서 조율하는 능구렁이 같은 지략가.",
+  "description_en": "President of the Yin-Yang Board at Hyakkiyako Alliance Academy.",
+  "description_ja": "百鬼夜行連合学院陰陽部の部長。策士として学院の政を操る。",
+  "search_tags": {
+    "kr": [
+      "아마치 니야",
+      "니야",
+      "음양부 니야"
+    ],
+    "en": [
+      "amachi niya",
+      "niya",
+      "niya_(blue_archive)"
+    ],
+    "ja": [
+      "天池ニヤ",
+      "ニヤ",
+      "陰陽部"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_icon.png",
+      "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_icon.png"
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_6983827_rank01.jpg",
+      "path": "백귀야행 연합학원/음양부/아마치 니야/기본/비공식/rank01/fanart_6983827_rank01.jpg",
+      "similarity": 0.65
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_6848102_rank01.jpg",
+      "path": "백귀야행 연합학원/음양부/아마치 니야/기본/비공식/rank01/fanart_6848102_rank01.jpg",
+      "similarity": 0.65
+    }
+  ],
+  "image_count": 4
+}
