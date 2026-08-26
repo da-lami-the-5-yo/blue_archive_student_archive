@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미야코",
+      "en": "Miyako",
+      "ja": "ミヤコ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "SRT 특수학원 RABBIT 소대의 소대장. 콜사인은 <RABBIT 1>.\n\n정의롭게 작전을 수행하는 선배들의 모습을 동경하여 SRT 특수학원에 입학하였으나, 갑작스럽게 학원이 폐쇄되며 현재는 공원에서 소대원들과 함께 노숙을 하고 있다. 표정 변화가 드물고 감정을 드러내는 일이 거의 없기 때문에 주변으로부터 무뚝뚝하다는 평가를 받고 있지만, 사실은 언제나 소대원들을 걱정하는 상냥한 마음씨의 소유자다.",
+      "en": "The leader of the RABBIT Squad at SRT Academy. Her call sign is \"RABBIT 1.\"\n\nMiyako originally registered for SRT Academy because of her deep admiration for its adherence to justice. When they suddenly closed down the academy, she was left homeless and camping out in a park with other RABBIT Squad members. She is to-the-point and rarely shows what she's thinking so can come off as uncaring, but has the kindest heart in the squad.",
+      "ja": "SRT特殊学園所属、RABBIT小隊の小隊長。\n\n先輩たちの活躍に憧れてSRT特殊学園に入学したものの、突如として学園が閉鎖。現在は公園にて、同じ小隊の隊員たちと生活を送っている。表情の変化が少なく、感情を表に出すことが少ないため、周りからは不愛想だと思われがち。しかし心の中では常に隊員たちのことを心配する、優しい心の持ち主である。コールサインは「RABBIT1」。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미야코",
+        "미야코",
+        "미야코 블루아카이브"
+      ],
+      "en": [
+        "miyako_(blue_archive)",
+        "miyako",
+        "blue_archive_miyako"
+      ],
+      "ja": [
+        "ミヤコ",
+        "ミヤコ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミヤコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.383641Z"
+}

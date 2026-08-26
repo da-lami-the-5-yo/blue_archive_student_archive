@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시구레",
+      "en": "Shigure",
+      "ja": "シグレ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "227호 특별반",
+      "en": "Spec Ops No. 227",
+      "ja": "227号特別クラス"
+    },
+    "seasonal": "온천",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "특별반의 학생들과 함께 227호 온천장을 운영하는 특별반의 정학생.\n\n구교사에서 갑작스럽게 온천이 터지며 노도카와 함께 거대한 온천장을 운영하게 되었다. 노도카와 달리 온천장을 확장하고 돈을 벌어들이는 일에는 크게 관심이 없는 것처럼 보이지만, 다양한 음료수와 다과를 마음껏 만들 수 있는 환경만큼은 그녀에게도 퍽 달가운 모양이다.",
+      "en": "A Spec Ops student who helps run Hot Spring Resort No. 227.\n\nWhen a hot spring suddenly erupted in the Former Institute, she and Nodoka opened a huge hot spring resort. Unlike Nodoka, however, she doesn't seem to be too interested in expanding the business or making money. She's thrilled for the opportunity to make all kinds of drinks and refreshments for their customers, however.",
+      "ja": "特別クラスの生徒と共に227号温泉郷を運営しているレッドウィンター連邦学園所属、227号特別クラスの停学生。\n\n旧校舎から突然温泉が沸き出し、ノドカと一緒に巨大な温泉郷を運営することになった。ノドカと違って温泉郷を繁盛させる気はあまりない様子だが、色々な飲み物とお菓子を存分に作れる環境には満足しているようだ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시구레",
+        "시구레(온천)",
+        "시구레 블루아카이브"
+      ],
+      "en": [
+        "shigure_(blue_archive)",
+        "shigure",
+        "blue_archive_shigure"
+      ],
+      "ja": [
+        "シグレ",
+        "シグレ(ブルーアーカイブ)",
+        "ブルーアーカイブ シグレ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.402987Z"
+}

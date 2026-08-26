@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "메구",
+      "en": "Megu",
+      "ja": "メグ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "온천개발부",
+      "en": "Hot Springs Department",
+      "ja": "温泉開発部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "온천개발부의 중추이자 개발현장의 작업반장.\n\n매사의 모든 문제를 '치워버리는 것'으로 해결할 수 있다고 믿는다. 호탕하고 시원한 성격, 발군의 철거 능력으로 온천개발부 모두에게서 두터운 신임을 얻고 있다.",
+      "en": "The backbone of the Hot Springs Department and foreman at their construction sites.\n\nShe believes with all her heart that demolition can solve any problem.\nHer personality is bold and confident, and she's earned the trust of everyone in the Hot Springs Department due to her excellent demolition skills.",
+      "ja": "ゲヘナ学園所属、温泉開発部の心臓であり、開発現場の作業班長。\n\nすべての問題事を「撤去する」ことで解決できると心の底から信じている。豪快で竹を割ったような性格、抜群の撤去能力で温泉開発部員から厚い信頼を得ている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "메구",
+        "메구",
+        "메구 블루아카이브"
+      ],
+      "en": [
+        "megu_(blue_archive)",
+        "megu",
+        "blue_archive_megu"
+      ],
+      "ja": [
+        "メグ",
+        "メグ(ブルーアーカイブ)",
+        "ブルーアーカイブ メグ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.393360Z"
+}

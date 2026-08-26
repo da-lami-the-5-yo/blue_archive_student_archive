@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하스미",
+      "en": "Hasumi",
+      "ja": "ハスミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 정의실현부의 2인자.\n\n광란의 아이콘인 부장 츠루기를 대신해 정의실현부의 전술지휘관 역할도 담당하고 있다. 때문에 침착한 지적인 트리니티 여학생처럼 보이기도 하지만, 그녀 역시 정의실현부의 일원이다. 누구보다도 침착하게, 무모한 행동을 하기도 한다.",
+      "en": "The second-in-command of Trinity's Justice Task Force.\n\nHasumi also acts as the task force's tactical commander on behalf of the wild and ferocious club president, Tsurugi. She may seem like any other ordinary Trinity student, but make no mistake, she's a Justice Task Force member through and through. At times she'll do incredibly reckless things with absolute calm.",
+      "ja": "トリニティ総合学園所属、正義実現委員会のNo.2。\n\n狂乱の象徴である委員長、ツルギの代わりに、正義実現委員会の戦術指揮官の役割も担当している。そのため一見、落ち着いていて知的という「これぞトリニティの生徒」という模範的な生徒にも見えるが、れっきとした正義実現委員会の一員である。誰よりも冷静に、時には無茶な行動をしたりもする。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하스미",
+        "하스미",
+        "하스미 블루아카이브"
+      ],
+      "en": [
+        "hasumi_(blue_archive)",
+        "hasumi",
+        "blue_archive_hasumi"
+      ],
+      "ja": [
+        "ハスミ",
+        "ハスミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハスミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.361911Z"
+}

@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시모쿠라 메구",
+      "en": "Shimokura Megu",
+      "ja": "下倉メグ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "온천개발부",
+      "en": "Hot Springs Department",
+      "ja": "温泉開発部"
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "여름 하늘의 프로미스 이벤트에서 화염방사기 튜브를 든 메구의 수영복 스탠딩.",
+      "en": "Unreleased 수영복 variant for Shimokura Megu.",
+      "ja": "下倉メグの未実装수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "수영복 메구",
+        "수메구"
+      ],
+      "en": [
+        "shimokura_megu_(swimsuit)_(blue_archive)"
+      ],
+      "ja": [
+        "下倉メグ(水着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.454367Z"
+}

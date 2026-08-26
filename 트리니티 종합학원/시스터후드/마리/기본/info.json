@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "마리",
+      "en": "Mari",
+      "ja": "マリー"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "시스터후드",
+      "en": "The Sisterhood",
+      "ja": "シスターフッド"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "시스터후드 소속의 신실하고 자애로운 소녀.\n\n언제나 상냥하고 부드러운 미소로 트리니티의 학생들을 맞이한다. 귀여운 인상이지만, 차분하고 마음이 편해지는 분위기라 상담하러 오는 학생들이 많다. 늘 스스로가 부족하다고 여기기 때문에, 다른 선배들처럼 훌륭한 시스터가 되겠다는 꿈을 가지고 있다.",
+      "en": "A sincere and benevolent girl affiliated with the Sisterhood.\n\nShe always greets Trinity students with a friendly smile. Despite her cuteness, many come to her for counseling because of the calm and relaxing air about her. She is self-critical and always considers herself as lacking, but she dreams of becoming a great Sister like her upperclassmen.",
+      "ja": "トリニティ総合学園所属、シスターフッドの敬虔で誠実な少女。\n\n一見して可愛らしい印象も受けるが、それ以上にその落ち着いた雰囲気と常に絶やさない柔らかい笑みに惹かれ、相談にやってくる生徒は数知れず。まだまだ自分は未熟だと感じており、早く他の先輩たちのような立派なシスターになりたいと思い続けている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "마리",
+        "마리",
+        "마리 블루아카이브"
+      ],
+      "en": [
+        "mari_(blue_archive)",
+        "mari",
+        "blue_archive_mari"
+      ],
+      "ja": [
+        "マリー",
+        "マリー(ブルーアーカイブ)",
+        "ブルーアーカイブ マリー"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.378565Z"
+}

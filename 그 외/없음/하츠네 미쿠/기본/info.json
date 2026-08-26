@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하츠네 미쿠",
+      "en": "Miku",
+      "ja": "ミク"
+    },
+    "school": {
+      "kr": "그 외",
+      "en": "Etc.",
+      "ja": "その他"
+    },
+    "club": {
+      "kr": "없음",
+      "en": "None",
+      "ja": "無し"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "노래 부르기를 좋아하는 명랑한 성격의 버추얼 싱어.\n\n본래는 현실의 신체를 갖지 않은 가상의 존재였지만, 라이브 공연을 앞두고 키보토스의 기술력을 빌려 현실 세계로 나오게 되었다. 시간과 공간을 초월하여 노래를 전달할 수 있는 버추얼 싱어의 특성상 키보토스에도 그녀의 숨은 팬이 꽤 존재한다고 한다.",
+      "en": "A virtual idol with a cheerful personality who loves to sing.\n\nOriginally, she only existed virtually online with no physical body, but she came to exist in the real world just in time for her live performance with the help of Kivotos' technology. She has quite a few hidden fans in Kivotos due to her ability to sing across time and space.",
+      "ja": "いつも明るくて、歌うことが大好きなバーチャル・シンガー。\n\n本来は現実の身体を持たない電子的な存在だったが、キヴォトスの技術を利用することで肉体を得てこの世界に降り立つことができた。時間と空間を超えて歌を届けることができるバーチャル・シンガーという特性上、やはりここキヴォトスにも彼女の隠れファンたちがたくさんいるようで、この世界で開催される予定のライブをとても楽しみにしている様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하츠네 미쿠",
+        "하츠네 미쿠",
+        "하츠네 미쿠 블루아카이브"
+      ],
+      "en": [
+        "miku_(blue_archive)",
+        "miku",
+        "blue_archive_miku"
+      ],
+      "ja": [
+        "ミク",
+        "ミク(ブルーアーカイブ)",
+        "ブルーアーカイブ ミク"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.378849Z"
+}

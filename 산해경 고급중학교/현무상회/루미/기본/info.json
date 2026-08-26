@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "루미",
+      "en": "Rumi",
+      "ja": "ルミ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing",
+      "ja": "山海経"
+    },
+    "club": {
+      "kr": "현무상회",
+      "en": "Black Tortoise Promenade",
+      "ja": "玄武商会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "산해경 학원 내에 존재하는 미식 거리, <현무상회>를 총괄하는 상회의 회장.\n\n탁월한 운영 능력의 소유자로 평범한 먹자골목에 불과했던 현무상회를 키보토스 전역에서 손꼽는 미식 거리로 성장시켰다. 그 때문에 독자적인 세력이 성장하는 것을 경계하는 산해경 학생회로부터는 눈엣가시로 여겨지고 있지만, 루미 본인은 상회를 발전시키는 것 이외의 일에는 관심이 없다고 한다.",
+      "en": "President of the Black Tortoise Promenade, a food district in Shanhaijing Academy.\n\nPossessing exceptional operational skills, Rumi has grown the Black Tortoise Promenade from a run-of-the-mill food alley into one of the most sought-after food districts in Kivotos. This has made her a thorn in the side of the Shanhaijing Student Council, who is wary of the growth of independent factions. Rumi denies this and claims she isn't interested in anything other than cooking and advancing the promenade.",
+      "ja": "山海経高級中学校所属、グルメ街「玄武商会」の会長。\n\n平凡な商店街だった玄武商会をキヴォトス屈指のグルメ街へと成長させた卓越した運営能力を持つ。独自勢力の成長を警戒する山海経の生徒会からは目の敵にされているが、ルミ本人は商会を発展させる以外のことには興味がない模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "루미",
+        "루미",
+        "루미 블루아카이브"
+      ],
+      "en": [
+        "rumi_(blue_archive)",
+        "rumi",
+        "blue_archive_rumi"
+      ],
+      "ja": [
+        "ルミ",
+        "ルミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ルミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.396545Z"
+}

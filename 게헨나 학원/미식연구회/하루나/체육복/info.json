@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하루나",
+      "en": "Haruna",
+      "ja": "ハルナ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "체육복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "진동",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "황륜대제를 맞아 체육복으로 갈아입은 하루나.\n\n언제, 어떤 곳이라도 하루나의 미식에 대한 탐구는 계속된다. 아니, 오히려 황륜대제라는 키보토스 최대의 체육제에서만 맛볼 수 있는 미식을 찾는 중이다. 특별히 뜨거워진 분위기 덕분일까, 평소보다 조금 신이 나 있는 듯이 보이기도, 어딘가 친절해진 듯이 보이기도 한다. ",
+      "en": "Haruna has changed into her gym clothes for the Kivotos Halo Festival.\n\nNo matter where she is, Haruna's quest for food never ends. This time, she's set her eyes on the culinary delights that can only be found at Kivotos' biggest athletic event. Maybe it's because of the excitement in the air, but she seems even more friendly than usual. ",
+      "ja": "晄輪大祭のために体操服に着替えたゲヘナ学園所属、美食研究会の部長。\n\nいつでも、どこでも、美食への探求は続いており、晄輪大祭というキヴォトス最大の大運動会でしか味わえない美食を求めてさまよっている。盛り上がっている現場の雰囲気にあてられたのか、いつもより少し楽しそうだ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하루나",
+        "하루나(체육복)",
+        "하루나 블루아카이브"
+      ],
+      "en": [
+        "haruna_(blue_archive)",
+        "haruna",
+        "blue_archive_haruna"
+      ],
+      "ja": [
+        "ハルナ",
+        "ハルナ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハルナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.401980Z"
+}

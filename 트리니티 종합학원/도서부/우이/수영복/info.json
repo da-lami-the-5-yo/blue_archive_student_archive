@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우이",
+      "en": "Ui",
+      "ja": "ウイ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "도서부",
+      "en": "Library Committee",
+      "ja": "図書委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "탄력장갑"
+    },
+    "description": {
+      "kr": "시스터후드와의 거래로 유적을 조사하러 온 트리니티 도서부 부장.\n\n바깥을 돌아다니며 몸 쓰는 활동들이 썩 달갑지 않지만, 고서와 유적, 유물에 진심인 성격상 조사에는 진지하게 임한다.",
+      "en": "The president of the Trinity Library Committee. She's investigating the ruins as part of a deal with the Sisterhood.\n\nShe doesn't enjoy the outdoors much, but she's taking the investigation seriously, as she has a passion for ancient manuscripts, ruins, and artifacts.",
+      "ja": "遺跡調査に来たトリニティ総合学園所属、図書委員会の委員長。\n\n外に出て体を動かす事は苦手だが、古書や遺跡、遺物好きのため調査自体には真面目に取り組んでいる模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "우이",
+        "우이(수영복)",
+        "우이 블루아카이브"
+      ],
+      "en": [
+        "ui_(blue_archive)",
+        "ui",
+        "blue_archive_ui"
+      ],
+      "ja": [
+        "ウイ",
+        "ウイ(ブルーアーカイブ)",
+        "ブルーアーカイブ ウイ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.398153Z"
+}

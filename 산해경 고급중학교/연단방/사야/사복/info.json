@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사야",
+      "en": "Saya",
+      "ja": "サヤ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing",
+      "ja": "山海経"
+    },
+    "club": {
+      "kr": "연단방",
+      "en": "Eastern Alchemy Society",
+      "ja": "錬丹術研究会"
+    },
+    "seasonal": "사복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "바쁜 일상에서 벗어나 모처럼 여유로운 휴일을 보내게 된 산해경의 천재 발명가.\n\n연구실에 틀어박혀 신약 연구에만 몰두하는 평소의 모습과는 달리, 휴일의 사야는 스케이트 보드를 타고 거리를 누빌 정도로 활동적이다. 하지만 새로운 것을 끊임없이 탐구하는 그녀의 지적 호기심만큼은 휴일에도 변함이 없다.",
+      "en": "The genius inventor of Shanhaijing on a day off from her busy life.\n\nContrary to her usual days of being confined to the lab and devoting herself solely to researching new elixirs, Saya is active enough to ride a skateboard and roam around the streets during her days off. However, her constant intellectual curiosity for exploring new things remains the same even when she's taking it easy.",
+      "ja": "山海経高級中学校所属、忙しい日常から抜け出して久々の休日を満喫している天才発明家。\n\n研究室に閉じこもって新薬の研究に没頭する普段の姿とは異なり、休日のサヤはスケートボードで街を駆け回るような活動的な様を見せる。しかし休日だからと言って、絶えず新しいものを追求し続ける彼女の知的好奇心が変わることはない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사야",
+        "사야(사복)",
+        "사야 블루아카이브"
+      ],
+      "en": [
+        "saya_(blue_archive)",
+        "saya",
+        "blue_archive_saya"
+      ],
+      "ja": [
+        "サヤ",
+        "サヤ(ブルーアーカイブ)",
+        "ブルーアーカイブ サヤ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.377374Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이즈미",
+      "en": "Izumi",
+      "ja": "イズミ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 미식연구회의 일원으로 무더운 여름에도 식욕이 왕성한 먹보 소녀.\n\n여름을 맞이해, 한 손엔 수박을, 다른 한 손에는 아이스박스를 들고선 이름난 여름 별미를 찾아 이번엔 특별히 키보토스의 해변가를 찾아왔다. 초코맛 장어구이, 매운맛 빙수, 민트초코를 뿌린 수박 등등. 키보토스에서도 둘째 가라면 서러울 각종 별미를 추구하는 그녀의 괴식 탐구 활동은, 뜨거운 여름 바다에서도 계속해서 이어진다.",
+      "en": "A Gehenna Gourmet Research Society member with a gluttonous appetite even during the summer.\n\nShe visits the beach with a watermelon in one hand and an ice cooler in the other in search of renown summer delicacies: Chocolate-flavored grilled unagi, spicy shaved ice, watermelon sprinkled with mint chocolate, and more. Her pursuit of various delicacies in Kivotos are second to none as her peculiar excursions continue even on the hot summer beach.",
+      "ja": "ゲヘナ学園所属、蒸し暑い夏でも食欲旺盛な美食研究会の食いしん坊少女。\n\n右手にスイカ、左手にはクーラーボックス。それでもさらなる夏のグルメを求めて、彼女は海へとやってきた。チョコ味のウナギのかば焼き、激辛かき氷、チョコミントをかけたスイカなど、夏ともなればシーズン特有の変なメニューには事欠かない。そんなゲテモノを含め、ありとあらゆる食べ物を追求しようとするその情熱は、夏の暑さに比肩するほど燃え盛っている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이즈미",
+        "이즈미(수영복)",
+        "이즈미 블루아카이브"
+      ],
+      "en": [
+        "izumi_(blue_archive)",
+        "izumi",
+        "blue_archive_izumi"
+      ],
+      "ja": [
+        "イズミ",
+        "イズミ(ブルーアーカイブ)",
+        "ブルーアーカイブ イズミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.375988Z"
+}

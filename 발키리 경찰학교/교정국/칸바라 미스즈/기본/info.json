@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "칸바라 미스즈",
+      "en": "Kanbara Misuzu",
+      "ja": "神原ミスズ"
+    },
+    "school": {
+      "kr": "발키리 경찰학교",
+      "en": "Valkyrie Police Academy",
+      "ja": "ヴァルキューレ警察学校"
+    },
+    "club": {
+      "kr": "교정국",
+      "en": "Correctional Bureau",
+      "ja": "矯正局"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "발키리 경찰학교 교정국 소속 경관.",
+      "en": "Unreleased student from Valkyrie Police Academy Correctional Bureau.",
+      "ja": "ヴァルキューレ警察学校 矯正局所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "칸바라 미스즈"
+      ],
+      "en": [
+        "kanbara_misuzu_(blue_archive)"
+      ],
+      "ja": [
+        "神原ミスズ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.427775Z"
+}

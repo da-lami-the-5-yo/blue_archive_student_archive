@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시즈코",
+      "en": "Shizuko",
+      "ja": "シズコ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "마츠리운영관리부",
+      "en": "Festival Operations Department",
+      "ja": "お祭り運営委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "백귀야행 학원 마츠리운영관리부의 부장.\n\n동시에 백귀야행의 전통 찻집 <백야당>의 마스코트 소녀. 평소 덜렁이를 연기하지만, 그건 어디까지나 팔리는 아이돌로서 꾸며낸 모습. 실제로는 축제의 성공과 백야당의 매출을 위해서라면 어떤 일이든 해내는 프로 내숭쟁이. 다만 매사 감정 표현이 솔직하기 때문에 친한 친구들은 물론, 선생님에겐 전부 들통나 있다.",
+      "en": "President of the Festival Operations Department at Hyakkiyako Academy.\n\nThe mascot of Momoyodou, the Hyakkiyako's traditional tea house. Acts clumsy, but only because it sells her image as an idol. In truth, she's an expert flirt willing to do anything for the success of the festivals and Momoyodou. Wears her heart on her sleeve, making her an easy read for her friends as well as Sensei.",
+      "ja": "百鬼夜行連合学院所属、お祭り運営委員会の委員長。\n\n同時に、伝統的な喫茶店「百夜堂」の看板娘兼オーナーでもある。普段は「百夜堂で働いているドジっ子な女の子」だが、それはあくまでも看板娘としての一面に過ぎない。実際はお祭りの成功と百夜堂の売上のためなら何でも成し遂げてみせる、プロフェッショナル気質な少女。ただし油断すると感情表現が素直に出てしまうため、親しい友人はもちろん、先生にも全てバレてしまっている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시즈코",
+        "시즈코",
+        "시즈코 블루아카이브"
+      ],
+      "en": [
+        "shizuko_(blue_archive)",
+        "shizuko",
+        "blue_archive_shizuko"
+      ],
+      "ja": [
+        "シズコ",
+        "シズコ(ブルーアーカイブ)",
+        "ブルーアーカイブ シズコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.371021Z"
+}

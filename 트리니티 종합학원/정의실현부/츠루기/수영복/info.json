@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠루기",
+      "en": "Tsurugi",
+      "ja": "ツルギ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "청춘의 낭만을 좇아 여름 바다를 찾아온 트리니티 정의실현부의 부장.\n\n모처럼 얻은 여름 휴가를 즐기기 위해, 트리니티의 전략병기라고 불릴 만큼 폭력적인 자신의 기질을 억눌러가며 청춘을 즐기려 하지만…… 여름의 바다는 그녀의 뜻대로 흘러가지 않는다.",
+      "en": "Trinity's Justice Task Force's president comes to the beach in pursuit of the romance of youth.\n\nShe tries her best to suppress her violent temperament famous for being Trinity's secret weapon and enjoy her youth on vacation...but the beach didn't pan out the way she wanted.",
+      "ja": "トリニティ総合学園所属、青春のロマンを求めて海へと降り立った、正義実現委員会の委員長にして戦略兵器。\n\nせっかくの夏休みを楽しもうと、自身の暴力的な気質を押さえながら青春を楽しもうとするものの……どうやら夏の海は、彼女の思い通りにはなってくれない様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "츠루기",
+        "츠루기(수영복)",
+        "츠루기 블루아카이브"
+      ],
+      "en": [
+        "tsurugi_(blue_archive)",
+        "tsurugi",
+        "blue_archive_tsurugi"
+      ],
+      "ja": [
+        "ツルギ",
+        "ツルギ(ブルーアーカイブ)",
+        "ブルーアーカイブ ツルギ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.374621Z"
+}

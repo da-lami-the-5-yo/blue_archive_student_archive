@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미나",
+      "en": "Mina",
+      "ja": "ミナ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing",
+      "ja": "山海経"
+    },
+    "club": {
+      "kr": "현룡문",
+      "en": "Genryumon",
+      "ja": "玄竜門"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "산해경 학원의 학생회 <현룡문>의 집행부장이자, 학생회장을 호위하는 직속 경호원.\n\n쿨하고 냉철해 보이는 인상과는 달리, 실상은 중증의 고전 느와르 영화 마니아로, 영화에서나 나올 법한 멋진 상황과 대사를 동경하고 있다. 상황 파악을 하지 못하고 멋을 부리다가 호되게 당하는 일도 종종 있지만, <현룡문>의 부원들은 그녀의 기분이 상하지 않도록 짐짓 모른 척해주고 있다.",
+      "en": "Executive Officer of Genryumon, Shanhaijing's student council, and the Student Council President's personal bodyguard.\n\nDespite her calm and collected demeanor, she's a hardcore classic noir movie buff. She likes to quote scenes and lines from movies, although often incorrectly. She gets into trouble trying to be cool at inappropriate times, but Genryumon members do their best to mitigate the damage.",
+      "ja": "山海経高級中学校所属、生徒会「玄龍門」の執行部長兼、生徒会長の護衛。\n\nクールで冷徹な印象の外見とは裏腹に、実は古いノワール映画のマニア。映画に出るようなかっこいい状況やセリフに憧れている。カッコつけて映画のようなセリフを口にして痛い目にあうこともしばしばだが、「玄龍門」の部員は気にしないようにしているらしい。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미나",
+        "미나",
+        "미나 블루아카이브"
+      ],
+      "en": [
+        "mina_(blue_archive)",
+        "mina",
+        "blue_archive_mina"
+      ],
+      "ja": [
+        "ミナ",
+        "ミナ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.396788Z"
+}

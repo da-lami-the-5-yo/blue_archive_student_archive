@@ -1,0 +1,68 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "소라사키 히나",
+      "en": "Sorasaki Hina",
+      "ja": "空崎ヒナ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "선도부",
+      "en": "Prefect Team",
+      "ja": "風紀委員会"
+    },
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "에덴조약 편 3장 및 소야곡 이벤트에서 등장한 히나의 잠옷/파자마 스탠딩 CG.",
+      "en": "Unreleased 파자마 variant for Sorasaki Hina.",
+      "ja": "空崎ヒナの未実装파자마衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "잠옷 히나",
+        "파자마 히나"
+      ],
+      "en": [
+        "sorasaki_hina_(pajamas)_(blue_archive)"
+      ],
+      "ja": [
+        "空崎ヒナ(パジャマ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 3,
+    "unofficial_rank02": 0,
+    "total_images": 4
+  },
+  "images": {
+    "공식": [],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.51.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.60.jpg",
+        "비공식/rank01/fanart_7088158_rank01_0.51.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.444968Z"
+}

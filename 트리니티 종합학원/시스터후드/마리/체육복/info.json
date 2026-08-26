@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "마리",
+      "en": "Mari",
+      "ja": "マリー"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "시스터후드",
+      "en": "The Sisterhood",
+      "ja": "シスターフッド"
+    },
+    "seasonal": "체육복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "황륜대제 참가를 위해 체육복으로 갈아입은 시스터후드 소녀.\n\n키보토스의 평화를 기원하는 축제라는 말에, 기쁜 마음으로 실행위원 업무에 자원하였다. 하지만 예상과 달리 대회 내내 다툼과 말썽이 끊이질 않고, 특유의 헌신적인 성격과 맞물려 계속해서 트러블에 휘말린다.",
+      "en": "A student from the Sisterhood. She's dressed in track clothes to participate in the Kivotos Halo Festival.\n\nShe eagerly volunteered for the Executive Committee, believing deeply in the festival's purpose: wishing for peace in Kivotos. However, the festival has been mired in trouble and conflict, and, due to her dedication, Mari has been caught up by it too.",
+      "ja": "トリニティ総合学園所属、晄輪大祭に参加するため、体操服に着替えたシスターフッドのシスター。\n\nキヴォトスの平和を祈るお祭りと聞いて、実行委員の仕事に志願したものの、蓋を開けてみれば絶えず争いとトラブルが発生していた。それに加え、元来他人を放っておけない優しい性格も相まって、マリーは様々なトラブルに巻き込まれ続けている様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "마리",
+        "마리(체육복)",
+        "마리 블루아카이브"
+      ],
+      "en": [
+        "mari_(blue_archive)",
+        "mari",
+        "blue_archive_mari"
+      ],
+      "ja": [
+        "マリー",
+        "マリー(ブルーアーカイブ)",
+        "ブルーアーカイブ マリー"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.390305Z"
+}

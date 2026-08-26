@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코유키",
+      "en": "Koyuki",
+      "ja": "コユキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 세미나의 골칫덩이인 천재 소녀.\n\n수학적 암호 해독에 독보적인 재능을 가졌지만 정작 본인은 전혀 자각이 없다. 늘 여러 가지 방법으로 자신의 운을 시험하며, 대부분 호된 꼴을 당함에도 포기하지 않는다.",
+      "en": "A brilliant yet troublesome member of Millennium's Seminar.\n\nShe's completely unaware of her unrivaled talent for mathematical decryption. She always sets out to test her luck. Even if she goes too far and lands in hot water, she never stops.",
+      "ja": "ミレニアムサイエンススクール所属、生徒会「セミナー」のトラブルメーカーな天才少女。\n\n数学的な暗号の解読に関して、天賦の才を持っているが、本人にはその自覚が全くない。また、自分では制御できない運が絡む要素が好きで、様々な方法で自分の運を試している。苦難にあっても諦めない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코유키",
+        "코유키",
+        "코유키 블루아카이브"
+      ],
+      "en": [
+        "koyuki_(blue_archive)",
+        "koyuki",
+        "blue_archive_koyuki"
+      ],
+      "ja": [
+        "コユキ",
+        "コユキ(ブルーアーカイブ)",
+        "ブルーアーカイブ コユキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.394605Z"
+}

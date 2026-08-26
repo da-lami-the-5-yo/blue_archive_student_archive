@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "키라라",
+      "en": "Kirara",
+      "ja": "キララ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "반짝반짝부",
+      "en": "Sparkle Club",
+      "ja": "キラキラ部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 학원에 다니는 밝은 성격의 여고생.\n\n늘 새롭고 두근두근한 일이 일어나기를 기대하고 있으며, 처음 만난 사람과도 오랜 친구처럼 대화할 수 있을 정도로 친화력이 좋다.",
+      "en": "ゲヘナ学園所属、明るい性格の持ち主の女子高生。\n\nいつも目新しさやドキドキすることを待ち望んでいる少女。初めて出会った人とも仲良くおしゃべりできるくらい、社交性が高い性格。",
+      "ja": "ゲヘナ学園所属、明るい性格の持ち主の女子高生。\n\nいつも目新しさやドキドキすることを待ち望んでいる少女。初めて出会った人とも仲良くおしゃべりできるくらい、社交性が高い性格。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "키라라",
+        "키라라",
+        "키라라 블루아카이브"
+      ],
+      "en": [
+        "kirara_(blue_archive)",
+        "kirara",
+        "blue_archive_kirara"
+      ],
+      "ja": [
+        "キララ",
+        "キララ(ブルーアーカイブ)",
+        "ブルーアーカイブ キララ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.411554Z"
+}

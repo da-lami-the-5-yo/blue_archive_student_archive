@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "후우카",
+      "en": "Fuuka",
+      "ja": "フウカ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "급양부",
+      "en": "School Lunch Club",
+      "ja": "給食部"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "새해를 맞아 기모노를 차려 입은 후우카.\n\n올해에야말로 제발 평온한 나날이 지속되기를 바라지만, 그녀를 둘러싼 환경이 그것을 허락해 줄지는 아직 미지수인 듯하다.",
+      "en": "Fuuka is dressed up in a kimono for the New Year.\n\nShe is hoping for peaceful days in the upcoming year, but given her surroundings, that doesn't seem likely.",
+      "ja": "ゲヘナ学園所属、新年を迎え、着物に着替えた給食部の部員。\n\n今年こそどうか平穏な日々が続くようにと願っているものの、周囲の環境がそれを許してくれるかはまだ未知数のようだ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "후우카",
+        "후우카(새해)",
+        "후우카 블루아카이브"
+      ],
+      "en": [
+        "fuuka_(blue_archive)",
+        "fuuka",
+        "blue_archive_fuuka"
+      ],
+      "ja": [
+        "フウカ",
+        "フウカ(ブルーアーカイブ)",
+        "ブルーアーカイブ フウカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.392193Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "모모이",
+      "en": "Momoi",
+      "ja": "モモイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "메이드",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "\"밀레니엄 학원, 게임 개발부의 시나리오 라이터.\n\n어쩌다 보니 C&C로 오해를 받아, 메이드복까지 입게 되고 말았다. 오해를 풀 사이도 없이 사건에 휘말리고, 휘말리고, 또다시 휘말려 들어가지만…… 특유의 밝고 당당한 태도로, 다가오는 모든 역경에 맞서 나간다.\"",
+      "en": "ミレニアムサイエンススクール所属、ゲーム開発部のシナリオライター。\n\nひょんなことからC&Cとして誤解され、メイド服まで着ることに。さらには事件にまで巻き込まれるが、彼女特有の明るく堂々とした振る舞いで、逆境に立ち向かう。",
+      "ja": "ミレニアムサイエンススクール所属、ゲーム開発部のシナリオライター。\n\nひょんなことからC&Cとして誤解され、メイド服まで着ることに。さらには事件にまで巻き込まれるが、彼女特有の明るく堂々とした振る舞いで、逆境に立ち向かう。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "모모이",
+        "모모이(메이드)",
+        "모모이 블루아카이브"
+      ],
+      "en": [
+        "momoi_(blue_archive)",
+        "momoi",
+        "blue_archive_momoi"
+      ],
+      "ja": [
+        "モモイ",
+        "モモイ(ブルーアーカイブ)",
+        "ブルーアーカイブ モモイ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.411885Z"
+}

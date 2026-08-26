@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "린카",
+      "en": "Rinka",
+      "ja": "リンカ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "매화원",
+      "en": "Meihuayuan",
+      "ja": "梅花園"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "산해경 매화원 소속 원생.",
+      "en": "Unreleased student from Shanhaijing Senior Secondary School Meihuayuan.",
+      "ja": "山海経高級中学校 梅花園所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "산해경 린카"
+      ],
+      "en": [
+        "rinka_(blue_archive)"
+      ],
+      "ja": [
+        "リンカ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.426852Z"
+}

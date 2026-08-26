@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코하루",
+      "en": "Koharu",
+      "ja": "コハル"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "선생님을 감시하기 위해 따라온 보충수업부의 일원.\n\n모두를 감시하겠다는 사명감을 가지고 있지만, 반쯤 휴양을 즐기러 온 지금의 상황 또한 마냥 싫지만은 않다.",
+      "en": "A member of the Make-Up Work Club who's come to spy on Sensei.\n\nWhile she feels a sense of duty to keep an eye on things, she's not unhappy that she's basically on vacation.",
+      "ja": "先生を監視すべく島にやってきたトリニティ総合学園所属、補習授業部の一員。\n\n正義実現委員会の一人として、風紀を乱すものを許さない！という使命感を持っているが、島でのバカンスも悪くないと思っている模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코하루",
+        "코하루(수영복)",
+        "코하루 블루아카이브"
+      ],
+      "en": [
+        "koharu_(blue_archive)",
+        "koharu",
+        "blue_archive_koharu"
+      ],
+      "ja": [
+        "コハル",
+        "コハル(ブルーアーカイブ)",
+        "ブルーアーカイブ コハル"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.399520Z"
+}

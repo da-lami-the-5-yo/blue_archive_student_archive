@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카요코",
+      "en": "Kayoko",
+      "ja": "カヨコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "흥신소 68의 과장.\n\n새해를 맞이해 다른 멤버들과 마찬가지로 꾸며 입었지만, 마치 평소에도 자주 입었던 것처럼 그 행동거지에 어색함은 없다. 새해맞이 행사장에서 벌어진 소동에 귀찮아하는 기색을 역력히 드러내지만, 흥신소 68의 멤버들을 위해서라면 지혜를 빌려주는 것을 주저하지 않는다.",
+      "en": "Problem Solver 68's department head.\n\nShe dressed up for New Year's with the other members, and it's like she was born to wear the dress! She's obviously annoyed by all the commotion at the New Year's Eve event, but she'll always do her best to help out Problem Solver 68 with her brains and wit.",
+      "ja": "新年を迎えたゲヘナ学園所属、便利屋68の課長。\n\n新年を迎えて他のメンバーと同じく着飾ったはずなのに、まるで普段から袖を通しているかのように、その立ち居振る舞いには貫禄がある。騒動を面倒くさがってはいるものの、便利屋68のためなら知恵を貸してくれる。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카요코",
+        "카요코(새해)",
+        "카요코 블루아카이브"
+      ],
+      "en": [
+        "kayoko_(blue_archive)",
+        "kayoko",
+        "blue_archive_kayoko"
+      ],
+      "ja": [
+        "カヨコ",
+        "カヨコ(ブルーアーカイブ)",
+        "ブルーアーカイブ カヨコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.394818Z"
+}

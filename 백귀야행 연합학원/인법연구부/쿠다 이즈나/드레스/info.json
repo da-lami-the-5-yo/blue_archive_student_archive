@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쿠다 이즈나",
+      "en": "Kuda Izuna",
+      "ja": "久田イズナ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Allied Hyakkiyako Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "인법연구부",
+      "en": "Ninpo Research Club",
+      "ja": "忍術研究部"
+    },
+    "seasonal": "드레스",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "불인의 길 패션쇼 경호 임무에서 착용한 이즈나의 닌자 파티 드레스.",
+      "en": "Unreleased 드레스 variant for Kuda Izuna.",
+      "ja": "久田イズナの未実装드레스衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "드레스 이즈나",
+        "드즈나"
+      ],
+      "en": [
+        "kuda_izuna_(dress)_(blue_archive)"
+      ],
+      "ja": [
+        "久田イズナ(ドレス)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.454833Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠바키",
+      "en": "Tsubaki",
+      "ja": "ツバキ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "수행부",
+      "en": "Inner Discipline Club",
+      "ja": "修行部"
+    },
+    "seasonal": "가이드",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "언제나 어디서나 잘 자는 수행을 멈추지 않는 수행부의 부장님.\n\n수학여행을 맞아 백귀야행을 안내하는 가이드로서의 역할을 시작했지만, 수면에 대한 수행 역시 놓치고 싶지 않은듯 하다. 때로는 졸면서, 때로는 날카롭게 핵심을 찌르면서, 그녀는 어떻게든 양쪽 모두를 충실하게 이행한다.",
+      "en": "いつでも何処でも眠る修行をやめない百鬼夜行連合学院所属、修行部の部長。\n\n修学旅行を迎え百鬼夜行を案内するガイドの役割につくが、睡眠の修行も諦めない。時には居眠りをしたり、時には鋭く核心を突いたりするなど、さりげなく両方をこなしている。",
+      "ja": "いつでも何処でも眠る修行をやめない百鬼夜行連合学院所属、修行部の部長。\n\n修学旅行を迎え百鬼夜行を案内するガイドの役割につくが、睡眠の修行も諦めない。時には居眠りをしたり、時には鋭く核心を突いたりするなど、さりげなく両方をこなしている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "츠바키",
+        "츠바키(가이드)",
+        "츠바키 블루아카이브"
+      ],
+      "en": [
+        "tsubaki_(blue_archive)",
+        "tsubaki",
+        "blue_archive_tsubaki"
+      ],
+      "ja": [
+        "ツバキ",
+        "ツバキ(ブルーアーカイブ)",
+        "ブルーアーカイブ ツバキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.410063Z"
+}

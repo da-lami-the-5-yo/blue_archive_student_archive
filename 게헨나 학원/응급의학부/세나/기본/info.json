@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "세나",
+      "en": "Sena",
+      "ja": "セナ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "응급의학부",
+      "en": "Medical Emergency Club",
+      "ja": "救急医学部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "사건사고가 끊이질 않는 게헨나의 응급의학부 부장.\n\n어떤 상황 속에서도 늘 무뚝뚝한 얼굴로 부상자들을 실어 나른다. 부상자들을 화물처럼 취급하는 딱딱한 모습과 달리, 게헨나 전역의 수많은 부상자를 이송하면서도 불평 한마디 한 적이 없다.",
+      "en": "President of Gehenna's always busy Medical Emergency Club.\n\nShe transports the wounded with a stoic face no matter the situation. She may seem apathetic as she treats the wounded like inanimate cargo, but she has never once complained about transporting numerous injured people all over Gehenna.",
+      "ja": "ゲヘナ学園所属、救急医学部の部長。\n\nゲヘナで日々起こり続ける事件・事故の中、どんな状況でも不平不満を漏らすことなく、いつも無愛想な顔で負傷者を運んでいる。数多くの負傷者を救ってきた経歴の持ち主だが、負傷者を「死体」と呼び間違える癖やその手荒な扱い方のせいで、一部の生徒からはやや遠巻きにされている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "세나",
+        "세나",
+        "세나 블루아카이브"
+      ],
+      "en": [
+        "sena_(blue_archive)",
+        "sena",
+        "blue_archive_sena"
+      ],
+      "ja": [
+        "セナ",
+        "セナ(ブルーアーカイブ)",
+        "ブルーアーカイブ セナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.381968Z"
+}

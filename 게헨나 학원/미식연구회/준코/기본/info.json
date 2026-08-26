@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "준코",
+      "en": "Junko",
+      "ja": "ジュンコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 미식연구회의 까탈스러운 폭식가.\n\n괴식을 먹어 치우거나 폭식을 일삼는 다른 미식연구회의 부원들과는 달리 상식적인 미식을 즐기는 편이나, 맛있는 음식을 눈앞에 두면 이성을 잃어버리곤 한다.",
+      "en": "Resident glutton of the Gehenna Gourmet Research Society.\n\nThough Junko's more of a conventional gastronome compared to the other binge-eating, frankenfood-gobbling members of the Gourmet Research Society, she still goes hog wild when presented with a scrumptious delicacy.",
+      "ja": "ゲヘナ学園所属、美食研究会のお澄ましさんな暴食家。\n\nゲテモノを食べたり暴食を繰り返す他の美食研究会のメンバー達と違い、ある程度常識的な美食を楽しむ方だが、美味しい食べ物を目の前にすると理性を失ってしまうこともある。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "준코",
+        "준코",
+        "준코 블루아카이브"
+      ],
+      "en": [
+        "junko_(blue_archive)",
+        "junko",
+        "blue_archive_junko"
+      ],
+      "ja": [
+        "ジュンコ",
+        "ジュンコ(ブルーアーカイブ)",
+        "ブルーアーカイブ ジュンコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.363119Z"
+}

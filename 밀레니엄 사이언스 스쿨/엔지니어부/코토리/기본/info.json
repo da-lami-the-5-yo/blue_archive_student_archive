@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코토리",
+      "en": "Kotori",
+      "ja": "コトリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineering Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원, 엔지니어부의 부원.\n\n물리학이나 기계의 메커니즘에 대해 떠들기 좋아하는 수다쟁이로, 밀레니엄에서 기계와 관련된 말썽이 발생하면 상황 해설을 하기 위해 현장에 제일 먼저 나타난다.",
+      "en": "Member of the Engineering Department at Millennium Science School.\n\nA chatterbox who loves discussing topics such as physics and mechanics. She's always the first one at the scene to explain what's happening whenever there's a machinery-related problem at Millennium.",
+      "ja": "ミレニアムサイエンススクール所属、エンジニア部の部員。\n\n物理学や機械のメカニズムについて話すと止まらない、おしゃべり好きな女の子。ミレニアムで機械と関連したトラブルが発生すると、いの一番に現場へと現れて状況解説を始める。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코토리",
+        "코토리",
+        "코토리 블루아카이브"
+      ],
+      "en": [
+        "kotori_(blue_archive)",
+        "kotori",
+        "blue_archive_kotori"
+      ],
+      "ja": [
+        "コトリ",
+        "コトリ(ブルーアーカイブ)",
+        "ブルーアーカイブ コトリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.365400Z"
+}

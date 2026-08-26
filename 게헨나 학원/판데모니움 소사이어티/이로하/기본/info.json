@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이로하",
+      "en": "Iroha",
+      "ja": "イロハ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "판데모니움 소사이어티",
+      "en": "Pandemonium Society",
+      "ja": "パンデモニウム・ソサエティー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "판데모니움 소사이어티 소속의 의원.\n\n귀찮은 걸 극도로 싫어해 언제나 도망칠 궁리를 하고 있는 귀차니스트. 매번 독서하는 척을 하며, 남의 눈에 띄지 않도록 숨으려고 드는 이로하지만. 그 시도는 번번이 만마전(정확히는 마코토)에 의해 저지당하고 있다. 하는 수 없이 만마전의 업무를 대행하며 피곤한 나날을 보내고 있는 만마전의 실무자. 그런 이로하에게 있어 유일한 안식처가 되어주는 것은 만마전의 마스코트인 이부키 뿐이다.",
+      "en": "A member of the Pandemonium Society.\n\nThere's nothing Iroha hates more than being bothered. She spends much of her time trying to figure out how to escape company. She even constantly carries a book around so people will leave her alone, but the Pandemonium Society (Makoto, to be exact) always interrupts her anyway. She begrudgingly serves as an executive of the Pandemonium Society, only finding comfort in their mascot, Ibuki.",
+      "ja": "ゲヘナ学園所属、「万魔殿」の議員のひとり。\n\n基本的にめんどくさがりな彼女ではあるが、彼女のいるゲヘナでの日々は問題だらけであり、またその生徒会「万魔殿」（正確にはマコト）も勿論そうはさせてくれない。仕方ない、めんどくさいと口にしながらも、無限に生じる問題や業務やら淡々とこなす中間管理職。同じ「万魔殿」に所属するマスコット的な存在である「イブキ」に癒されながら、彼女は今日もため息を吐きつつ実務をこなしていく。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이로하",
+        "이로하",
+        "이로하 블루아카이브"
+      ],
+      "en": [
+        "iroha_(blue_archive)",
+        "iroha",
+        "blue_archive_iroha"
+      ],
+      "ja": [
+        "イロハ",
+        "イロハ(ブルーアーカイブ)",
+        "ブルーアーカイブ イロハ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.384722Z"
+}

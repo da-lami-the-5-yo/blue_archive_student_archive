@@ -1,0 +1,74 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쿠치나시 유메",
+      "en": "Kuchinashi Yume",
+      "ja": "クチナシ・ユメ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos High School",
+      "ja": "アビドス高等学校"
+    },
+    "club": {
+      "kr": "아비도스 학생회",
+      "en": "Abydos Student Council",
+      "ja": "アビドス生徒会"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "과거 아비도스 학생회장이자 호시노의 선배. 호루스의 방패와 권총의 전 소유자.",
+      "en": "Unreleased student from Abydos High School Abydos Student Council.",
+      "ja": "アビドス高等学校 アビドス生徒会所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "쿠치나시 유메",
+        "유메선배"
+      ],
+      "en": [
+        "yume_(blue_archive)",
+        "kuchinashi_yume"
+      ],
+      "ja": [
+        "クチナシ・ユメ",
+        "ユメ先輩"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 5,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [],
+      "rank02": [
+        "비공식/rank02/fanart_7077508_rank02_0.28.jpg",
+        "비공식/rank02/fanart_7075044_rank02_0.29.jpg",
+        "비공식/rank02/fanart_7075040_rank02_0.34.jpg",
+        "비공식/rank02/fanart_7074966_rank02_0.34.jpg",
+        "비공식/rank02/fanart_7074965_rank02_0.32.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.417088Z"
+}

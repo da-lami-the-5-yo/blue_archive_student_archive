@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이오자쿠 나고미",
+      "en": "Iozaku Nagomi",
+      "ja": "五百雀ナゴミ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "아기새반",
+      "en": "Baby Bird Class",
+      "ja": "ひな鳥組"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "산해경 아기새반 학생.",
+      "en": "Unreleased student from Shanhaijing Senior Secondary School Baby Bird Class.",
+      "ja": "山海経高級中学校 ひな鳥組所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이오자쿠 나고미"
+      ],
+      "en": [
+        "iozaku_nagomi_(blue_archive)"
+      ],
+      "ja": [
+        "五百雀ナゴミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.442685Z"
+}

@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "히메키 메루",
+      "en": "Himeki Meru",
+      "ja": "姫木メル"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter Federal Academy",
+      "ja": "レッドウィンター連邦学園"
+    },
+    "club": {
+      "kr": "지식해방전선",
+      "en": "Knowledge Liberation Front",
+      "ja": "知識解放戦線"
+    },
+    "seasonal": "온천",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "227호 온천장 운영일지 이벤트에서 처음 등장한 메루의 온천 초기 일러스트.",
+      "en": "Unreleased 온천 variant for Himeki Meru.",
+      "ja": "姫木メルの未実装온천衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "온천 메루"
+      ],
+      "en": [
+        "himeki_meru_(onsen)_(blue_archive)"
+      ],
+      "ja": [
+        "姫木メル(温泉)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.445434Z"
+}

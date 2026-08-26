@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "요시미",
+      "en": "Yoshimi",
+      "ja": "ヨシミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "방과후 디저트부",
+      "en": "After-School Sweets Club",
+      "ja": "放課後スイーツ部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 방과후 디저트부 소속의 부원.\n\n작은 키와 체형이 콤플렉스인 난폭한 소동물 같은 소녀. 늘 어른스러워지고 싶다고 생각하지만, 생각하는 게 얼굴에 그대로 드러나기에 큰 성과는 없다. 다만 디저트 카페를 순회하며 한정판 디저트를 맛볼 때만큼은 누구보다 활짝 웃는다.",
+      "en": "A member of the Trinity After-School Sweets Club.\n\nA girl with a height complex that gives off the impression of a small, angry animal. Constantly fixated on appearing more mature, her tendency to wear her heart on her sleeve gets her into trouble. She can't help but smile widely when visiting dessert cafes to sample the latest limited-edition treats.",
+      "ja": "トリニティ総合学園所属、放課後スイーツ部の部員。\n\n身長と体型がコンプレックスの、常に威嚇しっぱなしの小動物のような少女。常に大人っぽくなりたいと思っているが、考えていることが顔にそのまま表れてしまうため、周囲からはいつまでも可愛がられている。趣味のカフェ巡りをしながら、限定スイーツを味わう時だけは誰よりも明るい笑みを見せる。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "요시미",
+        "요시미",
+        "요시미 블루아카이브"
+      ],
+      "en": [
+        "yoshimi_(blue_archive)",
+        "yoshimi",
+        "blue_archive_yoshimi"
+      ],
+      "ja": [
+        "ヨシミ",
+        "ヨシミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ヨシミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.370177Z"
+}

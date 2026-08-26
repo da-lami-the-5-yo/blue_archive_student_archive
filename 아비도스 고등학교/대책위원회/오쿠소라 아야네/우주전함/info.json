@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "오쿠소라 아야네",
+      "en": "Okusora Ayane",
+      "ja": "奥空アヤネ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos High School",
+      "ja": "アビド스高等学校"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "최종편 우주전함 우트나피쉬팀의 배에서 오퍼레이션을 맡은 아야네의 함장 제복 스탠딩.",
+      "en": "Unreleased 우주전함 variant for Okusora Ayane.",
+      "ja": "奥空アヤネの未実装우주전함衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "함장 아야네",
+        "우주선 아야네"
+      ],
+      "en": [
+        "okusora_ayane_(spaceship)_(blue_archive)"
+      ],
+      "ja": [
+        "奥空アヤネ(宇宙戦艦)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.450066Z"
+}

@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "모토미야 치아키",
+      "en": "Motomiya Chiaki",
+      "ja": "元宮チアキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "해적수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "만마선 이벤트에서 마코토를 수행하는 치아키의 해적 수영복 스탠딩.",
+      "en": "Unreleased 해적수영복 variant for Motomiya Chiaki.",
+      "ja": "元宮チアキの未実装해적수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "해적 치아키",
+        "해적수아키"
+      ],
+      "en": [
+        "motomiya_chiaki_(pirate)_(blue_archive)"
+      ],
+      "ja": [
+        "元宮チアキ(海賊水着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.456342Z"
+}

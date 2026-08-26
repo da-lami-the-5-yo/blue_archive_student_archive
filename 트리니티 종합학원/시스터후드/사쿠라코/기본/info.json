@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사쿠라코",
+      "en": "Sakurako",
+      "ja": "サクラコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "시스터후드",
+      "en": "The Sisterhood",
+      "ja": "シスターフッド"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "트리니티 시스터후드의 신실한 시스터 학생.\n\n매사에 진지하며 많은 사람들에게 두터운 신임을 받고 있다. 늘 경건한 마음으로 책무에 임하지만, 고지식한 탓에 유행이나 상식에서 동떨어질 때가 있다.",
+      "en": "The faithful head student of Trinity's Sisterhood.\n\nHer sincerity shines through all her actions, making her trusted by many.\nShe'll take up any duty given to her with piety and serenity. However, when it comes to matters of fashion or everyday life, her traditional nature sometimes causes her trouble.",
+      "ja": "トリニティ総合学園所属、シスターフッドの敬虔な生徒。\n\n何事に対しても真剣に向き合うため、多くの生徒から厚い信頼を受けている。生真面目すぎるせいで流行や常識からズレてしまうことも。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사쿠라코",
+        "사쿠라코",
+        "사쿠라코 블루아카이브"
+      ],
+      "en": [
+        "sakurako_(blue_archive)",
+        "sakurako",
+        "blue_archive_sakurako"
+      ],
+      "ja": [
+        "サクラコ",
+        "サクラコ(ブルーアーカイブ)",
+        "ブルーアーカイブ サクラコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.393852Z"
+}

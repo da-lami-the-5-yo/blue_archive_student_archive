@@ -1,0 +1,68 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하누마 마코토",
+      "en": "Hanuma Makoto",
+      "ja": "羽沼マコト"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "드레스",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "빛으로 나아가는 그녀들의 소야곡 이벤트 파티에서 착용한 마코토의 정장 드레스 의상.",
+      "en": "Unreleased 드레스 variant for Hanuma Makoto.",
+      "ja": "羽沼マコトの未実装드레스衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "드레스 마코토",
+        "드코토"
+      ],
+      "en": [
+        "hanuma_makoto_(dress)_(blue_archive)"
+      ],
+      "ja": [
+        "羽沼マコト(ドレス)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 3,
+    "unofficial_rank02": 0,
+    "total_images": 4
+  },
+  "images": {
+    "공식": [],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.51.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.60.jpg",
+        "비공식/rank01/fanart_7088158_rank01_0.51.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.446945Z"
+}

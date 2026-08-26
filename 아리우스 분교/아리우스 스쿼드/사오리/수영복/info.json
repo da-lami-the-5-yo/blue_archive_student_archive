@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사오리",
+      "en": "Saori",
+      "ja": "サオリ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius",
+      "ja": "アリウス"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "자신이 진정으로 하고 싶은 일을 찾아 헤매는 아리우스 스쿼드의 리더.\n\n아직 세상 경험이 부족해 모르는 것도 많지만, 맡은 일에는 성실하고 우직하게 임하고 있다.",
+      "en": "自分探しを続けているアリウススクワッドのリーダー。\n\n世間知らずのため、突拍子もないことをする時もあるが、引き受けた仕事には誠実に向き合っている。",
+      "ja": "自分探しを続けているアリウススクワッドのリーダー。\n\n世間知らずのため、突拍子もないことをする時もあるが、引き受けた仕事には誠実に向き合っている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사오리",
+        "사오리(수영복)",
+        "사오리 블루아카이브"
+      ],
+      "en": [
+        "saori_(blue_archive)",
+        "saori",
+        "blue_archive_saori"
+      ],
+      "ja": [
+        "サオリ",
+        "サオリ(ブルーアーカイブ)",
+        "ブルーアーカイブ サオリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.416227Z"
+}

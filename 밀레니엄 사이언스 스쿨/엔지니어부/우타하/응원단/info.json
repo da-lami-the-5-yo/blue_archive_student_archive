@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우타하",
+      "en": "Utaha",
+      "ja": "ウタハ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineering Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "응원단",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "대운동회를 맞이해 응원단장 차림을 한 엔지니어부의 부장.\n\n비록 갑작스럽게 맡게 된 응원 업무이지만, 의뢰를 맡으면 언제나 최선을 다하는 마이스터답게 그녀의 열정은 그 어떤 응원단장보다 뜨겁게 타오른다. 가끔은 그 열정이 지나쳐 본 목적을 잊어버리기도 하지만……",
+      "en": "The Engineering Department president dressed in a special cheer outfit for the sports festival.\n\nDespite how abruptly she was assigned to the cheer squad, she is dedicated to ensuring that her passion won't be overshadowed by that of any other cheerleader. Still, that same passion sometimes burns a bit too bright, causing her to lose sight of her original goal...",
+      "ja": "ミレニアムサイエンススクール所属、大運動会を迎え、応援団長の衣装に身を包んだエンジニア部の部長。\n\n急遽引き受けることになった応援だが、最善を尽くすマイスターらしく、彼女の情熱はどの応援団よりも熱く燃え上がる。行き過ぎた情熱で、たまに本来の目的を忘れたりしている模様……"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "우타하",
+        "우타하(응원단)",
+        "우타하 블루아카이브"
+      ],
+      "en": [
+        "utaha_(blue_archive)",
+        "utaha",
+        "blue_archive_utaha"
+      ],
+      "ja": [
+        "ウタハ",
+        "ウタハ(ブルーアーカイブ)",
+        "ブルーアーカイブ ウタハ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.389126Z"
+}

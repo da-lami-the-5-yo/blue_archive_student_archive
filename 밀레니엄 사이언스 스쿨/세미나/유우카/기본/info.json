@@ -1,0 +1,80 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유우카",
+      "en": "Yuuka",
+      "ja": "ユウカ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원 학생회, 세미나의 회계.\n\n이과의 비율이 높은 밀레니엄에서도 손꼽히는 수학의 귀재로 밀레니엄의 예산 관리를 총괄하고 있다. 특기는 주산으로 머리가 복잡하거나 심적인 갈등이 있을 때면 주판알을 튕기며 마음을 다스리는 버릇이 있다.",
+      "en": "The treasurer of Seminar, the student council of Millennium Science School.\n\nYuuka has a mathematical acumen that is notable even among Millennium's high ratio of STEM students. She oversees the entirety of Millennium's budget. Her special talent is the abacus, and she has a habit of fiddling with the beads when dealing with emotional or mental conflicts.",
+      "ja": "ミレニアムサイエンススクール所属、生徒会「セミナー」の会計。\n\n理系生徒の比率が高いミレニアムでも指折りの数学の鬼才で、ミレニアムの予算周りの管理を統括している。特技は算盤で、複雑なことに悩まされていたり、葛藤している時などに算盤を弾いて落ち着かせる癖がある。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유우카",
+        "유우카",
+        "유우카 블루아카이브"
+      ],
+      "en": [
+        "yuuka_(blue_archive)",
+        "yuuka",
+        "blue_archive_yuuka"
+      ],
+      "ja": [
+        "ユウカ",
+        "ユウカ(ブルーアーカイブ)",
+        "ブルーアーカイブ ユウカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 4,
+    "unofficial_rank02": 0,
+    "total_images": 9
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [
+        "비공식/rank00/fanart_7084326_rank00_0.69.jpg"
+      ],
+      "rank01": [
+        "비공식/rank01/fanart_7088174_rank01_0.52.jpg",
+        "비공식/rank01/fanart_7087193_rank01_0.65.jpg",
+        "비공식/rank01/fanart_7086494_rank01_0.60.jpg",
+        "비공식/rank01/fanart_7086493_rank01_0.54.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.364353Z"
+}

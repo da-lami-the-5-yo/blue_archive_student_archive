@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하나코",
+      "en": "Hanako",
+      "ja": "ハナコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "보충수업부의 다정다감한 아가씨.\n\n겉으로 보기엔 정말 정숙하고 기품있는 아가씨로 보이지만, 입을 열면 온갖 에로한 말들을 쏟아내는 문제아다. 하나코의 본모습을 아는 보충수업부는 하나코가 입을 열 때마다 긴장하고 주변을 살펴보게 된다.",
+      "en": "A friendly girl from the Make-Up Work Club.\n\nShe may appear like a quiet and elegant young lady at first, but a bevy of inappropriate and lewd comments spew out any time Hanako opens her mouth. Every member of the Make-Up Work Club gets nervous whenever Hanako starts speaking.",
+      "ja": "トリニティ総合学園所属、補習授業部の感性豊かな女の子。\n\n一見するとお淑やかで気品のあるお嬢さん……といった感じだが、実は口を開くと性的な言葉が止まらない問題児。それを知っている補習授業部の部員たちは、ハナコが何かを言おうとするたびに気が気でない様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하나코",
+        "하나코",
+        "하나코 블루아카이브"
+      ],
+      "en": [
+        "hanako_(blue_archive)",
+        "hanako",
+        "blue_archive_hanako"
+      ],
+      "ja": [
+        "ハナコ",
+        "ハナコ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハナコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.373702Z"
+}

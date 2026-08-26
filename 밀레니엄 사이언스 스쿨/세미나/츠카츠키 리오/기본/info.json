@@ -1,0 +1,73 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠카츠키 리오",
+      "en": "Tsukatsuki Rio",
+      "ja": "調月リオ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학생회 세미나의 전 회장(빅 시스터). 에리두 요새와 아방가르드군을 건조한 천재.",
+      "en": "Unreleased student from Millennium Science School Seminar.",
+      "ja": "ミレニアムサイエンススクール セミナー所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "츠카츠키 리오",
+        "리오 회장"
+      ],
+      "en": [
+        "tsukatsuki_rio",
+        "rio_(blue_archive)"
+      ],
+      "ja": [
+        "調月リオ",
+        "リオ会長"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 4,
+    "unofficial_rank02": 0,
+    "total_images": 6
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7087595_rank01_0.54.jpg",
+        "비공식/rank01/fanart_7081041_rank01_0.65.jpg",
+        "비공식/rank01/fanart_7072278_rank01_0.63.jpg",
+        "비공식/rank01/fanart_7069264_rank01_0.50.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.419001Z"
+}

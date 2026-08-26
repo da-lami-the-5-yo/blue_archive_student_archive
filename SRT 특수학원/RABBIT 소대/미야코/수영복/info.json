@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미야코",
+      "en": "Miyako",
+      "ja": "ミヤコ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "잠입 작전을 위해 외진 어촌 마을을 방문한 RABBIT 소대의 소대장.\n\n편의점에 납품되는 도시락의 이상을 조사하기 위해 관광객으로 위장한 채 바닷가를 찾아왔다. 주민들의 적대적인 반응부터, 마을 전체에서 풍기는 퀴퀴한 비린내까지…… 관광과는 어울리지 않는 수상한 공간이지만, 그래도 귀여운 수영복만큼은 포기할 수 없다.",
+      "en": "The RABBIT Squad leader, who has come to a remote fishing village on an undercover operation.\n\nShe has come to the seaside town disguised as a tourist to investigate the boxed lunches it distributes to convenience stores.\nWith the hostile reactions of the residents and the fishy smell wafting through town, it's not exactly a tourist's dream. But still, she can't resist dressing for the beach with a cute swimsuit!",
+      "ja": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊の小隊長。\n\nコンビニのお弁当からエビが消えた理由を調査すべく、水着に着替える事に。潜入先の漁村は観光とはかけ離れた怪しい場所だったものの、それでもかわいい水着だけは譲れない模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미야코",
+        "미야코(수영복)",
+        "미야코 블루아카이브"
+      ],
+      "en": [
+        "miyako_(blue_archive)",
+        "miyako",
+        "blue_archive_miyako"
+      ],
+      "ja": [
+        "ミヤコ",
+        "ミヤコ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミヤコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.397315Z"
+}

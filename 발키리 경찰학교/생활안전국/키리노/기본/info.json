@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "키리노",
+      "en": "Kirino",
+      "ja": "キリノ"
+    },
+    "school": {
+      "kr": "발키리 경찰학교",
+      "en": "Valkyrie",
+      "ja": "ヴァルキューレ"
+    },
+    "club": {
+      "kr": "생활안전국",
+      "en": "Public Safety Bureau",
+      "ja": "生活安全局"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "발키리 경찰학교 생활안전국의 열혈 경찰 학생.\n\n학원도시의 치안을 유지하는 선배들의 모습을 동경해 발키리 경찰 학교에 진학하였으나, 사격솜씨가 형편 없었던 탓에 한직인 생활안전국으로 전과하게 되었다. 하지만 여전히 범인을 멋지게 제압하는 경찰이 되고자 하는 꿈을 버리지 않고 여러 방면에서 노력하고 있다.",
+      "en": "A passionate cadet of Valkyrie Police School's Public Safety Bureau.\n\nShe enrolled in Valkyrie Police School because of her admiration for the upperclassmen, but was transferred to the Public Safety Bureau due to her poor marksmanship. However, she still works hard and dreams of becoming an officer who can gloriously subdue criminals.",
+      "ja": "ヴァルキューレ警察学校所属、生活安全局の熱血系生徒。\n\n学園都市の治安を維持する警察の姿に憧れてヴァルキューレ警察学校に入学したものの、射撃の腕前が致命的だったために生活安全局の所属になってしまった。それでも彼女は諦めず、犯人を鮮やかに制圧できるような警察になろうと、夢を諦めることなく日々努力を続けている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "키리노",
+        "키리노",
+        "키리노 블루아카이브"
+      ],
+      "en": [
+        "kirino_(blue_archive)",
+        "kirino",
+        "blue_archive_kirino"
+      ],
+      "ja": [
+        "キリノ",
+        "キリノ(ブルーアーカイブ)",
+        "ブルーアーカイブ キリノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.377107Z"
+}

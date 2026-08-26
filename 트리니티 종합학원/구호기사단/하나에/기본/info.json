@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하나에",
+      "en": "Hanae",
+      "ja": "ハナエ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Remedial Knights",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 구호기사단의 명랑하고 쾌활한 신입생.\n\n매사에 긍정적이고 활기찬 성격의 소유자지만, 환자를 보았다 하면 지나치게 요란을 떨어 상황을 더욱 악화시키곤 한다. 여러모로 엉뚱한 소녀이지만 그녀의 응원을 받은 환자는 신기하게도 어떤 병이든 금세 치유된다고 한다.",
+      "en": "A cheerful and energetic first-year member of the Trinity Remedial Knights.\n\nHanae has a vivacious personality and a positive outlook on life, but when she sees a patient, she can get too worked up and often actually worsens their condition. She's a bit odd at times, but patients under her care seem to recover more quickly regardless of their affliction.",
+      "ja": "トリニティ総合学園所属、救護騎士団の元気で明るい新入生。\n\n何事にも前向きで元気溢れる少女だが、患者を見つけると度を超して騒ぎ立ててしまい状況を悪化させたりすることも。ちょっと抜けているところもあるが、彼女にお世話してもらった患者は不思議なことにどんな病気でもたちまち治ってしまうという。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하나에",
+        "하나에",
+        "하나에 블루아카이브"
+      ],
+      "en": [
+        "hanae_(blue_archive)",
+        "hanae",
+        "blue_archive_hanae"
+      ],
+      "ja": [
+        "ハナエ",
+        "ハナエ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハナエ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.367698Z"
+}

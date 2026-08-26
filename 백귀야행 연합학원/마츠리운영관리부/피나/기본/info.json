@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "피나",
+      "en": "Pina",
+      "ja": "フィーナ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "마츠리운영관리부",
+      "en": "Festival Operations Department",
+      "ja": "お祭り運営委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "백귀야행 학원에 입학한 협객을 동경하는 소녀.\n\n항상 쾌활하고 명랑하며, 다른 사람을 돕는 것에 즐거움을 느낀다. 협객에 대해서 아는 것이라고는 영화에서 본 게 다이기 때문에 실제 협객과 거리가 있지만. 자신이 꿈꾸는 협객의 길을 걷는데, 망설임이 없는 소녀.",
+      "en": "A devout vigilante admirer attending Hyakkiyako Academy.\n\nPina has a bubbly, energetic personality and takes pleasure in helping others. Everything she knows about vigilantes comes from movies, so the accuracy of said knowledge can be somewhat dubious. Nonetheless, she persists in her ambition of becoming a vigilante herself.",
+      "ja": "百鬼夜行連合学院所属、任侠に憧れる少女。\n\nいつも明朗快活で、人を助けることに喜びを覚えるタイプの女の子。任侠については全部映画から得た知識のため、色々とおかしいところがあるものの……。自分が夢見る任侠の道に真っすぐな少女。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "피나",
+        "피나",
+        "피나 블루아카이브"
+      ],
+      "en": [
+        "pina_(blue_archive)",
+        "pina",
+        "blue_archive_pina"
+      ],
+      "ja": [
+        "フィーナ",
+        "フィーナ(ブルーアーカイブ)",
+        "ブルーアーカイブ フィーナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.366047Z"
+}

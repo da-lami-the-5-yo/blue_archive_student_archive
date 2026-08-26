@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우타하",
+      "en": "Utaha",
+      "ja": "ウタハ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineering Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원, 엔지니어부의 부장.\n\n엔지니어부의 부장이라는 직함을 증명이라도 하듯 다양한 로봇을 발명하였으며, 특히 그녀의 애완 로봇 \"천둥이\"는 PMC의 전투용 오토마타 수백 대에 달하는 전투능력을 갖추었다고 평가받고 있다.",
+      "en": "President of the Engineering Department at Millennium Science School.\n\nHas invented a variety of robots, if only to stake her claim to the title of president of the Engineering Department. Her pet robot Thundergun has been determined to possess combat capabilities equivalent to a hundred PMC combat automata.",
+      "ja": "ミレニアムサイエンススクール所属、エンジニア部の部長。\n\nその肩書に違わず、多種多様なロボットを発明し続けている。特に彼女がいつも連れているロボット「雷ちゃん」は、PMCの戦闘用オートマタ数百台に匹敵するほどの戦闘能力を持っているとされている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "우타하",
+        "우타하",
+        "우타하 블루아카이브"
+      ],
+      "en": [
+        "utaha_(blue_archive)",
+        "utaha",
+        "blue_archive_utaha"
+      ],
+      "ja": [
+        "ウタハ",
+        "ウタハ(ブルーアーカイブ)",
+        "ブルーアーカイブ ウタハ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.368493Z"
+}

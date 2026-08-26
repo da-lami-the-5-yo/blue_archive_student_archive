@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "마코토",
+      "en": "Makoto",
+      "ja": "マコト"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "판데모니움 소사이어티",
+      "en": "Pandemonium Society",
+      "ja": "パンデモニウム・ソサエティー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "판데모니움 소사이어티의 의장.\n\n얻고자 하는 게 있다면 흉계를 꾸미는 것도 마다하지 않는, 욕망에 솔직한 야심가이자 음모가. 때로는 그런 태도 때문에 아픈 꼴을 당하고 고꾸라질 때도 있지만, 금세 개의치 않고 자리를 털고 일어나는 강단 있는 소녀. 참고로 이부키를 동생처럼 무척이나 귀여워하고 있으며, 마찬가지로 늘 이로하를 동생처럼 부려 먹고 있다.",
+      "en": "Pandemonium Society's Chairman.\n\nAn ambitious leader whose schemes know no bounds. Her thoughtless plans often get the group into trouble, but she brushes it off as if it wasn't all her fault. She sees Ibuki as a little sister to dote on, and Iroha as one to boss around.",
+      "ja": "ゲヘナ学園所属、「万魔殿」の議長。\n\n欲しいものがあれば、どんな謀も厭わない、欲望に忠実な野心家であり陰謀家。時にはその態度のせいで痛い目に遭い挫けることも多いが、すぐさま立ち直る芯の強い少女。イブキを妹のように可愛がっており、同じくイロハのことも妹のようにこき使っている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "마코토",
+        "마코토",
+        "마코토 블루아카이브"
+      ],
+      "en": [
+        "makoto_(blue_archive)",
+        "makoto",
+        "blue_archive_makoto"
+      ],
+      "ja": [
+        "マコト",
+        "マコト(ブルーアーカイブ)",
+        "ブルーアーカイブ マコト"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.407417Z"
+}

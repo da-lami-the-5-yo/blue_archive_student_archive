@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "에이미",
+      "en": "Eimi",
+      "ja": "エイミ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Super Phenomenon Task Force",
+      "ja": "特異現象捜査部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원 초현상특무부의 요원.\n\n생각을 알기 어려운 4차원 소녀지만 극한지에 도착해서는 평소와 다르게 들뜬 모습이다. 하지만 그녀의 패션 센스는 이곳에서도 변함없는 듯하다.",
+      "en": "An agent of Millennium's Super Phenomenon Task Force.\n\nShe's usually difficult to understand, but her unexpected excitement for this icy trip is easy to see. However, her fashion sense remains as bizarre as ever.",
+      "ja": "ミレニアムサイエンススクール所属、特異現象捜査部のメンバー。\n\n何を考えているのか分かりづらいが、酷寒地に到着してからは普段とは違って多少浮かれているようだ。と言いつつも、彼女のファッションセンスはいつも通りな模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "에이미",
+        "에이미(수영복)",
+        "에이미 블루아카이브"
+      ],
+      "en": [
+        "eimi_(blue_archive)",
+        "eimi",
+        "blue_archive_eimi"
+      ],
+      "ja": [
+        "エイミ",
+        "エイミ(ブルーアーカイブ)",
+        "ブルーアーカイブ エイミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.405469Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시즈코",
+      "en": "Shizuko",
+      "ja": "シズコ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "마츠리운영관리부",
+      "en": "Festival Operations Department",
+      "ja": "お祭り運営委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "여름에도 여전히 야심과 포부로 가득 찬 마츠리운영관리부의 부장님.\n\n백야당을 전 키보토스적인 프랜차이즈로 성장시키기 위한 부장님의 열정은 오늘도 계속된다. 어떤 고난도, 장애물도 아이돌 펀치와 함께라면 문제 되지 않는다. 닿을 수 있는 것이라면, 무엇이든 쟁취해내고야 마는 여름의 소녀에게 두려울 것은 없다.",
+      "en": "President of the Festival Department, full of ambition and aspirations for the summer. The president's passion is to spread Momoyodou franchises all over Kivotos. Any difficulty or obstacle is no problem as long as she has Idol Punch. She has nothing to fear and is determined to achieve anything that's within her reach.",
+      "ja": "百鬼夜行連合学院所属、夏でも変わらず野心に満ちたお祭り運営委員会の委員長。\n\n百夜堂をキヴォトスいちのフランチャイズに成長させるべく、今日も情熱を燃やしている。 どんな障害もアイドルパンチと一緒なら問題ない。手が届くものなら何でも掴み取る、夏の少女は無敵なのだ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시즈코",
+        "시즈코(수영복)",
+        "시즈코 블루아카이브"
+      ],
+      "en": [
+        "shizuko_(blue_archive)",
+        "shizuko",
+        "blue_archive_shizuko"
+      ],
+      "ja": [
+        "シズコ",
+        "シズコ(ブルーアーカイブ)",
+        "ブルーアーカイブ シズコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.387483Z"
+}

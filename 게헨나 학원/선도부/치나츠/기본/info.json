@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "치나츠",
+      "en": "Chinatsu",
+      "ja": "チナツ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "선도부",
+      "en": "Prefect Team",
+      "ja": "風紀委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 학원 선도부의 보건 담당.\n\n규정, 규율, 절차를 중시하는 선도부의 몇 안 되는 상식인으로, 아코나 이오리 같은 다른 선도부원들이 폭주하지 않도록 잡아주는 브레이커 역할을 맡고 있다. 말투가 딱딱하여 일견 다른 선도부원들처럼 차가운 인상을 주곤 하지만, 귀여운 동물 앞에서는 한없이 약해지는 상냥한 소녀다.",
+      "en": "She is in charge of medical aid at Gehenna Academy's Prefect Team.\n\nChinatsu is one of the few people with common sense among the obsessively dogmatic Prefect Team. She's usually the one who prevents other members like Ako and Iori from running amok. Her tone can be harsh and give the impression of being just as cold as any other member of the Prefect Team, but she is actually a sweet young girl who melts at the sight of cute animals.",
+      "ja": "ゲヘナ学園所属、風紀委員会の救護担当。\n\n規定、規律、手続きを重視する風紀委員会の数少ない常識人で、アコやイオリのような他の風紀委員達が暴走した時のブレーキ役。言葉使いが硬く、「典型的な風紀委員」といったような冷たい印象を与えがちだが、可愛い動物の前ではとことんメロメロになってしまう優しい少女である。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "치나츠",
+        "치나츠",
+        "치나츠 블루아카이브"
+      ],
+      "en": [
+        "chinatsu_(blue_archive)",
+        "chinatsu",
+        "blue_archive_chinatsu"
+      ],
+      "ja": [
+        "チナツ",
+        "チナツ(ブルーアーカイブ)",
+        "ブルーアーカイブ チナツ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.368949Z"
+}

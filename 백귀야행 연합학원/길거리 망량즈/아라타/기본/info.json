@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아라타",
+      "en": "Arata",
+      "ja": "アラタ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Allied Hyakkiyako Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "길거리 망량즈",
+      "en": "Street Mouryou",
+      "ja": "路地裏魍魎ズ"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "백귀야행 길거리 망량즈의 보스.",
+      "en": "Unreleased student from Allied Hyakkiyako Academy Street Mouryou.",
+      "ja": "百鬼夜行連合学院 路地裏魍魎ズ所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아라타"
+      ],
+      "en": [
+        "arata_(blue_archive)"
+      ],
+      "ja": [
+        "アラタ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.424887Z"
+}

@@ -1,0 +1,72 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아로나",
+      "en": "Arona",
+      "ja": "アロナ"
+    },
+    "school": {
+      "kr": "연방학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "샬레",
+      "en": "Schale",
+      "ja": "シャーレ"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "싯딤의 상자에 탑재된 OS 메인 서포트 AI. 선생님의 영원한 조력자.",
+      "en": "Unreleased student from General Student Council Schale.",
+      "ja": "連邦生徒会 シャーレ所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아로나"
+      ],
+      "en": [
+        "arona_(blue_archive)"
+      ],
+      "ja": [
+        "アロナ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 1,
+    "unofficial_rank02": 4,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7081634_rank01_0.52.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7084744_rank02_0.16.jpg",
+        "비공식/rank02/fanart_7082984_rank02_0.30.jpg",
+        "비공식/rank02/fanart_7081729_rank02_0.36.jpg",
+        "비공식/rank02/fanart_7073479_rank02_0.22.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.438970Z"
+}

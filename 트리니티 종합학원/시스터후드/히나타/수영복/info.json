@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "히나타",
+      "en": "Hinata",
+      "ja": "ヒナタ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "시스터후드",
+      "en": "The Sisterhood",
+      "ja": "シスターフッド"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "유적 조사를 돕기 위해 섬으로 향한 시스터후드의 소녀.\n\n장소와 상황이 바뀌어도, 주변을 둘러보고 남을 도와주는 천성은 바뀌지 않는다. 물론 본인의 의지와는 관계없이 나른한 섬의 바닷바람은 그런 히나타 또한 조금 풀어지게 만든다.",
+      "en": "A girl from the Sisterhood who came to the island to help investigate the ruins.\n\nEven in this idyllic environment, she has a natural tendency to help everyone around her. Of course, not even Hinata can resist the relaxing effects of the lazy ocean breeze.",
+      "ja": "遺跡調査を手伝うべく、共に島に向かったトリニティ総合学園所属、シスターフッドの少女。\n\n場所や状況が変わっても、彼女の人助けの本質は変わらない。のんびりとした島の空気に当てられて普段より少し浮かれている模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "히나타",
+        "히나타(수영복)",
+        "히나타 블루아카이브"
+      ],
+      "en": [
+        "hinata_(blue_archive)",
+        "hinata",
+        "blue_archive_hinata"
+      ],
+      "ja": [
+        "ヒナタ",
+        "ヒナタ(ブルーアーカイブ)",
+        "ブルーアーカイブ ヒナタ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.398408Z"
+}

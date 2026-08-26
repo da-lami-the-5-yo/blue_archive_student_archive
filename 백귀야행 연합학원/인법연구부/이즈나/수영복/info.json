@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이즈나",
+      "en": "Izuna",
+      "ja": "イズナ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "인법연구부",
+      "en": "Ninjutsu Research Club",
+      "ja": "忍術研究部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "여름의 수련을 위해 바다를 찾아온 백귀야행 학원 인법연구부 소속의 소녀.\n\n평소에도 무척이나 활기차지만, 이번엔 여름 태양의 에너지를 받은 탓인지 평소보다 200%는 더 기운찬 모습을 보여주고 있는 닌자 소녀. 보다 여름에 어울리는 닌자가 되기 위해, 오늘도 이즈나는 수련이라는 명목으로 이곳저곳을 쏘다니며 주군과 함께 여름을 만끽하고 있다.",
+      "en": "A member of the Hyakkiyako Academy Ninjutsu Research Club who went to the beach for summer training. She's a ninja who's always very lively. These days, she's 200% more energetic than usual, probably because she loves the summer sun. To become a ninja who's prepared for hot weather, Izuna is enjoying the summer with her lord, wandering around and claiming she's \"training.\"",
+      "ja": "百鬼夜行連合学院所属、修行のために海を訪れた忍術研究部所属の少女。\n\n普段から活気に満ちているイズナだが、今回は夏のエネルギーを受けているからか、200％の元気でもって接してくれる。より夏にふさわしい忍者となるべく、今日もイズナは修行という名の夏を、主殿と共に満喫している。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이즈나",
+        "이즈나(수영복)",
+        "이즈나 블루아카이브"
+      ],
+      "en": [
+        "izuna_(blue_archive)",
+        "izuna",
+        "blue_archive_izuna"
+      ],
+      "ja": [
+        "イズナ",
+        "イズナ(ブルーアーカイブ)",
+        "ブルーアーカイブ イズナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.387712Z"
+}

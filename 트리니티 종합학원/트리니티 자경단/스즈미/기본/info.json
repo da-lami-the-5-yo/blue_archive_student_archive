@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스즈미",
+      "en": "Suzumi",
+      "ja": "スズミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "트리니티 자경단",
+      "en": "Trinity's Vigilante Crew",
+      "ja": "トリニティ自警団"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 학생들의 안전을 책임지는 자경단의 멤버.\n\n트리니티의 학생들이 다른 학원에게 습격당하는 일이 잦아지자, 이를 막기 위해 자진하여 거리 순찰을 나서기 시작했다. 불타는 정의감 때문에 냉철하고 차가운 성격으로 오해받는 일이 잦지만, 사실은 상냥한 면모도 가지고 있다.",
+      "en": "A member of the Vigilante Crew responsible for protecting Trinity's students.\n\nTo combat the increasing number of attacks on Trinity's students at the hands of the other academies, Suzumi volunteered to patrol the streets to abate attackers. Often misunderstood as cold and unfeeling due to her strong sense of justice, she actually has a friendly side as well.",
+      "ja": "トリニティ総合学園所属、生徒たちの安全を守る自警団のメンバー。\n\nトリニティの生徒が他の学園に襲われる事件が頻繁に発生したため、これらを防ぐために街中の巡回を始めた。燃え上がる正義感のせいで冷たい性格だと誤解されがちだが、本当は優しい女の子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "스즈미",
+        "스즈미",
+        "스즈미 블루아카이브"
+      ],
+      "en": [
+        "suzumi_(blue_archive)",
+        "suzumi",
+        "blue_archive_suzumi"
+      ],
+      "ja": [
+        "スズミ",
+        "スズミ(ブルーアーカイブ)",
+        "ブルーアーカイブ スズミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.365744Z"
+}

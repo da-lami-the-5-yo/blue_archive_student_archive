@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쇼쿠호 미사키",
+      "en": "Misaki",
+      "ja": "操祈"
+    },
+    "school": {
+      "kr": "토키와다이 중학교",
+      "en": "Tokiwadai",
+      "ja": "常盤台中学"
+    },
+    "club": {
+      "kr": "없음",
+      "en": "None",
+      "ja": "無し"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "토키와다이 중학교 소속의 기품 넘치는 여중생.\n\n명문교인 토키와다이 중학교 중에서도 최대 파벌을 이끄는 실력자로, 학원 도시에 7명밖에 존재하지 않는 초능력자 레벨 5 중 한 명이다. 사용하는 초능력은 타인의 정신을 조종하는 심리 장악(멘탈 아웃)이지만, 키보토스로 전이된 뒤에는 능력을 사용하는 데에 약간의 어려움을 겪고 있다. 같은 레벨 5의 초능력자이며, 자신의 능력이 통하지 않는 미사카 미코토를 다소 꺼려한다.",
+      "en": "A spirited student from Tokiwadai Middle School.\n\nAs one of only seven Level 5 espers in Academy City, she leads the largest faction at Tokiwadai Middle School. Her ability, Mental Out, lets her manipulate the minds of those around her, though she's had trouble using this ability since arriving in Kivotos. She has something of a rivalry with fellow Level 5 esper Misaka Mikoto, who also happens to be immune to her influence.",
+      "ja": "常盤台中学所属の気品溢れる女子中学生。\n\n名門校である常盤台中学の中でも最大派閥を率いる実力者で、学園都市に7人しか存在しない超能力者「レベル5」の一人。使用する超能力は他人の精神を操る「心理掌握（メンタルアウト）」。しかし、キヴォトスに転移してからは能力を思いのまま発揮できていない様子。同じく「レベル5」の超能力者で、自分の能力が通じない御坂美琴が実は少し苦手。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "쇼쿠호 미사키",
+        "쇼쿠호 미사키",
+        "쇼쿠호 미사키 블루아카이브"
+      ],
+      "en": [
+        "misaki_(blue_archive)",
+        "misaki",
+        "blue_archive_misaki"
+      ],
+      "ja": [
+        "操祈",
+        "操祈(ブルーアーカイブ)",
+        "ブルーアーカイブ 操祈"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.403607Z"
+}

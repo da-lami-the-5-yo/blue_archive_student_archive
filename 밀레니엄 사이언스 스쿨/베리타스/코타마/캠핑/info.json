@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코타마",
+      "en": "Kotama",
+      "ja": "コタマ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "캠핑",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "추운 겨울을 맞아 따듯한 옷으로 갈아입은 베리타스의 부원.\n\n치히로의 권유로 떠밀리듯 야외에 나오게 되었지만, 평소에는 녹음하기 어려운 환경음을 녹음할 모처럼의 기회라는 생각에 조금은 들떠있다. 자연환경에서 녹음할 수 있는 모든 종류의 소리를 선호하지만, 제일 좋아하는 것은 역시 선생님의 목소리이다.",
+      "en": "Veritas' surveillance expert dressed for cold weather.\n\nKotama was resistant to Chihiro's demands that the Veritas members experience the outdoors at first, but she's excited for the chance to record the many sounds of nature. She really enjoys the different ambiences she's found during the trip, but the sound of Sensei's voice is still her favorite.",
+      "ja": "寒い冬にあわせて暖かい格好に着替えたヴェリタスのメンバー。\n\n外出する気はなかったものの、普段は録音しづらい環境音を収録するチャンスだとポジティブに切り替えている。自然環境で収録できるあらゆる音が好きだが、一番好きなのはやはり先生の声なのだとか。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코타마",
+        "코타마(캠핑)",
+        "코타마 블루아카이브"
+      ],
+      "en": [
+        "kotama_(blue_archive)",
+        "kotama",
+        "blue_archive_kotama"
+      ],
+      "ja": [
+        "コタマ",
+        "コタマ(ブルーアーカイブ)",
+        "ブルーアーカイブ コタマ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.405822Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아즈사",
+      "en": "Azusa",
+      "ja": "アズサ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "난생처음 바다라는 곳에 놀러 오게 된 보충수업부의 얼음마녀.\n\n평소처럼 다른 사람들에게 폐를 끼치지 않기 위해 차갑고 냉정한 모습을 유지하려 하지만, 즐거운 바다의 분위기와 함께 온 친구들이 그녀를 가만히 내버려 두지 않는다. 때문에 다른 사람들의 시선을 계속 신경 쓰고 있지만, 주변 사람들이 보기에는 언제나의 아즈사일 뿐이다.",
+      "en": "The Make-Up Work Club's ice queen visits the beach for the first time.\n\nShe tries to keep cool and calm as usual to not cause trouble for others, but her friends want to make sure she enjoys her first beach trip. This causes her to worry about what others might think of her; but from their perspective, she's just the usual Azusa.",
+      "ja": "トリニティ総合学園所属、初めて海に遊びに来ることになった補習授業部の氷の魔女。\n\n誰にも迷惑をかけないように「普段通り冷静な自分でいよう」と思ってはいたが、初めての海と一緒に来た友人が、どうやら彼女をジッとはさせてくれない模様。ただでさえ初めての海、周囲からの視線、それらに対する少しの緊張も相まって、普段の彼女に比べるとそれなりにそわそわしている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아즈사",
+        "아즈사(수영복)",
+        "아즈사 블루아카이브"
+      ],
+      "en": [
+        "azusa_(blue_archive)",
+        "azusa",
+        "blue_archive_azusa"
+      ],
+      "ja": [
+        "アズサ",
+        "アズサ(ブルーアーカイブ)",
+        "ブルーアーカイブ アズサ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.374146Z"
+}

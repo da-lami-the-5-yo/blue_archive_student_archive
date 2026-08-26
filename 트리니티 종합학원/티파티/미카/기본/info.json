@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미카",
+      "en": "Mika",
+      "ja": "ミカ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "트리니티 종합학원을 구성하고 있는 학생 연합 <파테르>의 전 수장이었던 소녀.\n\n전 티파티 멤버 중 한 명으로, 또 다른 티파티의 수장인 나기사와는 오랫동안 함께 자라온 소꿉친구 관계. 하지만 정치적으로 대립하고 있는 입장이기에, 공사 구분은 확실하게 하고 있다. 늘 즐겁다는 듯이 웃으며 발랄하고 쾌활한 모습을 보여주는 그녀이지만, 그 이면에는 남들에게 섣불리 말하지 못하는 고민을 안고 있기도 하는 등. 그 속을 쉬이 알 수 없는 소녀.",
+      "en": "The former leader of Pater, one of the allied factions that makes up Trinity General School.\n\nA former Tea Party member and a childhood friend of Nagisa, another member of the Tea Party. When the two clash politically, she draws a clear line between their public disagreements and their private friendship.\nShe seems lively and cheerful, and she's never without a smile. However, her demeanor hides worries that she can't reveal, making her something of an enigma.",
+      "ja": "トリニティ総合学園所属、トリニティを構成している生徒連合「パテル」の元リーダーだった少女。\n\n元ティーパーティーの一人で、リーダーであるナギサとは幼馴染でもある。しかし、政治的には対立している立場のため、公私の区別はしっかりしている。いつも楽しそうに笑い、無邪気な姿を見せる彼女だが、人に言えない悩みを胸の裡に抱えているらしい。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미카",
+        "미카",
+        "미카 블루아카이브"
+      ],
+      "en": [
+        "mika_(blue_archive)",
+        "mika",
+        "blue_archive_mika"
+      ],
+      "ja": [
+        "ミカ",
+        "ミカ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.393051Z"
+}

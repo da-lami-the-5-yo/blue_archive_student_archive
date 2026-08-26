@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시구레",
+      "en": "Shigure",
+      "ja": "シグレ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "227호 특별반",
+      "en": "Spec Ops No. 227",
+      "ja": "227号特別クラス"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 학원으로부터 정학 처분을 받고 구교사 227호에서 근신 중인 특별 학생.\n\n정학 사유는 배급용 캄포트에 몰래 알코올을 섞었기 때문이다. 227호 특별반의 노도카와는 오랜 친구로, 소문에 따르면 노도카가 징계 조치로 특별반으로 쫓겨나자, 친구를 만나기 위해 일부러 사고를 저질렀다는 설도 있다. 사건의 진상과는 별개로 직접 담근 캄포트를 무척이나 좋아하여 포켓 위스키병에 담아 언제나 휴대하고 다닌다.",
+      "en": "A student suspended from Red Winter Academy and on probation in Former Institute 227.\n\nShe was suspended for mixing alcohol into the school-issued kompot. She's an old friend of Nodoka from Spec Ops No. 227. The rumor is that she caused trouble on purpose after Nodoka was sent to Former Institute 227 as punishment in order to join her friend. Whether or not this is true, she loves homemade kompot and always carries a flask in her pocket. ",
+      "ja": "レッドウィンター連邦学園所属、ただし停学処分を受けて現在は旧校舎227号特別クラスで謹慎中の生徒。\n\n停学の理由は「配給用カンポット」に密かにアルコールを混ぜた行為とのこと。227号特別クラスのノドカとは幼馴染で、噂によるとノドカが懲戒処分で特別クラス行きになったため、わざと事故を起こしたのだとか。事件の真相とは関係なく、自分で仕込んだカンポットが大好きで、ポケットウイスキーの瓶に入れていつも持ち歩いている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시구레",
+        "시구레",
+        "시구레 블루아카이브"
+      ],
+      "en": [
+        "shigure_(blue_archive)",
+        "shigure",
+        "blue_archive_shigure"
+      ],
+      "ja": [
+        "シグレ",
+        "シグレ(ブルーアーカイブ)",
+        "ブルーアーカイブ シグレ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.391348Z"
+}

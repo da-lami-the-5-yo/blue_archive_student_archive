@@ -1,0 +1,75 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "야부키 슈로",
+      "en": "Yabuki Shuro",
+      "ja": "矢吹シュロ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Allied Hyakkiyako Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "화조풍월부",
+      "en": "Kachoufuugetsu Club",
+      "ja": "花鳥風月部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "탄력장갑"
+    },
+    "description": {
+      "kr": "화조풍월부 소속 요호 소녀. 백귀야행 백화요란 편에서 요괴를 부려 혼란을 일으킴.",
+      "en": "Unreleased student from Allied Hyakkiyako Academy Kachoufuugetsu Club.",
+      "ja": "百鬼夜行連合学院 花鳥風月部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "야부키 슈로",
+        "슈로"
+      ],
+      "en": [
+        "yabuki_shuro",
+        "shuro_(blue_archive)"
+      ],
+      "ja": [
+        "矢吹シュロ",
+        "シュロ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 4,
+    "unofficial_rank02": 0,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [
+        "비공식/rank00/fanart_7046784_rank00_0.69.jpg"
+      ],
+      "rank01": [
+        "비공식/rank01/fanart_7006173_rank01_0.64.jpg",
+        "비공식/rank01/fanart_7003042_rank01_0.54.jpg",
+        "비공식/rank01/fanart_6997725_rank01_0.53.jpg",
+        "비공식/rank01/fanart_6989197_rank01_0.56.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.423917Z"
+}

@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코모리 스미카",
+      "en": "Komori Sumika",
+      "ja": "小森スミカ"
+    },
+    "school": {
+      "kr": "오디세이아 해양학교",
+      "en": "Odyssey Maritime Academy",
+      "ja": "オデュッセイア海洋学園"
+    },
+    "club": {
+      "kr": "트라이던트",
+      "en": "Trident",
+      "ja": "トライデント"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "오디세이아 해양학교 트라이던트 소속 학생.",
+      "en": "Unreleased student from Odyssey Maritime Academy Trident.",
+      "ja": "オデュッセイア海洋学園 トライデント所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코모리 스미카"
+      ],
+      "en": [
+        "komori_sumika_(blue_archive)"
+      ],
+      "ja": [
+        "小森スミカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.433302Z"
+}

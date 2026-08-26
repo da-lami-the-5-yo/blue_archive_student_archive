@@ -1,0 +1,72 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쿠로사키 코유키",
+      "en": "Kurosaki Koyuki",
+      "ja": "黒崎コユキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "바니걸",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "선상의 바니 체이서 이벤트에서 첫 등장한 코유키의 바니걸 의상 스탠딩. SD 모델링이 존재하나 플레이어블 미출시 상태.",
+      "en": "Unreleased 바니걸 variant for Kurosaki Koyuki.",
+      "ja": "黒崎コユキの未実装바니걸衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "바니걸 코유키",
+        "바유키"
+      ],
+      "en": [
+        "kurosaki_koyuki_(bunny_girl)_(blue_archive)",
+        "bunny_koyuki"
+      ],
+      "ja": [
+        "黒崎コユキ(バニーガール)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 2,
+    "unofficial_rank02": 1,
+    "total_images": 5
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.53.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.53.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7088158_rank02_0.32.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.444386Z"
+}

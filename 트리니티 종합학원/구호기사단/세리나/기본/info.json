@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "세리나",
+      "en": "Serina",
+      "ja": "セリナ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Remedial Knights",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "트리니티 구호기사단 소속의 상냥한 소녀.\n\n봉사활동을 즐겨 하는 선량한 성품의 소유자로, 건강에 관해서는 지나칠 정도로 걱정이 많기 때문에 주변의 학우들로부터 엄마 같다는 평가를 종종 듣기도 한다. 다툼과 분쟁을 싫어하는 심약한 성품의 소유자지만, 평화를 위협하는 적 앞에서는 언제나 단호하게 맞서 싸울 준비가 되어 있다.",
+      "en": "A kind-hearted girl affiliated with the Trinity Remedial Knights.\n\nA virtuous person who enjoys charity work, her concern for the health of those around her has earned her a reputation as a sort of mother hen. Despite having a somewhat timid personality and avoiding quarrels and conflict, she is always ready to stand up against enemies who threaten the peace.",
+      "ja": "トリニティ総合学園所属、救護騎士団で献身する優しい少女。\n\nボランティア活動に奉仕する善良な性格の持ち主で、健康に関しては度が過ぎるほど心配性なこともあって、周りの生徒たちからは「お母さんみたい」とよく言われている。争いごとは嫌うものの、平和を脅かす敵に対しては毅然とした態度で立ち向かう。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "세리나",
+        "세리나",
+        "세리나 블루아카이브"
+      ],
+      "en": [
+        "serina_(blue_archive)",
+        "serina",
+        "blue_archive_serina"
+      ],
+      "ja": [
+        "セリナ",
+        "セリナ(ブルーアーカイブ)",
+        "ブルーアーカイブ セリナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.369692Z"
+}

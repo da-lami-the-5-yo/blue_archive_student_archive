@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "에이미",
+      "en": "Eimi",
+      "ja": "エイミ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Super Phenomenon Task Force",
+      "ja": "特異現象捜査部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원 초현상특무부의 요원.\n\n생각을 알기 어려운 4차원 소녀로 말수가 거의 없고 아무 이유 없이 멍하니 서 있는 경우가 잦다. 하지만 세미나의 의뢰를 받아 임무를 수행할 때만큼은 그 누구보다 효율적으로 움직여 목표를 달성해낸다.",
+      "en": "An agent of the Super Phenomenon Task Force at the Millennium School.\n\nAn emotionally inscrutable oddball, Eimi very rarely speaks and can often be found staring off into space for no particular reason. However, there's no one as brutally efficient as her when it comes to carrying out missions for Seminar.",
+      "ja": "ミレニアムサイエンススクール所属、特異現象捜査部のメンバー。\n\n口数が少ない、考えを読みづらい少女。特に理由もなくぼーっと立っていることも多い。しかしセミナーの依頼を受けて任務を遂行する時だけは、誰よりも効率的に動き、迅速に目標を達成させる。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "에이미",
+        "에이미",
+        "에이미 블루아카이브"
+      ],
+      "en": [
+        "eimi_(blue_archive)",
+        "eimi",
+        "blue_archive_eimi"
+      ],
+      "ja": [
+        "エイミ",
+        "エイミ(ブルーアーカイブ)",
+        "ブルーアーカイブ エイミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.355092Z"
+}

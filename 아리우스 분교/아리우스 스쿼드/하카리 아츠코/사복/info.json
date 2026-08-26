@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하카리 아츠코",
+      "en": "Hakari Atsuko",
+      "ja": "秤アツコ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius Branch School",
+      "ja": "アリウス分校"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "사복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "특수장갑",
+      "armor_type": "신비"
+    },
+    "description": {
+      "kr": "아리우스 스쿼드의 일상 아르바이트 중 착용한 공주님 아츠코의 사복.",
+      "en": "Unreleased 사복 variant for Hakari Atsuko.",
+      "ja": "秤アツコの未実装사복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사복 아츠코"
+      ],
+      "en": [
+        "hakari_atsuko_(casual)_(blue_archive)"
+      ],
+      "ja": [
+        "秤アツコ(私服)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.448336Z"
+}

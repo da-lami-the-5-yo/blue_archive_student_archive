@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아리스",
+      "en": "Aris",
+      "ja": "アリス"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원 게임개발부 소속의 부원.\n\n폐허에서 발견된 정체를 알 수 없는 소녀로, 나이를 포함한 모든 정보가 추정 불가능하다. 현재는 미도리와 모모이를 따라 게임을 즐기며 중증의 게임 매니아가 된 상태. 어눌한 회화의 대부분을 레트로 게임의 대사로 대체하고 있다.",
+      "en": "A member of the Game Development Department at the Millennium School.\n\nA mysterious girl who was found sleeping within some ruins. All information regarding Aris' age and origins is unknown. Currently, she has become a hardcore video game fanatic thanks to Midori and Momoi. The majority of her inarticulate speech is comprised of dialog from retro video games.",
+      "ja": "ミレニアムサイエンススクール所属、ゲーム開発部の部員。\n\n廃墟で発見された正体不明の少女で、年齢を含め全ての情報が不詳。現在はモモイやミドリ、ユズと共にゲームを楽しんで、重度のゲームマニアになっている。やや会話がたどたどしかったり不自然な点があるが、それは彼女の発言のほとんどがレトロゲームのセリフで構成されているためである。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아리스",
+        "아리스",
+        "아리스 블루아카이브"
+      ],
+      "en": [
+        "aris_(blue_archive)",
+        "aris",
+        "blue_archive_aris"
+      ],
+      "ja": [
+        "アリス",
+        "アリス(ブルーアーカイブ)",
+        "ブルーアーカイブ アリス"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.371332Z"
+}

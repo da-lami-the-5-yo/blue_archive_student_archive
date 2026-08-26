@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "노노미",
+      "en": "Nonomi",
+      "ja": "ノノミ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "잔뜩 신이 난 아비도스 대책위원회의 일원.\n\n학교 밖 휴양지에서도, 노노미는 여전히 모두를 챙겨주는 상냥함을 지니고 있다. 다 같이 바다로 향하는 것이 너무나 두근거린 나머지, 자기도 모르게 자비로 많은 준비물을 구매했다.",
+      "en": "An excitable member of the Abydos Foreclosure Task Force.\n\nAlways caring and kind, Nonomi looks after everyone, even when on vacation. She was so excited to head out to sea with others that she purchased one-too-many supplies, all out of her own pocket.",
+      "ja": "アビドス高等学校所属、夏の海へ辿り着き、とっても楽しそうなアビドス対策委員会の一員。\n\n行楽地に来ていても、常にみんなのことを気にする優しさは健在。余談だが今回の旅行が楽しみ過ぎて、いつも以上に色んなものを買ってきた模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "노노미",
+        "노노미(수영복)",
+        "노노미 블루아카이브"
+      ],
+      "en": [
+        "nonomi_(blue_archive)",
+        "nonomi",
+        "blue_archive_nonomi"
+      ],
+      "ja": [
+        "ノノミ",
+        "ノノミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ノノミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.386400Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "메루",
+      "en": "Meru",
+      "ja": "メル"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "지식해방전선",
+      "en": "Knowledge Liberation Front",
+      "ja": "知識解放戦線"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 학원의 도서 동아리 <지식해방전선>의 부원.\n\n같은 동아리 부원인 모미지와는 달리, 2차 창작물을 소비하는 데에서 그치지 않고 적극적으로 창작 활동에 나선다. 필명은 메루리. 사이가 좋아 보이거나, 혹은 역으로 나빠 보이는 학생들에게서 주로 소재를 발견하곤 한다. 앙숙 관계인 트리니티와 게헨나의 학생들 역시 메루의 탐색 대상에서 벗어날 수 없기에, 붉은겨울 학원 밖에서도 악명이 높은 편이다.",
+      "en": "A member of the Knowledge Liberation Front, a book club at Red Winter Academy.\n\n Unlike her club mate Momiji, she doesn't just read fan books—she creates them. Writing under the name \"Meruri,\" she draws inspiration from the drama between her fellow students. Even the feud between the Trinity and Gehenna student bodies have made it into her pages, generating some notoriety outside of Red Winter Academy.",
+      "ja": "レッドウィンター連邦学園所属、図書委員会「知識解放戦線」の一人。\n\n同じ知識解放戦線であるモミジと違って、二次創作を楽しむだけでなく自らも創作をしている。ハンドルネームは「メルリー」。仲が良さそうな、あるいは悪そうな生徒同士の関係にインスピレーションを受ける事が多く、所謂ナマモノ同人をしている。仇敵関係にあるトリニティ、ゲヘナの生徒もメルの「創作対象」であり、よく描かれるため、メルの悪名は学園外にも轟いている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "메루",
+        "메루",
+        "메루 블루아카이브"
+      ],
+      "en": [
+        "meru_(blue_archive)",
+        "meru",
+        "blue_archive_meru"
+      ],
+      "ja": [
+        "メル",
+        "メル(ブルーアーカイブ)",
+        "ブルーアーカイブ メル"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.400749Z"
+}

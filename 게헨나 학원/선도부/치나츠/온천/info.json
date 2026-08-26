@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "치나츠",
+      "en": "Chinatsu",
+      "ja": "チナツ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "선도부",
+      "en": "Prefect Team",
+      "ja": "風紀委員会"
+    },
+    "seasonal": "온천",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "공무 중 우연히 온천장을 방문하게 된 게헨나 선도부의 보건 담당.\n\n새로운 의약품의 발주부터 온천개발부의 새로운 음모까지, 그녀를 괴롭히는 문제들은 설국의 온천장에서도 그치질 않지만…… 목가적인 온천장의 풍경은 일상에 지친 그녀를 살짝 나태하게 만든다.",
+      "en": "The head of the Medical Committee who happens to visit the hot springs resort while on duty.\n\nChinatsu's problems don't stop even at the snowy hot springs resort—from ordering new medicine to the latest Hot Springs Development Department conspiracy. However, the scenery of the idyllic hot springs makes the weary Chinatsu a bit indolent.",
+      "ja": "ゲヘナ学園所属、任務として偶然レッドウィンターの温泉郷を訪れていたゲヘナ風紀委員会の救護担当。\n\n新たな医薬品の発注から、ゲヘナ温泉開発部の対処まで、たとえ温泉郷にいても彼女を悩ませる問題は山積みである。それでも温泉郷の綺麗な景色やそのゆったりとした雰囲気のせいか、彼女の表情はいつもよりも柔らかい。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "치나츠",
+        "치나츠(온천)",
+        "치나츠 블루아카이브"
+      ],
+      "en": [
+        "chinatsu_(blue_archive)",
+        "chinatsu",
+        "blue_archive_chinatsu"
+      ],
+      "ja": [
+        "チナツ",
+        "チナツ(ブルーアーカイブ)",
+        "ブルーアーカイブ チナツ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.379618Z"
+}

@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스미 세리나",
+      "en": "Sumi Serina",
+      "ja": "鷲見セリナ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Knights Hospitaller",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "황륜대제 이벤트에서 등장한 간호사 체육복 차림의 세리나 스탠딩.",
+      "en": "Unreleased 체육복 variant for Sumi Serina.",
+      "ja": "鷲見セリナの未実装체육복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "체육복 세리나",
+        "체리나"
+      ],
+      "en": [
+        "sumi_serina_(track)_(blue_archive)"
+      ],
+      "ja": [
+        "鷲見セリナ(体操服)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.445956Z"
+}

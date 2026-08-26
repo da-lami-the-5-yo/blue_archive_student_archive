@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미유",
+      "en": "Miyu",
+      "ja": "ミユ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "SRT 특수학원 RABBIT 소대의 저격수. 콜사인은 <RABBIT 4>.\n\n타고난 저격수의 재능을 살려 SRT 특수학원에 입학하였으나, 갑작스럽게 학원이 폐쇄되며 현재는 공원에서 소대원들과 함께 노숙을 하고 있다. 존재감이 약하기 때문에 저격 임무 중에 기척을 지우는 데에는 능하지만, 적뿐만 아니라 아군조차도 그녀의 존재를 잊어버릴 때가 많다.",
+      "en": "The sniper of SRT Academy's RABBIT Squad. Her call sign is \"RABBIT 4.\"\n\nMiyu entered SRT due to her natural sniping talent, but struggled with her meek and shy temperament. Just as she found a home in the academy, it closed down and she joined the rest of her squad camping out in the park. Her lack of presence makes her a great sniper, but sometimes even her allies forget she exists.",
+      "ja": "SRT特殊学園所属、RABBIT小隊のスナイパー。\n\n狙撃手としての才能を見入られてSRT特殊学園に入学したものの、突如として学園が閉鎖。現在は公園にて、同じ小隊の隊員たちと生活を送っている。存在感が希薄で、そのこと自体は狙撃任務に役立つものの、敵だけではなく味方にすら存在を忘れられることも多々。コールサインは「RABBIT4」。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미유",
+        "미유",
+        "미유 블루아카이브"
+      ],
+      "en": [
+        "miyu_(blue_archive)",
+        "miyu",
+        "blue_archive_miyu"
+      ],
+      "ja": [
+        "ミユ",
+        "ミユ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミユ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.384166Z"
+}

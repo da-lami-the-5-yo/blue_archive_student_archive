@@ -1,0 +1,79 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아루",
+      "en": "Aru",
+      "ja": "アル"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "흥신소 68의 자칭 사장.\n\n게헨나 학원의 동아리인 흥신소 68을 제멋대로 확장시켜 마음대로 불법 사업을 하고 있다. 아루 본인은 스스로가 멋진 악당처럼 보이기를 희망하고 있지만 빈틈이 많아 허당이라는 실체가 쉽게 드러나곤 한다.",
+      "en": "The self-proclaimed boss of Problem Solver 68.\n\nAru expanded Gehenna Academy's Problem Solver 68 club without permission to conduct illegal business activities. She aspires to be seen as a dashing and debonair villain, but her frequent blunders always expose her as a poser.",
+      "ja": "ゲヘナ学園所属、便利屋68の自称社長。\n\nゲヘナ学園の部活である便利屋68で、好き勝手に不法事業を行っている少女。アル本人はかっこいい悪党としてふるまいたいと思っているものの、抜けているところが多いためすぐにバレてしまう。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아루",
+        "아루",
+        "아루 블루아카이브"
+      ],
+      "en": [
+        "aru_(blue_archive)",
+        "aru",
+        "blue_archive_aru"
+      ],
+      "ja": [
+        "アル",
+        "アル(ブルーアーカイブ)",
+        "ブルーアーカイブ アル"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 1,
+    "unofficial_rank02": 3,
+    "total_images": 8
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7077560_rank01_0.62.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7086054_rank02_0.22.jpg",
+        "비공식/rank02/fanart_7086049_rank02_0.38.jpg",
+        "비공식/rank02/fanart_7084298_rank02_0.41.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.354289Z"
+}

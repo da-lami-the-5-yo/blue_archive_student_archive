@@ -1,0 +1,73 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유리조노 세이아",
+      "en": "Yurizono Seia",
+      "ja": "百合園セイア"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "티파티 3대 파벌 중 하나인 필리우스의 수장이자 예지몽의 능력을 지녔던 소녀.",
+      "en": "Unreleased student from Trinity General School Tea Party.",
+      "ja": "トリニティ総合学園 ティーパーティー所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유리조노 세이아",
+        "세이아"
+      ],
+      "en": [
+        "yurizono_seia",
+        "seia_(blue_archive)"
+      ],
+      "ja": [
+        "百合園セイア",
+        "セイア"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 1,
+    "unofficial_rank02": 2,
+    "total_images": 5
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7084215_rank01_0.49.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7084325_rank02_0.32.jpg",
+        "비공식/rank02/fanart_7084228_rank02_0.45.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.421233Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사키",
+      "en": "Saki",
+      "ja": "サキ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "잠입 작전을 위해 외진 어촌 마을을 방문한 RABBIT 소대의 포인트맨.\n\n언제나 FM을 중시하는 사키답게 잠입 작전임에도 불구하고 전투에 필요한 장비들을 모두 빼놓지 않고 가방에 담아 챙겨왔다. 수영복 차림이라도 성실한 점은 변하지 않는 모양.",
+      "en": "The RABBIT Squad's point woman, who is visiting a remote fishing village on an undercover operation.\n\nAlways focused on doing things by-the-book, Saki has come with a bag packed with everything needed for a mission, including her manuals. Despite being in a swimsuit, her work ethic remains the same.",
+      "ja": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊のポイントマン。\n\nマニュアルを重視するサキらしく、潜入作戦でも戦闘に必要な装備を鞄に入れている。水着姿でも真面目なところは変わらない模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사키",
+        "사키(수영복)",
+        "사키 블루아카이브"
+      ],
+      "en": [
+        "saki_(blue_archive)",
+        "saki",
+        "blue_archive_saki"
+      ],
+      "ja": [
+        "サキ",
+        "サキ(ブルーアーカイブ)",
+        "ブルーアーカイブ サキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.397541Z"
+}

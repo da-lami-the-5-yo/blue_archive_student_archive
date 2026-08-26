@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "히비키",
+      "en": "Hibiki",
+      "ja": "ヒビキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineering Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원, 엔지니어부의 부원.\n\n다른 학생들에 비해 사교성이 부족하고 말투도 어눌한 편이지만, 타고난 공학적 재능을 바탕으로 여러 가지 신기한 물건들을 발명하고 있다. 그녀의 발명품은 대부분 흠잡을 곳 없는 걸작이지만, 이상한 기능이 꼭 하나씩 포함되어 사용자를 당혹게 만들곤 한다.",
+      "en": "Member of the Engineering Department at Millennium Science School.\n\nSocially inept and inarticulate compared to other students, but is a prolific inventor due to her innate talent for engineering. Her inventions are considered to be flawless masterpieces, but they often come equipped with baffling and obscure functions.",
+      "ja": "ミレニアムサイエンススクール所属、エンジニア部の部員。\n\nやや社交性に乏しく話し方も朴訥としているが、その生まれつきの工学的な才能は突出しており不思議なものをいくつも発明している。彼女の発明品はほとんど欠点がなく、その全てが傑作と言っても過言では無いのだが、必ず一つは変な機能が含まれており、しばしば使い手を当惑させる。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "히비키",
+        "히비키",
+        "히비키 블루아카이브"
+      ],
+      "en": [
+        "hibiki_(blue_archive)",
+        "hibiki",
+        "blue_archive_hibiki"
+      ],
+      "ja": [
+        "ヒビキ",
+        "ヒビキ(ブルーアーカイブ)",
+        "ブルーアーカイブ ヒビキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.366333Z"
+}

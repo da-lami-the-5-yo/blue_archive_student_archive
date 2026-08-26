@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "나츠메 이로하",
+      "en": "Natsume Iroha",
+      "ja": "棗イロハ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "해적수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "만마선 이벤트에서 한숨을 쉬며 휴식을 취하는 이로하의 해적 수영복 스탠딩.",
+      "en": "Unreleased 해적수영복 variant for Natsume Iroha.",
+      "ja": "棗イロハの未実装해적수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "해적 이로하",
+        "해적수로하"
+      ],
+      "en": [
+        "natsume_iroha_(pirate)_(blue_archive)"
+      ],
+      "ja": [
+        "棗イロハ(海賊水着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.456051Z"
+}

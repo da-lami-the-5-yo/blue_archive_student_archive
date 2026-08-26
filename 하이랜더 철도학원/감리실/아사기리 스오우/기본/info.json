@@ -1,0 +1,74 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아사기리 스오우",
+      "en": "Asagiri Suou",
+      "ja": "浅黄スオウ"
+    },
+    "school": {
+      "kr": "하이랜더 철도학원",
+      "en": "Highlander Railway Academy",
+      "ja": "ハイランダー鉄道学園"
+    },
+    "club": {
+      "kr": "감리실",
+      "en": "Highlander Supervisory Office",
+      "ja": "ハイランダー監理室"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "하이랜더 철도학원 감리실 최고 책임자. 아비도스 리조트와 철도 노선을 둘러싼 대립의 주역.",
+      "en": "Unreleased student from Highlander Railway Academy Highlander Supervisory Office.",
+      "ja": "ハイランダー鉄道学園 ハイランダー監理室所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아사기리 스오우",
+        "스오우"
+      ],
+      "en": [
+        "asagiri_suou",
+        "suou_(blue_archive)"
+      ],
+      "ja": [
+        "浅黄スオウ",
+        "スオウ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 5,
+    "unofficial_rank02": 0,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_wiki_portrait.png"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7075505_rank01_0.57.jpg",
+        "비공식/rank01/fanart_7033726_rank01_0.57.jpg",
+        "비공식/rank01/fanart_7013210_rank01_0.55.jpg",
+        "비공식/rank01/fanart_6991851_rank01_0.49.jpg",
+        "비공식/rank01/fanart_6975012_rank01_0.49.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.430299Z"
+}

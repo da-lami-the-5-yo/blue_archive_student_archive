@@ -1,0 +1,77 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시로코",
+      "en": "Shiroko",
+      "ja": "シロコ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "라이딩",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "여름을 맞아 본격적으로 채비하고 나선 대책위원회 행동반장.\n\n평소보다 완벽한 준비를 위해, 항상 입던 교복이 아닌 사이클 저지로 갈아입었다. 키보토스 종단을 성공하겠다는 황당한 목표 또한 늘 그래왔듯 진심이다.",
+      "en": "The Foreclosure Task Force captain is earnestly training for summer.\n\nShe changed into her cycling jersey for some summer training, and is as usual, serious about completing her near-impossible trek across Kivotos.",
+      "ja": "アビドス高等学校所属、ライディング用の本格的な格好に着替えた、アビドス対策委員会の切り込み隊長。\n\nいつもの制服を脱ぎ、気合を入れてサイクルジャージへと着替えた彼女は、心なしか普段より晴れやかな顔をしている。「キヴォトス縦断」というとんでもない目標を口にした彼女だったが、頼れるパートナーがいるからか、どうやら本人には不安も心配も無い様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시로코",
+        "시로코(라이딩)",
+        "시로코 블루아카이브"
+      ],
+      "en": [
+        "shiroko_(blue_archive)",
+        "shiroko",
+        "blue_archive_shiroko"
+      ],
+      "ja": [
+        "シロコ",
+        "シロコ(ブルーアーカイブ)",
+        "ブルーアーカイブ シロコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 3,
+    "unofficial_rank02": 0,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.61.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.62.jpg",
+        "비공식/rank01/fanart_7088158_rank01_0.54.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.376404Z"
+}

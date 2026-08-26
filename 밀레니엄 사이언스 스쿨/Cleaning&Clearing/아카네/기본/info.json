@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아카네",
+      "en": "Akane",
+      "ja": "アカネ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원의 비밀 조직, C&C의 에이전트.\n\n콜사인은 제로쓰리로 \"청소\"에 특화된 요원이다. 부드러운 인상을 바탕으로 적진에 침투하여 폭약으로 진영을 깨끗이 청소해 버리기 때문에 \"청소의 명인\"이라는 이명으로도 알려져 있다.",
+      "en": "An agent of C&C, a secret organization of the Millennium School. Akane operates under the call sign Zero-Three. She became known as the Master Cleaner for her modus operandi of infiltrating the enemy camp and clearing it out with explosives, all while wearing her signature gentle smile.",
+      "ja": "ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。\n\nコールサインは「ゼロスリー」で、「掃除」に特化した要員。柔らかい印象を武器に敵陣に潜入し、爆薬で全てを綺麗に掃除してしまうため、「掃除のプロフェッショナル」という二つ名で知られている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아카네",
+        "아카네",
+        "아카네 블루아카이브"
+      ],
+      "en": [
+        "akane_(blue_archive)",
+        "akane",
+        "blue_archive_akane"
+      ],
+      "ja": [
+        "アカネ",
+        "アカネ(ブルーアーカイブ)",
+        "ブルーアーカイブ アカネ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.361113Z"
+}

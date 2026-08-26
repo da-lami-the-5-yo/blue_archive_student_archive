@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 아리스",
+      "en": "Tendo Alice",
+      "ja": "天童アリス"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "설산 이벤트에서 착용한 아리스의 포근한 방한복 스탠딩.",
+      "en": "Unreleased 방한복 variant for Tendo Alice.",
+      "ja": "天童アリスの未実装방한복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "방한복 아리스"
+      ],
+      "en": [
+        "tendo_alice_(winter)_(blue_archive)"
+      ],
+      "ja": [
+        "天童アリス(防寒着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.453640Z"
+}

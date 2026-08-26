@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미사키",
+      "en": "Misaki",
+      "ja": "ミサキ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius",
+      "ja": "アリウス"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "말수가 적고 무뚝뚝한 인상을 가진 아리우스 스쿼드의 일원.\n\n타인의 행동은 물론이고, 자신의 처우에도 별다른 관심이 없는 것처럼 무모한 행동을 할 때가 많다. 손목과 목을 언제나 두꺼운 붕대로 가리고 있다.",
+      "en": "A member of the Arius Squad, she gives off a quiet, stand-offish impression.\n\nMisaki has no interest in others' opinions or how they treat her. She can be reckless to a fault, and her wrists and neck are always covered with thick bandages.",
+      "ja": "アリウス分校所属、口数が少なく無愛想な印象を受けるアリウススクワッドの少女。\n\n他人にも自分自身にも興味が薄く、時折自暴自棄とも取れる行動を起こす。手首や首元には、何かを隠すように分厚い包帯が巻かれている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미사키",
+        "미사키",
+        "미사키 블루아카이브"
+      ],
+      "en": [
+        "misaki_(blue_archive)",
+        "misaki",
+        "blue_archive_misaki"
+      ],
+      "ja": [
+        "ミサキ",
+        "ミサキ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミサキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.385471Z"
+}

@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우루시바라 카구야",
+      "en": "Urushibara Kaguya",
+      "ja": "漆原カグヤ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "경극부",
+      "en": "Peking Opera Club",
+      "ja": "京劇部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "산해경 경극부 부원.",
+      "en": "Unreleased student from Shanhaijing Senior Secondary School Peking Opera Club.",
+      "ja": "山海経高級中学校 京劇部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "우루시바라 카구야"
+      ],
+      "en": [
+        "urushibara_kaguya_(blue_archive)"
+      ],
+      "ja": [
+        "漆原カグヤ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.425931Z"
+}
