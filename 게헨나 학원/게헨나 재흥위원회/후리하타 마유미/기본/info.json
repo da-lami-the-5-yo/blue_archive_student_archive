@@ -41,13 +41,19 @@
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 1,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 1
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.417691Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "게헨나 학원/게헨나 재흥위원회/후리하타 마유미/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

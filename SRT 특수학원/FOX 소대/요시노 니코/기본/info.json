@@ -44,13 +44,19 @@
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 1,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 1
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.429060Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "SRT 특수학원/FOX 소대/요시노 니코/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

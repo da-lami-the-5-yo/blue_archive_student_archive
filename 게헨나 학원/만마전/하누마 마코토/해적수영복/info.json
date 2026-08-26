@@ -49,6 +49,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.455597Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "게헨나 학원/만마전/하누마 마코토/해적수영복/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

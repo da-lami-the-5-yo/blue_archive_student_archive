@@ -48,6 +48,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.453871Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

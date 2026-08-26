@@ -38,7 +38,45 @@
         "アル(ブルーアーカイブ)",
         "ブルーアーカイブ アル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/아루/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/아루/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/아루/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7077560_rank01_0.62.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank01/fanart_7077560_rank01_0.62.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7084298_rank02_0.41.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank02/fanart_7084298_rank02_0.41.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7086049_rank02_0.38.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank02/fanart_7086049_rank02_0.38.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7086054_rank02_0.22.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank02/fanart_7086054_rank02_0.22.jpg"
+      }
+    ],
+    "image_count": 7
   },
   {
     "id": 10001,
@@ -79,7 +117,25 @@
         "エイミ(ブルーアーカイブ)",
         "ブルーアーカイブ エイミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10002,
@@ -120,7 +176,25 @@
         "ハルナ(ブルーアーカイブ)",
         "ブルーアーカイブ ハルナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/하루나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/하루나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/하루나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10003,
@@ -161,7 +235,25 @@
         "ヒフミ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒフミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/히후미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/히후미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/히후미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10004,
@@ -202,7 +294,50 @@
         "ヒナ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/히나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/히나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/히나/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_7084545_rank00_0.72.jpg",
+        "path": "게헨나 학원/선도부/히나/기본/비공식/rank00/fanart_7084545_rank00_0.72.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7081785_rank01_0.56.jpg",
+        "path": "게헨나 학원/선도부/히나/기본/비공식/rank01/fanart_7081785_rank01_0.56.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7081957_rank01_0.57.jpg",
+        "path": "게헨나 학원/선도부/히나/기본/비공식/rank01/fanart_7081957_rank01_0.57.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7086019_rank02_0.47.jpg",
+        "path": "게헨나 학원/선도부/히나/기본/비공식/rank02/fanart_7086019_rank02_0.47.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7086344_rank02_0.34.jpg",
+        "path": "게헨나 학원/선도부/히나/기본/비공식/rank02/fanart_7086344_rank02_0.34.jpg"
+      }
+    ],
+    "image_count": 8
   },
   {
     "id": 10005,
@@ -243,7 +378,50 @@
         "ホシノ(ブルーアーカイブ)",
         "ブルーアーカイブ ホシノ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_7084488_rank00_0.69.jpg",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/비공식/rank00/fanart_7084488_rank00_0.69.jpg"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_7086527_rank00_0.67.jpg",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/비공식/rank00/fanart_7086527_rank00_0.67.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7084487_rank01_0.61.jpg",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/비공식/rank01/fanart_7084487_rank01_0.61.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7084489_rank01_0.58.jpg",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/비공식/rank01/fanart_7084489_rank01_0.58.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7086048_rank02_0.36.jpg",
+        "path": "아비도스 고등학교/대책위원회/호시노/기본/비공식/rank02/fanart_7086048_rank02_0.36.jpg"
+      }
+    ],
+    "image_count": 8
   },
   {
     "id": 10006,
@@ -284,7 +462,25 @@
         "イオリ(ブルーアーカイブ)",
         "ブルーアーカイブ イオリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/이오리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/이오리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/이오리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10007,
@@ -325,7 +521,25 @@
         "マキ(ブルーアーカイブ)",
         "ブルーアーカイブ マキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10008,
@@ -366,7 +580,25 @@
         "ネル(ブルーアーカイブ)",
         "ブルーアーカイブ ネル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10009,
@@ -407,7 +639,25 @@
         "イズミ(ブルーアーカイブ)",
         "ブルーアーカイブ イズミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10010,
@@ -448,7 +698,50 @@
         "シロコ(ブルーアーカイブ)",
         "ブルーアーカイブ シロコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_7082095_rank00_0.68.jpg",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank00/fanart_7082095_rank00_0.68.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7076233_rank01_0.54.jpg",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank01/fanart_7076233_rank01_0.54.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7081668_rank01_0.57.jpg",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank01/fanart_7081668_rank01_0.57.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7072743_rank02_0.39.jpg",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank02/fanart_7072743_rank02_0.39.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7079304_rank02_0.41.jpg",
+        "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank02/fanart_7079304_rank02_0.41.jpg"
+      }
+    ],
+    "image_count": 8
   },
   {
     "id": 10011,
@@ -489,7 +782,25 @@
         "シュン(ブルーアーカイブ)",
         "ブルーアーカイブ シュン"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/매화원/슌/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/매화원/슌/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/매화원/슌/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10012,
@@ -530,7 +841,25 @@
         "スミレ(ブルーアーカイブ)",
         "ブルーアーカイブ スミレ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10013,
@@ -571,7 +900,25 @@
         "ツルギ(ブルーアーカイブ)",
         "ブルーアーカイブ ツルギ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/츠루기/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/츠루기/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/츠루기/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13000,
@@ -612,7 +959,25 @@
         "アカネ(ブルーアーカイブ)",
         "ブルーアーカイブ アカネ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13001,
@@ -653,7 +1018,25 @@
         "チセ(ブルーアーカイブ)",
         "ブルーアーカイブ チセ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/음양부/치세/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/음양부/치세/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/음양부/치세/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13002,
@@ -694,7 +1077,25 @@
         "アカリ(ブルーアーカイブ)",
         "ブルーアーカイブ アカリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/아카리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/아카리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/아카리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13003,
@@ -735,7 +1136,25 @@
         "ハスミ(ブルーアーカイブ)",
         "ブルーアーカイブ ハスミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13004,
@@ -776,7 +1195,25 @@
         "ノノミ(ブルーアーカイブ)",
         "ブルーアーカイブ ノノミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/노노미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/노노미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/노노미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13005,
@@ -817,7 +1254,25 @@
         "カヨコ(ブルーアーカイブ)",
         "ブルーアーカイブ カヨコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13006,
@@ -858,7 +1313,25 @@
         "ムツキ(ブルーアーカイブ)",
         "ブルーアーカイブ ムツキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13007,
@@ -899,7 +1372,25 @@
         "ジュンコ(ブルーアーカイブ)",
         "ブルーアーカイブ ジュンコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/준코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/준코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/준코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13008,
@@ -940,7 +1431,25 @@
         "セリカ(ブルーアーカイブ)",
         "ブルーアーカイブ セリカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13009,
@@ -981,7 +1490,25 @@
         "ツバキ(ブルーアーカイブ)",
         "ブルーアーカイブ ツバキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/수행부/츠바키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/수행부/츠바키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/수행부/츠바키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13010,
@@ -1022,7 +1549,45 @@
         "ユウカ(ブルーアーカイブ)",
         "ブルーアーカイブ ユウカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_7084326_rank00_0.69.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/비공식/rank00/fanart_7084326_rank00_0.69.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7086493_rank01_0.54.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/비공식/rank01/fanart_7086493_rank01_0.54.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7086494_rank01_0.60.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/비공식/rank01/fanart_7086494_rank01_0.60.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7087193_rank01_0.65.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/기본/비공식/rank01/fanart_7087193_rank01_0.65.jpg"
+      }
+    ],
+    "image_count": 7
   },
   {
     "id": 16000,
@@ -1063,7 +1628,25 @@
         "ハルカ(ブルーアーカイブ)",
         "ブルーアーカイブ ハルカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16001,
@@ -1104,7 +1687,25 @@
         "アスナ(ブルーアーカイブ)",
         "ブルーアーカイブ アスナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16002,
@@ -1145,7 +1746,25 @@
         "コトリ(ブルーアーカイブ)",
         "ブルーアーカイブ コトリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16003,
@@ -1186,7 +1805,25 @@
         "スズミ(ブルーアーカイブ)",
         "ブルーアーカイブ スズミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/스즈미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/스즈미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/스즈미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16004,
@@ -1227,7 +1864,25 @@
         "フィーナ(ブルーアーカイブ)",
         "ブルーアーカイブ フィーナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/피나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/피나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/피나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20000,
@@ -1268,7 +1923,25 @@
         "ヒビキ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒビキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/히비키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/히비키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/히비키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20001,
@@ -1309,7 +1982,25 @@
         "カリン(ブルーアーカイブ)",
         "ブルーアーカイブ カリン"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20002,
@@ -1350,7 +2041,25 @@
         "サヤ(ブルーアーカイブ)",
         "ブルーアーカイブ サヤ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/연단방/사야/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/연단방/사야/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/연단방/사야/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23000,
@@ -1391,7 +2100,25 @@
         "アイリ(ブルーアーカイブ)",
         "ブルーアーカイブ アイリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23001,
@@ -1432,7 +2159,25 @@
         "フウカ(ブルーアーカイブ)",
         "ブルーアーカイブ フウカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/급양부/후우카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/급양부/후우카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/급양부/후우카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23002,
@@ -1473,7 +2218,25 @@
         "ハナエ(ブルーアーカイブ)",
         "ブルーアーカイブ ハナエ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/구호기사단/하나에/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/구호기사단/하나에/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/구호기사단/하나에/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23003,
@@ -1514,7 +2277,25 @@
         "ハレ(ブルーアーカイブ)",
         "ブルーアーカイブ ハレ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23004,
@@ -1555,7 +2336,25 @@
         "ウタハ(ブルーアーカイブ)",
         "ブルーアーカイブ ウタハ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23005,
@@ -1596,7 +2395,25 @@
         "アヤネ(ブルーアーカイブ)",
         "ブルーアーカイブ アヤネ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/아야네/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/아야네/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/아야네/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26000,
@@ -1637,7 +2454,25 @@
         "チナツ(ブルーアーカイブ)",
         "ブルーアーカイブ チナツ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/치나츠/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/치나츠/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/치나츠/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26001,
@@ -1678,7 +2513,25 @@
         "コタマ(ブルーアーカイブ)",
         "ブルーアーカイブ コタマ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26002,
@@ -1719,7 +2572,25 @@
         "ジュリ(ブルーアーカイブ)",
         "ブルーアーカイブ ジュリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/급양부/주리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/급양부/주리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/급양부/주리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26003,
@@ -1760,7 +2631,25 @@
         "セリナ(ブルーアーカイブ)",
         "ブルーアーカイブ セリナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/구호기사단/세리나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/구호기사단/세리나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/구호기사단/세리나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26004,
@@ -1801,7 +2690,25 @@
         "シミコ(ブルーアーカイブ)",
         "ブルーアーカイブ シミコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/도서부/시미코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/도서부/시미코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/도서부/시미코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26005,
@@ -1842,7 +2749,25 @@
         "ヨシミ(ブルーアーカイブ)",
         "ブルーアーカイブ ヨシミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/요시미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/요시미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/요시미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20003,
@@ -1883,7 +2808,25 @@
         "マシロ(ブルーアーカイブ)",
         "ブルーアーカイブ マシロ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/마시로/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/마시로/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/마시로/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10014,
@@ -1924,7 +2867,25 @@
         "イズナ(ブルーアーカイブ)",
         "ブルーアーカイブ イズナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23006,
@@ -1965,7 +2926,25 @@
         "シズコ(ブルーアーカイブ)",
         "ブルーアーカイブ シズコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10015,
@@ -2006,7 +2985,25 @@
         "アリス(ブルーアーカイブ)",
         "ブルーアーカイブ アリス"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10016,
@@ -2047,7 +3044,25 @@
         "ミドリ(ブルーアーカイブ)",
         "ブルーアーカイブ ミドリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/미도리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/미도리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/미도리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13011,
@@ -2088,7 +3103,25 @@
         "モモイ(ブルーアーカイブ)",
         "ブルーアーカイブ モモイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10017,
@@ -2129,7 +3162,25 @@
         "チェリノ(ブルーアーカイブ)",
         "ブルーアーカイブ チェリノ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26006,
@@ -2170,7 +3221,25 @@
         "ノドカ(ブルーアーカイブ)",
         "ブルーアーカイブ ノドカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/노도카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/노도카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/노도카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10018,
@@ -2211,7 +3280,25 @@
         "ユズ(ブルーアーカイブ)",
         "ブルーアーカイブ ユズ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10019,
@@ -2252,7 +3339,25 @@
         "アズサ(ブルーアーカイブ)",
         "ブルーアーカイブ アズサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/아즈사/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/아즈사/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/아즈사/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23007,
@@ -2293,7 +3398,25 @@
         "ハナコ(ブルーアーカイブ)",
         "ブルーアーカイブ ハナコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/하나코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/하나코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/하나코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10020,
@@ -2334,7 +3457,25 @@
         "コハル(ブルーアーカイブ)",
         "ブルーアーカイブ コハル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/코하루/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/코하루/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/코하루/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10021,
@@ -2375,7 +3516,25 @@
         "アズサ(ブルーアーカイブ)",
         "ブルーアーカイブ アズサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/아즈사/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/아즈사/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/아즈사/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20004,
@@ -2416,7 +3575,25 @@
         "マシロ(ブルーアーカイブ)",
         "ブルーアーカイブ マシロ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/마시로/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/마시로/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/마시로/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16005,
@@ -2457,7 +3634,25 @@
         "ツルギ(ブルーアーカイブ)",
         "ブルーアーカイブ ツルギ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/츠루기/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/츠루기/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/츠루기/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20005,
@@ -2498,7 +3693,25 @@
         "ヒフミ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒフミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/히후미/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/히후미/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/히후미/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10022,
@@ -2539,7 +3752,25 @@
         "ヒナ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/히나/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/히나/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/히나/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10023,
@@ -2580,7 +3811,25 @@
         "イオリ(ブルーアーカイブ)",
         "ブルーアーカイブ イオリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/이오리/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/이오리/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/이오리/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16006,
@@ -2621,7 +3870,25 @@
         "イズミ(ブルーアーカイブ)",
         "ブルーアーカイブ イズミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10024,
@@ -2662,7 +3929,25 @@
         "シロコ(ブルーアーカイブ)",
         "ブルーアーカイブ シロコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/라이딩/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/라이딩/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/라이딩/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10025,
@@ -2703,7 +3988,25 @@
         "シュン(ブルーアーカイブ)",
         "ブルーアーカイブ シュン"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/매화원/슌/어린이/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/매화원/슌/어린이/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/매화원/슌/어린이/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13012,
@@ -2744,7 +4047,25 @@
         "キリノ(ブルーアーカイブ)",
         "ブルーアーカイブ キリノ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "발키리 경찰학교/생활안전국/키리노/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "발키리 경찰학교/생활안전국/키리노/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "발키리 경찰학교/생활안전국/키리노/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20006,
@@ -2785,7 +4106,25 @@
         "サヤ(ブルーアーカイブ)",
         "ブルーアーカイブ サヤ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/연단방/사야/사복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/연단방/사야/사복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/연단방/사야/사복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10026,
@@ -2826,7 +4165,25 @@
         "ネル(ブルーアーカイブ)",
         "ブルーアーカイブ ネル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/바니걸/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/바니걸/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/바니걸/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10027,
@@ -2867,7 +4224,25 @@
         "カリン(ブルーアーカイブ)",
         "ブルーアーカイブ カリン"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/바니걸/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/바니걸/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/바니걸/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10028,
@@ -2908,7 +4283,25 @@
         "アスナ(ブルーアーカイブ)",
         "ブルーアーカイブ アスナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/바니걸/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/바니걸/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/바니걸/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10029,
@@ -2949,7 +4342,25 @@
         "ナツ(ブルーアーカイブ)",
         "ブルーアーカイブ ナツ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 23008,
@@ -2990,7 +4401,25 @@
         "マリー(ブルーアーカイブ)",
         "ブルーアーカイブ マリー"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20007,
@@ -3031,7 +4460,25 @@
         "ミク(ブルーアーカイブ)",
         "ブルーアーカイブ ミク"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "그 외/없음/하츠네 미쿠/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "그 외/없음/하츠네 미쿠/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "그 외/없음/하츠네 미쿠/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20008,
@@ -3072,7 +4519,25 @@
         "アコ(ブルーアーカイブ)",
         "ブルーアーカイブ アコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/아코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/아코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/아코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20009,
@@ -3113,7 +4578,25 @@
         "チェリノ(ブルーアーカイブ)",
         "ブルーアーカイブ チェリノ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/온천/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/온천/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/온천/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10030,
@@ -3154,7 +4637,25 @@
         "チナツ(ブルーアーカイブ)",
         "ブルーアーカイブ チナツ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/치나츠/온천/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/치나츠/온천/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/치나츠/온천/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16007,
@@ -3195,7 +4696,25 @@
         "トモエ(ブルーアーカイブ)",
         "ブルーアーカイブ トモエ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/토모에/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/토모에/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/토모에/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20010,
@@ -3236,7 +4755,25 @@
         "ノドカ(ブルーアーカイブ)",
         "ブルーアーカイブ ノドカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/노도카/온천/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/노도카/온천/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/노도카/온천/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10031,
@@ -3277,7 +4814,25 @@
         "アル(ブルーアーカイブ)",
         "ブルーアーカイブ アル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/아루/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/아루/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/아루/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10032,
@@ -3318,7 +4873,25 @@
         "ムツキ(ブルーアーカイブ)",
         "ブルーアーカイブ ムツキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20011,
@@ -3359,7 +4932,25 @@
         "セリカ(ブルーアーカイブ)",
         "ブルーアーカイブ セリカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10033,
@@ -3400,7 +4991,25 @@
         "ワカモ(ブルーアーカイブ)",
         "ブルーアーカイブ ワカモ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16008,
@@ -3441,7 +5050,25 @@
         "フブキ(ブルーアーカイブ)",
         "ブルーアーカイブ フブキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "발키리 경찰학교/생활안전국/후부키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "발키리 경찰학교/생활안전국/후부키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "발키리 경찰학교/생활안전국/후부키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20012,
@@ -3482,7 +5109,25 @@
         "セナ(ブルーアーカイブ)",
         "ブルーアーカイブ セナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/응급의학부/세나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/응급의학부/세나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/응급의학부/세나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20013,
@@ -3523,7 +5168,25 @@
         "チヒロ(ブルーアーカイブ)",
         "ブルーアーカイブ チヒロ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/치히로/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/치히로/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/치히로/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10034,
@@ -3564,7 +5227,25 @@
         "ミモリ(ブルーアーカイブ)",
         "ブルーアーカイブ ミモリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/수행부/미모리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/수행부/미모리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/수행부/미모리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10035,
@@ -3605,7 +5286,25 @@
         "ウイ(ブルーアーカイブ)",
         "ブルーアーカイブ ウイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/도서부/우이/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/도서부/우이/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/도서부/우이/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10036,
@@ -3646,7 +5345,25 @@
         "ヒナタ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒナタ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/히나타/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/히나타/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/히나타/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10037,
@@ -3687,7 +5404,25 @@
         "マリナ(ブルーアーカイブ)",
         "ブルーアーカイブ マリナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10038,
@@ -3728,7 +5463,25 @@
         "ミヤコ(ブルーアーカイブ)",
         "ブルーアーカイブ ミヤコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20014,
@@ -3769,7 +5522,25 @@
         "サキ(ブルーアーカイブ)",
         "ブルーアーカイブ サキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/사키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/사키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/사키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10039,
@@ -3810,7 +5581,25 @@
         "ミユ(ブルーアーカイブ)",
         "ブルーアーカイブ ミユ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미유/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미유/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미유/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20015,
@@ -3851,7 +5640,25 @@
         "カエデ(ブルーアーカイブ)",
         "ブルーアーカイブ カエデ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/수행부/카에데/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/수행부/카에데/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/수행부/카에데/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20016,
@@ -3892,7 +5699,25 @@
         "イロハ(ブルーアーカイブ)",
         "ブルーアーカイブ イロハ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/이로하/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/이로하/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/이로하/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16009,
@@ -3933,7 +5758,25 @@
         "ミチル(ブルーアーカイブ)",
         "ブルーアーカイブ ミチル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/인법연구부/미치루/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/인법연구부/미치루/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/인법연구부/미치루/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10040,
@@ -3974,7 +5817,25 @@
         "ツクヨ(ブルーアーカイブ)",
         "ブルーアーカイブ ツクヨ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10041,
@@ -4015,7 +5876,25 @@
         "ミサキ(ブルーアーカイブ)",
         "ブルーアーカイブ ミサキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/미사키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/미사키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/미사키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20017,
@@ -4056,7 +5935,25 @@
         "ヒヨリ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒヨリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/히요리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/히요리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/히요리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10042,
@@ -4097,7 +5994,25 @@
         "アツコ(ブルーアーカイブ)",
         "ブルーアーカイブ アツコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/아츠코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/아츠코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/아츠코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10043,
@@ -4138,7 +6053,25 @@
         "ワカモ(ブルーアーカイブ)",
         "ブルーアーカイブ ワカモ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/없음/와카모/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/없음/와카모/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/없음/와카모/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10044,
@@ -4179,7 +6112,25 @@
         "ノノミ(ブルーアーカイブ)",
         "ブルーアーカイブ ノノミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/노노미/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/노노미/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/노노미/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26007,
@@ -4220,7 +6171,25 @@
         "アヤネ(ブルーアーカイブ)",
         "ブルーアーカイブ アヤネ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/아야네/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/아야네/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/아야네/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10045,
@@ -4261,7 +6230,25 @@
         "ホシノ(ブルーアーカイブ)",
         "ブルーアーカイブ ホシノ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26008,
@@ -4302,7 +6289,25 @@
         "シズコ(ブルーアーカイブ)",
         "ブルーアーカイブ シズコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10046,
@@ -4343,7 +6348,25 @@
         "イズナ(ブルーアーカイブ)",
         "ブルーアーカイブ イズナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10047,
@@ -4384,7 +6407,25 @@
         "チセ(ブルーアーカイブ)",
         "ブルーアーカイブ チセ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/음양부/치세/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/음양부/치세/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/음양부/치세/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10048,
@@ -4425,7 +6466,25 @@
         "サオリ(ブルーアーカイブ)",
         "ブルーアーカイブ サオリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20018,
@@ -4466,7 +6525,25 @@
         "モエ(ブルーアーカイブ)",
         "ブルーアーカイブ モエ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/모에/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/모에/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/모에/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10049,
@@ -4507,7 +6584,25 @@
         "カズサ(ブルーアーカイブ)",
         "ブルーアーカイブ カズサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10050,
@@ -4548,7 +6643,25 @@
         "ココナ(ブルーアーカイブ)",
         "ブルーアーカイブ ココナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/매화원/코코나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/매화원/코코나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/매화원/코코나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10051,
@@ -4589,7 +6702,25 @@
         "ウタハ(ブルーアーカイブ)",
         "ブルーアーカイブ ウタハ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/응원단/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/응원단/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/응원단/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10052,
@@ -4630,7 +6761,25 @@
         "ノア(ブルーアーカイブ)",
         "ブルーアーカイブ ノア"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/노아/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/노아/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/노아/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16010,
@@ -4671,7 +6820,25 @@
         "ヒビキ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒビキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/히비키/응원단/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/히비키/응원단/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/히비키/응원단/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20019,
@@ -4712,7 +6879,25 @@
         "アカネ(ブルーアーカイブ)",
         "ブルーアーカイブ アカネ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/바니걸/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/바니걸/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/바니걸/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10053,
@@ -4753,7 +6938,25 @@
         "ユウカ(ブルーアーカイブ)",
         "ブルーアーカイブ ユウカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/체육복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/체육복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/체육복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10054,
@@ -4794,7 +6997,25 @@
         "マリー(ブルーアーカイブ)",
         "ブルーアーカイブ マリー"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/체육복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/체육복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/체육복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16011,
@@ -4835,7 +7056,25 @@
         "ハスミ(ブルーアーカイブ)",
         "ブルーアーカイブ ハスミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/체육복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/체육복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/체육복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20020,
@@ -4876,7 +7115,25 @@
         "ヒマリ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒマリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10055,
@@ -4917,7 +7174,25 @@
         "シグレ(ブルーアーカイブ)",
         "ブルーアーカイブ シグレ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/시구레/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/시구레/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/시구레/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10056,
@@ -4958,7 +7233,25 @@
         "セリナ(ブルーアーカイブ)",
         "ブルーアーカイブ セリナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/구호기사단/세리나/크리스마스/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/구호기사단/세리나/크리스마스/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/구호기사단/세리나/크리스마스/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20021,
@@ -4999,7 +7292,25 @@
         "ハナエ(ブルーアーカイブ)",
         "ブルーアーカイブ ハナエ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/구호기사단/하나에/크리스마스/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/구호기사단/하나에/크리스마스/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/구호기사단/하나에/크리스마스/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10057,
@@ -5040,7 +7351,25 @@
         "ハルナ(ブルーアーカイブ)",
         "ブルーアーカイブ ハルナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/하루나/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/하루나/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/하루나/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20022,
@@ -5081,7 +7410,25 @@
         "フウカ(ブルーアーカイブ)",
         "ブルーアーカイブ フウカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/급양부/후우카/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/급양부/후우카/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/급양부/후우카/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16012,
@@ -5122,7 +7469,25 @@
         "ジュンコ(ブルーアーカイブ)",
         "ブルーアーカイブ ジュンコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/준코/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/준코/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/준코/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10058,
@@ -5163,7 +7528,25 @@
         "ミネ(ブルーアーカイブ)",
         "ブルーアーカイブ ミネ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/구호기사단/미네/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/구호기사단/미네/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/구호기사단/미네/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10059,
@@ -5204,7 +7587,25 @@
         "ミカ(ブルーアーカイブ)",
         "ブルーアーカイブ ミカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/티파티/미카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/티파티/미카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/티파티/미카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10060,
@@ -5245,7 +7646,25 @@
         "メグ(ブルーアーカイブ)",
         "ブルーアーカイブ メグ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/온천개발부/메구/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/온천개발부/메구/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/온천개발부/메구/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20023,
@@ -5286,7 +7705,25 @@
         "カンナ(ブルーアーカイブ)",
         "ブルーアーカイブ カンナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "발키리 경찰학교/공안국/칸나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "발키리 경찰학교/공안국/칸나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "발키리 경찰학교/공안국/칸나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10061,
@@ -5327,7 +7764,25 @@
         "サクラコ(ブルーアーカイブ)",
         "ブルーアーカイブ サクラコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10062,
@@ -5368,7 +7823,25 @@
         "トキ(ブルーアーカイブ)",
         "ブルーアーカイブ トキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20024,
@@ -5409,7 +7882,25 @@
         "ナギサ(ブルーアーカイブ)",
         "ブルーアーカイブ ナギサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/티파티/나기사/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/티파티/나기사/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/티파티/나기사/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10063,
@@ -5450,7 +7941,25 @@
         "コユキ(ブルーアーカイブ)",
         "ブルーアーカイブ コユキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10064,
@@ -5491,7 +8000,25 @@
         "カヨコ(ブルーアーカイブ)",
         "ブルーアーカイブ カヨコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20025,
@@ -5532,7 +8059,25 @@
         "ハルカ(ブルーアーカイブ)",
         "ブルーアーカイブ ハルカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10065,
@@ -5573,7 +8118,25 @@
         "カホ(ブルーアーカイブ)",
         "ブルーアーカイブ カホ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/음양부/카호/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/음양부/카호/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/음양부/카호/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10066,
@@ -5614,7 +8177,25 @@
         "アリス(ブルーアーカイブ)",
         "ブルーアーカイブ アリス"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/메이드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/메이드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/메이드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10067,
@@ -5655,7 +8236,25 @@
         "トキ(ブルーアーカイブ)",
         "ブルーアーカイブ トキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/바니걸/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/바니걸/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/바니걸/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26009,
@@ -5696,7 +8295,25 @@
         "ユズ(ブルーアーカイブ)",
         "ブルーアーカイブ ユズ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/메이드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/메이드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/메이드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10068,
@@ -5737,7 +8354,25 @@
         "レイサ(ブルーアーカイブ)",
         "ブルーアーカイブ レイサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/레이사/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/레이사/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/레이사/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10069,
@@ -5778,7 +8413,25 @@
         "ルミ(ブルーアーカイブ)",
         "ブルーアーカイブ ルミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/현무상회/루미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/현무상회/루미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/현무상회/루미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10070,
@@ -5819,7 +8472,25 @@
         "ミナ(ブルーアーカイブ)",
         "ブルーアーカイブ ミナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "산해경 고급중학교/현룡문/미나/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "산해경 고급중학교/현룡문/미나/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "산해경 고급중학교/현룡문/미나/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20026,
@@ -5860,7 +8531,25 @@
         "ミノリ(ブルーアーカイブ)",
         "ブルーアーカイブ ミノリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10071,
@@ -5901,7 +8590,25 @@
         "ミヤコ(ブルーアーカイブ)",
         "ブルーアーカイブ ミヤコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10072,
@@ -5942,7 +8649,25 @@
         "サキ(ブルーアーカイブ)",
         "ブルーアーカイブ サキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/사키/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/사키/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/사키/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26010,
@@ -5983,7 +8708,25 @@
         "ミユ(ブルーアーカイブ)",
         "ブルーアーカイブ ミユ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미유/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미유/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/미유/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20027,
@@ -6024,7 +8767,25 @@
         "シロコ(ブルーアーカイブ)",
         "ブルーアーカイブ シロコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/시로코/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10073,
@@ -6065,7 +8826,25 @@
         "ウイ(ブルーアーカイブ)",
         "ブルーアーカイブ ウイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/도서부/우이/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/도서부/우이/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/도서부/우이/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20028,
@@ -6106,7 +8885,25 @@
         "ヒナタ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒナタ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/히나타/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/히나타/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/히나타/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16013,
@@ -6147,7 +8944,25 @@
         "コハル(ブルーアーカイブ)",
         "ブルーアーカイブ コハル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/코하루/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/코하루/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/코하루/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10074,
@@ -6188,7 +9003,25 @@
         "ハナコ(ブルーアーカイブ)",
         "ブルーアーカイブ ハナコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/보충수업부/하나코/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/보충수업부/하나코/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/보충수업부/하나코/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20029,
@@ -6229,7 +9062,25 @@
         "ミモリ(ブルーアーカイブ)",
         "ブルーアーカイブ ミモリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/수행부/미모리/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/수행부/미모리/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/수행부/미모리/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10075,
@@ -6270,7 +9121,25 @@
         "メル(ブルーアーカイブ)",
         "ブルーアーカイブ メル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/지식해방전선/메루/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/지식해방전선/메루/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/지식해방전선/메루/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 13013,
@@ -6311,7 +9180,25 @@
         "モミジ(ブルーアーカイブ)",
         "ブルーアーカイブ モミジ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10076,
@@ -6352,7 +9239,25 @@
         " コトリ(ブルーアーカイブ)",
         "ブルーアーカイブ  コトリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/응원단/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/응원단/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/응원단/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20030,
@@ -6393,7 +9298,25 @@
         "ハルナ(ブルーアーカイブ)",
         "ブルーアーカイブ ハルナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/하루나/체육복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/하루나/체육복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/하루나/체육복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10077,
@@ -6434,7 +9357,25 @@
         "イチカ(ブルーアーカイブ)",
         "ブルーアーカイブ イチカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/이치카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/정의실현부/이치카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/이치카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10078,
@@ -6475,7 +9416,25 @@
         "カスミ(ブルーアーカイブ)",
         "ブルーアーカイブ カスミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/온천개발부/카스미/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/온천개발부/카스미/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/온천개발부/카스미/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20031,
@@ -6516,7 +9475,25 @@
         "シグレ(ブルーアーカイブ)",
         "ブルーアーカイブ シグレ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/시구레/온천/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/시구레/온천/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "붉은겨울 연방학원/227호 특별반/시구레/온천/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10079,
@@ -6557,7 +9534,25 @@
         " 美琴(ブルーアーカイブ)",
         "ブルーアーカイブ  美琴"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "토키와다이 중학교/없음/미사카 미코토/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "토키와다이 중학교/없음/미사카 미코토/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "토키와다이 중학교/없음/미사카 미코토/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10080,
@@ -6598,7 +9593,25 @@
         "操祈(ブルーアーカイブ)",
         "ブルーアーカイブ 操祈"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "토키와다이 중학교/없음/쇼쿠호 미사키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "토키와다이 중학교/없음/쇼쿠호 미사키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "토키와다이 중학교/없음/쇼쿠호 미사키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26011,
@@ -6639,7 +9652,25 @@
         "涙子(ブルーアーカイブ)",
         "ブルーアーカイブ 涙子"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "사쿠가와 중학교/없음/사텐 루이코/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "사쿠가와 중학교/없음/사텐 루이코/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "사쿠가와 중학교/없음/사텐 루이코/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10081,
@@ -6680,7 +9711,25 @@
         "ユカリ(ブルーアーカイブ)",
         "ブルーアーカイブ ユカリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10082,
@@ -6721,7 +9770,25 @@
         "レンゲ(ブルーアーカイブ)",
         "ブルーアーカイブ レンゲ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10083,
@@ -6762,7 +9829,25 @@
         "キキョウ(ブルーアーカイブ)",
         "ブルーアーカイブ キキョウ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20032,
@@ -6803,7 +9888,25 @@
         "エイミ(ブルーアーカイブ)",
         "ブルーアーカイブ エイミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10084,
@@ -6844,7 +9947,25 @@
         "コタマ(ブルーアーカイブ)",
         "ブルーアーカイブ コタマ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/캠핑/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/캠핑/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/캠핑/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10085,
@@ -6885,7 +10006,25 @@
         "ハレ(ブルーアーカイブ)",
         "ブルーアーカイブ ハレ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/캠핑/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/캠핑/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/캠핑/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10087,
@@ -6926,7 +10065,25 @@
         "アコ(ブルーアーカイブ)",
         "ブルーアーカイブ アコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/아코/드레스/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/아코/드레스/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/아코/드레스/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16014,
@@ -6967,7 +10124,25 @@
         "イブキ(ブルーアーカイブ)",
         "ブルーアーカイブ イブキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/이부키/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/이부키/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/이부키/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20033,
@@ -7008,7 +10183,25 @@
         "マコト(ブルーアーカイブ)",
         "ブルーアーカイブ マコト"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/마코토/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/마코토/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/판데모니움 소사이어티/마코토/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10086,
@@ -7049,7 +10242,25 @@
         "ヒナ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/선도부/히나/드레스/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/선도부/히나/드레스/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/선도부/히나/드레스/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10088,
@@ -7090,7 +10301,25 @@
         "カヨコ(ブルーアーカイブ)",
         "ブルーアーカイブ カヨコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/드레스/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/드레스/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/카요코/드레스/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10089,
@@ -7131,7 +10360,25 @@
         "アル(ブルーアーカイブ)",
         "ブルーアーカイブ アル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/흥신소 68/아루/드레스/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/흥신소 68/아루/드레스/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/아루/드레스/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20034,
@@ -7172,7 +10419,25 @@
         "アカリ(ブルーアーカイブ)",
         "ブルーアーカイブ アカリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/미식연구회/아카리/새해/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/미식연구회/아카리/새해/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/미식연구회/아카리/새해/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10090,
@@ -7213,7 +10478,25 @@
         "ウミカ(ブルーアーカイブ)",
         "ブルーアーカイブ ウミカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/우미카/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/우미카/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/우미카/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20035,
@@ -7254,7 +10537,25 @@
         "ツバキ(ブルーアーカイブ)",
         "ブルーアーカイブ ツバキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/수행부/츠바키/가이드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/수행부/츠바키/가이드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/수행부/츠바키/가이드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10091,
@@ -7295,7 +10596,25 @@
         "カズサ(ブルーアーカイブ)",
         "ブルーアーカイブ カズサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/밴드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/밴드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/밴드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10092,
@@ -7336,7 +10655,25 @@
         "ヨシミ(ブルーアーカイブ)",
         "ブルーアーカイブ ヨシミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/요시미/밴드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/요시미/밴드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/요시미/밴드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16015,
@@ -7377,7 +10714,25 @@
         "アイリ(ブルーアーカイブ)",
         "ブルーアーカイブ アイリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/밴드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/밴드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/밴드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10093,
@@ -7418,7 +10773,25 @@
         "キララ(ブルーアーカイブ)",
         "ブルーアーカイブ キララ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "게헨나 학원/반짝반짝부/키라라/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "게헨나 학원/반짝반짝부/키라라/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "게헨나 학원/반짝반짝부/키라라/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10094,
@@ -7459,7 +10832,25 @@
         "モモイ(ブルーアーカイブ)",
         "ブルーアーカイブ モモイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/메이드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/메이드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/메이드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10095,
@@ -7500,7 +10891,25 @@
         "ミドリ(ブルーアーカイブ)",
         "ブルーアーカイブ ミドリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/미도리/메이드/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/미도리/메이드/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/미도리/메이드/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20036,
@@ -7541,7 +10950,25 @@
         "セリカ(ブルーアーカイブ)",
         "ブルーアーカイブ セリカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/세리카/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10096,
@@ -7582,7 +11009,25 @@
         "カンナ(ブルーアーカイブ)",
         "ブルーアーカイブ カンナ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "발키리 경찰학교/공안국/칸나/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "발키리 경찰학교/공안국/칸나/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "발키리 경찰학교/공안국/칸나/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20037,
@@ -7623,7 +11068,25 @@
         "フブキ(ブルーアーカイブ)",
         "ブルーアーカイブ フブキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "발키리 경찰학교/생활안전국/후부키/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "발키리 경찰학교/생활안전국/후부키/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "발키리 경찰학교/생활안전국/후부키/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26012,
@@ -7664,7 +11127,25 @@
         "キリノ(ブルーアーカイブ)",
         "ブルーアーカイブ キリノ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "발키리 경찰학교/생활안전국/키리노/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "발키리 경찰학교/생활안전국/키리노/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "발키리 경찰학교/생활안전국/키리노/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10097,
@@ -7705,7 +11186,25 @@
         "モエ(ブルーアーカイブ)",
         "ブルーアーカイブ モエ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "SRT 특수학원/RABBIT 소대/모에/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "SRT 특수학원/RABBIT 소대/모에/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "SRT 특수학원/RABBIT 소대/모에/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10098,
@@ -7746,48 +11245,25 @@
         "ホシノ(ブルーアーカイブ)",
         "ブルーアーカイブ ホシノ"
       ]
-    }
-  },
-  {
-    "id": 10099,
-    "name_kr": "호시노",
-    "name_en": "Hoshino",
-    "name_ja": "ホシノ",
-    "full_name_kr": "호시노(무장)",
-    "full_name_en": "Hoshino (Battle)",
-    "full_name_ja": "ホシノ（臨戦）",
-    "school_kr": "아비도스 고등학교",
-    "school_en": "Abydos",
-    "school_ja": "アビドス",
-    "club_kr": "대책위원회",
-    "club_en": "Foreclosure Task Force",
-    "club_ja": "対策委員会",
-    "seasonal": "무장",
-    "status": "출시",
-    "role": "어태커",
-    "position": "스트라이커",
-    "bullet_type": "신비",
-    "armor_type": "중장갑",
-    "description_kr": "아비도스의 부학생회장이자 대책위원회 부장을 맡고 있는 게으름뱅이 소녀.\n\n현재 모습은 호시노가 따로 보관하고 있던 무장을 장비한 것으로, 조금 더 전투에 적합한 상태를 취하고 있다. 언제나의 호시노지만, 무장을 갖춘 것만으로도 평소보다 조금 진지해졌다.",
-    "description_en": "アビドス高等学校所属、アビドス生徒会の元副会長であり、対策委員会の委員長を務める怠け者の少女。\n\n保管していた武装を装備し、より戦闘に適したスタイルになった。それ以外は普段のホシノと変わらないが、武装状態になったことで真剣な眼差しが垣間見える。",
-    "description_ja": "アビドス高等学校所属、アビドス生徒会の元副会長であり、対策委員会の委員長を務める怠け者の少女。\n\n保管していた武装を装備し、より戦闘に適したスタイルになった。それ以外は普段のホシノと変わらないが、武装状態になったことで真剣な眼差しが垣間見える。",
-    "search_tags": {
-      "kr": [
-        "호시노",
-        "호시노(무장)",
-        "호시노 블루아카이브"
-      ],
-      "en": [
-        "hoshino_(blue_archive)",
-        "hoshino",
-        "blue_archive_hoshino"
-      ],
-      "ja": [
-        "ホシノ",
-        "ホシノ(ブルーアーカイブ)",
-        "ブルーアーカイブ ホシノ"
-      ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/무장/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/무장/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/대책위원회/호시노/무장/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10100,
@@ -7828,7 +11304,25 @@
         "シロコ(ブルーアーカイブ)",
         "ブルーアーカイブ シロコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아비도스 고등학교/아비도스 학생회/시로코*테러/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아비도스 고등학교/아비도스 학생회/시로코*테러/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아비도스 고등학교/아비도스 학생회/시로코*테러/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 26013,
@@ -7869,7 +11363,25 @@
         "アツコ(ブルーアーカイブ)",
         "ブルーアーカイブ アツコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/아츠코/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/아츠코/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/아츠코/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10101,
@@ -7910,7 +11422,25 @@
         "サオリ(ブルーアーカイブ)",
         "ブルーアーカイブ サオリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10102,
@@ -7951,7 +11481,25 @@
         "ヒヨリ(ブルーアーカイブ)",
         "ブルーアーカイブ ヒヨリ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/히요리/수영복/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/히요리/수영복/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/히요리/수영복/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": null,
@@ -7989,7 +11537,40 @@
         "クチナシ・ユメ",
         "ユメ先輩"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7074965_rank02_0.32.jpg",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7074965_rank02_0.32.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7074966_rank02_0.34.jpg",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7074966_rank02_0.34.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7075040_rank02_0.34.jpg",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7075040_rank02_0.34.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7075044_rank02_0.29.jpg",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7075044_rank02_0.29.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7077508_rank02_0.28.jpg",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7077508_rank02_0.28.jpg"
+      }
+    ],
+    "image_count": 6
   },
   {
     "id": null,
@@ -8024,7 +11605,15 @@
       "ja": [
         "降旗マユミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/후리하타 마유미/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8059,7 +11648,15 @@
       "ja": [
         "五十嵐ショウコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8094,7 +11691,15 @@
       "ja": [
         "妙楽カレン"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/묘라쿠 카렌/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8130,7 +11735,9 @@
       "ja": [
         "雷帝(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -8168,7 +11775,35 @@
         "調月リオ",
         "リオ会長"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7069264_rank01_0.50.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7069264_rank01_0.50.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7072278_rank01_0.63.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7072278_rank01_0.63.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7081041_rank01_0.65.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7081041_rank01_0.65.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7087595_rank01_0.54.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7087595_rank01_0.54.jpg"
+      }
+    ],
+    "image_count": 5
   },
   {
     "id": null,
@@ -8206,7 +11841,15 @@
         "天童ケイ",
         "ケイ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8241,7 +11884,15 @@
       "ja": [
         "東ミライ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8276,7 +11927,15 @@
       "ja": [
         "羽根元ツバサ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/유사과학부/하네모토 츠바사/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8311,7 +11970,15 @@
       "ja": [
         "野間サレイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/노마사 레이/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8349,7 +12016,30 @@
         "百合園セイア",
         "セイア"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7084215_rank01_0.49.jpg",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank01/fanart_7084215_rank01_0.49.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7084228_rank02_0.45.jpg",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084228_rank02_0.45.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7084325_rank02_0.32.jpg",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084325_rank02_0.32.jpg"
+      }
+    ],
+    "image_count": 4
   },
   {
     "id": null,
@@ -8384,7 +12074,9 @@
       "ja": [
         "チエル(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -8419,7 +12111,40 @@
       "ja": [
         "クズノハ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_6086043_rank00_0.65.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank00/fanart_6086043_rank00_0.65.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_6120591_rank01_0.52.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank01/fanart_6120591_rank01_0.52.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_6164231_rank02_0.41.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank02/fanart_6164231_rank02_0.41.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_6164386_rank02_0.41.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank02/fanart_6164386_rank02_0.41.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_6768012_rank02_0.44.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank02/fanart_6768012_rank02_0.44.jpg"
+      }
+    ],
+    "image_count": 6
   },
   {
     "id": null,
@@ -8456,7 +12181,15 @@
       "ja": [
         "七門アヤメ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8491,7 +12224,15 @@
       "ja": [
         "コクリコ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/화조풍월부/코쿠리코/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8529,7 +12270,15 @@
         "矢吹シュロ",
         "シュロ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8564,7 +12313,15 @@
       "ja": [
         "羽生アザミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/화조풍월부/하부 아자미/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8599,7 +12356,15 @@
       "ja": [
         "アラタ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8634,7 +12399,15 @@
       "ja": [
         "浅草ナツキ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/인력거부/아사쿠사 나츠키/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8669,7 +12442,15 @@
       "ja": [
         "宮内カナエ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8704,7 +12485,15 @@
       "ja": [
         "漆原カグヤ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/경극부/우루시바라 카구야/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8739,7 +12528,9 @@
       "ja": [
         "キン(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -8774,7 +12565,9 @@
       "ja": [
         "メイ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -8809,7 +12602,9 @@
       "ja": [
         "リンカ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -8844,7 +12639,15 @@
       "ja": [
         "荒巻ヤクモ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "붉은겨울 연방학원/출판부/아라마키 야쿠모/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8879,7 +12682,15 @@
       "ja": [
         "三好タカネ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8914,7 +12725,15 @@
       "ja": [
         "神原ミスズ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8949,7 +12768,15 @@
       "ja": [
         "志摩コノカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "발키리 경찰학교/공안국/시마 코노카/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -8987,7 +12814,40 @@
         "七度ユキノ",
         "ユキノ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank00",
+        "filename": "fanart_7075131_rank00_0.66.jpg",
+        "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank00/fanart_7075131_rank00_0.66.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7087122_rank01_0.61.jpg",
+        "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank01/fanart_7087122_rank01_0.61.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7068153_rank02_0.40.jpg",
+        "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank02/fanart_7068153_rank02_0.40.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7076475_rank02_0.46.jpg",
+        "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank02/fanart_7076475_rank02_0.46.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7080601_rank02_0.47.jpg",
+        "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank02/fanart_7080601_rank02_0.47.jpg"
+      }
+    ],
+    "image_count": 6
   },
   {
     "id": null,
@@ -9025,7 +12885,15 @@
         "吉野ニコ",
         "ニコ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/요시노 니코/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9063,7 +12931,15 @@
         "高倉クルミ",
         "クルミ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9101,7 +12977,15 @@
         "天神山オトギ",
         "オトギ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/텐진야마 오토기/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9139,7 +13023,40 @@
         "浅黄スオウ",
         "スオウ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_6975012_rank01_0.49.jpg",
+        "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_6975012_rank01_0.49.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_6991851_rank01_0.49.jpg",
+        "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_6991851_rank01_0.49.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7013210_rank01_0.55.jpg",
+        "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_7013210_rank01_0.55.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7033726_rank01_0.57.jpg",
+        "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_7033726_rank01_0.57.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7075505_rank01_0.57.jpg",
+        "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_7075505_rank01_0.57.jpg"
+      }
+    ],
+    "image_count": 6
   },
   {
     "id": null,
@@ -9174,7 +13091,15 @@
       "ja": [
         "宇津見アオバ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9209,7 +13134,15 @@
       "ja": [
         "舘木マイア"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아리우스 분교/니코메디아 트룹/타치기 마이아/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9244,7 +13177,15 @@
       "ja": [
         "梯スバル"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아리우스 분교/니코메디아 트룹/카케하시 스바루/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9279,7 +13220,15 @@
       "ja": [
         "ヒロミ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "와일드헌트 예술학원/사감대/히로미/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9314,7 +13263,15 @@
       "ja": [
         "ミリア(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9349,7 +13306,15 @@
       "ja": [
         "椎名ツムギ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시이나 츠무기/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9384,7 +13349,15 @@
       "ja": [
         "小森スミカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "오디세이아 해양학교/트라이던트/코모리 스미카/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9419,7 +13392,9 @@
       "ja": [
         "マキナ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -9454,7 +13429,9 @@
       "ja": [
         "サユリ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -9489,7 +13466,15 @@
       "ja": [
         "風巻マイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "크로노스 스쿨/보도부/카자마키 마이/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9524,7 +13509,15 @@
       "ja": [
         "川流シノン"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "크로노스 스쿨/보도부/카와루 시논/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9562,7 +13555,15 @@
         "七神リン",
         "リン首席補佐官"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/통괄실/나나가미 린/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9600,7 +13601,15 @@
         "不知火カヤ",
         "カヤ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/방위실/시라누이 카야/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9637,7 +13646,15 @@
       "ja": [
         "岩櫃アユム"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/조정실/이와비츠 아유무/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9674,7 +13691,15 @@
       "ja": [
         "由良木モモカ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/교통실/유라키 모모카/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9711,7 +13736,15 @@
       "ja": [
         "沖アオイ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/재무실/오키 아오이/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9746,7 +13779,15 @@
       "ja": [
         "ハイネ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/체육실/하이네/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9781,7 +13822,15 @@
       "ja": [
         "スモモ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/통신실/스모모/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9818,7 +13867,15 @@
       "ja": [
         "連邦生徒会長"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "총학생회/회장/총학생회장/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9853,7 +13910,40 @@
       "ja": [
         "アロナ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "연방학생회/샬레/아로나/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7081634_rank01_0.52.jpg",
+        "path": "연방학생회/샬레/아로나/기본/비공식/rank01/fanart_7081634_rank01_0.52.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7073479_rank02_0.22.jpg",
+        "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7073479_rank02_0.22.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7081729_rank02_0.36.jpg",
+        "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7081729_rank02_0.36.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7082984_rank02_0.30.jpg",
+        "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7082984_rank02_0.30.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7084744_rank02_0.16.jpg",
+        "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7084744_rank02_0.16.jpg"
+      }
+    ],
+    "image_count": 6
   },
   {
     "id": null,
@@ -9888,7 +13978,40 @@
       "ja": [
         "プラナ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "연방학생회/샬레/프라나/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7085228_rank01_0.57.jpg",
+        "path": "연방학생회/샬레/프라나/기본/비공식/rank01/fanart_7085228_rank01_0.57.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7085238_rank01_0.62.jpg",
+        "path": "연방학생회/샬레/프라나/기본/비공식/rank01/fanart_7085238_rank01_0.62.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7085239_rank01_0.57.jpg",
+        "path": "연방학생회/샬레/프라나/기본/비공식/rank01/fanart_7085239_rank01_0.57.jpg"
+      },
+      {
+        "category": "rank01",
+        "filename": "fanart_7086360_rank01_0.49.jpg",
+        "path": "연방학생회/샬레/프라나/기본/비공식/rank01/fanart_7086360_rank01_0.49.jpg"
+      },
+      {
+        "category": "rank02",
+        "filename": "fanart_7086134_rank02_0.37.jpg",
+        "path": "연방학생회/샬레/프라나/기본/비공식/rank02/fanart_7086134_rank02_0.37.jpg"
+      }
+    ],
+    "image_count": 6
   },
   {
     "id": null,
@@ -9925,7 +14048,15 @@
       "ja": [
         "ソラ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "연방학생회/엔젤24/소라/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -9963,7 +14094,15 @@
         "清澄アキラ",
         "慈愛の怪盗"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "일곱 죄수/괴도 자애의 괴도/키요스미 아키라/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10001,7 +14140,15 @@
         "申谷カイ",
         "カイ(ブルーアーカイブ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "일곱 죄수/연단방/신타니 카이/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10036,7 +14183,15 @@
       "ja": [
         "栗浜アケミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "일곱 죄수/무소속/쿠리하마 아케미/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10071,7 +14226,9 @@
       "ja": [
         "三井キョウコ"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -10106,7 +14263,15 @@
       "ja": [
         "鷹巣スイコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/아기새반/타카노스 스이코/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10141,7 +14306,15 @@
       "ja": [
         "五百雀ナゴミ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/아기새반/이오자쿠 나고미/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10176,7 +14349,15 @@
       "ja": [
         "宇藤ヨウコ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/아기새반/우토 요코/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10213,7 +14394,15 @@
       "ja": [
         "駒風ラブ"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/헬멧단/코마카제 라브/기본/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10248,7 +14437,9 @@
       "ja": [
         "不動アン"
       ]
-    }
+    },
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -10285,7 +14476,15 @@
       "ja": [
         "黒崎コユキ(バニーガール)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10321,7 +14520,15 @@
       "ja": [
         "空崎ヒナ(パジャマ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10356,7 +14563,15 @@
       "ja": [
         "姫木メル(温泉)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10392,7 +14607,15 @@
       "ja": [
         "狐坂ワカモ(私服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/무소속/코사카 와카모/사복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10428,7 +14651,15 @@
       "ja": [
         "鷲見セリナ(体操服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/구호기사단/스미 세리나/체육복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10464,7 +14695,15 @@
       "ja": [
         "朝顔ハナエ(応援団)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/구호기사단/아사가오 하나에/치어리더/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10500,7 +14739,15 @@
       "ja": [
         "羽沼マコト(ドレス)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/하누마 마코토/드레스/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10535,7 +14782,15 @@
       "ja": [
         "丹花イブキ(ドレス)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10570,7 +14825,15 @@
       "ja": [
         "錠前サオリ(私服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아리우스 분교/아리우스 스쿼드/조마에 사오리/사복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10605,7 +14868,15 @@
       "ja": [
         "秤アツコ(私服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아리우스 분교/아리우스 스쿼드/하카리 아츠코/사복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10640,7 +14911,15 @@
       "ja": [
         "槌永ヒヨリ(私服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아리우스 분교/아리우스 스쿼드/츠치нага 히요리/사복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10675,7 +14954,15 @@
       "ja": [
         "今乃ミサキ(私服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아리우스 분교/아리우스 스쿼드/이마시노 미사키/사복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10710,7 +14997,15 @@
       "ja": [
         "生塩ノア(パジャマ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10746,7 +15041,15 @@
       "ja": [
         "百合園セイア(水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10782,7 +15085,15 @@
       "ja": [
         "奥空アヤネ(宇宙戦艦)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10818,7 +15129,15 @@
       "ja": [
         "天雨アコ(宇宙戦艦)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/선도부/아마우 아코/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10854,7 +15173,15 @@
       "ja": [
         "早瀬ユウカ(宇宙戦艦)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/하야세 유우카/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10890,7 +15217,15 @@
       "ja": [
         "鬼方カヨコ(宇宙戦艦)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/흥신소 68/오니카타 카요코/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10926,7 +15261,15 @@
       "ja": [
         "浦和ハナコ(宇宙戦艦)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/우라와 하나코/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10961,7 +15304,15 @@
       "ja": [
         "勘解由小路ユカリ(巫女服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/카데노코지 유카리/무녀복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -10997,7 +15348,15 @@
       "ja": [
         "各務チヒロ(キャンプ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/카가미 치히로/캠핑/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11033,7 +15392,15 @@
       "ja": [
         "浅黄ムツキ(スーツ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/흥신소 68/아사기 무츠키/정장/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11069,7 +15436,15 @@
       "ja": [
         "伊草ハルカ(スーツ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/흥신소 68/이구사 하루카/정장/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11104,7 +15479,15 @@
       "ja": [
         "花岡ユズ(防寒着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/하나오카 유즈/방한복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11139,7 +15522,15 @@
       "ja": [
         "才羽モモイ(防寒着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 모모이/방한복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11175,7 +15566,15 @@
       "ja": [
         "才羽モモイ(武装)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 모모이/무장/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11210,7 +15609,15 @@
       "ja": [
         "才羽ミドリ(防寒着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 미도리/방한복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11245,7 +15652,15 @@
       "ja": [
         "才羽ミドリ(武装)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 미도리/무장/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11280,7 +15695,15 @@
       "ja": [
         "天童アリス(防寒着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/텐도 아리스/방한복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11315,7 +15738,15 @@
       "ja": [
         "愛清フウカ(私服)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11351,7 +15782,15 @@
       "ja": [
         "鬼怒川カスミ(水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/온천개발부/키누가와 카스미/수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11387,7 +15826,15 @@
       "ja": [
         "下倉メグ(水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/온천개발부/시모쿠라 메구/수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11423,7 +15870,15 @@
       "ja": [
         "円堂シミコ(エラ)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "트리니티 종합학원/도서부/엔도우 시미코/에라/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11459,7 +15914,15 @@
       "ja": [
         "久田イズナ(ドレス)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11495,7 +15958,15 @@
       "ja": [
         "春原ココナ(水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/매화원/스노하라 코코나/수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11531,7 +16002,15 @@
       "ja": [
         "朱城ルミ(水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11567,7 +16046,15 @@
       "ja": [
         "羽沼マコト(海賊水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/하누마 마코토/해적수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11603,7 +16090,15 @@
       "ja": [
         "京極サツキ(海賊水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/해적수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11639,7 +16134,15 @@
       "ja": [
         "棗イロハ(海賊水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/나츠메 이로하/해적수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11675,7 +16178,15 @@
       "ja": [
         "元宮チアキ(海賊水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/해적수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   },
   {
     "id": null,
@@ -11711,6 +16222,14 @@
       "ja": [
         "丹花イブキ(海賊水着)"
       ]
-    }
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wiki_portrait.png",
+        "path": "게헨나 학원/만마전/탄가 이부키/해적수영복/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1
   }
 ]

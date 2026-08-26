@@ -48,34 +48,53 @@
   },
   "collection_stats": {
     "official_images": 3,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 1,
     "unofficial_rank01": 2,
     "unofficial_rank02": 2,
-    "total_images": 9
+    "total_images": 8
   },
-  "images": {
-    "공식": [
-      "공식/official_collection.webp",
-      "공식/official_portrait.webp",
-      "공식/official_lobby.webp"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [
-        "비공식/rank00/fanart_7084545_rank00_0.72.jpg"
-      ],
-      "rank01": [
-        "비공식/rank01/fanart_7081957_rank01_0.57.jpg",
-        "비공식/rank01/fanart_7081785_rank01_0.56.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_7086344_rank02_0.34.jpg",
-        "비공식/rank02/fanart_7086019_rank02_0.47.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "게헨나 학원/선도부/히나/기본/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "게헨나 학원/선도부/히나/기본/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "게헨나 학원/선도부/히나/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "rank00",
+      "filename": "fanart_7084545_rank00_0.72.jpg",
+      "path": "게헨나 학원/선도부/히나/기본/비공식/rank00/fanart_7084545_rank00_0.72.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7081785_rank01_0.56.jpg",
+      "path": "게헨나 학원/선도부/히나/기본/비공식/rank01/fanart_7081785_rank01_0.56.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7081957_rank01_0.57.jpg",
+      "path": "게헨나 학원/선도부/히나/기본/비공식/rank01/fanart_7081957_rank01_0.57.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7086019_rank02_0.47.jpg",
+      "path": "게헨나 학원/선도부/히나/기본/비공식/rank02/fanart_7086019_rank02_0.47.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7086344_rank02_0.34.jpg",
+      "path": "게헨나 학원/선도부/히나/기본/비공식/rank02/fanart_7086344_rank02_0.34.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.356271Z"
+  ],
+  "image_count": 8
 }

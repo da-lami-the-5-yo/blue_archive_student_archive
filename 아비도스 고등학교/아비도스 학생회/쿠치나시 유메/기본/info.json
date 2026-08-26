@@ -45,30 +45,43 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 5,
-    "total_images": 7
+    "total_images": 6
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [],
-      "rank02": [
-        "비공식/rank02/fanart_7077508_rank02_0.28.jpg",
-        "비공식/rank02/fanart_7075044_rank02_0.29.jpg",
-        "비공식/rank02/fanart_7075040_rank02_0.34.jpg",
-        "비공식/rank02/fanart_7074966_rank02_0.34.jpg",
-        "비공식/rank02/fanart_7074965_rank02_0.32.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7074965_rank02_0.32.jpg",
+      "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7074965_rank02_0.32.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7074966_rank02_0.34.jpg",
+      "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7074966_rank02_0.34.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7075040_rank02_0.34.jpg",
+      "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7075040_rank02_0.34.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7075044_rank02_0.29.jpg",
+      "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7075044_rank02_0.29.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7077508_rank02_0.28.jpg",
+      "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/기본/비공식/rank02/fanart_7077508_rank02_0.28.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.417088Z"
+  ],
+  "image_count": 6
 }

@@ -48,30 +48,28 @@
   },
   "collection_stats": {
     "official_images": 3,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
-    "unofficial_rank01": 3,
+    "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 7
+    "total_images": 3
   },
-  "images": {
-    "공식": [
-      "공식/official_collection.webp",
-      "공식/official_portrait.webp",
-      "공식/official_lobby.webp"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [
-        "비공식/rank01/fanart_7088467_rank01_0.57.jpg",
-        "비공식/rank01/fanart_7088174_rank01_0.63.jpg",
-        "비공식/rank01/fanart_7088158_rank01_0.49.jpg"
-      ],
-      "rank02": []
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "게헨나 학원/선도부/히나/수영복/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "게헨나 학원/선도부/히나/수영복/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "게헨나 학원/선도부/히나/수영복/공식/official_portrait.webp"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.375316Z"
+  ],
+  "image_count": 3
 }

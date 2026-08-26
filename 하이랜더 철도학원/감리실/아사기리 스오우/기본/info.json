@@ -45,30 +45,43 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 5,
     "unofficial_rank02": 0,
-    "total_images": 7
+    "total_images": 6
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [
-        "비공식/rank01/fanart_7075505_rank01_0.57.jpg",
-        "비공식/rank01/fanart_7033726_rank01_0.57.jpg",
-        "비공식/rank01/fanart_7013210_rank01_0.55.jpg",
-        "비공식/rank01/fanart_6991851_rank01_0.49.jpg",
-        "비공식/rank01/fanart_6975012_rank01_0.49.jpg"
-      ],
-      "rank02": []
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_6975012_rank01_0.49.jpg",
+      "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_6975012_rank01_0.49.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_6991851_rank01_0.49.jpg",
+      "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_6991851_rank01_0.49.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7013210_rank01_0.55.jpg",
+      "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_7013210_rank01_0.55.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7033726_rank01_0.57.jpg",
+      "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_7033726_rank01_0.57.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7075505_rank01_0.57.jpg",
+      "path": "하이랜더 철도학원/감리실/아사기리 스오우/기본/비공식/rank01/fanart_7075505_rank01_0.57.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.430299Z"
+  ],
+  "image_count": 6
 }

@@ -48,6 +48,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.427146Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "붉은겨울 연방학원/출판부/아라마키 야쿠모/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }
