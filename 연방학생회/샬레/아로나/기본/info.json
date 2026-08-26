@@ -42,31 +42,43 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 1,
     "unofficial_rank02": 4,
-    "total_images": 7
+    "total_images": 6
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [
-        "비공식/rank01/fanart_7081634_rank01_0.52.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_7084744_rank02_0.16.jpg",
-        "비공식/rank02/fanart_7082984_rank02_0.30.jpg",
-        "비공식/rank02/fanart_7081729_rank02_0.36.jpg",
-        "비공식/rank02/fanart_7073479_rank02_0.22.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "연방학생회/샬레/아로나/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7081634_rank01_0.52.jpg",
+      "path": "연방학생회/샬레/아로나/기본/비공식/rank01/fanart_7081634_rank01_0.52.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7073479_rank02_0.22.jpg",
+      "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7073479_rank02_0.22.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7081729_rank02_0.36.jpg",
+      "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7081729_rank02_0.36.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7082984_rank02_0.30.jpg",
+      "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7082984_rank02_0.30.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7084744_rank02_0.16.jpg",
+      "path": "연방학생회/샬레/아로나/기본/비공식/rank02/fanart_7084744_rank02_0.16.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.438970Z"
+  ],
+  "image_count": 6
 }

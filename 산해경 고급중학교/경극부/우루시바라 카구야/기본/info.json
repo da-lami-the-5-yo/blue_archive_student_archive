@@ -41,13 +41,19 @@
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 1,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 1
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.425931Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "산해경 고급중학교/경극부/우루시바라 카구야/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

@@ -48,6 +48,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.418009Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

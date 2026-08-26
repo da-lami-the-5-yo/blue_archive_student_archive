@@ -49,6 +49,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.450066Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/우주전함/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

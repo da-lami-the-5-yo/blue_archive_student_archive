@@ -44,29 +44,18 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
-    "unofficial_rank01": 2,
-    "unofficial_rank02": 1,
-    "total_images": 5
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 1
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [
-        "비공식/rank01/fanart_7088467_rank01_0.53.jpg",
-        "비공식/rank01/fanart_7088174_rank01_0.53.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_7088158_rank02_0.32.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_wiki_portrait.png"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.444386Z"
+  ],
+  "image_count": 1
 }

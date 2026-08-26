@@ -48,6 +48,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.453161Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 미도리/방한복/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

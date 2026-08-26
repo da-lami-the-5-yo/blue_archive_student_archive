@@ -45,32 +45,43 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 1,
     "unofficial_rank01": 1,
     "unofficial_rank02": 3,
-    "total_images": 7
+    "total_images": 6
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [
-        "비공식/rank00/fanart_7075131_rank00_0.66.jpg"
-      ],
-      "rank01": [
-        "비공식/rank01/fanart_7087122_rank01_0.61.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_7080601_rank02_0.47.jpg",
-        "비공식/rank02/fanart_7076475_rank02_0.46.jpg",
-        "비공식/rank02/fanart_7068153_rank02_0.40.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "rank00",
+      "filename": "fanart_7075131_rank00_0.66.jpg",
+      "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank00/fanart_7075131_rank00_0.66.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7087122_rank01_0.61.jpg",
+      "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank01/fanart_7087122_rank01_0.61.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7068153_rank02_0.40.jpg",
+      "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank02/fanart_7068153_rank02_0.40.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7076475_rank02_0.46.jpg",
+      "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank02/fanart_7076475_rank02_0.46.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7080601_rank02_0.47.jpg",
+      "path": "SRT 특수학원/FOX 소대/시치도 유키노/기본/비공식/rank02/fanart_7080601_rank02_0.47.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.428562Z"
+  ],
+  "image_count": 6
 }

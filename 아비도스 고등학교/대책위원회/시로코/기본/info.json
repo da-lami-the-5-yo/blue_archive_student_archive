@@ -48,34 +48,53 @@
   },
   "collection_stats": {
     "official_images": 3,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 1,
     "unofficial_rank01": 2,
     "unofficial_rank02": 2,
-    "total_images": 9
+    "total_images": 8
   },
-  "images": {
-    "공식": [
-      "공식/official_collection.webp",
-      "공식/official_portrait.webp",
-      "공식/official_lobby.webp"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [
-        "비공식/rank00/fanart_7082095_rank00_0.68.jpg"
-      ],
-      "rank01": [
-        "비공식/rank01/fanart_7081668_rank01_0.57.jpg",
-        "비공식/rank01/fanart_7076233_rank01_0.54.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_7079304_rank02_0.41.jpg",
-        "비공식/rank02/fanart_7072743_rank02_0.39.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "rank00",
+      "filename": "fanart_7082095_rank00_0.68.jpg",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank00/fanart_7082095_rank00_0.68.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7076233_rank01_0.54.jpg",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank01/fanart_7076233_rank01_0.54.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7081668_rank01_0.57.jpg",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank01/fanart_7081668_rank01_0.57.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7072743_rank02_0.39.jpg",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank02/fanart_7072743_rank02_0.39.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7079304_rank02_0.41.jpg",
+      "path": "아비도스 고등학교/대책위원회/시로코/기본/비공식/rank02/fanart_7079304_rank02_0.41.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.358619Z"
+  ],
+  "image_count": 8
 }

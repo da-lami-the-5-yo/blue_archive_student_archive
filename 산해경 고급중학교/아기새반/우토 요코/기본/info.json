@@ -48,6 +48,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.443071Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "산해경 고급중학교/아기새반/우토 요코/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

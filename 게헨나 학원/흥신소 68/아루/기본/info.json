@@ -48,32 +48,48 @@
   },
   "collection_stats": {
     "official_images": 3,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 1,
     "unofficial_rank02": 3,
-    "total_images": 8
+    "total_images": 7
   },
-  "images": {
-    "공식": [
-      "공식/official_collection.webp",
-      "공식/official_portrait.webp",
-      "공식/official_lobby.webp"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [
-        "비공식/rank01/fanart_7077560_rank01_0.62.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_7086054_rank02_0.22.jpg",
-        "비공식/rank02/fanart_7086049_rank02_0.38.jpg",
-        "비공식/rank02/fanart_7084298_rank02_0.41.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "게헨나 학원/흥신소 68/아루/기본/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "게헨나 학원/흥신소 68/아루/기본/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "게헨나 학원/흥신소 68/아루/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7077560_rank01_0.62.jpg",
+      "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank01/fanart_7077560_rank01_0.62.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7084298_rank02_0.41.jpg",
+      "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank02/fanart_7084298_rank02_0.41.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7086049_rank02_0.38.jpg",
+      "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank02/fanart_7086049_rank02_0.38.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7086054_rank02_0.22.jpg",
+      "path": "게헨나 학원/흥신소 68/아루/기본/비공식/rank02/fanart_7086054_rank02_0.22.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.354289Z"
+  ],
+  "image_count": 7
 }

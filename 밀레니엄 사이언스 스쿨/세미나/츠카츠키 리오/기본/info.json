@@ -45,29 +45,38 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 4,
     "unofficial_rank02": 0,
-    "total_images": 6
+    "total_images": 5
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [],
-      "rank01": [
-        "비공식/rank01/fanart_7087595_rank01_0.54.jpg",
-        "비공식/rank01/fanart_7081041_rank01_0.65.jpg",
-        "비공식/rank01/fanart_7072278_rank01_0.63.jpg",
-        "비공식/rank01/fanart_7069264_rank01_0.50.jpg"
-      ],
-      "rank02": []
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7069264_rank01_0.50.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7069264_rank01_0.50.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7072278_rank01_0.63.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7072278_rank01_0.63.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7081041_rank01_0.65.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7081041_rank01_0.65.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7087595_rank01_0.54.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7087595_rank01_0.54.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.419001Z"
+  ],
+  "image_count": 5
 }

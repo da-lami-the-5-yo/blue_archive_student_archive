@@ -42,32 +42,43 @@
   },
   "collection_stats": {
     "official_images": 1,
-    "semi_official_images": 1,
+    "semi_official_images": 0,
     "unofficial_rank00": 1,
     "unofficial_rank01": 1,
     "unofficial_rank02": 3,
-    "total_images": 7
+    "total_images": 6
   },
-  "images": {
-    "공식": [
-      "공식/official_wiki_portrait.png"
-    ],
-    "준공식": [
-      "준공식/semi_official_comic_1.jpg"
-    ],
-    "비공식": {
-      "rank00": [
-        "비공식/rank00/fanart_6086043_rank00_0.65.jpg"
-      ],
-      "rank01": [
-        "비공식/rank01/fanart_6120591_rank01_0.52.jpg"
-      ],
-      "rank02": [
-        "비공식/rank02/fanart_6768012_rank02_0.44.jpg",
-        "비공식/rank02/fanart_6164386_rank02_0.41.jpg",
-        "비공식/rank02/fanart_6164231_rank02_0.41.jpg"
-      ]
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "rank00",
+      "filename": "fanart_6086043_rank00_0.65.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank00/fanart_6086043_rank00_0.65.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_6120591_rank01_0.52.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank01/fanart_6120591_rank01_0.52.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_6164231_rank02_0.41.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank02/fanart_6164231_rank02_0.41.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_6164386_rank02_0.41.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank02/fanart_6164386_rank02_0.41.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_6768012_rank02_0.44.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/쿠즈노하/기본/비공식/rank02/fanart_6768012_rank02_0.44.jpg"
     }
-  },
-  "last_updated": "2026-08-26T02:39:49.422364Z"
+  ],
+  "image_count": 6
 }

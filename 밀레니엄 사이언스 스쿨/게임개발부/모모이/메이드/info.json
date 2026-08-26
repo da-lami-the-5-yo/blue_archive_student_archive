@@ -47,13 +47,29 @@
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.411885Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/메이드/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/메이드/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/모모이/메이드/공식/official_portrait.webp"
+    }
+  ],
+  "image_count": 3
 }

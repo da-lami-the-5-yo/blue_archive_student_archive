@@ -41,13 +41,19 @@
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 1,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 1
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.434494Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "크로노스 스쿨/보도부/카자마키 마이/기본/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }

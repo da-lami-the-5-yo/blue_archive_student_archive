@@ -49,6 +49,12 @@
     "unofficial_rank02": 0,
     "total_images": 0
   },
-  "images": [],
-  "last_updated": "2026-08-26T02:39:49.454833Z"
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_wiki_portrait.png"
+    }
+  ],
+  "image_count": 1
 }
