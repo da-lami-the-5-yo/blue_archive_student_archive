@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "네루",
+      "en": "Neru",
+      "ja": "ネル"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원의 에이전트 조직 C&C의 부장.\n\n언뜻 메이드복 위로 스카잔을 입은 꼬마 폭력배로 보이지만, 그 실상은 밀레니엄 최강의 처리능력을 가진 에이전트다. 그녀의 콜사인인 더블오는 밀레니엄 내에서 승리를 약속하는 아이콘처럼 여겨지고 있다.",
+      "en": "President of C&C, a secret organization of the Millennium School.\n\nAt first glance, Neru looks like nothing but a young delinquent with a flashy bomber jacket draped over her maid outfit, but in reality she's Millennium's most formidable agent. Within Millennium, her call sign, Double O, is seen as a sign of certain victory.",
+      "ja": "ミレニアムサイエンススクール所属、エージェント組織「C&C」のリーダー。\n\n一見してメイド服の上にスカジャンを着たチンピラの子供にしか見えないが、実はミレニアム最強の戦闘能力を持ったエージェントである。そのため彼女のコールサイン「ダブルオー」は、界隈では約束された勝利の象徴とされている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "네루",
+        "네루",
+        "네루 블루아카이브"
+      ],
+      "en": [
+        "neru_(blue_archive)",
+        "neru",
+        "blue_archive_neru"
+      ],
+      "ja": [
+        "ネル",
+        "ネル(ブルーアーカイブ)",
+        "ブルーアーカイブ ネル"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.357916Z"
+}

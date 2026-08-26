@@ -1,0 +1,78 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "호시노",
+      "en": "Hoshino",
+      "ja": "ホシノ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "느긋한 여름을 찾아 무인도로 날아온 대책위원회의 부장.\n\n빈둥거리고 싶어 하는 말투와 달리 여름 채비도 확실하다. 본인은 자신이 평소보다 조금은 적극적인 모습이라는 걸 눈치채지 못하고 있다.",
+      "en": "The Foreclosure Task Force president who flew to an uninhabited island to relax for summer. She always says she wants to sit around and do nothing, so she's perfectly prepared for summer. She's unaware that she looks a little more excited than usual.",
+      "ja": "アビドス高等学校所属、ゆったりとした夏を求めて無人島にやってきた対策委員会の委員長。\n\n面倒くさがりな態度とは裏腹に、支度を存外しっかりしている。しかし、本人は自身が普段より少し積極的になっている事に気づいていない模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "호시노",
+        "호시노(수영복)",
+        "호시노 블루아카이브"
+      ],
+      "en": [
+        "hoshino_(blue_archive)",
+        "hoshino",
+        "blue_archive_hoshino"
+      ],
+      "ja": [
+        "ホシノ",
+        "ホシノ(ブルーアーカイブ)",
+        "ブルーアーカイブ ホシノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 2,
+    "unofficial_rank02": 1,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.55.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.56.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7088158_rank02_0.47.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.387043Z"
+}

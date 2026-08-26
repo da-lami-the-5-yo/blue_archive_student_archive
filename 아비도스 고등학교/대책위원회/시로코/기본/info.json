@@ -1,0 +1,81 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시로코",
+      "en": "Shiroko",
+      "ja": "シロコ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "스포츠를 좋아하는 아비도스 대책위원회의 행동반장.\n\n기본적으로 말수가 적고 표정 변화가 거의 없어 차갑다는 인상을 주곤 하지만, 사실은 누구보다 아비도스 학원을 아끼는 소녀이다. 학원의 부흥을 위해서는 수단과 방법을 가리지 않으며, 가끔 엉뚱한 발상을 내놓을 때도 있다.",
+      "en": "The sporty field captain of the Abydos Foreclosure Task Force.\n\nA girl of few words and almost no facial expression, Shiroko gives the impression of being frigid and emotionless. In truth, she is more devoted to Abydos High School than anything else. If it's for the sake of revitalizing the academy, she'll do whatever it takes and sometimes propose some outlandish ideas herself.",
+      "ja": "アビドス高等学校所属、スポーツが好きなアビドス対策委員会の切り込み隊長。\n\n基本的に口数が少なく、表情の変化がほとんどないため冷たい印象もあるが、実は誰よりアビドス高等学校を大事にしていると言っても過言ではない少女。学校の復興のためには手段と方法を選ばないため、たまに無茶なアイデアを提案したりする。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시로코",
+        "시로코",
+        "시로코 블루아카이브"
+      ],
+      "en": [
+        "shiroko_(blue_archive)",
+        "shiroko",
+        "blue_archive_shiroko"
+      ],
+      "ja": [
+        "シロコ",
+        "シロコ(ブルーアーカイブ)",
+        "ブルーアーカイブ シロコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 2,
+    "unofficial_rank02": 2,
+    "total_images": 9
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [
+        "비공식/rank00/fanart_7082095_rank00_0.68.jpg"
+      ],
+      "rank01": [
+        "비공식/rank01/fanart_7081668_rank01_0.57.jpg",
+        "비공식/rank01/fanart_7076233_rank01_0.54.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7079304_rank02_0.41.jpg",
+        "비공식/rank02/fanart_7072743_rank02_0.39.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.358619Z"
+}

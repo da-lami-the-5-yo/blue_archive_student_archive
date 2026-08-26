@@ -1,0 +1,81 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "호시노",
+      "en": "Hoshino",
+      "ja": "ホシノ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "아비도스의 부학생회장이자 대책위원회 부장을 맡고 있는 게으름뱅이 소녀.\n\n아저씨 같은 말투를 즐겨 쓰며 업무보다는 장난치기를 좋아한다. 때문에 평상시에는 위원회 회원들에게 자주 혼나지만, 일단 임무가 시작되면 다른 아이들을 지켜주기 위해 가장 앞에서 분투한다.",
+      "en": "The Abydos Student Council vice president and president of the Foreclosure Task Force.\n\nActs more like a tired old timer and would rather play pranks than do actual work. This often gets her into trouble with her fellow task force members, but once on a mission, she fights harder on the front lines than anyone else to keep her friends safe.",
+      "ja": "アビドス高等学校所属、アビドス生徒会の元副会長であり、現在は対策委員会の委員長を務める怠け者の少女。\n\nおじさんのような口癖が特徴で、仕事よりは遊ぶ方が好き。そのため普段は委員会のメンバーに怒られてばかりだが、任務が始まると他のメンバーを守ろうと最前線で奮闘する。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "호시노",
+        "호시노",
+        "호시노 블루아카이브"
+      ],
+      "en": [
+        "hoshino_(blue_archive)",
+        "hoshino",
+        "blue_archive_hoshino"
+      ],
+      "ja": [
+        "ホシノ",
+        "ホシノ(ブルーアーカイブ)",
+        "ブルーアーカイブ ホシノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 2,
+    "unofficial_rank01": 2,
+    "unofficial_rank02": 1,
+    "total_images": 9
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [
+        "비공식/rank00/fanart_7086527_rank00_0.67.jpg",
+        "비공식/rank00/fanart_7084488_rank00_0.69.jpg"
+      ],
+      "rank01": [
+        "비공식/rank01/fanart_7084489_rank01_0.58.jpg",
+        "비공식/rank01/fanart_7084487_rank01_0.61.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7086048_rank02_0.36.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.356900Z"
+}

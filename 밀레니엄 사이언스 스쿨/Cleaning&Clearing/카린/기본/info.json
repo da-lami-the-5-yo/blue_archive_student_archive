@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카린",
+      "en": "Karin",
+      "ja": "カリン"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원의 비밀 조직, C&C의 에이전트.\n\n콜사인은 제로투로 강력한 화력을 사용한 후방 지원을 담당하고 있다. 사나워 보이는 외견과는 달리 C&C의 요원 중에서도 가장 신중한 성격의 소유자로, 작전 중 폭주하는 아스나나 아카네를 말리느라 애를 먹고 있다.",
+      "en": "An agent of C&C, a secret organization from Millennium Science School.\n\nShe's in charge of providing rear fire support under the call sign Zero-Two. Despite her intimidating appearance, she is the most cautious of C&C's agents and often ends up having to reel in Asuna and Akane when they get out of control during missions.",
+      "ja": "ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。\n\nコールサインは「ゼロツー」で、後方からの火力支援を担っている。外見はやや荒っぽそうなものの、実のところC&Cのエージェントの中でも最も慎重な性格の持ち主で、作戦中に暴走しがちなアスナやアカネを止めることに日々苦心している。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카린",
+        "카린",
+        "카린 블루아카이브"
+      ],
+      "en": [
+        "karin_(blue_archive)",
+        "karin",
+        "blue_archive_karin"
+      ],
+      "ja": [
+        "カリン",
+        "カリン(ブルーアーカイブ)",
+        "ブルーアーカイブ カリン"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.366576Z"
+}

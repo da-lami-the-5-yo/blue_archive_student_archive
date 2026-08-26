@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아이키요 후우카",
+      "en": "Aikiyo Fuuka",
+      "ja": "愛清フウカ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "급양부",
+      "en": "Food Service Department",
+      "ja": "給養部"
+    },
+    "seasonal": "사복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "팬데믹 해저드 이벤트에서 등장한 후우카의 깔끔한 베레모 사복 차림.",
+      "en": "Unreleased 사복 variant for Aikiyo Fuuka.",
+      "ja": "愛清フウカの未実装사복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사복 후우카"
+      ],
+      "en": [
+        "aikiyo_fuuka_(casual)_(blue_archive)"
+      ],
+      "ja": [
+        "愛清フウカ(私服)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.453871Z"
+}

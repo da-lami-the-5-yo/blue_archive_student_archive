@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아츠코",
+      "en": "Atsuko",
+      "ja": "アツコ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius",
+      "ja": "アリウス"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "진동",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "해변에 놀러 온 아리우스 스쿼드의 일원.\n\n바다도, 축제도 처음이라 평소보다 들떠 있다. 블랙마켓에서 산 싸구려 디지털카메라로 이것저것 추억을 담아보려 하는 중.",
+      "en": "ビーチに遊びに来たアリウススクワッドの一員\n\n海も、お祭りも初めてなので、いつもより楽しそうにしている。ブラックマーケットで買ったデジタルカメラで海の思い出を残そうとしている。",
+      "ja": "ビーチに遊びに来たアリウススクワッドの一員\n\n海も、お祭りも初めてなので、いつもより楽しそうにしている。ブラックマーケットで買ったデジタルカメラで海の思い出を残そうとしている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아츠코",
+        "아츠코(수영복)",
+        "아츠코 블루아카이브"
+      ],
+      "en": [
+        "atsuko_(blue_archive)",
+        "atsuko",
+        "blue_archive_atsuko"
+      ],
+      "ja": [
+        "アツコ",
+        "アツコ(ブルーアーカイブ)",
+        "ブルーアーカイブ アツコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.415885Z"
+}

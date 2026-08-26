@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카스미",
+      "en": "Kasumi",
+      "ja": "カスミ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "온천개발부",
+      "en": "Hot Springs Department",
+      "ja": "温泉開発部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "게헨나 온천개발부의 부장.\n\n온천수가 흐르는 땅은 모두 온천이 돼야 한다고 주장하며, 정한 자리엔 무엇이 있든 가리지 않고 폭파해 버린다. 부원들에게는 전폭적인 지지를 받고 있지만 공식적으로는 수배 중인 범죄자일 뿐이다.",
+      "en": "The president of the Gehenna Hot Springs Department.\n\nHer mission in life is to develop hot springs wherever there is geothermal activity, and she doesn't care what's in the way. She enjoys the unanimous support of her club members, but outside of her club she is a wanted criminal.",
+      "ja": "ゲヘナ学園所属、温泉開発部の部長。\n\n源泉が流れる土地は全て温泉にしなければならないと主張し、一度決めたらどこであろうと手段を選ばず爆破してしまう。部員からは全面的な支持を得ているが、実際の言動や行動は指名手配中の犯罪者である。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카스미",
+        "카스미",
+        "카스미 블루아카이브"
+      ],
+      "en": [
+        "kasumi_(blue_archive)",
+        "kasumi",
+        "blue_archive_kasumi"
+      ],
+      "ja": [
+        "カスミ",
+        "カスミ(ブルーアーカイブ)",
+        "ブルーアーカイブ カスミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.402701Z"
+}

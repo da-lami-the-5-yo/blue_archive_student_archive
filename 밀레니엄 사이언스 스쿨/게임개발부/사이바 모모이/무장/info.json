@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사이바 모모이",
+      "en": "Saiba Momoi",
+      "ja": "才羽モモイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "무장",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "데카그라마톤 3장 강철대륙 공략전에서 최첨단 외골격을 장착한 모모이의 전투복.",
+      "en": "Unreleased 무장 variant for Saiba Momoi.",
+      "ja": "才羽モモイの未実装무장衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "무장 모모이",
+        "전투복 모모이"
+      ],
+      "en": [
+        "saiba_momoi_(combat)_(blue_archive)"
+      ],
+      "ja": [
+        "才羽モモイ(武装)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.452930Z"
+}

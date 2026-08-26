@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이와비츠 아유무",
+      "en": "Iwabitsu Ayumu",
+      "ja": "岩櫃アユム"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "조정실",
+      "en": "Coordination Bureau",
+      "ja": "調整室"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "총학생회 조정실장. 항상 과중한 업무에 시달림.",
+      "en": "Unreleased student from General Student Council Coordination Bureau.",
+      "ja": "連邦生徒会 調整室所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이와비츠 아유무",
+        "아유무"
+      ],
+      "en": [
+        "iwabitsu_ayumu",
+        "ayumu_(blue_archive)"
+      ],
+      "ja": [
+        "岩櫃アユム"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.436445Z"
+}

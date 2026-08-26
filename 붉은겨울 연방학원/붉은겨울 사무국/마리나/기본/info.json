@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "마리나",
+      "en": "Marina",
+      "ja": "マリナ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "붉은겨울 사무국",
+      "en": "Red Winter Office",
+      "ja": "レッドウィンター事務局"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 학원의 치안을 담당하는 보안위원회의 위원장.\n\n교칙을 위반하는 학생을 발견하면 문답 무용으로 무자비한 징계를 내리기 때문에 피도 눈물도 없는 냉혈한으로 알려져 있으나, 사실은 별 생각 없이 체리노 회장의 명령을 수행하는 바보에 가깝다. 돌격이라는 말을 좋아하여 붉은겨울 학원 내에서 문제가 벌어지면 제일 먼저 뛰쳐나가지만, 타고난 길치라 길을 잃는 일이 잦다.",
+      "en": "Chairwoman of the Security Committee in charge of Red Winter Academy's safety.\n\nThough she's known as a cold-hearted disciplinarian, the truth is she just blindly follows President Cherino's orders. She likes the word \"charge\" and is the first to run off when a problem occurs within Red Winter Academy, but often loses her way due to her terrible sense of direction.",
+      "ja": "レッドウィンター連邦学園所属、治安の維持を担当する保安委員会における委員長。\n\n校則違反をすれば問答無用で無慈悲な懲罰を下すことから、血も涙もない冷血漢として有名……とも言われるが、実際には思い込んだら一直線、基本的にはチェリノ会長の命令を着実に遂行していく直情タイプ。「突撃」という言葉が好きで、何につけても突撃を繰り返す。レッドウィンターで何か問題があれば真っ先に飛び出すため、職務に忠実とも言えるものの、突撃した結果として道に迷うことも多い。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "마리나",
+        "마리나",
+        "마리나 블루아카이브"
+      ],
+      "en": [
+        "marina_(blue_archive)",
+        "marina",
+        "blue_archive_marina"
+      ],
+      "ja": [
+        "マリナ",
+        "マリナ(ブルーアーカイブ)",
+        "ブルーアーカイブ マリナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.383364Z"
+}

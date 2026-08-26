@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미모리",
+      "en": "Mimori",
+      "ja": "ミモリ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "수행부",
+      "en": "Inner Discipline Club",
+      "ja": "修行部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "백귀야행 학원 수행부의 상냥한 부부장.\n\n언제나 부드러운 미소를 띤 채, 누구에게나 상냥하게 대하는 모습 덕에 모두에게 인망이 높은 소녀. 수행부의 부장인 츠바키와는 소꿉친구 사이, 그녀가 수행부에 들어온 이유는 어려서부터 읽었던 순정만화의 영향으로 요조숙녀가 되고자 하는 꿈을 가졌기 때문이다. 그 꿈을 이루기 위해, 오늘도 그녀는 요리나 청소에 매진하며 열심히 수행하고 있다.",
+      "en": "Hyakkiyako Academy Inner Discipline Club's kind vice president.\n\nA popular girl because she always has a gentle smile and is kind to everyone. The childhood friend of Tsubaki, the president of the Inner Discipline Club. She joined the club to fulfill her dream of becoming an elegant lady like the ones in the shoujo manga she used to read when she was young. She continues to train diligently by cooking and cleaning to make her dream come true.",
+      "ja": "百鬼夜行連合学院所属、修行部の優しい副部長。\n\nいつも朗らかな笑顔と穏やかな物腰で、皆からの人望が非常に厚い。幼い頃に読んだ少女漫画の影響で「大和撫子」になりたいという夢を抱き、修行部へと入った。幼馴染であり部長でもあるツバキとともに、料理や掃除などの修行に日々邁進している。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미모리",
+        "미모리",
+        "미모리 블루아카이브"
+      ],
+      "en": [
+        "mimori_(blue_archive)",
+        "mimori",
+        "blue_archive_mimori"
+      ],
+      "ja": [
+        "ミモリ",
+        "ミモリ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミモリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.382486Z"
+}

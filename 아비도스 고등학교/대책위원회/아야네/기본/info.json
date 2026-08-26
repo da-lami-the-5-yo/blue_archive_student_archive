@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아야네",
+      "en": "Ayane",
+      "ja": "アヤネ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "아비도스 대책위원회의 성실한 서기.\n\n원론과 규정을 중시하는 원칙주의자로 아비도스 고등학교의 부흥을 위해 성실하게 노력하고 있다.",
+      "en": "The diligent secretary of the Abydos Foreclosure Task Force.\n\nA hard-working stickler for rules and regulations, she does her best to contribute to the revitalization of Abydos High School.",
+      "ja": "アビドス高等学校所属、対策委員会の真面目な書記担当。\n\n原則と規則を重視するタイプの女の子。アビドス高等学校の復興のため、ひたむきに努力している。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아야네",
+        "아야네",
+        "아야네 블루아카이브"
+      ],
+      "en": [
+        "ayane_(blue_archive)",
+        "ayane",
+        "blue_archive_ayane"
+      ],
+      "ja": [
+        "アヤネ",
+        "アヤネ(ブルーアーカイブ)",
+        "ブルーアーカイブ アヤネ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.368723Z"
+}

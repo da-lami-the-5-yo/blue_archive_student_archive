@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카호",
+      "en": "Kaho",
+      "ja": "カホ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "음양부",
+      "en": "Yin-Yang Club",
+      "ja": "陰陽部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "백귀야행 학원 음양부의 부부장 겸 관광문화산업 홍보지원팀의 전략홍보팀장.\n\n백귀야행의 홍보를 담당하고 있는 음양부원으로서, 그 누구보다 백귀야행의 문화를 사랑하고 함께 문화를 만들어 나가는 학생들을 아끼는 소녀. 이런 모습 때문인지 일부 백귀야행 학생들에겐 <부장님보다 더 부장님다운 카호 님>이라고 불리기도 한다는 모양. 참고로 음양부 내에서는 귀중한 상식인 포지션을 맡고 있기도 하다.",
+      "en": "Vice president of the Hyakkiyako Academy and the Lead Strategist for the Tourism and Culture Public Relations Support Team.\n\nA member of the Yin-Yang Club, she is in charge of Hyakkiyako's public relations and marketing. So, naturally, she's an avid fan of all things Hyakkiyako and cares deeply about the students who work together to build the culture she loves. Some students even whisper that Kaho feels more like the president than their actual president. In a pool of eccentric members, she's the only one with a healthy amount of common sense in the Yin-Yang Club and that alone makes her an invaluable part of the team.",
+      "ja": "百鬼夜行連合学院、陰陽部の副部長兼、観光文化産業広報支援部の戦略リーダー。\n\n誰よりも百鬼夜行の文化を愛し、文化を作りあげていく生徒を大切にする少女。このような姿から、一部の百鬼夜行の生徒からは「部長よりも部長らしいカホさん」と呼ばれることもある模様。ちなみに、陰陽部内では貴重な常識人ポジションなのだとか。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카호",
+        "카호",
+        "카호 블루아카이브"
+      ],
+      "en": [
+        "kaho_(blue_archive)",
+        "kaho",
+        "blue_archive_kaho"
+      ],
+      "ja": [
+        "カホ",
+        "カホ(ブルーアーカイブ)",
+        "ブルーアーカイブ カホ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.395367Z"
+}

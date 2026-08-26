@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이치카",
+      "en": "Ichika",
+      "ja": "イチカ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "항상 여유로운 표정의 정의실현부 부원.\n\n다양한 학생들이 있는 정의실현부 내에서도, 융통성과 조율을 곧잘 담당하고 있다. 다른 학원과의 관계도 좋은 편. 나긋나긋한 표정과 친절함으로 알려졌지만, 천성이 아니라 노력의 일환이다. ",
+      "en": "A member of the Justice Task Force with a relaxed demeanor.\n\nAs a member of the task force, she excels at promoting cooperation and coordination. She's even on good terms with the students of the other academies. While she is known for her easy-going demeanor and friendliness, these traits don't come naturally to her and require a lot of work. ",
+      "ja": "いつも穏やかな表情のトリニティ総合学園所属、正義実現委員会の一員。\n\n様々な生徒が所属する正義実現委員会の中で、仲裁を主に担当している。他学園との関係も比較的良い方。人当たりの良い性格は、生来のものではなく努力の賜物なのだとか。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이치카",
+        "이치카",
+        "이치카 블루아카이브"
+      ],
+      "en": [
+        "ichika_(blue_archive)",
+        "ichika",
+        "blue_archive_ichika"
+      ],
+      "ja": [
+        "イチカ",
+        "イチカ(ブルーアーカイブ)",
+        "ブルーアーカイブ イチカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.402405Z"
+}

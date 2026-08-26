@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "후부키",
+      "en": "Fubuki",
+      "ja": "フブキ"
+    },
+    "school": {
+      "kr": "발키리 경찰학교",
+      "en": "Valkyrie",
+      "ja": "ヴァルキューレ"
+    },
+    "club": {
+      "kr": "생활안전국",
+      "en": "Public Safety Bureau",
+      "ja": "生活安全局"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "라이프가드 임무를 맡아 파견된 생활안전국의 게으름뱅이 경찰 학생.\n\n더운 여름, 워터파크에 갈 수 있다는 말에 가벼운 마음으로 따라나섰다. 워터파크에서도 어떻게 해야 수고를 덜 수 있을지 항상 고민하는 중.",
+      "en": "ライフセーバーとして派遣された、ヴァルキューレ警察学校所属、生活安全局の怠け者の生徒。\n\nサボれると思って軽い気持ちでウォーターパークの任務を引き受けた。現地でもどうすれば仕事をサボれるか、常に策を練っている様子。",
+      "ja": "ライフセーバーとして派遣された、ヴァルキューレ警察学校所属、生活安全局の怠け者の生徒。\n\nサボれると思って軽い気持ちでウォーターパークの任務を引き受けた。現地でもどうすれば仕事をサボれるか、常に策を練っている様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "후부키",
+        "후부키(수영복)",
+        "후부키 블루아카이브"
+      ],
+      "en": [
+        "fubuki_(blue_archive)",
+        "fubuki",
+        "blue_archive_fubuki"
+      ],
+      "ja": [
+        "フブキ",
+        "フブキ(ブルーアーカイブ)",
+        "ブルーアーカイブ フブキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.413224Z"
+}

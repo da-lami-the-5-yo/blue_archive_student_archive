@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카에데",
+      "en": "Kaede",
+      "ja": "カエデ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "수행부",
+      "en": "Inner Discipline Club",
+      "ja": "修行部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "백귀야행 학원 수행부 소속의 의욕 넘치는 부원.\n\n원래는 동네에서 유명한 개구쟁이였지만, 우연히 츠바키와 미모리를 만난 뒤, 그 둘처럼 멋진 레이디가 되고 싶다는 생각을 가지고 수행부에 입부했다. 매일 같이 멋진 레이디가 되기 위한 수행을 게을리하지 않지만, 어째서인지 카에데가 수행을 했다 하면 그 대부분은 좌충우돌 트러블로 이어진다.",
+      "en": "An enthusiastic member of the Hyakkiyako Academy Inner Discipline Club.\n\nShe used to be infamous for spreading mischief around town, but after meeting Tsubaki and Mimori by chance, she was inspired to be a proper lady like them and joined the Inner Discipline Club. Kaede never skips her training to be a proper lady, but still always seems to cause trouble.",
+      "ja": "百鬼夜行連合学院所属、修行部の元気な部員。\n\n元々は百鬼夜行でもかなり田舎の方に住んでいたいたずらっ子だったが、ふとしたタイミングでツバキとミモリに出会い、「あんな素敵なレディーになりたい！」と修行部へ入ることに。理想に近づくために日々研鑽を積んでいるが、その修行の大半はなぜかトラブルに繋がってしまう。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카에데",
+        "카에데",
+        "카에데 블루아카이브"
+      ],
+      "en": [
+        "kaede_(blue_archive)",
+        "kaede",
+        "blue_archive_kaede"
+      ],
+      "ja": [
+        "カエデ",
+        "カエデ(ブルーアーカイブ)",
+        "ブルーアーカイブ カエデ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.384462Z"
+}

@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "후도 안",
+      "en": "Fudo An",
+      "ja": "不動アン"
+    },
+    "school": {
+      "kr": "미디어믹스",
+      "en": "Media Mix",
+      "ja": "メディアミックス"
+    },
+    "club": {
+      "kr": "만화 오리지널",
+      "en": "Comics Original",
+      "ja": "コミックオリジナル"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "블루 아카이브 공식 코믹스 오리지널 학생.",
+      "en": "Unreleased student from Media Mix Comics Original.",
+      "ja": "メディアミックス コミックオリジナル所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "후도 안"
+      ],
+      "en": [
+        "fudo_an_(blue_archive)"
+      ],
+      "ja": [
+        "不動アン"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.443938Z"
+}

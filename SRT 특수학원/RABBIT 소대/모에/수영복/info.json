@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "모에",
+      "en": "Moe",
+      "ja": "モエ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "잠입 작전을 위해 외진 어촌 마을을 방문한 RABBIT 소대의 오퍼레이터.\n\n평소와는 다른 환경에서 여러 가지 무기를 시험해 볼 생각에 잔뜩 들떠 있다. 다른 소대원들과는 달리 아슬아슬한 디자인의 수영복을 입고 있는데, 본인의 말에 따르면 이 또한 파멸의 일부라는 모양이다.",
+      "en": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊のオペレーター。\n\n普段とは違う環境で武器を試せることに興奮している様子。他の小隊員とは違い、際どいデザインの水着を着ているが、本人曰くこれも破滅の一部だと主張しているのだとか。",
+      "ja": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊のオペレーター。\n\n普段とは違う環境で武器を試せることに興奮している様子。他の小隊員とは違い、際どいデザインの水着を着ているが、本人曰くこれも破滅の一部だと主張しているのだとか。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "모에",
+        "모에(수영복)",
+        "모에 블루아카이브"
+      ],
+      "en": [
+        "moe_(blue_archive)",
+        "moe",
+        "blue_archive_moe"
+      ],
+      "ja": [
+        "モエ",
+        "モエ(ブルーアーカイブ)",
+        "ブルーアーカイブ モエ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.413867Z"
+}

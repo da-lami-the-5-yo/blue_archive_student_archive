@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카요코",
+      "en": "Kayoko",
+      "ja": "カヨコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "드레스",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "오페라 하우스에 잠입한 흥신소 68의 과장.\n\n익숙하지 않은 복장이라고 말했지만, 어색함은 전혀 느껴지지 않는다. 본인은 주변의 시선과는 관계없이 해야 할 일을 차분하게 해 나간다.",
+      "en": "オペラハウスに潜入した、ゲヘナ学園所属、便利屋68の課長。\n\n慣れない服装だとは言ったものの、そういった様子は全然感じられない。本人は周りの視線など気にせず、やるべき仕事を淡々とこなしていく。",
+      "ja": "オペラハウスに潜入した、ゲヘナ学園所属、便利屋68の課長。\n\n慣れない服装だとは言ったものの、そういった様子は全然感じられない。本人は周りの視線など気にせず、やるべき仕事を淡々とこなしていく。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카요코",
+        "카요코(드레스)",
+        "카요코 블루아카이브"
+      ],
+      "en": [
+        "kayoko_(blue_archive)",
+        "kayoko",
+        "blue_archive_kayoko"
+      ],
+      "ja": [
+        "カヨコ",
+        "カヨコ(ブルーアーカイブ)",
+        "ブルーアーカイブ カヨコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.408069Z"
+}

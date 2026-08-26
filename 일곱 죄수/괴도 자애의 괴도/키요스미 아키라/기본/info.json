@@ -1,0 +1,56 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "키요스미 아키라",
+      "en": "Kiyosumi Akira",
+      "ja": "清澄アキラ"
+    },
+    "school": {
+      "kr": "일곱 죄수",
+      "en": "Seven Prisoners",
+      "ja": "七人の囚人"
+    },
+    "club": {
+      "kr": "괴도 자애의 괴도",
+      "en": "Phantom Thief of Benevolence",
+      "ja": "慈愛の怪盗"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "일곱 죄수 중 한 명인 '자애의 괴도'. 예술품을 훔치는 신출귀몰한 괴도.",
+      "en": "Unreleased student from Seven Prisoners Phantom Thief of Benevolence.",
+      "ja": "七人の囚人 慈愛の怪盗所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "키요스미 아키라",
+        "아키라"
+      ],
+      "en": [
+        "kiyosumi_akira",
+        "akira_(blue_archive)"
+      ],
+      "ja": [
+        "清澄アキラ",
+        "慈愛の怪盗"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.440804Z"
+}

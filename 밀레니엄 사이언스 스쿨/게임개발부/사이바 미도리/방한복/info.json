@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사이바 미도리",
+      "en": "Saiba Midori",
+      "ja": "才羽ミドリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "설산 이벤트에서 착용한 미도리의 겨울 방한복.",
+      "en": "Unreleased 방한복 variant for Saiba Midori.",
+      "ja": "才羽ミドリの未実装방한복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "방한복 미도리"
+      ],
+      "en": [
+        "saiba_midori_(winter)_(blue_archive)"
+      ],
+      "ja": [
+        "才羽ミドリ(防寒着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.453161Z"
+}

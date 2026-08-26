@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코마카제 라브",
+      "en": "Komakaze Rabu",
+      "ja": "駒風ラブ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "헬멧단",
+      "en": "Helmet Gang",
+      "ja": "ヘルメット団"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "헬멧단 간부 소녀.",
+      "en": "Unreleased student from Trinity General School Helmet Gang.",
+      "ja": "トリニティ総合学園 ヘルメット団所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코마카제 라브",
+        "라브"
+      ],
+      "en": [
+        "komakaze_rabu",
+        "rabu_(blue_archive)"
+      ],
+      "ja": [
+        "駒風ラブ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.443386Z"
+}

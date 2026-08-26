@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "오니카타 카요코",
+      "en": "Onikata Kayoko",
+      "ja": "鬼方カヨコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "최종편 방주 결전에서 오퍼레이션을 보조한 카요코의 제복 스탠딩.",
+      "en": "Unreleased 우주전함 variant for Onikata Kayoko.",
+      "ja": "鬼方カヨコの未実装우주전함衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "제복 카요코",
+        "우주선 카요코"
+      ],
+      "en": [
+        "onikata_kayoko_(spaceship)_(blue_archive)"
+      ],
+      "ja": [
+        "鬼方カヨコ(宇宙戦艦)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.450907Z"
+}

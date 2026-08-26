@@ -1,0 +1,78 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아루",
+      "en": "Aru",
+      "ja": "アル"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "흥신소 68의 영원한 사장.\n\n새해를 맞이하여 흥신소 사업이 번창하기를 바라는 마음에, 비싼 돈을 들여 머리를 세팅하고 옷까지 빌려 입고서 새해맞이 행사장을 찾았다. 덕분에 평소보다 더욱 어깨에 힘이 들어간 탓인지, 여느 때보다 여유 넘치는 걸음걸이와 느긋한 어조로 기품 있는 사장님을 연기하고 있다.",
+      "en": "The eternal boss of Problem Solver 68.\n\nAru spends a lot of money on getting her hair done and renting an outfit to wear to the New Year's event in the hopes that her fixer agency will prosper in the new year.Perhaps because she feels more confident than usual, she has been putting on the air of a dignified boss, walking and talking in a nonchalant and carefree way.",
+      "ja": "ゲヘナ学園所属、正月を迎えた便利屋68の自称社長。\n\n新年を迎えて今後の便利屋の繁盛を願うため、まずは形から入ろうと高いお金をかけて髪をセットし、着物まで借りて新年からやる気満々の彼女。その装いもあって普段以上に肩に力が入っており、テンションもいつもより上がり気味。彼女自身の意識としても余裕あふれる歩き方、そしてゆったりとした口調を心掛け、気品のある社長を演じている（が、中身はいつも通りである）。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아루",
+        "아루(새해)",
+        "아루 블루아카이브"
+      ],
+      "en": [
+        "aru_(blue_archive)",
+        "aru",
+        "blue_archive_aru"
+      ],
+      "ja": [
+        "アル",
+        "アル(ブルーアーカイブ)",
+        "ブルーアーカイブ アル"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 2,
+    "unofficial_rank02": 1,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.63.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.54.jpg"
+      ],
+      "rank02": [
+        "비공식/rank02/fanart_7088158_rank02_0.46.jpg"
+      ]
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.380482Z"
+}

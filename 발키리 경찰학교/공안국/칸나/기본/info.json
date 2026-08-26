@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "칸나",
+      "en": "Kanna",
+      "ja": "カンナ"
+    },
+    "school": {
+      "kr": "발키리 경찰학교",
+      "en": "Valkyrie",
+      "ja": "ヴァルキューレ"
+    },
+    "club": {
+      "kr": "공안국",
+      "en": "Public Peace Bureau",
+      "ja": "公安局"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "발키리 경찰학교, 공안국의 국장 업무를 맡고 있는 경찰 학생.\n\n한번 목표로 삼은 범죄는 포기하지 않고 집요하게 탐문하여 진상을 밝혀내기 때문에 세간에는 '미친개'라는 별명으로 더 잘 알려져 있다. 특유의 사나운 인상과 별명 때문에 다혈질인 학생이라는 오해를 자주 받지만, 실제로는 매사에 침착하고 현실적인 가치관의 소유자이다.",
+      "en": "A police student in charge of the Public Peace Bureau at Valkyrie Police School.\n\nShe's better known by the nickname \"Feral Hound,\" because she never gives up on a crime once it's in her sights. She'll investigate tenaciously until she uncovers the truth. People see her as hot-tempered because of her unusual, ferocious looks and her nickname, but in reality she's calm and down-to-earth.",
+      "ja": "ヴァルキューレ警察学校所属、公安局の局長を務める生徒。\n\n担当すると決めた犯罪に対して、諦めるという文字を知らないほどに執拗に聞き込み、真相を明らかにすることから世間では「狂犬」というあだ名で知られている。固い空気とあだ名のせいで激情型だと誤解されがちだが、実際は常に冷静で、現実的な価値観の持ち主である。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "칸나",
+        "칸나",
+        "칸나 블루아카이브"
+      ],
+      "en": [
+        "kanna_(blue_archive)",
+        "kanna",
+        "blue_archive_kanna"
+      ],
+      "ja": [
+        "カンナ",
+        "カンナ(ブルーアーカイブ)",
+        "ブルーアーカイブ カンナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.393616Z"
+}

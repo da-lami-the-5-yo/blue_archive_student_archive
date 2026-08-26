@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아즈사",
+      "en": "Azusa",
+      "ja": "アズサ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 보충수업부의 얼음마녀.\n\n다니던 학교를 자퇴하고, 모종의 이유로 트리니티 학원에 다니게 되어 다시 학업에 힘쓰고 있다. 외로움을 많이 타면서도 다른 사람들에게 폐를 끼칠까 자발적으로 관계를 멀리하고 있어서 보충수업부의 학생들에게 걱정을 끼치고 있다.",
+      "en": "The ice queen of Trinity's Make-Up Work Club.\n\nAfter dropping out of school, she ended up at Trinity and is studying again. Despite being lonely, Azusa distances herself from others to avoid causing trouble—a source of concern for the other Make-Up Work Club members.",
+      "ja": "トリニティ総合学園所属、補習授業部の氷の魔女。\n\n本来はある学校を中退した身だったが、諸事情でトリニティへと通うことになり、再び学業に勤しんでいる。性根は寂しがり屋だが、他の人に迷惑をかけることを恐れて自発的に距離を置いており、補習授業部の他の生徒たちから心配されている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아즈사",
+        "아즈사",
+        "아즈사 블루아카이브"
+      ],
+      "en": [
+        "azusa_(blue_archive)",
+        "azusa",
+        "blue_archive_azusa"
+      ],
+      "ja": [
+        "アズサ",
+        "アズサ(ブルーアーカイブ)",
+        "ブルーアーカイブ アズサ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.373458Z"
+}

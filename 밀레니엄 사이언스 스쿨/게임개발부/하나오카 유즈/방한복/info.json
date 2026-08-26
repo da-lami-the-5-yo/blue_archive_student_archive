@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하나오카 유즈",
+      "en": "Hanaoka Yuzu",
+      "ja": "花岡ユズ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "설산 이벤트에서 착용한 유즈의 털모자 방한복 스탠딩.",
+      "en": "Unreleased 방한복 variant for Hanaoka Yuzu.",
+      "ja": "花岡ユズの未実装방한복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "방한복 유즈"
+      ],
+      "en": [
+        "hanaoka_yuzu_(winter)_(blue_archive)"
+      ],
+      "ja": [
+        "花岡ユズ(防寒着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.452459Z"
+}

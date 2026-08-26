@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스모모",
+      "en": "Sumomo",
+      "ja": "スモモ"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "통신실",
+      "en": "Communications Bureau",
+      "ja": "通信室"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "총학생회 실장.",
+      "en": "Unreleased student from General Student Council Communications Bureau.",
+      "ja": "連邦生徒会 通信室所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "총학생회 스모모"
+      ],
+      "en": [
+        "sumomo_(blue_archive)"
+      ],
+      "ja": [
+        "スモモ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.437982Z"
+}

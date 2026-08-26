@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "후우카",
+      "en": "Fuuka",
+      "ja": "フウカ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "급양부",
+      "en": "School Lunch Club",
+      "ja": "給食部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "게헨나 학원의 식당을 관리하는 급양부의 부원.\n\n게헨나에서 보기 드문 상냥하고 성실한 학생으로 매일 아침마다 게헨나 학생들을 위해 수백인 분의 음식을 준비하고 배식하고 있다. 음식 솜씨는 좋은 편이지만, 식당의 인력 부족으로 인해 실력을 평가 절하당하는 중. 하지만 그녀는 포기하지 않고 더 나은 식단을 제공하기 위해 꾸준히 노력하고 있다.",
+      "en": "A member of the School Lunch Club that manages Gehenna Academy's dining hall.\n\nA kind and earnest student, making her a bit of a rarity at Gehenna. She prepares and serves hundreds of meals every morning for the students of Gehenna. She's a good cook, but her skills are written off due to the dining hall's lack of manpower. Still, she refuses to give up and is constantly looking for ways to improve the menu.",
+      "ja": "ゲヘナ学園所属、学生食堂の管理を担当する給食部のメンバー。\n\n毎朝学園のみんなのためにすごい量の食事を作っている、ゲヘナでは珍しい、優しくて真面目な生徒。料理の腕前はそれなりに良い方だが、食堂の人手は基本的に足りてないこともあり、その実力は過小評価されがち。それでも彼女はめげることなく、より美味しい食事を提供するため日々こつこつ努力を重ねている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "후우카",
+        "후우카",
+        "후우카 블루아카이브"
+      ],
+      "en": [
+        "fuuka_(blue_archive)",
+        "fuuka",
+        "blue_archive_fuuka"
+      ],
+      "ja": [
+        "フウカ",
+        "フウカ(ブルーアーカイブ)",
+        "ブルーアーカイブ フウカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.367459Z"
+}

@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아마우 아코",
+      "en": "Amau Ako",
+      "ja": "天雨アコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "선도부",
+      "en": "Prefect Team",
+      "ja": "風紀委員会"
+    },
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "최종편 방주 조타실에서 착용한 아코의 우주전함 승조원 제복.",
+      "en": "Unreleased 우주전함 variant for Amau Ako.",
+      "ja": "天雨アコの未実装우주전함衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "제복 아코",
+        "우주선 아코"
+      ],
+      "en": [
+        "amau_ako_(spaceship)_(blue_archive)"
+      ],
+      "ja": [
+        "天雨アコ(宇宙戦艦)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.450385Z"
+}

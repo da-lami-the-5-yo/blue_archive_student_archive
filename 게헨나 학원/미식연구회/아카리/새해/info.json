@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아카리",
+      "en": "Akari",
+      "ja": "アカリ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "새해를 맞아 새롭게 차려입은 아카리.\n\n언제나처럼 생글생글 웃는 표정을 유지하고 있지만, 그 표정이 평소보다 조금 더 들뜬 듯이 보이기도 한다. 새해를 맞는다는 기대감에 부풀어 있기 때문일까, 아니면……",
+      "en": "新年を迎えて着物に着替えた、ゲヘナ学園所属、美食研究会のアカリ。\n\nいつものように微笑みを絶やさないが、心なしか少し浮かれているようにも見える。新しく年を越すことに胸を膨らませているのか、それとも……",
+      "ja": "新年を迎えて着物に着替えた、ゲヘナ学園所属、美食研究会のアカリ。\n\nいつものように微笑みを絶やさないが、心なしか少し浮かれているようにも見える。新しく年を越すことに胸を膨らませているのか、それとも……"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아카리",
+        "아카리(새해)",
+        "아카리 블루아카이브"
+      ],
+      "en": [
+        "akari_(blue_archive)",
+        "akari",
+        "blue_archive_akari"
+      ],
+      "ja": [
+        "アカリ",
+        "アカリ(ブルーアーカイブ)",
+        "ブルーアーカイブ アカリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.409334Z"
+}

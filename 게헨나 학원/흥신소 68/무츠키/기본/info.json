@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "무츠키",
+      "en": "Mutsuki",
+      "ja": "ムツキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "흥신소 68의 행동대장 겸 돌격대장.\n\n어느 정도 양심의 가책을 느낄 줄 아는 아루와는 달리 거리낌 없이 악행을 저지르고 말썽을 즐기는 소악마 같은 소녀. 아루와는 오랜 친구 사이로 그녀의 허세를 누구보다도 잘 이해하고 있지만, 딱히 배려해주지는 않는다.",
+      "en": "Problem Solver 68's resident go-getter and chief of staff.\n\nUnlike Aru, who has a semblance of a conscience, Mutsuki is a devilish troublemaker who relishes in committing acts of mayhem. As one of her oldest friends, Mutsuki understands Aru's bravado best, even if she doesn't exactly always play along.",
+      "ja": "ゲヘナ学園所属、便利屋68の行動派。\n\nつい罪悪感に悩まされがちなアルとは違って躊躇いなく悪事を犯し、トラブルを楽しむ小悪魔のような少女。アルとは幼馴染なので彼女のハッタリを誰よりも理解しているが、特に配慮してあげたりはしない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "무츠키",
+        "무츠키",
+        "무츠키 블루아카이브"
+      ],
+      "en": [
+        "mutsuki_(blue_archive)",
+        "mutsuki",
+        "blue_archive_mutsuki"
+      ],
+      "ja": [
+        "ムツキ",
+        "ムツキ(ブルーアーカイブ)",
+        "ブルーアーカイブ ムツキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.362819Z"
+}

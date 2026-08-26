@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카린",
+      "en": "Karin",
+      "ja": "カリン"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "바니걸",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "작전의 최전선에 직접 참가하게 된 C&C의 에이전트.\n\n조금의 불평불만도 없이, 복장에 신경 쓰지 않고 임무의 달성만을 생각한다. 그래도 평소보다 집중되는 시선은 아주 조금 부담스럽다.",
+      "en": "A C&C agent on the front lines.\n\nShe is focused only on accomplishing the mission without complaint or concern for her outfit.\nStill, the longer-than-normal stares from others are a bit bothersome.",
+      "ja": "ミレニアムサイエンススクール所属、今回作戦の最前線に直接参加することになった「C&C」のエージェント。\n\n任務のためであればと言いながら、いそいそと着替える彼女。しかし、普段以上に周囲から集まる視線については、やはりやや気になっている様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카린",
+        "카린(바니걸)",
+        "카린 블루아카이브"
+      ],
+      "en": [
+        "karin_(blue_archive)",
+        "karin",
+        "blue_archive_karin"
+      ],
+      "ja": [
+        "カリン",
+        "カリン(ブルーアーカイブ)",
+        "ブルーアーカイブ カリン"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.377807Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카요코",
+      "en": "Kayoko",
+      "ja": "カヨコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "흥신소 68의 과장.\n\n다른 흥신소 68의 멤버들과는 다르게 악의가 없음에도 불구하고 타고난 얼굴이 무섭다는 이유 하나만으로 불량배로 오인받곤 한다. 카요코 본인은 그런 오해들에 대해 침묵으로 일관하는 중이지만, 오히려 그 때문에 무서운 사람이라는 이미지가 더욱 짙어지고 있다.",
+      "en": "The department head of Problem Solver 68.\n\nOften mistaken for a rough-and-tumble delinquent due to her naturally intimidating appearance, but unlike the rest of Problem Solver 68, she holds no ill will toward anyone. Kayoko opts not to say anything about these misunderstandings, but this only adds to the perception that she's someone to be feared.",
+      "ja": "ゲヘナ学園所属、便利屋68の課長。\n\n他の便利屋68のメンバーとは異なり悪意がないのにも関わらず、生まれ持った顔つきが怖いという理由だけで不良と誤解される少女。カヨコ本人はそんな誤解に対して沈黙を貫いているが、むしろそのせいで怖い人というイメージがより強まる悪循環である。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카요코",
+        "카요코",
+        "카요코 블루아카이브"
+      ],
+      "en": [
+        "kayoko_(blue_archive)",
+        "kayoko",
+        "blue_archive_kayoko"
+      ],
+      "ja": [
+        "カヨコ",
+        "カヨコ(ブルーアーカイブ)",
+        "ブルーアーカイブ カヨコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.362498Z"
+}

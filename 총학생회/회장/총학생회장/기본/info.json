@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "총학생회장",
+      "en": "General Student Council President",
+      "ja": "連邦生徒会長"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "회장",
+      "en": "President",
+      "ja": "会長"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "키보토스의 정점이자 실종된 수수께끼의 총학생회장.",
+      "en": "Unreleased student from General Student Council President.",
+      "ja": "連邦生徒会 会長所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "총학생회장",
+        "연방학생회장"
+      ],
+      "en": [
+        "general_student_council_president",
+        "president_(blue_archive)"
+      ],
+      "ja": [
+        "連邦生徒会長"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.438372Z"
+}

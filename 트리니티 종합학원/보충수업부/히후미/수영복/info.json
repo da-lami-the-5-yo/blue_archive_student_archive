@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "히후미",
+      "en": "Hifumi",
+      "ja": "ヒフミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "친구와 함께 바닷가를 방문한 트리니티 보충수업부의 다정다감한 소녀.\n\n바다를 본 적 없다는 친구를 위해 학교 비품인 크루세이더 전차를 몰래 빌리려고 했지만, 정의실현부에게 그 사실을 들키며 거대한 말썽에 휘말리게 되었다. 전차에 탄 상태에서도 본래의 덜렁거리는 기질은 여전하여, 실수로 전차를 급발진시키는 등, 말썽을 키우는 데 일조하고 있다.",
+      "en": "A friendly Trinity Make-Up Work Club member visiting the beach with her friend.\n\nShe secretly borrowed a Crusader tank for a friend who had never been to the beach. Unfortunately, the Justice Task Force found out and she got in deep trouble. She happily rides the borrowed tank, just as clumsily as ever.",
+      "ja": "トリニティ総合学園所属、友人と一緒に海を訪れた、補習授業部の多情多感な少女。\n\n海に行ったことがないというアズサのため、彼女はトリニティのクルセイダー戦車をこっそり盗む（本人曰く「借りる」）というとんでもない行動に出た。しかし案の定、正義実現委員会にバレてしまい、彼女はそれをきっかけに、大きな出来事へと巻き込まれていく。戦車に乗っていてもドジっ子気質は相変わらずで、戦車の力がある分、かえって騒ぎを大きくすることに一役買ってしまっている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "히후미",
+        "히후미(수영복)",
+        "히후미 블루아카이브"
+      ],
+      "en": [
+        "hifumi_(blue_archive)",
+        "hifumi",
+        "blue_archive_hifumi"
+      ],
+      "ja": [
+        "ヒフミ",
+        "ヒフミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ヒフミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.374825Z"
+}

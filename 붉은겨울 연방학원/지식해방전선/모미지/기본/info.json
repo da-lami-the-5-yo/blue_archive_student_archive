@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "모미지",
+      "en": "Momiji",
+      "ja": "モミジ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "지식해방전선",
+      "en": "Knowledge Liberation Front",
+      "ja": "知識解放戦線"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 학원의 도서관에서 지식을 위해 투쟁하는 문학소녀.\n\n빵과 간식을 위해 싸우는 붉은겨울 학원 대부분의 학생들과는 달리, 그녀는 도서관에 더 많은 장서를 유치하기 위해 싸우고 있다. 실상은 중증의 오타쿠로, 사무국에 구입을 요청하는 대부분의 책이 사리사욕에 따라 신청한 도서들이며, 그 덕에 요청의 대부분이 기각되기 마련이지만, 모미지는 포기하지 않는다.",
+      "en": "A literature enthusiast fighting to preserve knowledge in Red Winter Academy's library.\n\nMost of her peers fight for bread and snacks, but she fights for books. Unfortunately, she's a serious otaku, which means that the Secrateriat rejects most of her requests to get more manga in the library... But does Momiji give up? Never!",
+      "ja": "レッドウィンター連邦学園所属、「知識解放戦線」の文学少女。\n\nパンとおやつのために戦うレッドウィンターの他生徒とは違い、彼女は図書館により多くの蔵書を置くために戦っている。かなりのオタクで、事務局に出す図書購入申請の大半は個人的な理由によるもの。そのため、ほとんどの申請は却下されているが、それでもモミジは諦めずに申請し続けている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "모미지",
+        "모미지",
+        "모미지 블루아카이브"
+      ],
+      "en": [
+        "momiji_(blue_archive)",
+        "momiji",
+        "blue_archive_momiji"
+      ],
+      "ja": [
+        "モミジ",
+        "モミジ(ブルーアーカイブ)",
+        "ブルーアーカイブ モミジ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.401173Z"
+}

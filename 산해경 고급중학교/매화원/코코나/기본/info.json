@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코코나",
+      "en": "Kokona",
+      "ja": "ココナ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing",
+      "ja": "山海経"
+    },
+    "club": {
+      "kr": "매화원",
+      "en": "Plum Blossom Garden",
+      "ja": "梅花園"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "산해경 훈육지원부, 매화원의 교관을 맡고 있는 1학년 학생.\n\n본래는 소학교에 다닐 나이지만 뛰어난 학습능력을 인정받아 교관의 권한까지 받게 되었다. 원생들은 코코나를 '코코나 쨩'이라고 부르며 친근하게 따르곤 하지만, 코코나는 그 호칭을 그다지 달가워하지 않는다고 한다.",
+      "en": "A first-year student who serves as an instructor for the Shanhaijing Disciplinary Support Department's Plum Blossom Garden.\nAlthough she should be in elementary school because of her age, she was recognized for her excellent learning ability and given the authority of an instructor. Her students often follow her around and call her by her name without her title, which she dislikes.",
+      "ja": "山海経高級中学校所属、訓育支援部「梅花園」の教官を務める1年生の生徒。\n\n本来は小学校に通う年齢だが、優れた学習能力が認められ、教官の権限を持つまでになった。園生たちは親しみをこめて「ココナちゃん」と呼んでいるが、ココナはその呼称をあまり喜んでいない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코코나",
+        "코코나",
+        "코코나 블루아카이브"
+      ],
+      "en": [
+        "kokona_(blue_archive)",
+        "kokona",
+        "blue_archive_kokona"
+      ],
+      "ja": [
+        "ココナ",
+        "ココナ(ブルーアーカイブ)",
+        "ブルーアーカイブ ココナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.388917Z"
+}

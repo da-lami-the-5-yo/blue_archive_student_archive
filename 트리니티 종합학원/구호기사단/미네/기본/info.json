@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미네",
+      "en": "Mine",
+      "ja": "ミネ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Remedial Knights",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "트리니티 구호기사단의 단장. 올곧고 심지가 굳으나 과격한 면도 있는 백의의 전사.\n\n'미네가 부수고 기사단이 치료한다'는 명성(?)은 이미 트리니티 전역에서 유명하다. 여유가 생기면 자신의 장비를 정비하거나, 다과를 준비하여 지인들을 초대해 마음을 달랜다. 홍차에 대한 조예는 정의실현부의 하스미와 비교해도 결코 밀리지 않는다는 말이 있다.",
+      "en": "The captain of the Trinity Remedial Knights. A true knight in shining armor, she's upright and resolute, but she has a radical side as well.\n\nShe has a reputation in Trinity: Mine destroys things, and her knights pick up the pieces. She spends her spare time maintaining her equipment and making snacks and drinks for get-togethers with her friends. Some say that she knows as much about black tea as Hasumi of the Justice Task Force.",
+      "ja": "トリニティ総合学園所属、救護騎士団の団長。芯が強く実直な性格だが、過激な一面もある白衣の戦士。\n\n「ミネが壊して騎士団が治療する」という救護騎士団の噂はトリニティ全域に轟いているという。そんな彼女ではあるが、自身の装備を整備したり、知人を招いてお茶会を開く事で心を癒す一面も。また、紅茶に対する造詣が深く、正義実現委員会のハスミと匹敵するレベルなのだとか。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미네",
+        "미네",
+        "미네 블루아카이브"
+      ],
+      "en": [
+        "mine_(blue_archive)",
+        "mine",
+        "blue_archive_mine"
+      ],
+      "ja": [
+        "ミネ",
+        "ミネ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミネ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.392809Z"
+}

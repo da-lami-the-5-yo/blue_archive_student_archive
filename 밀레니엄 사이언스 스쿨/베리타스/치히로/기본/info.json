@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "치히로",
+      "en": "Chihiro",
+      "ja": "チヒロ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원의 해커 집단, 베리타스의 부부장.\n\n우수한 해킹 실력을 갖춘 천재 프로그래머로, 업무에 필요한 일이라면 잠입이나 발로 뛰는 일도 마다하지 않는 행동파 해커이기도 하다. 악동이 많기로 유명한 베리타스 내에서는 보기 드문 상식인으로, 올바른 해커 윤리에 대해 부원들에게 늘 강조한다.",
+      "en": "Vice president of Veritas, Millennium Science School's hacker group.\n\nA genius programmer with excellent hacking skills, she is not afraid of getting her hands dirty when the task demands, whether it's going undercover or in the field. She actually has common sense unlike most of Veritas' devilish members. She is always emphasizing proper hacking ethics to other members.",
+      "ja": "ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」の副部長。\n\n卓越したプログラミング能力を持つハッカーであり、同時にその能力をなるべく乱用しないようにと心がける常識人。いたずらっ子の多いヴェリタスにおける良心的な存在で、常日頃から部員たちに「正しいハッカー倫理」について熱弁しているものの、いざとなれば現場への潜入なども辞さないアクティブなタイプでもある。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "치히로",
+        "치히로",
+        "치히로 블루아카이브"
+      ],
+      "en": [
+        "chihiro_(blue_archive)",
+        "chihiro",
+        "blue_archive_chihiro"
+      ],
+      "ja": [
+        "チヒロ",
+        "チヒロ(ブルーアーカイブ)",
+        "ブルーアーカイブ チヒロ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.382231Z"
+}

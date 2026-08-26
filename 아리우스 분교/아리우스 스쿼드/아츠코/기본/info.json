@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아츠코",
+      "en": "Atsuko",
+      "ja": "アツコ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius",
+      "ja": "アリウス"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "늘 방독면을 쓴 채 신비로운 분위기를 풍기는 아리우스 스쿼드의 일원.\n\n딱히 의도한 것은 아니지만, 식사나 수면을 할 때 이외에는 거의 언제나 방독면을 쓰고 있다. 스쿼드의 리더인 사오리로부터는 공주님이라고 불리고 있으며, 자신의 정체에 대해 많은 것을 숨기고 있다.",
+      "en": "A mysterious member of the Arius Squad who always wears a gas mask. Atsuko's mask isn't necessarily meant for disguise but rather a gas mask she wears for protection and safety. The squad leader, Saori, calls her Hime. Very little is known of who she is.",
+      "ja": "アリウス分校所属、いつもガスマスクをつけており表情を窺うことができない、どこか神秘的なアリウススクワッドの少女。\n\n意図的に顔を隠そうとしているわけではないものの、食事や睡眠の時以外はほとんどガスマスクをつけて生活している。スクワッドのリーダーであるサオリからは「姫」と呼ばれているが、本人は多くを語ろうとしない謎多き人物である。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아츠코",
+        "아츠코",
+        "아츠코 블루아카이브"
+      ],
+      "en": [
+        "atsuko_(blue_archive)",
+        "atsuko",
+        "blue_archive_atsuko"
+      ],
+      "ja": [
+        "アツコ",
+        "アツコ(ブルーアーカイブ)",
+        "ブルーアーカイブ アツコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.385934Z"
+}

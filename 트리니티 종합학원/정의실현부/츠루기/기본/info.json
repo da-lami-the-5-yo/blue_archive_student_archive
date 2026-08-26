@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠루기",
+      "en": "Tsurugi",
+      "ja": "ツルギ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 정의실현부의 부장이자, 트리니티의 공식 전략병기.\n\n호전적이고 폭력적인 성격의 소유자로 마음에 들지 않는 것이 있다면 일단 부수고 본다. 부부장인 하스미의 능력 덕분에 정의실현부는 가까스로 유지되는 중. 통제할 수 없는 광견 같은 츠루기지만, 선생님 앞에서는 부끄러움을 감추지 못하는 소녀 같은 면모를 보이기도 한다.",
+      "en": "President of Trinity's Justice Task Force and its official secret weapon.\n\nShe is belligerent and violent, with a tendency to destroy anything she doesn't like. However, thanks to the painstaking efforts of the task force's vice president, Hasumi, the club has managed to hold itself together. Tsurugi is like a beast that can't be controlled, but even she can't help but soften up when she's with her Sensei.",
+      "ja": "トリニティ総合学園所属、正義実現委員会の委員長でありトリニティの戦略兵器。\n\n好戦的で暴力的な性格であり、気に入らないものがあったらとりあえず壊してから考えるタイプ。副委員長であるハスミのお陰で正義実現委員会は辛うじて統制されている。制御不能の狂犬であるツルギだが、先生の前では気恥ずかしさを隠し切れない少女のような一面も見せる。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "츠루기",
+        "츠루기",
+        "츠루기 블루아카이브"
+      ],
+      "en": [
+        "tsurugi_(blue_archive)",
+        "tsurugi",
+        "blue_archive_tsurugi"
+      ],
+      "ja": [
+        "ツルギ",
+        "ツルギ(ブルーアーカイブ)",
+        "ブルーアーカイブ ツルギ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.360846Z"
+}

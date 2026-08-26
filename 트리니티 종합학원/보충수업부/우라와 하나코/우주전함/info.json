@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우라와 하나코",
+      "en": "Urawa Hanako",
+      "ja": "浦和ハナコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "최종편 우주전함 우트나피쉬팀의 배에서 활약한 하나코의 제복 스탠딩.",
+      "en": "Unreleased 우주전함 variant for Urawa Hanako.",
+      "ja": "浦和ハナコの未実装우주전함衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "제복 하나코",
+        "우주선 하나코"
+      ],
+      "en": [
+        "urawa_hanako_(spaceship)_(blue_archive)"
+      ],
+      "ja": [
+        "浦和ハナコ(宇宙戦艦)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.451156Z"
+}

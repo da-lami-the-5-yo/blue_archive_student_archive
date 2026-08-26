@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미유",
+      "en": "Miyu",
+      "ja": "ミユ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "잠입 작전을 위해 외진 어촌 마을을 방문한 RABBIT 소대의 저격수.\n\n어촌 마을에서의 작전을 위해 낚시 도구를 챙겨와 시간 대부분을 부둣가에서 보내고 있다. 가끔 예상치 못한 대어를 낚아 다른 낚시꾼들의 이목을 끌기도 하지만…… 그녀의 타고난 존재감은 이 기묘한 마을에서도 여전하다.",
+      "en": "The RABBIT Squad's sniper, who's visiting a remote fishing village on an undercover operation.\n\nShe brought her fishing tackle to blend in and spends most of her time at the docks. Occasionally, she catches an unexpected big fish and attracts the attention of other anglers, but...her natural lack of presence remains strong even in this peculiar village.",
+      "ja": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊のスナイパー。\n\n釣り道具を持参し、船着き場でまったりと釣り糸を垂らしている。たまに大物を釣り上げ、周囲の注目を集めることもあるが……天性の存在感の薄さは、この不思議な村でも健在の模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미유",
+        "미유(수영복)",
+        "미유 블루아카이브"
+      ],
+      "en": [
+        "miyu_(blue_archive)",
+        "miyu",
+        "blue_archive_miyu"
+      ],
+      "ja": [
+        "ミユ",
+        "ミユ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミユ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.397746Z"
+}

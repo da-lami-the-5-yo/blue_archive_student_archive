@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사야",
+      "en": "Saya",
+      "ja": "サヤ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing",
+      "ja": "山海経"
+    },
+    "club": {
+      "kr": "연단방",
+      "en": "Eastern Alchemy Society",
+      "ja": "錬丹術研究会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "산해경 학원의 천재 발명가.\n\n소학교 시절에 이미 학위를 여섯 개나 땄을 정도의 천재지만, 천재라는 별명보다는 사람을 골탕 먹이고 말썽을 일으키는 트러블 메이커로 더 잘 알려져 있다. 함께 다니는 쥐, 네즈스케는 어릴 적부터 함께 한 단짝으로 사야에게는 소중한 가족과도 같은 존재이다.",
+      "en": "A genius inventor of Shanhaijing Academy.\n\nA prodigy who earned six degrees while still in elementary school. However, she's known more for the way she causes trouble for others through her unruly antics than for her genius. She's always accompanied by her rat, Nezusuke, whom she's known since childhood and regards as family.",
+      "ja": "山海経高級中学校所属の天才発明家。\n\n小学生の頃にはすでに学位を六つも取っていたほどの天才だが、天才というよりは、人をいじめたり問題を巻き起こすトラブルメーカーとして知られている。いつも連れているネズミのネズ助は子供の時から大の仲良しで、サヤにとっては家族のような大事な存在である。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사야",
+        "사야",
+        "사야 블루아카이브"
+      ],
+      "en": [
+        "saya_(blue_archive)",
+        "saya",
+        "blue_archive_saya"
+      ],
+      "ja": [
+        "サヤ",
+        "サヤ(ブルーアーカイブ)",
+        "ブルーアーカイブ サヤ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.366829Z"
+}

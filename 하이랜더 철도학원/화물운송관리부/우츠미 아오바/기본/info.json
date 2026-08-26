@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우츠미 아오바",
+      "en": "Utsumi Aoba",
+      "ja": "宇津見アオバ"
+    },
+    "school": {
+      "kr": "하이랜더 철도학원",
+      "en": "Highlander Railway Academy",
+      "ja": "ハイランダー鉄道学園"
+    },
+    "club": {
+      "kr": "화물운송관리부",
+      "en": "Freight Transport Department",
+      "ja": "貨物輸送管理部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "하이랜더 화물운송관리부 부원.",
+      "en": "Unreleased student from Highlander Railway Academy Freight Transport Department.",
+      "ja": "ハイランダー鉄道学園 貨物輸送管理部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "우츠미 아오바"
+      ],
+      "en": [
+        "utsumi_aoba_(blue_archive)"
+      ],
+      "ja": [
+        "宇津見アオバ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.430975Z"
+}

@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카가미 치히로",
+      "en": "Kagami Chihiro",
+      "ja": "各務チヒロ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "캠핑",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "중장갑",
+      "armor_type": "관통"
+    },
+    "description": {
+      "kr": "전뇌신춘행진곡 이벤트에서 등장한 베리타스 부장 치히로의 캠핑 방한 의상.",
+      "en": "Unreleased 캠핑 variant for Kagami Chihiro.",
+      "ja": "各務チヒロの未実装캠핑衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "캠핑 치히로",
+        "캠쀼장"
+      ],
+      "en": [
+        "kagami_chihiro_(camping)_(blue_archive)"
+      ],
+      "ja": [
+        "各務チヒロ(キャンプ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.451699Z"
+}

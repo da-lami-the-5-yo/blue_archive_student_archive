@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하레",
+      "en": "Hare",
+      "ja": "ハレ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "캠핑",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "추운 겨울을 대비하여 따듯한 아웃웨어를 차려입은 베리타스의 부원.\n\n간만에 안락한 실내를 떠나 전파도 거의 터지지 않는 캠핑장에 오게 되어 평소보다 텐션이 떨어져 있다. 야외에서의 불편함은 대부분 감내할 준비가 되어 있지만, 탄산이 가득 찬 에너지 드링크를 마시는 것만큼은 야외에서도 포기할 수 없다.",
+      "en": "This Veritas member is bundled up to withstand the winter's cold.\n\nHare can't remember the last time she's left the confines of her desk, and she can't help but be a little nervous at a campsite with no Wi-Fi. While she's accepted losing most of her creature comforts, she draws the line at no cans of Frenzy MAX.",
+      "ja": "寒い冬にあわせて暖かい格好に着替えたヴェリタスのメンバー。\n\n久々に外出することになった上、電波がほとんど通じないキャンプ場に足を運ぶことになり、いつもよりテンションが下がっている様子。屋外の不便さには大体耐えられるものの、エナジードリンクを飲むことだけは諦められない模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하레",
+        "하레(캠핑)",
+        "하레 블루아카이브"
+      ],
+      "en": [
+        "hare_(blue_archive)",
+        "hare",
+        "blue_archive_hare"
+      ],
+      "ja": [
+        "ハレ",
+        "ハレ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハレ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.406164Z"
+}

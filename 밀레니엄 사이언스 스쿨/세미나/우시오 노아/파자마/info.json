@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우시오 노아",
+      "en": "Ushio Noa",
+      "ja": "生塩ノア"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 파자마 파티 이벤트에서 등장한 우시오 노아의 파자마 스탠딩.",
+      "en": "Unreleased 파자마 variant for Ushio Noa.",
+      "ja": "生塩ノアの未実装파자마衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "파자마 노아"
+      ],
+      "en": [
+        "ushio_noa_(pajamas)_(blue_archive)"
+      ],
+      "ja": [
+        "生塩ノア(パジャマ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.449188Z"
+}

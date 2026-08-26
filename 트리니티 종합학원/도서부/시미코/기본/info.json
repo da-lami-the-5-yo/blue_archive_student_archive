@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시미코",
+      "en": "Shimiko",
+      "ja": "シミコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "도서부",
+      "en": "Library Committee",
+      "ja": "図書委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "트리니티 도서부 소속의 사서.\n\n책을 정말 좋아하는 독서광 소녀로 트리니티 도서관의 방대한 장서를 모두 읽어 본 몇 안 되는 학생 중 하나이다. 책을 읽는 것만큼 책을 권하는 것도 좋아하여, 상대를 만나면 상대의 취향에 맞는 책을 추천해주려고 한다.",
+      "en": "Librarian of the Trinity Library Committee.\n\nA bookworm and a bibliophile, she is one of the few students who has read every single tome in Trinity Library. She loves recommending books as much as she does reading them, and has a habit of making book recommendations to people she's just met based on their preferences.",
+      "ja": "トリニティ総合学園所属、図書委員会の司書。\n\n本が大好きな読書マニアで、トリニティの図書館に所蔵されている膨大な蔵書を全て読破したという数少ない生徒の一人。本を読むのと同じくらい本を勧めることも好きで、誰かに出会うとまず最初に「この人の好みに合う本は何だろうか」と考えてしまう。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시미코",
+        "시미코",
+        "시미코 블루아카이브"
+      ],
+      "en": [
+        "shimiko_(blue_archive)",
+        "shimiko",
+        "blue_archive_shimiko"
+      ],
+      "ja": [
+        "シミコ",
+        "シミコ(ブルーアーカイブ)",
+        "ブルーアーカイブ シミコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.369938Z"
+}

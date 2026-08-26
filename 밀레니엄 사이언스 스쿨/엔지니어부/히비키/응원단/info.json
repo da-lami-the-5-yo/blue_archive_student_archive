@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "히비키",
+      "en": "Hibiki",
+      "ja": "ヒビキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineering Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "응원단",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "대운동회를 맞이해 치어리더 차림을 한 엔지니어부의 부원.\n\n평소의 코스프레 취미로 다져진 재봉 스킬을 살려 엔지니어부의 부원들이 입을 의상을 직접 디자인하고 제작했다. 다만 치어리더 의상은 오래전에 만들어 두었던 것을 재활용한지라, 짧은 치마의 길이가 살짝 신경 쓰인다.",
+      "en": "A member of the Engineering Department who puts on a cheerleader outfit for game days.\n\nHibiki's sewing skills are sharp thanks to her love of cosplay, so she designs and makes special event outfits for all the members of the Engineering Department. She made this particular cheerleader outfit a long time ago, so it seems to be a bit small in some places.",
+      "ja": "ミレニアムサイエンススクール所属、大運動会を迎え、チアリーダーの衣装に身を包んだエンジニア部の部員。\n\n普段のコスプレ趣味で培った裁縫スキルを生かし、エンジニア部員が着る衣装を製作した。なお、チアリーダーの衣装は昔作ったものをリメイクしたからか、スカート丈が少し気になっている様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "히비키",
+        "히비키(응원단)",
+        "히비키 블루아카이브"
+      ],
+      "en": [
+        "hibiki_(blue_archive)",
+        "hibiki",
+        "blue_archive_hibiki"
+      ],
+      "ja": [
+        "ヒビキ",
+        "ヒビキ(ブルーアーカイブ)",
+        "ブルーアーカイブ ヒビキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.389634Z"
+}

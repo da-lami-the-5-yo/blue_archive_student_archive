@@ -1,0 +1,77 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아루",
+      "en": "Aru",
+      "ja": "アル"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "드레스",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "잠입 임무의 의뢰를 맡은 흥신소 68의 사장.\n\n자주 입지 않는 스타일의 옷임에도, 얼핏 보기에는 연기가 완벽하다. 모처럼의 하드보일드한 의뢰를 받아 기쁜 마음이지만 얼굴로는 드러내지 않는다.",
+      "en": "潜入任務の依頼を請けた、ゲヘナ学園所属、便利屋68の社長。\n\n普段はあまり着ることのない服装だが完璧に着こなしている。願ってもないハードボイルドな仕事を請けて心を弾ませているが、顔には出さない。",
+      "ja": "潜入任務の依頼を請けた、ゲヘナ学園所属、便利屋68の社長。\n\n普段はあまり着ることのない服装だが完璧に着こなしている。願ってもないハードボイルドな仕事を請けて心を弾ませているが、顔には出さない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아루",
+        "아루(드레스)",
+        "아루 블루아카이브"
+      ],
+      "en": [
+        "aru_(blue_archive)",
+        "aru",
+        "blue_archive_aru"
+      ],
+      "ja": [
+        "アル",
+        "アル(ブルーアーカイブ)",
+        "ブルーアーカイブ アル"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 3,
+    "unofficial_rank02": 0,
+    "total_images": 7
+  },
+  "images": {
+    "공식": [
+      "공식/official_collection.webp",
+      "공식/official_portrait.webp",
+      "공식/official_lobby.webp"
+    ],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.58.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.55.jpg",
+        "비공식/rank01/fanart_7088158_rank01_0.49.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.408686Z"
+}

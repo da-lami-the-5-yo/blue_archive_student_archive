@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하네모토 츠바사",
+      "en": "Hanemoto Tsubasa",
+      "ja": "羽根元ツバサ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "유사과학부",
+      "en": "Pseudoscience Club",
+      "ja": "疑似科学部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 유사과학부의 부원.",
+      "en": "Unreleased student from Millennium Science School Pseudoscience Club.",
+      "ja": "ミレニアムサイエンススクール 疑似科学部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하네모토 츠바사"
+      ],
+      "en": [
+        "hanemoto_tsubasa_(blue_archive)"
+      ],
+      "ja": [
+        "羽根元ツバサ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.420336Z"
+}

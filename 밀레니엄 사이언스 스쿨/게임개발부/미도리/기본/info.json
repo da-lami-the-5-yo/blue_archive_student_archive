@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미도리",
+      "en": "Midori",
+      "ja": "ミドリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원, 게임개발부의 일러스트레이터.\n\n쌍둥이 언니인 모모이와 함께 게임개발부에서 게임을 개발하고 있다. 소심하고 내성적인 성격의 소유자로 활발한 성격의 언니와는 사이가 좋지 못한 편이었지만, 게임에 대한 열정으로 의기투합하여 현재는 둘도 없는 단짝이 되었다.",
+      "en": "Illustrator of the Game Development Department at the Millennium School.\n\nBoth Midori and her twin sister, Momoi, develop games with the Game Development Department.\nThough her introverted personality had previously put her at odds with her more gregarious older sister, the two are now inseparable thanks to their shared love of video games. ",
+      "ja": "ミレニアムサイエンススクール所属、ゲーム開発部のイラストレーター。\n\n双子の姉、モモイと共にゲーム開発部で文字通りゲームを開発している少女。内気な性格もあって、もともと陽気な姉とは相性が良くない方だったが、ゲームに対する情熱で意気投合し、今では大の仲良しになった。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미도리",
+        "미도리",
+        "미도리 블루아카이브"
+      ],
+      "en": [
+        "midori_(blue_archive)",
+        "midori",
+        "blue_archive_midori"
+      ],
+      "ja": [
+        "ミドリ",
+        "ミドリ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミドリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.371571Z"
+}

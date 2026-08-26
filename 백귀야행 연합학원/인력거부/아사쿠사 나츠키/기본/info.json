@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아사쿠사 나츠키",
+      "en": "Asakusa Natsuki",
+      "ja": "浅草ナツキ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Allied Hyakkiyako Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "인력거부",
+      "en": "Rickshaw Club",
+      "ja": "人力車部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "백귀야행 인력거부의 부원.",
+      "en": "Unreleased student from Allied Hyakkiyako Academy Rickshaw Club.",
+      "ja": "百鬼夜行連合学院 人力車部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아사쿠사 나츠키"
+      ],
+      "en": [
+        "asakusa_natsuki_(blue_archive)"
+      ],
+      "ja": [
+        "浅草ナツキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.425285Z"
+}

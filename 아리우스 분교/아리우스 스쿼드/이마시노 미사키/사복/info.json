@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이마시노 미사키",
+      "en": "Imashino Misaki",
+      "ja": "今乃ミサキ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius Branch School",
+      "ja": "アリウス分校"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "사복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "아리우스 스쿼드의 편의점 및 현장 알바 중 착용한 미사키의 사복.",
+      "en": "Unreleased 사복 variant for Imashino Misaki.",
+      "ja": "今乃ミサキの未実装사복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사복 미사키"
+      ],
+      "en": [
+        "imashino_misaki_(casual)_(blue_archive)"
+      ],
+      "ja": [
+        "今乃ミサキ(私服)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.448836Z"
+}

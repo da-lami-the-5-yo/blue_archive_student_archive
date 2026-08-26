@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이부키",
+      "en": "Ibuki",
+      "ja": "イブキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "판데모니움 소사이어티",
+      "en": "Pandemonium Society",
+      "ja": "パンデモニウム・ソサエティー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "판데모니움 소사이어티 소속의 의원이자 마스코트 격인 소녀.\n\n본디 게헨나 학원 초등부 소속이지만, 그 능력을 인정받아 게헨나에서도 우수한 학생만이 들어갈 수 있다는 만마전에 들어왔다. 만마전 내에서 나이는 제일 어리지만 특유의 성실함과 귀여움으로 모두에게 사랑을 받고 있다. 그만큼 선배들에게 폐가 되지 않도록 오늘도 노력하고 있는 바른생활 어린이.",
+      "en": "A member of the Pandemonium Society and a mascot of sorts.\n\nDespite being an elementary school student at Gehenna, she was recognized for her smarts and abilities and invited to the esteemed Pandemonium Society. She's the youngest member of the club and is excessively doted on by her seniors. In return, Ibuki does her utmost to not be a burden to her fellow club members and follows directions as best she can.",
+      "ja": "ゲヘナ学園所属、「万魔殿」の議員であり、マスコット的な少女。\n\n元々ゲヘナ学園初等部所属だったが、能力を認められゲヘナでも優秀な生徒のみが入れるという「万魔殿」に加入した。「万魔殿」の中では最年少だが、ひたむきな可愛さで皆から愛されている。その分、先輩たちの迷惑にならないよう、今日も頑張っている品行方正な女の子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이부키",
+        "이부키",
+        "이부키 블루아카이브"
+      ],
+      "en": [
+        "ibuki_(blue_archive)",
+        "ibuki",
+        "blue_archive_ibuki"
+      ],
+      "ja": [
+        "イブキ",
+        "イブキ(ブルーアーカイブ)",
+        "ブルーアーカイブ イブキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.407020Z"
+}

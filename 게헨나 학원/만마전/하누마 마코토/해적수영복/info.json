@@ -1,0 +1,54 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하누마 마코토",
+      "en": "Hanuma Makoto",
+      "ja": "羽沼マコト"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "해적수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "출항! 만마선 이벤트에서 해적 모자를 쓰고 바다를 제패하려는 마코토의 수영복.",
+      "en": "Unreleased 해적수영복 variant for Hanuma Makoto.",
+      "ja": "羽沼マコトの未実装해적수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "해적 마코토",
+        "해적수코토"
+      ],
+      "en": [
+        "hanuma_makoto_(pirate)_(blue_archive)"
+      ],
+      "ja": [
+        "羽沼マコト(海賊水着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.455597Z"
+}

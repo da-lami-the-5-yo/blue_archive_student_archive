@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "세리나",
+      "en": "Serina",
+      "ja": "セリナ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Remedial Knights",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "크리스마스",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "크리스마스를 맞아 산타 복장을 한 세리나.\n\n자선 활동을 맞이하여 그에 어울리는 산타 복장을 입었다. 특기인 캐럴을 부르며 직접 만든 선물들을 나누어 주는 그녀의 모습은, 크리스마스에 내려온 천사처럼 느껴지기도 한다.",
+      "en": "A member of the Trinity Remedial Knights. She's dressed in a Santa outfit to celebrate Christmas.\n\nShe's spending her Christmas volunteering for charity work. Anyone who watches her singing carols and giving out her handmade gifts would think that she was an angel who came down from heaven for Christmas. ",
+      "ja": "トリニティ総合学園所属、クリスマスを迎えてサンタ服に着替えた救護騎士団の団員。\n\nクリスマスに行う街頭ボランティアのため、ふさわしい格好に着替えたセリナ。キャロルを歌いながら手作りのプレゼントを配る彼女の姿は、クリスマスに舞い降りた天使のよう。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "세리나",
+        "세리나(크리스마스)",
+        "세리나 블루아카이브"
+      ],
+      "en": [
+        "serina_(blue_archive)",
+        "serina",
+        "blue_archive_serina"
+      ],
+      "ja": [
+        "セリナ",
+        "セリナ(ブルーアーカイブ)",
+        "ブルーアーカイブ セリナ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.391574Z"
+}

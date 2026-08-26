@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "소라",
+      "en": "Sora",
+      "ja": "ソラ"
+    },
+    "school": {
+      "kr": "연방학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "엔젤24",
+      "en": "Angel 24",
+      "ja": "エンジェル24"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "샬레 건물 1층 편의점 엔젤24의 점원 소녀.",
+      "en": "Unreleased student from General Student Council Angel 24.",
+      "ja": "連邦生徒会 エンジェル24所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "엔젤24 소라",
+        "소라"
+      ],
+      "en": [
+        "sora_(blue_archive)",
+        "angel24_sora"
+      ],
+      "ja": [
+        "ソラ(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.440386Z"
+}

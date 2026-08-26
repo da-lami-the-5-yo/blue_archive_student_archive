@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미요시 타카네",
+      "en": "Miyoshi Takane",
+      "ja": "三好タカネ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter Federal Academy",
+      "ja": "レッドウィンター連邦学園"
+    },
+    "club": {
+      "kr": "출판부",
+      "en": "Publishing Department",
+      "ja": "出版部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 출판부 부원.",
+      "en": "Unreleased student from Red Winter Federal Academy Publishing Department.",
+      "ja": "レッドウィンター連邦学園 出版部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미요시 타카네"
+      ],
+      "en": [
+        "miyoshi_takane_(blue_archive)"
+      ],
+      "ja": [
+        "三好タカネ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.427439Z"
+}

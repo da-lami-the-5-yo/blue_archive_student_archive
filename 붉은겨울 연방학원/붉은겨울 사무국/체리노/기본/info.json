@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "체리노",
+      "en": "Cherino",
+      "ja": "チェリノ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "붉은겨울 사무국",
+      "en": "Red Winter Office",
+      "ja": "レッドウィンター事務局"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 학원의 학생회장.\n\n권력에 대한 집착과 욕심이 어마어마하며, 매주 혁명으로 실각해도 어떻게 해서든 학생회장의 자리에 복귀하곤 한다. 코에 달고 있는 가짜 콧수염은 권위의 상징으로, 체리노는 자신의 권위가 이 콧수염에서 나온다고 믿고 있다.",
+      "en": "Student council president of Red Winter Academy.\n\nGreedy and obsessed with power, she loses her position in a revolution once a week but somehow always regains her authority. Cherino believes her power comes from the fake mustache she wears as a symbol of authority.",
+      "ja": "レッドウィンター連邦学園所属、横暴で子供っぽい生徒会長。\n\n権力への執着と欲求が非常に強く、毎週のように革命によって失脚させられるものの、その度どうにかして生徒会長の座に復帰することを繰り返す。その付けヒゲはチェリノ曰く「権威の象徴」であり、「権威というものはヒゲから出るものだ」とのこと。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "체리노",
+        "체리노",
+        "체리노 블루아카이브"
+      ],
+      "en": [
+        "cherino_(blue_archive)",
+        "cherino",
+        "blue_archive_cherino"
+      ],
+      "ja": [
+        "チェリノ",
+        "チェリノ(ブルーアーカイブ)",
+        "ブルーアーカイブ チェリノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.372069Z"
+}

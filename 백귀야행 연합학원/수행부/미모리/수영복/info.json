@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미모리",
+      "en": "Mimori",
+      "ja": "ミモリ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "수행부",
+      "en": "Inner Discipline Club",
+      "ja": "修行部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "여름이라는 시기, 바다라는 장소를 맞아 수영복으로 갈아입은 수행부의 부부장.\n\n언제나 부드러운 미소와 상냥한 태도로 모두의 인망을 사고 있는 소녀. 그렇게 평소에는 늘 차분한 모습을 보여주는 그녀지만, 특별히 수영복으로 갈아입은 지금만큼은 평소보다 조금 더 들떠 보이는 기색이다.",
+      "en": "The vice president of the Inner Discipline Club has changed into a swimsuit for the summer.\n\nShe's known for her gentle smile and kind demeanor, but dressing in swimwear has her a little more excited than usual.",
+      "ja": "海に合わせて水着に着替えた百鬼夜行連合学院所属、修行部の副部長。\n\n普段は落ち着いていて穏やかな笑顔を浮かべる彼女だが、水着に着替えた今だけは、いつもより少しだけ浮かれている模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미모리",
+        "미모리(수영복)",
+        "미모리 블루아카이브"
+      ],
+      "en": [
+        "mimori_(blue_archive)",
+        "mimori",
+        "blue_archive_mimori"
+      ],
+      "ja": [
+        "ミモリ",
+        "ミモリ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミモリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.400340Z"
+}

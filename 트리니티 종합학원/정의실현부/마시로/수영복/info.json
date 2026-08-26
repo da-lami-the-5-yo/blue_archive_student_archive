@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "마시로",
+      "en": "Mashiro",
+      "ja": "マシロ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "츠루기 부장을 따라 여름의 해변을 찾은 정의실현부의 성실한 부원.\n\n다른 학생들이 여름의 추억을 잔뜩 만들기 위해 놀러 다니는 중에도 마시로는 훈련을 멈추지 않는다. 왜냐하면 그것이 정의라고 믿고 있기 때문에.",
+      "en": "A devoted Justice Task Force member who escorted Tsurugi to the beach.\n\nMashiro does not stop training while other students go out to play and make summer memories. She believes that this is the way of justice.",
+      "ja": "トリニティ総合学園所属、ツルギ委員長に帯同する形で海にやってきた、正義実現委員会の実直な委員。\n\n輝く海に、煌めく砂浜。そんな誰もがはしゃぐシチュエーションへと向かう中でも、マシロが考えるのはまず正義と訓練。なぜならそれが、彼女の信じる正義だからだ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "마시로",
+        "마시로(수영복)",
+        "마시로 블루아카이브"
+      ],
+      "en": [
+        "mashiro_(blue_archive)",
+        "mashiro",
+        "blue_archive_mashiro"
+      ],
+      "ja": [
+        "マシロ",
+        "マシロ(ブルーアーカイブ)",
+        "ブルーアーカイブ マシロ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.374411Z"
+}

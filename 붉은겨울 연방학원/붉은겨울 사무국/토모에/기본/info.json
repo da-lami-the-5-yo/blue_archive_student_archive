@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "토모에",
+      "en": "Tomoe",
+      "ja": "トモエ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "붉은겨울 사무국",
+      "en": "Red Winter Office",
+      "ja": "レッドウィンター事務局"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "붉은겨울 사무국의 비서실장이자 체리노 회장의 최측근.\n\n무슨 말이든 그럴싸하게 포장하여 전달할 수 있는 연설의 달인으로, 체리노 회장에 대한 충성심을 고취시키기 위해 학원 내에서 정기적으로 연설을 하고 있다. 체리노는 토모에가 자신의 카리스마에 감화되어 충성을 다하는 것이라고 믿고 있으나, 사실 토모에는 체리노를 맹목적으로 귀여워할 뿐이다.",
+      "en": "The chief secretary of the Red Winter Office and President Cherino's closest aide.\n\nA speaking master who can wrap up and deliver just about any message. She gives regular speeches at the academy to inspire loyalty to President Cherino. Cherino believes Tomoe is loyal because she is smitten by her charisma, but in fact, Tomoe simply finds Cherino adorable.",
+      "ja": "レッドウィンター連邦学園所属、レッドウィンター事務局の秘書室長にしてチェリノの側近筆頭。\n\nどんなことでも彼女が話すともっともらしく聞こえるという話術の達人的な存在で、チェリノ会長に対する忠誠心を定期的に様々な場所で吹き込んでいる。チェリノ自身は「トモエは自分のカリスマに感化されて忠誠心を持っているんだ」と考えているが、その実トモエはチェリノを盲目的に可愛がっているだけだったりする。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "토모에",
+        "토모에",
+        "토모에 블루아카이브"
+      ],
+      "en": [
+        "tomoe_(blue_archive)",
+        "tomoe",
+        "blue_archive_tomoe"
+      ],
+      "ja": [
+        "トモエ",
+        "トモエ(ブルーアーカイブ)",
+        "ブルーアーカイブ トモエ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.379851Z"
+}

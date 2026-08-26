@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "토키",
+      "en": "Toki",
+      "ja": "トキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "바니걸",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "잠입 작전 복장이라면 당연히 바니걸이라고 생각해 갈아입은 C&C의 에이전트.\n\n평소 특수한 포지션에 있었기 때문에 접할 길이 별로 없었던 잠입 임무를 맡은 덕에, 평소보다 조금 더 텐션이 올라가 있는 상태. 다른 C&C 선배들의 발자취를 따라갈 수 있게 되어 내심 기쁜 듯한 모습을 보여주지만, 본인은 짐짓 아닌 척하고 있다.",
+      "en": "A dedicated C&C agent, Toki changed into a bunny costume to better camouflage her in infiltration operations.\n\nHer specialty under Rio was never infiltrations, so she's a little nervous about these new types of missions. But regardless, she's excited to finally follow in the footsteps of her C&C upperclassmen, no matter how much she tries to hide it.",
+      "ja": "潜入作戦なら当然バニーガール服だと信じてやまない、ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。\n\n普段特殊な立ち位置にいたからか、あまり縁がなかった潜入任務を任されたことに、いつもより少しテンションが上がっている模様。C&Cの先輩と同じような任務ができる事に内心嬉しそうな姿を見せるが、本人は平静を装っている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "토키",
+        "토키(바니걸)",
+        "토키 블루아카이브"
+      ],
+      "en": [
+        "toki_(blue_archive)",
+        "toki",
+        "blue_archive_toki"
+      ],
+      "ja": [
+        "トキ",
+        "トキ(ブルーアーカイブ)",
+        "ブルーアーカイブ トキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.395797Z"
+}

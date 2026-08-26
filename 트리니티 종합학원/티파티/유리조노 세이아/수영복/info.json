@@ -1,0 +1,68 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유리조노 세이아",
+      "en": "Yurizono Seia",
+      "ja": "百合園セイア"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "티파티의 여름 휴가 스토리 CG에서 등장한 세이아의 청초한 수영복 의상.",
+      "en": "Unreleased 수영복 variant for Yurizono Seia.",
+      "ja": "百合園セイアの未実装수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "수영복 세이아",
+        "수세이아"
+      ],
+      "en": [
+        "yurizono_seia_(swimsuit)_(blue_archive)"
+      ],
+      "ja": [
+        "百合園セイア(水着)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 3,
+    "unofficial_rank02": 0,
+    "total_images": 4
+  },
+  "images": {
+    "공식": [],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.51.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.60.jpg",
+        "비공식/rank01/fanart_7088158_rank01_0.51.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.449621Z"
+}

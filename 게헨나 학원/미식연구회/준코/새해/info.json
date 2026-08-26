@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "준코",
+      "en": "Junko",
+      "ja": "ジュンコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "새해를 맞아 기모노를 입은 준코.\n\n새 옷을 입고, 새해의 음식을 기대하고, 많은 꿈에 부풀어 있지만, 먹을 때에 방해가 들어오는 것만은 여전히 참기 힘든 듯하다.",
+      "en": "Junko is wearing a kimono for the new year.\n\nShe went through the trouble of putting on a new outfit, and has been looking forward to New Year's food. Once she starts eating, she won't tolerate interruption.",
+      "ja": "ゲヘナ学園所属、新年を迎え、着物に着替えた美食研究会の部員。\n\n新年の料理を楽しみに、装いを新たにしたジュンコ。食べる時に邪魔が入ってくる事には、未だ我慢できない様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "준코",
+        "준코(새해)",
+        "준코 블루아카이브"
+      ],
+      "en": [
+        "junko_(blue_archive)",
+        "junko",
+        "blue_archive_junko"
+      ],
+      "ja": [
+        "ジュンコ",
+        "ジュンコ(ブルーアーカイブ)",
+        "ブルーアーカイブ ジュンコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.392496Z"
+}

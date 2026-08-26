@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "주리",
+      "en": "Juri",
+      "ja": "ジュリ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "급양부",
+      "en": "School Lunch Club",
+      "ja": "給食部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 학원의 식당을 관리하는 급양부의 부원.\n\n후우카와 마찬가지로 학생들을 위해 열심히 음식을 만드는 노력파 소녀지만, 그녀의 요리 솜씨는 나쁜 수준을 넘어 괴멸적인 지경인지라 급식에 별 도움이 되지 않고 있다. 하지만 후우카의 격려와 지도 속에 그녀는 오늘도 더 나은 요리를 만들기 위해 노력하고 있다.",
+      "en": "A member of the School Lunch Club that manages Gehenna Academy's dining hall.\n\nLike Fuuka, she's a hard worker who pours her heart and soul into cooking meals for the other students. However, her cooking is so bad that it's grotesque, so her efforts are ultimately useless. But she continues to strive to hopefully improve her cooking under Fuuka's encouragement and guidance.",
+      "ja": "ゲヘナ学園所属、学生食堂の管理を担当する給食部のメンバー。\n\nフウカと同じく、生徒達のため頑張って食事を作っている少女なのだが、彼女の料理の腕前は悪いという水準を超えて壊滅的であるため、給食づくりにはあまり役に立たずにいる。しかしフウカの励ましと指導を受け、彼女は今日もよりいい料理を作るために努力を重ねている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "주리",
+        "주리",
+        "주리 블루아카이브"
+      ],
+      "en": [
+        "juri_(blue_archive)",
+        "juri",
+        "blue_archive_juri"
+      ],
+      "ja": [
+        "ジュリ",
+        "ジュリ(ブルーアーカイブ)",
+        "ブルーアーカイブ ジュリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.369459Z"
+}

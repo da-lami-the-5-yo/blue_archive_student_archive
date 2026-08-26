@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아카네",
+      "en": "Akane",
+      "ja": "アカネ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "바니걸",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "잠입을 위해 바니걸 복장으로 갈아입은 C&C의 에이전트.\n\n낯선 환경이지만 바니걸 복장을 솔선해서 준비하거나, C4를 터트려 장애물을 치워버리는 등, 평소와 변함없이 침착하게 작전을 수행해 나간다. 하지만 평소와는 다른 복장에 조금 들떴는지, 살짝 상기된 표정을 완전히 숨기지는 못하고 있다.",
+      "en": "A C&C agent wearing a Bunny Girl costume as her disguise.\n\nEven in unfamiliar environments, Akane keeps the team together, always in perfect uniform, and blazes their way forward with large amounts of C4. But she seems preoccupied lately... Maybe she's too excited about her new bunny outfit?",
+      "ja": "ミレニアムサイエンススクール所属、潜入ミッションのためバニーガール姿へと着替えた「C&C」のエージェント。\n\n不慣れな環境下でも、バニー服を率先して用意したり、C4を爆発させて障害物を片付けるなど、いつもと変わらず落ち着いて作戦を遂行する姿が見られる。普段とは違う服装に少し浮かれているのか、随所にウキウキした表情が垣間見えることも。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아카네",
+        "아카네(바니걸)",
+        "아카네 블루아카이브"
+      ],
+      "en": [
+        "akane_(blue_archive)",
+        "akane",
+        "blue_archive_akane"
+      ],
+      "ja": [
+        "アカネ",
+        "アカネ(ブルーアーカイブ)",
+        "ブルーアーカイブ アカネ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.389845Z"
+}

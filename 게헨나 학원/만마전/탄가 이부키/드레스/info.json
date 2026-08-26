@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "탄가 이부키",
+      "en": "Tanga Ibuki",
+      "ja": "丹花イブキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "드레스",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "소야곡 이벤트에서 파티에 참석한 이부키의 공주풍 드레스 의상.",
+      "en": "Unreleased 드레스 variant for Tanga Ibuki.",
+      "ja": "丹花イブキの未実装드레스衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "드레스 이부키"
+      ],
+      "en": [
+        "tanga_ibuki_(dress)_(blue_archive)"
+      ],
+      "ja": [
+        "丹花イブキ(ドレス)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.447424Z"
+}

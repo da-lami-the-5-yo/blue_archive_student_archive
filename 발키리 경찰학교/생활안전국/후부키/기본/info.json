@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "후부키",
+      "en": "Fubuki",
+      "ja": "フブキ"
+    },
+    "school": {
+      "kr": "발키리 경찰학교",
+      "en": "Valkyrie",
+      "ja": "ヴァルキューレ"
+    },
+    "club": {
+      "kr": "생활안전국",
+      "en": "Public Safety Bureau",
+      "ja": "生活安全局"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "발키리 경찰학교, 생활안전국의 느긋한 행정지도원.\n\n느긋하고 여유로운 공무원의 삶을 동경하여 발키리 경찰학교에 입학하였다. 어쩌다 생활안전국에 사건이 들어와도 무성의한 태도로만 일관하며, 돈이나 명예에 휩쓸리지 않는 안빈낙도의 삶을 즐기고 있다. 가장 좋아하는 일은 도넛을 먹으며 라디오를 듣는 것.",
+      "en": "A laid-back administrative advisor of Valkyrie Police School.\n\nShe entered Valkyrie longing for a laid-back, easygoing life as a civil servant. She remains negligent, enjoying life as it is without being swayed by money or fame even when a case is sent to the Public Safety Bureau. Her favorite activity is eating donuts while listening to the radio.",
+      "ja": "ヴァルキューレ警察学校所属、生活安全局の怠け者の生徒。\n\nのんびりとした公務員の生活に憧れ、ヴァルキューレ警察学校に入学した。生活安全局に何か苦情などが舞い込んできても、基本的には一貫して誠意の無い態度で処理し、金や名誉に振り回されない窓際族の生活を楽しんでいる。一番好きなことはドーナッツを食べながらラジオを聞くこと。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "후부키",
+        "후부키",
+        "후부키 블루아카이브"
+      ],
+      "en": [
+        "fubuki_(blue_archive)",
+        "fubuki",
+        "blue_archive_fubuki"
+      ],
+      "ja": [
+        "フブキ",
+        "フブキ(ブルーアーカイブ)",
+        "ブルーアーカイブ フブキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.381696Z"
+}

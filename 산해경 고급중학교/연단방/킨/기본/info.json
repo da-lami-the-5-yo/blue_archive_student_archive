@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "킨",
+      "en": "Kin",
+      "ja": "キン"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "연단방",
+      "en": "Endanbou",
+      "ja": "煉丹術研究会"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "산해경 연단방 부원.",
+      "en": "Unreleased student from Shanhaijing Senior Secondary School Endanbou.",
+      "ja": "山海経高級中学校 煉丹術研究会所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "산해경 킨"
+      ],
+      "en": [
+        "kin_(blue_archive)"
+      ],
+      "ja": [
+        "キン(ブルーアーカイブ)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.426308Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코타마",
+      "en": "Kotama",
+      "ja": "コタマ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원의 해커 집단, 베리타스의 해커.\n\n특기는 도청으로, 타인의 비밀스러운 이야기를 엿듣는 것을 좋아한다. 대인관계는 서투른 편으로 1학년에게도 존댓말을 할 정도로 사람을 어려워한다. 현실에서는 소심하고 말수가 적은 소녀이지만, 넷상에서는 놀랄만한 달변가가 된다.",
+      "en": "A hacker of Veritas, Millennium Science School's infamous hacking group.\n\nWiretapping is her specialty, and she takes great pleasure in eavesdropping on other people's private conversations. A socially awkward young lady who addresses even younger students with formal deference. In real life, she's mousy and shy, but on the internet she's a surprisingly glib wordsmith.",
+      "ja": "ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」のハッカー。\n\n特技は盗聴、他人の秘密話を盗み聞きすることを好むちょっと変わった少女。対人関係は苦手な方で、基本的に歳下の1年生にもつい敬語を使ってしまうタイプ。現実では内気で口数の少ない子だが、ネット上では非常によくしゃべる。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코타마",
+        "코타마",
+        "코타마 블루아카이브"
+      ],
+      "en": [
+        "kotama_(blue_archive)",
+        "kotama",
+        "blue_archive_kotama"
+      ],
+      "ja": [
+        "コタマ",
+        "コタマ(ブルーアーカイブ)",
+        "ブルーアーカイブ コタマ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.369173Z"
+}

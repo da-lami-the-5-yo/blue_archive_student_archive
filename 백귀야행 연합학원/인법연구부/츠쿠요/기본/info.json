@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠쿠요",
+      "en": "Tsukuyo",
+      "ja": "ツクヨ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "인법연구부",
+      "en": "Ninjutsu Research Club",
+      "ja": "忍術研究部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "백귀야행 학원 인법연구부 소속의 소녀.\n\n어렸을 때부터 커다란 덩치로 놀림받아온 탓에, 지금은 틈만 나면 어딘가에 숨으려고 드는 소녀. 언제나 우물쭈물하면서 타인과 제대로 대화도 나누지 못하는 소심한 츠쿠요지만, 정작 한 가지 결심하면 앞뒤 가리지 않고 해내는 실행력 또한 가지고 있다. 닌자에 대해선 잘 모르지만, 자신을 인정해준 미치루, 그리고 이즈나와 함께 인법연구부 활동에 매진하고 있다.",
+      "en": "A girl from the Hyakkiyako Ninjutsu Research Club.\n\nTsukuyo is insecure about her towering height, as she was teased relentlessly for it as a child. She is timid and has a hard time speaking up, but also determinedly follows her goals once she's made a decision. While she doesn't know much about ninjas, she does her best for Michiru and Izuna so she won't let them down.",
+      "ja": "百鬼夜行連合学院所属、忍術研究部の部員。\n\n幼い頃から成長が早かったこともあり、その体躯をからかわれてしまうことが多く、結果として今の引っ込み思案な性格が形成された。基本的に他者との会話が苦手な小心者タイプの彼女だが、一度決心をするとどんな状況にでも飛び込んでいくという強さも持ち合わせている。忍者のことにはまだ詳しくないものの、尊敬するミチル、そしてイズナと共に、現在は楽しく忍術研究部の活動に勤しんでいる模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "츠쿠요",
+        "츠쿠요",
+        "츠쿠요 블루아카이브"
+      ],
+      "en": [
+        "tsukuyo_(blue_archive)",
+        "tsukuyo",
+        "blue_archive_tsukuyo"
+      ],
+      "ja": [
+        "ツクヨ",
+        "ツクヨ(ブルーアーカイブ)",
+        "ブルーアーカイブ ツクヨ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.385184Z"
+}

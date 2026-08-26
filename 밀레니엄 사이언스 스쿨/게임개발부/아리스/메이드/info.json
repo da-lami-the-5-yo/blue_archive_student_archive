@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아리스",
+      "en": "Aris",
+      "ja": "アリス"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "메이드",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "C&C로 오해받아 메이드복을 입게 된 밀레니엄 게임개발부의 부원. \n\n여전히 메이드복에 익숙해지지 않은 상태지만, 그것을 극복하기 위해 최선을 다하고 있다. 특유의 밝고 명랑한 태도로, 맡은 바 임무를 완수하기 위해 노력한다.",
+      "en": "A member of the Millennium Game Development Department. She's wearing a maid uniform after being mistaken for a C&C member.\n\nThe maid outfit is a little different from what she'd usually wear, but she's determined to get used to it. A bright and cheerful honorary maid, Aris gives everything she has to complete her assigned missions.",
+      "ja": "色々あってメイド服を着ることになったミレニアムサイエンススクール所属、ゲーム開発部の部員。\n\n相変わらずメイド服にあまり慣れていないものの、克服して一人前のメイド勇者になるべく日々修行中のようだ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아리스",
+        "아리스(메이드)",
+        "아리스 블루아카이브"
+      ],
+      "en": [
+        "aris_(blue_archive)",
+        "aris",
+        "blue_archive_aris"
+      ],
+      "ja": [
+        "アリス",
+        "アリス(ブルーアーカイブ)",
+        "ブルーアーカイブ アリス"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.395589Z"
+}

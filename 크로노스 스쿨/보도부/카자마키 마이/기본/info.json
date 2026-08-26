@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카자마키 마이",
+      "en": "Kazamaki Mai",
+      "ja": "風巻マイ"
+    },
+    "school": {
+      "kr": "크로노스 스쿨",
+      "en": "Kronos School",
+      "ja": "クロノススクール"
+    },
+    "club": {
+      "kr": "보도부",
+      "en": "Press Club",
+      "ja": "報道部"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "크로노스 스쿨 보도부 앵커이자 기자.",
+      "en": "Unreleased student from Kronos School Press Club.",
+      "ja": "クロノススクール 報道部所属の未実装生徒。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카자마키 마이"
+      ],
+      "en": [
+        "kazamaki_mai_(blue_archive)"
+      ],
+      "ja": [
+        "風巻マイ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.434494Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "체리노",
+      "en": "Cherino",
+      "ja": "チェリノ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "붉은겨울 사무국",
+      "en": "Red Winter Office",
+      "ja": "レッドウィンター事務局"
+    },
+    "seasonal": "온천",
+    "status": "출시",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "227호 온천장에 휴양을 즐기러 온 붉은겨울 연방학원의 회장.\n\n처음에는 허가 없이 온천장을 세운 특별반을 못마땅히 여겨 철거하려 했지만, 노도카를 비롯한 특별반 학생들의 접대가 생각보다 마음에 들어 온천장에 눌러앉게 되었다. 온천장의 휴게시설과 먹거리에는 대단히 만족하고 있지만, 정작 온천욕은 그리 좋아하지 않는다.",
+      "en": "The president of Red Winter Federal Academy who came to Hot Springs Resort No. 227 to enjoy a vacation.\n\nAt first, she was planning to demolish the resort that Spec Ops built without her permission, but satisfied with the hospitality of Nodoka and the Spec Ops students, she's decided to extend her stay indefinitely. She doesn't really enjoy getting into the hot springs despite how much she likes resting at the resort and eating its food.",
+      "ja": "レッドウィンター連邦学園所属、227号温泉郷を伸び伸びと楽しんでいる生徒会長。\n\n最初は温泉郷が自分の許可も無しに建てられたという事実が気に食わず、そんなものは撤去して粛清せねばと考えて、温泉地へとやってきたチェリノ。しかし到着早々ノドカたちの懐柔によって一転、温泉郷を満喫することになった。温泉郷そのものや食べ物には満足しているものの、どうやら温泉自体はさほど好きではない様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "체리노",
+        "체리노(온천)",
+        "체리노 블루아카이브"
+      ],
+      "en": [
+        "cherino_(blue_archive)",
+        "cherino",
+        "blue_archive_cherino"
+      ],
+      "ja": [
+        "チェリノ",
+        "チェリノ(ブルーアーカイブ)",
+        "ブルーアーカイブ チェリノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.379386Z"
+}

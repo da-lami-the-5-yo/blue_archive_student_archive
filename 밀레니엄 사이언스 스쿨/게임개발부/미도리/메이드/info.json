@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미도리",
+      "en": "Midori",
+      "ja": "ミドリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "메이드",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "C&C로 위장한 밀레니엄 학원, 게임 개발부의 일러스트레이터.\n\n메이드복을 입게 된 경위는 본인의 의지가 아니었다고 주장하지만, 이왕 이렇게 된 일, 업무에는 착실하게 임한다는 태도를 견지하고 있다. ",
+      "en": "ミレニアムサイエンススクール所属、C&C……になりすましたゲーム開発部のイラストレーター。\n\n不本意ながらメイド服を着ることになったと彼女自身は主張するが、任務には真面目に取り掛かっているご様子。",
+      "ja": "ミレニアムサイエンススクール所属、C&C……になりすましたゲーム開発部のイラストレーター。\n\n不本意ながらメイド服を着ることになったと彼女自身は主張するが、任務には真面目に取り掛かっているご様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미도리",
+        "미도리(메이드)",
+        "미도리 블루아카이브"
+      ],
+      "en": [
+        "midori_(blue_archive)",
+        "midori",
+        "blue_archive_midori"
+      ],
+      "ja": [
+        "ミドリ",
+        "ミドリ(ブルーアーカイブ)",
+        "ブルーアーカイブ ミドリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.412224Z"
+}

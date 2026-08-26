@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "사텐 루이코",
+      "en": "Ruiko",
+      "ja": "涙子"
+    },
+    "school": {
+      "kr": "사쿠가와 중학교",
+      "en": "Sakugawa",
+      "ja": "柵川中学"
+    },
+    "club": {
+      "kr": "없음",
+      "en": "None",
+      "ja": "無し"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "사쿠가와 중학교 소속의 명랑한 여중생.\n\n동급생인 우이하루 카자리의 절친한 친구이며, 우이하루로부터 토키와다이 중학교의 선배, 미사카 미코토를 소개받았다. 레벨 0의 무능력자이지만 감이 좋고 결정적인 단서를 찾는 경우가 많다. 좋아하는 것은 도시 전설과 디저트. 휴일이 되면 자주 디저트 조사를 하러 나간다.",
+      "en": "A cheerful student from Sakugawa Middle School.\n\nShe was introduced to Misaka Mikoto, an upperclassman from Tokiwadai Middle School, by her good friend and classmate Uiharu Kazari. Although she is a Level 0 without any powers, she has good instincts and a knack for tracking down clues. Her favorite things are urban legends and desserts. She makes a point of trying out new desserts in her free time.",
+      "ja": "柵川中学所属の陽気な女子中学生。\n\n同級生の初春飾利の親友で、彼女に常盤台中学の先輩である御坂美琴を紹介してもらった。レベル0の無能力者だが、勘が良く、決定的な手がかりを見つけることが多い。好きなものは都市伝説とスイーツ。休日になるとよくスイーツ調査に出かけているのだとか。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사텐 루이코",
+        "사텐 루이코",
+        "사텐 루이코 블루아카이브"
+      ],
+      "en": [
+        "ruiko_(blue_archive)",
+        "ruiko",
+        "blue_archive_ruiko"
+      ],
+      "ja": [
+        "涙子",
+        "涙子(ブルーアーカイブ)",
+        "ブルーアーカイブ 涙子"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.404016Z"
+}

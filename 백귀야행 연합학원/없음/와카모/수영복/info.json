@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "와카모",
+      "en": "Wakamo",
+      "ja": "ワカモ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "없음",
+      "en": "None",
+      "ja": "無し"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "<일곱 죄수> 중 한 명으로, 여름을 맞이하여 보다 화려한 꽃처럼 피어난 소녀.\n\n그녀가 수영복 차림으로 바다를 찾은 건 어디까지나 선생님에게 보여주기 위해서이며, 얼굴에 미소를 띠고 있는 건 이 여름 바다에서 우연히 선생님을 발견했기 때문이다. 이처럼 뜨거운 여름 햇살 아래, 그 뜨거움에 지지 않을 만큼 선생님을 향한 정열적인 어프로치가 시작된, 언제나 변함없이 연심에 전력투구 중인 소녀.",
+      "en": "One of the Seven Prisoners. A girl who blooms like a colorful flower in summer.\n\nShe arrived on the beach in her swimsuit to show it off to Sensei and ended up with a huge smile on her face because she ran into Sensei just in time. Her passion toward Sensei is as strong as the summer sun. She always tries her best to get closer to them.",
+      "ja": "百鬼夜行連合学院所属、「七囚人」の一人であり、夏を迎えてより艶やかに咲いた少女。\n\n彼女が水着姿で海を訪れたのは、ただその姿を先生に見せるため。彼女が笑顔でいられるのは、ひとえに先生と出会えたため。どんなに暑い夏の日差しの下でも、それに負けないほどの情熱的なアプローチで先生を襲う。相変わらず誰よりも恋心に全力投球な少女、夏バージョン。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "와카모",
+        "와카모(수영복)",
+        "와카모 블루아카이브"
+      ],
+      "en": [
+        "wakamo_(blue_archive)",
+        "wakamo",
+        "blue_archive_wakamo"
+      ],
+      "ja": [
+        "ワカモ",
+        "ワカモ(ブルーアーカイブ)",
+        "ブルーアーカイブ ワカモ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.386138Z"
+}

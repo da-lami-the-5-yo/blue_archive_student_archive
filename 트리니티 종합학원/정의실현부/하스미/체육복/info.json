@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하스미",
+      "en": "Hasumi",
+      "ja": "ハスミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "체육복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "황륜대제 참가를 위해 체육복으로 갈아입은 정의실현부의 부부장.\n\n대외업무에 익숙지 않은 츠루기를 대신하여 실행위원을 맡게 되었다. 회장의 들뜬 분위기 속에서도 하스미는 냉정하게 실행위원으로서의 책무를 다하려 했지만…… 쉴 새 없이 나타나는 불량 학생들과 노점상에서 풍겨오는 달콤한 냄새가 그녀를 괴롭게 한다.",
+      "en": "Vice president of the Justice Task Force. She's wearing track clothes to participate in the Kivotos Halo Festival.\n\nShe joined the Executive Committee in place of Tsurugi, who's inexperienced with administrative work. Hasumi is trying to do her best and stay composed despite the president's excitement, but between troublemaking students and the smell of sweets coming from street vendors, distractions are everywhere.",
+      "ja": "トリニティ総合学園所属、晄輪大祭参加のために体操服に着替えた正義実現委員会の副委員長。\n\n対外業務に不慣れなツルギに代わって実行委員を務めることになった。会場の浮き立った空気の中でも、ハスミは冷静に実行委員としての責務を果たそうとしていたが……休む間もなく現れる不良生徒や屋台から漂ってくる甘い誘惑が彼女を苦しませている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하스미",
+        "하스미(체육복)",
+        "하스미 블루아카이브"
+      ],
+      "en": [
+        "hasumi_(blue_archive)",
+        "hasumi",
+        "blue_archive_hasumi"
+      ],
+      "ja": [
+        "ハスミ",
+        "ハスミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハスミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.390531Z"
+}

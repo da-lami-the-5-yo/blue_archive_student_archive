@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "무츠키",
+      "en": "Mutsuki",
+      "ja": "ムツキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "흥신소 68의 행동대장 겸 돌격대장.\n\n새해를 맞이하여 아루와 함께 새해맞이 행사장을 찾아 놀러 왔다. 해가 바뀌어 평소보다 더 공을 들여 꾸미긴 했지만, 악행을 저지르고 그럴 때마다 일어나는 트러블을 보며, 깔깔 웃으며 좋아하는 모습은 어디 가지 않았다. 이번에도 어김없이 여러 이유로 고생하는 아루의 바로 곁에서, 새해를 만끽하기를 주저하지 않는 소악마 아가씨.",
+      "en": "Problem Solver 68's resident go-getter and chief of staff.\n\nShe goes to the New Year event with Aru to celebrate the upcoming new year. Mutsuki puts more effort into dressing up nicely for New Year's, but it doesn't change how she laughs and thoroughly enjoys watching the troubles that arise from her evil deeds. This troublemaker enjoys the new year with Aru, who always seems to be in trouble for one reason or another.",
+      "ja": "ゲヘナ学園所属、便利屋68の行動隊長兼突撃隊長。\n\n新年を迎えてアルたちと一緒にお参り（遊び）に行くため、装いも新たに。せっかくの新年ということで気合の入った格好になっているものの中身はいつも通りで、悪戯やトラブルを引き起こしてはその様子を笑いながら楽しんでいる。新年になっても相変わらずトラブルに遭いがちなアルのことを、こちらも変わらずにすぐそばの特等席で見ている。それはそれとして彼女なりに正月も楽しんでいるマイペースな小悪魔系少女。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "무츠키",
+        "무츠키(새해)",
+        "무츠키 블루아카이브"
+      ],
+      "en": [
+        "mutsuki_(blue_archive)",
+        "mutsuki",
+        "blue_archive_mutsuki"
+      ],
+      "ja": [
+        "ムツキ",
+        "ムツキ(ブルーアーカイブ)",
+        "ブルーアーカイブ ムツキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.380903Z"
+}

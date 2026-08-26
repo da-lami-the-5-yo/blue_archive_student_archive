@@ -1,0 +1,67 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "조마에 사오리",
+      "en": "Jomae Saori",
+      "ja": "錠前サオリ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius Branch School",
+      "ja": "アリウス分校"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "사복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "생계를 위해 아르바이트를 하며 입었던 사오리의 일상 사복 일러스트.",
+      "en": "Unreleased 사복 variant for Jomae Saori.",
+      "ja": "錠前サオリの未実装사복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사복 사오리"
+      ],
+      "en": [
+        "jomae_saori_(casual)_(blue_archive)"
+      ],
+      "ja": [
+        "錠前サオリ(私服)"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 1,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 3,
+    "unofficial_rank02": 0,
+    "total_images": 4
+  },
+  "images": {
+    "공식": [],
+    "준공식": [
+      "준공식/semi_official_comic_1.jpg"
+    ],
+    "비공식": {
+      "rank00": [],
+      "rank01": [
+        "비공식/rank01/fanart_7088467_rank01_0.51.jpg",
+        "비공식/rank01/fanart_7088174_rank01_0.60.jpg",
+        "비공식/rank01/fanart_7088158_rank01_0.51.jpg"
+      ],
+      "rank02": []
+    }
+  },
+  "last_updated": "2026-08-26T02:39:49.447828Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이즈미",
+      "en": "Izumi",
+      "ja": "イズミ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 미식연구회의 일원으로 뭐든지 잘 먹는 먹보 소녀.\n\n음식을 사랑하다 못해 남들이 질색하는 괴식도 가리지 않고 곧잘 먹어 치운다.",
+      "en": "A member of the Gehenna Gourmet Research Society with a voracious appetite.\n\nShe loves food so much that she even gobbles up dishes that others would dislike with gusto.",
+      "ja": "ゲヘナ学園所属、美食研究会のメンバーであり、なんでもよく食べる食いしん坊少女。\n\n食べ物を愛しすぎた結果、他の人からすると勘弁してほしいと思うようなゲテモノも好んで食べるようになった。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이즈미",
+        "이즈미",
+        "이즈미 블루아카이브"
+      ],
+      "en": [
+        "izumi_(blue_archive)",
+        "izumi",
+        "blue_archive_izumi"
+      ],
+      "ja": [
+        "イズミ",
+        "イズミ(ブルーアーカイブ)",
+        "ブルーアーカイブ イズミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.358156Z"
+}

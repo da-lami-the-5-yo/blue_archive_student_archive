@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미사카 미코토",
+      "en": "Mikoto",
+      "ja": " 美琴"
+    },
+    "school": {
+      "kr": "토키와다이 중학교",
+      "en": "Tokiwadai",
+      "ja": "常盤台中学"
+    },
+    "club": {
+      "kr": "없음",
+      "en": "None",
+      "ja": "無し"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "토키와다이 중학교 소속의 여중생.\n\n수많은 초능력자가 존재하는 학원도시에서도 7명 밖에 없는 정상급 초능력자 레벨 5 중 한 명. 사용하는 초능력은 강력한 전기를 자유자재로 조종하는 전격 사용(일렉트로마스터)이지만, 키보토스로 전이된 이후 능력 사용에 어려움을 겪고 있다. 누구에게나 편한 말투로 대하며, 상냥한 마음씨라 다른 학생들과도 사이가 좋다. 개구리 캐릭터 <게코타>의 팬이다.",
+      "en": "A student at Tokiwadai Middle School.\n\nMisaka is one of the seven Level 5 espers in Academy City, a place populated by students with supernatural abilities. As an Electromaster, she has the power to manipulate powerful currents of electricity, but she has had difficulty using this power since arriving in Kivotos. She is easy to talk to and has a kind heart, so she tends to get along with others. She's also a fan of a cartoon frog from her world called Gekota.",
+      "ja": "常盤台中学所属の女子中学生。\n\n多くの超能力者が存在する「学園都市」の中で7人しか存在しないトップクラスの超能力者「レベル5」の一人。使用する超能力は、強力な電気を自在に操る「電撃使い（エレクトロマスター）」。しかし、キヴォトスに転移してからは能力を思いのまま発揮できていない様子。誰にでもフランクな言葉遣いで接し、優しい心の持ち主のため他の生徒からは親しまれている。カエルのキャラクター、「ゲコ太」のファン。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미사카 미코토",
+        "미사카 미코토",
+        "미사카 미코토 블루아카이브"
+      ],
+      "en": [
+        "mikoto_(blue_archive)",
+        "mikoto",
+        "blue_archive_mikoto"
+      ],
+      "ja": [
+        " 美琴",
+        " 美琴(ブルーアーカイブ)",
+        "ブルーアーカイブ  美琴"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.403347Z"
+}

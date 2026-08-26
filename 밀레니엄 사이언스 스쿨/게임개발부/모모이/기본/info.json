@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "모모이",
+      "en": "Momoi",
+      "ja": "モモイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학원, 게임개발부의 시나리오 라이터.\n\n쌍둥이 여동생인 미도리와 함께 게임개발부에서 게임을 개발하고 있다. 가볍고 쾌활한 성격의 소유자로 소심한 성격의 여동생과는 사이가 좋지 못한 편이었지만, 게임에 대한 열정으로 의기투합하여 현재는 둘도 없는 단짝이 되었다.",
+      "en": "Scenario writer of the Game Development Department at the Millennium School.\n\nBoth Momoi and her twin sister, Midori, develop games with the Game Development Department. Though her lighthearted and cheerful personality previously put her at odds with her more introverted little sister, the two are now inseparable thanks to their shared love of video games. ",
+      "ja": "ミレニアムサイエンススクール所属、ゲーム開発部のシナリオライター。\n\n双子の妹、ミドリと共にゲーム開発部で文字通りゲームを開発している少女。陽気な性格もあって、もともと内気な妹とは相性が良くない方だったが、ゲームに対する情熱で意気投合し、今では大の仲良しになった。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "모모이",
+        "모모이",
+        "모모이 블루아카이브"
+      ],
+      "en": [
+        "momoi_(blue_archive)",
+        "momoi",
+        "blue_archive_momoi"
+      ],
+      "ja": [
+        "モモイ",
+        "モモイ(ブルーアーカイブ)",
+        "ブルーアーカイブ モモイ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.371800Z"
+}

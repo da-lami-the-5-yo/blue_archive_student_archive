@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유즈",
+      "en": "Yuzu",
+      "ja": "ユズ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 게임개발부의 부장.\n\n사람을 대하는 것을 어려워하는 대인기피증 소녀로 대부분의 시간을 게임개발부 내의 캐비닛 안에서 보내고 있다. 하지만 게임에 대한 열정만큼은 그 누구에게도 뒤지지 않는다. 게임을 제작하는 것과 플레이하는 것 모두를 좋아한다.",
+      "en": "President of Millennium's Game Development Department.\n\nYuzu struggles with social anxiety and finds it difficult to deal with people, so she spends most of her time in a cabinet in the Game Development Department. Despite that, her passion for games is second to none. She loves both making and playing games.",
+      "ja": "ミレニアムサイエンススクール所属、ゲーム開発部の部長。\n\n誰かと会話したり接することを非常に苦手としており、そのため外に出ることもほとんどなく、大半の時間をゲーム開発部の部室にあるロッカーの中で過ごしている。ゲームを作ることもプレイすることも好きで、ゲームに対する情熱は並大抵のものではない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유즈",
+        "유즈",
+        "유즈 블루아카이브"
+      ],
+      "en": [
+        "yuzu_(blue_archive)",
+        "yuzu",
+        "blue_archive_yuzu"
+      ],
+      "ja": [
+        "ユズ",
+        "ユズ(ブルーアーカイブ)",
+        "ブルーアーカイブ ユズ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.373159Z"
+}

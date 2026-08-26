@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유즈",
+      "en": "Yuzu",
+      "ja": "ユズ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "메이드",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "탄력장갑"
+    },
+    "description": {
+      "kr": "C&C로 오해받아 메이드복을 입게 된 밀레니엄 게임개발부의 부장.\n\n새로운 옷을 입었어도 소심한 성격은 그대로이나, 그 덕분에 할 수 있는 일이 늘어나기도 했다. 익숙하지 않은 사건들뿐이지만, 게임개발부의 모두와 함께 극복하려 한다.",
+      "en": "The president of the Millennium Game Development Department. She began wearing a maid uniform after being mistaken for a C&C member.\n\nThe new outfit might not have transformed her into an outgoing extrovert, but it did give her the confidence to leave her room! With scary and unfamiliar events occurring all around her, Yuzu does her best to overcome each obstacle with the Game Development Department's support.",
+      "ja": "色々あってメイド服を着ることになったミレニアムサイエンススクール所属、ゲーム開発部の部長。\n\n普段と違う格好でもユズはユズのままではあるが、少しだけできる事が広がった模様。ゲーム開発部のみんなと一緒に、様々な困難に立ち向かうことに。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유즈",
+        "유즈(메이드)",
+        "유즈 블루아카이브"
+      ],
+      "en": [
+        "yuzu_(blue_archive)",
+        "yuzu",
+        "blue_archive_yuzu"
+      ],
+      "ja": [
+        "ユズ",
+        "ユズ(ブルーアーカイブ)",
+        "ブルーアーカイブ ユズ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.396006Z"
+}

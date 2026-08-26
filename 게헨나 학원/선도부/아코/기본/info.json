@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아코",
+      "en": "Ako",
+      "ja": "アコ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "선도부",
+      "en": "Prefect Team",
+      "ja": "風紀委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "게헨나 선도부의 선임 행정관이자 선도부장 히나의 비서.\n\n언제나 히나의 곁에서 머무르며 그녀를 보좌한다. 일견 보기에는 친절하고 선량한 인상의 소녀지만, 교칙위반자를 상대할 때는 사정을 봐주지 않고 무자비하게 진압한다. 게헨나의 학생들로부터 '히나의 펫'이라는 멸칭으로 종종 불리고 있지만, 본인은 그다지 신경 쓰지 않는다.",
+      "en": "Senior administrator of the Gehenna Prefect Team and secretary to the head prefect, Hina.\n\nAko is always by Hina's side, assisting her. At first glance, she appears to be kind and good-natured, but she ruthlessly suppresses rule-breakers, showing no mercy. The students of Gehenna often call her \"Hina's pet,\" but she doesn't seem to mind.",
+      "ja": "ゲヘナ学園所属、風紀委員会の行政官であり、風紀委員長ヒナにとって秘書のような存在。\n\n一見すると親切で善良そうな印象だが、規則に違反した生徒などに対してはかなり容赦が無い。いつも風紀委員長であるヒナの傍におり、彼女のことを補佐している。それもあってゲヘナの生徒たちからは「ヒナのペット」などと呼ばれることもあるが、本人は特に気にしていない。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아코",
+        "아코",
+        "아코 블루아카이브"
+      ],
+      "en": [
+        "ako_(blue_archive)",
+        "ako",
+        "blue_archive_ako"
+      ],
+      "ja": [
+        "アコ",
+        "アコ(ブルーアーカイブ)",
+        "ブルーアーカイブ アコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.379126Z"
+}

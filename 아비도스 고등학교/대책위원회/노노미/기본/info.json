@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "노노미",
+      "en": "Nonomi",
+      "ja": "ノノミ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "아비도스 대책위원회의 일원.\n\n다정다감하고 상냥한 성품의 소유자로 극단적인 성격이 많은 대책위원회의 회원들을 하나로 뭉쳐주는 정신적 지주 역할을 하고 있다. 겉으로 내색하진 않지만 부유한 부잣집의 영애로, 대책위원회 간식비의 대부분은 그녀의 용돈에서 나오고 있다.",
+      "en": "A member of the Abydos Foreclosure Task Force.\n\nA friendly, pleasant girl that provides the Foreclosure Task Force with much-needed emotional support to balance out the extreme personalities of its other members. Though she doesn't show it, she comes from a wealthy family and pays for nearly all of the Foreclosure Task Force's snacks out of her own pocket.",
+      "ja": "アビドス高等学校所属、アビドス対策委員会のメンバー。\n\n感情豊かで優しい性格をしており、極端な性格の持ち主が多い対策委員会のメンバーをまとめる精神的な支えとしての役割を担っている。表向きにはあまり明らかにしていないがお金持ちの令嬢で、対策委員会のおやつ代はほとんど彼女のお小遣いから出ている。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "노노미",
+        "노노미",
+        "노노미 블루아카이브"
+      ],
+      "en": [
+        "nonomi_(blue_archive)",
+        "nonomi",
+        "blue_archive_nonomi"
+      ],
+      "ja": [
+        "ノノミ",
+        "ノノミ(ブルーアーカイブ)",
+        "ブルーアーカイブ ノノミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.362166Z"
+}

@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유우카",
+      "en": "Yuuka",
+      "ja": "ユウカ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "체육복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "황륜대제 참가를 위해 체육복으로 갈아입은 세미나의 회계.\n\n밀레니엄 주최의 빅 이벤트를 앞두고 오랫동안 격무에 시달려왔지만, 개회 전날만큼은 다른 학생들의 배려로 잠을 푹 잤기 때문에 컨디션은 최상의 상태다. 주최교의 학생회 임원이자 실행위원으로서 유우카는 이성적으로 대회에 임하려 했지만, 승부욕 강한 학생들이 그녀의 호승심을 계속해서 긁어온다.",
+      "en": "The Seminar treasurer, changed into gym clothes to participate in the Kivotos Halo Festival.\n\nDespite having already suffered from a heavy workload preparing for the big event, all she needed was a good night's rest to be back in tip-top condition. As a member of Seminar, Yuuka wants to focus on being a calm, rational representative of the council and ambassador to Kivotos, but the competitiveness of her fellow students is more infectious than she would ever admit.",
+      "ja": "ミレニアムサイエンススクール所属、晄輪大祭参加のために体操服に着替えたセミナーの会計。\n\nミレニアム主催のビッグイベントの準備で激務に追われていたものの、開会前日だけは他の生徒たちの配慮でぐっすり眠ったため、最高のコンディションとなっている。主催校の生徒会役員であり、実行委員のユウカは理性的に大会に臨もうとしていたが、周囲の学校の勝利への情熱が、彼女の負けず嫌いを刺激している様子。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유우카",
+        "유우카(체육복)",
+        "유우카 블루아카이브"
+      ],
+      "en": [
+        "yuuka_(blue_archive)",
+        "yuuka",
+        "blue_archive_yuuka"
+      ],
+      "ja": [
+        "ユウカ",
+        "ユウカ(ブルーアーカイブ)",
+        "ブルーアーカイブ ユウカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.390052Z"
+}

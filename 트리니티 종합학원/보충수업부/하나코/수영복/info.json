@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하나코",
+      "en": "Hanako",
+      "ja": "ハナコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "진동",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "여름을 맞아 섬을 찾은 보충수업부의 아가씨.\n\n친근한 사람들과 자유로운 공간에 찾아와서인지 다소 파격적인 복장을 하였지만, 항상 보여주는 에로한 모습과 달리, 조금 솔직하고 진지한 모습 또한 보여준다.",
+      "en": "A young lady from the Make-Up Work Club who's come to the island for the summer.\n\nHer outfit is unconventional, perhaps because she's comfortable with the people she's with. In spite of appearances, she has an honest, sincere side.",
+      "ja": "夏を迎えて島を訪れたトリニティ総合学園所属、補習授業部の女の子。\n\n多少大胆な格好をしているものの、普段の人を試すような言動は鳴りを潜め、素直に心の内を開いてくれている模様。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "하나코",
+        "하나코(수영복)",
+        "하나코 블루아카이브"
+      ],
+      "en": [
+        "hanako_(blue_archive)",
+        "hanako",
+        "blue_archive_hanako"
+      ],
+      "ja": [
+        "ハナコ",
+        "ハナコ(ブルーアーカイブ)",
+        "ブルーアーカイブ ハナコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.399926Z"
+}

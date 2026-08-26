@@ -1,0 +1,59 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "마시로",
+      "en": "Mashiro",
+      "ja": "マシロ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "트리니티 학원 정의실현부의 성실한 부원.\n\n키에 맞지 않는 거대한 대물저격총을 가지고 다니며 묵묵히 화력지원 임무를 수행한다. 말수가 적은 편이지만 낯을 가리거나 대인관계가 서투른 것은 아니며, 정의와 관련된 화제를 언급하면 오히려 말이 많아지기도 한다.",
+      "en": "A devoted member of Trinity General School's Justice Task Force.\n\nArmed with a massive sniper rifle that towers over her, Mashiro stoically provides fire support.Though not much one for words, she isn't shy or socially inept and actually becomes quite talkative when it comes to justice.",
+      "ja": "トリニティ総合学園所属、正義実現委員会の実直な部員。\n\n背丈ほどもある、不釣り合いなほど大きいスナイパーライフルを持ち歩き、黙々と火力支援任務を遂行する少女。普段の口数は少ないものの、人見知りだったり対人関係が苦手だったりというわけではなく、正義に関する話題が始まると急に饒舌になったりする。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "마시로",
+        "마시로",
+        "마시로 블루아카이브"
+      ],
+      "en": [
+        "mashiro_(blue_archive)",
+        "mashiro",
+        "blue_archive_mashiro"
+      ],
+      "ja": [
+        "マシロ",
+        "マシロ(ブルーアーカイブ)",
+        "ブルーアーカイブ マシロ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 0,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 0
+  },
+  "images": [],
+  "last_updated": "2026-08-26T02:39:49.370464Z"
+}
