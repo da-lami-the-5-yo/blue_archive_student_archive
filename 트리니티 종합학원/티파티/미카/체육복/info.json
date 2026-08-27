@@ -1,0 +1,94 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미소노 미카",
+      "en": "Misono Mika",
+      "ja": "聖園ミカ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "황륜대제 트리니티 전용 트랙수트 체육복과 스포티한 똥머리 헤어스타일의 미카(체미카).",
+      "en": "Mika wearing Trinity track uniform / gym jacket during Kivotos Halo Festival.",
+      "ja": "キヴォトス大運動会・黄輪大祭で着用したトリニティ体操服姿のミカ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미소노 미카 (체육복)",
+        "체육복 미카",
+        "체미카",
+        "미카"
+      ],
+      "en": [
+        "mika_track",
+        "mika_gym"
+      ],
+      "ja": [
+        "体操服ミカ",
+        "ジャージミカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 1,
+    "unofficial_rank02": 0,
+    "total_images": 5
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mika_gym_portrait.png",
+      "path": "트리니티 종합학원/티파티/미카/체육복/공식/official_mika_gym_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mika_gym_icon.png",
+      "path": "트리니티 종합학원/티파티/미카/체육복/공식/official_mika_gym_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mika_gym_alt.webp",
+      "path": "트리니티 종합학원/티파티/미카/체육복/공식/official_mika_gym_alt.webp",
+      "note": "공식 일러(무기 없음)",
+      "source": "https://www.zerochan.net",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_mika_gym.jpg",
+      "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank00/fanart_mika_gym.jpg"
+    },
+    {
+      "category": "비공식/rank01",
+      "filename": "fanart_mika_gym_02.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank01/fanart_mika_gym_02.png"
+    }
+  ],
+  "image_count": 5,
+  "updated": "2026-08-27"
+}

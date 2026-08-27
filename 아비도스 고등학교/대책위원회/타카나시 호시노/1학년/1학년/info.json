@@ -1,0 +1,79 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "타카나시 호시노",
+      "en": "Takanashi Hoshino",
+      "ja": "小鳥遊ホシノ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos High School",
+      "ja": "アビドス高等学校"
+    },
+    "club": {
+      "kr": "아비도스 학생회",
+      "en": "Abydos Student Council",
+      "ja": "アビドス生徒会"
+    },
+    "seasonal": "1학년",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "유메 선배와 함께 아비도스를 지키던 과거 단발머리 1학년 시절의 호시노. 호전적이고 패기 넘치던 시기.",
+      "en": "Hoshino during her first year at Abydos appearing in Main Story Vol.1 Chapter 3.",
+      "ja": "対策委員会編3章に登場したアビドス1年生時代の制服ホシノ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "타카나시 호시노 (1학년)",
+        "1학년 호시노",
+        "1시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino_1st_year"
+      ],
+      "ja": [
+        "1年生ホシノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_hoshino_young_portrait.png",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/1학년/공식/official_hoshino_young_portrait.png",
+      "note": "1학년(회상) 인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_hoshino_young_icon.png",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/1학년/공식/official_hoshino_young_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_hoshino_1st_year.jpg",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/비공식/rank00/fanart_hoshino_1st_year.jpg"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

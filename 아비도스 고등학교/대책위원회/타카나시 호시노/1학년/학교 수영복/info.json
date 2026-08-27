@@ -1,0 +1,87 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "타카나시 호시노",
+      "en": "Takanashi Hoshino",
+      "ja": "小鳥遊ホシノ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos High School",
+      "ja": "アビドス高等学校"
+    },
+    "club": {
+      "kr": "아비도스 학생회",
+      "en": "Abydos Student Council",
+      "ja": "アビドス生徒会"
+    },
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "미들",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "아비도스 명찰과 호루라기가 달린 남색 학교 지정 수영복을 착용한 호시노(학수노).",
+      "en": "Hoshino wearing Abydos official school swimsuit appearing in Vol.1 Chapter 3.",
+      "ja": "メインストーリー対策委員会編3章に登場したアビドス指定スクール水着姿のホシノ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "타카나시 호시노 (학교 수영복)",
+        "학교 수영복 호시노",
+        "스쿠미즈 호시노",
+        "학수구 호시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino_school_swimsuit",
+        "sukumizu_hoshino"
+      ],
+      "ja": [
+        "スク水ホシノ",
+        "アビドス水着ホシノ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 1,
+    "unofficial_rank02": 0,
+    "total_images": 4
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_hoshino_young_swimsuit_portrait.png",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/학교 수영복/공식/official_hoshino_young_swimsuit_portrait.png",
+      "note": "학교 수영복 인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_hoshino_young_swimsuit_icon.png",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/학교 수영복/공식/official_hoshino_young_swimsuit_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_hoshino_school_swimsuit.jpg",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/학교 수영복/비공식/rank00/fanart_hoshino_school_swimsuit.jpg"
+    },
+    {
+      "category": "비공식/rank01",
+      "filename": "fanart_hoshino_school_swimsuit_02.jpg",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/학교 수영복/비공식/rank01/fanart_hoshino_school_swimsuit_02.jpg"
+    }
+  ],
+  "image_count": 4,
+  "updated": "2026-08-27"
+}

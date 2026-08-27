@@ -1,0 +1,81 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미소노 미카",
+      "en": "Misono Mika",
+      "ja": "聖園ミカ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "드레스",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "미들",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "트리니티 다과회 및 공식 연회에 어울리는 우아한 화이트 드레스와 양산을 든 미카(드미카).",
+      "en": "Mika in elegant white Trinity dress with a parasol.",
+      "ja": "トリニティのお茶会や公式パーティーに相応しいエレガントなドレス姿のミカ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미소노 미카 (드레스)",
+        "드레스 미카",
+        "드미카",
+        "미카 드레스",
+        "미카"
+      ],
+      "en": [
+        "mika_dress",
+        "dress_mika"
+      ],
+      "ja": [
+        "ドレスミカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 1,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mika_dress.webp",
+      "path": "트리니티 종합학원/티파티/미카/드레스/공식/official_mika_dress.webp",
+      "note": "공식 일러(총기 포함)",
+      "source": "https://www.zerochan.net",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mika_dress_noweapon.webp",
+      "path": "트리니티 종합학원/티파티/미카/드레스/공식/official_mika_dress_noweapon.webp",
+      "note": "공식 일러(무기 없음)",
+      "source": "https://www.zerochan.net",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_mika_dress.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/드레스/비공식/rank00/fanart_mika_dress.png"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

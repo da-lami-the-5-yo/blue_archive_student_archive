@@ -1107,12 +1107,28 @@
     },
     "images": [
       {
+        "category": "공식",
+        "filename": "official_hoshino_young_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/1학년/공식/official_hoshino_young_portrait.png",
+        "note": "1학년(회상) 인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hoshino_young_icon.png",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/1학년/공식/official_hoshino_young_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
         "category": "비공식/rank00",
         "filename": "fanart_hoshino_1st_year.jpg",
         "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/비공식/rank00/fanart_hoshino_1st_year.jpg"
       }
     ],
-    "image_count": 1
+    "image_count": 3
   },
   {
     "id": null,
@@ -1430,6 +1446,14 @@
     },
     "images": [
       {
+        "category": "공식",
+        "filename": "official_hoshino_gym_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/체육복/공식/official_hoshino_gym_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
         "category": "비공식/rank00",
         "filename": "fanart_hoshino_gym.jpg",
         "path": "아비도스 고등학교/대책위원회/타카나시 호시노/체육복/비공식/rank00/fanart_hoshino_gym.jpg"
@@ -1440,7 +1464,7 @@
         "path": "아비도스 고등학교/대책위원회/타카나시 호시노/체육복/비공식/rank01/fanart_hoshino_gym_02.jpg"
       }
     ],
-    "image_count": 2
+    "image_count": 3
   },
   {
     "id": null,
@@ -1487,6 +1511,22 @@
     },
     "images": [
       {
+        "category": "공식",
+        "filename": "official_hoshino_young_swimsuit_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/학교 수영복/공식/official_hoshino_young_swimsuit_portrait.png",
+        "note": "학교 수영복 인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hoshino_young_swimsuit_icon.png",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/1학년/학교 수영복/공식/official_hoshino_young_swimsuit_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
         "category": "비공식/rank00",
         "filename": "fanart_hoshino_school_swimsuit.jpg",
         "path": "아비도스 고등학교/대책위원회/타카나시 호시노/학교 수영복/비공식/rank00/fanart_hoshino_school_swimsuit.jpg"
@@ -1497,7 +1537,7 @@
         "path": "아비도스 고등학교/대책위원회/타카나시 호시노/학교 수영복/비공식/rank01/fanart_hoshino_school_swimsuit_02.jpg"
       }
     ],
-    "image_count": 2
+    "image_count": 4
   },
   {
     "id": 20016,
@@ -9434,12 +9474,28 @@
     },
     "images": [
       {
+        "category": "공식",
+        "filename": "official_mika_dress.webp",
+        "path": "트리니티 종합학원/티파티/미카/드레스/공식/official_mika_dress.webp",
+        "note": "공식 일러(총기 포함)",
+        "source": "https://www.zerochan.net",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mika_dress_noweapon.webp",
+        "path": "트리니티 종합학원/티파티/미카/드레스/공식/official_mika_dress_noweapon.webp",
+        "note": "공식 일러(무기 없음)",
+        "source": "https://www.zerochan.net",
+        "collected": "2026-08-27"
+      },
+      {
         "category": "비공식/rank00",
         "filename": "fanart_mika_dress.png",
         "path": "트리니티 종합학원/티파티/미소노 미카/드레스/비공식/rank00/fanart_mika_dress.png"
       }
     ],
-    "image_count": 1
+    "image_count": 3
   },
   {
     "id": null,
@@ -9485,6 +9541,14 @@
     },
     "images": [
       {
+        "category": "공식",
+        "filename": "official_mika_swimsuit.webp",
+        "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_mika_swimsuit.webp",
+        "note": "공식 일러(경영 수영복)",
+        "source": "https://www.zerochan.net",
+        "collected": "2026-08-27"
+      },
+      {
         "category": "비공식/rank00",
         "filename": "fanart_mika_swimsuit.png",
         "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank00/fanart_mika_swimsuit.png"
@@ -9495,7 +9559,7 @@
         "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank01/fanart_mika_swimsuit_02.png"
       }
     ],
-    "image_count": 2
+    "image_count": 3
   },
   {
     "id": null,
@@ -9541,6 +9605,30 @@
     },
     "images": [
       {
+        "category": "공식",
+        "filename": "official_mika_gym_portrait.png",
+        "path": "트리니티 종합학원/티파티/미카/체육복/공식/official_mika_gym_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mika_gym_icon.png",
+        "path": "트리니티 종합학원/티파티/미카/체육복/공식/official_mika_gym_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mika_gym_alt.webp",
+        "path": "트리니티 종합학원/티파티/미카/체육복/공식/official_mika_gym_alt.webp",
+        "note": "공식 일러(무기 없음)",
+        "source": "https://www.zerochan.net",
+        "collected": "2026-08-27"
+      },
+      {
         "category": "비공식/rank00",
         "filename": "fanart_mika_gym.jpg",
         "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank00/fanart_mika_gym.jpg"
@@ -9551,7 +9639,7 @@
         "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank01/fanart_mika_gym_02.png"
       }
     ],
-    "image_count": 2
+    "image_count": 5
   },
   {
     "id": 26003,
