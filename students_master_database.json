@@ -1326,17 +1326,19 @@
     "description_kr": "우시마키 주리의 아르바이트 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Part-Timer' of Ushimaki Juri, added via schaledb roster sync (2026-08).",
     "description_ja": "牛牧ジュリの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Juri ",
-      "Part-Timer",
-      "Ushimaki Juri",
-      "牛牧ジュリ",
-      "게헨나 학원",
-      "급양부",
-      "아르바이트",
-      "우시마키 주리",
-      "주리"
-    ],
+    "search_tags": {
+      "kr": [
+        "Juri ",
+        "Part-Timer",
+        "Ushimaki Juri",
+        "牛牧ジュリ",
+        "게헨나 학원",
+        "급양부",
+        "아르바이트",
+        "우시마키 주리",
+        "주리"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -2308,17 +2310,19 @@
     "description_kr": "시시도우 이즈미의 새해 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'New Year' of Shishidou Izumi, added via schaledb roster sync (2026-08).",
     "description_ja": "獅子堂イズミの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Izumi ",
-      "New Year",
-      "Shishidou Izumi",
-      "獅子堂イズミ",
-      "게헨나 학원",
-      "미식연구회",
-      "새해",
-      "시시도우 이즈미",
-      "이즈미"
-    ],
+    "search_tags": {
+      "kr": [
+        "Izumi ",
+        "New Year",
+        "Shishidou Izumi",
+        "獅子堂イズミ",
+        "게헨나 학원",
+        "미식연구회",
+        "새해",
+        "시시도우 이즈미",
+        "이즈미"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -4034,17 +4038,19 @@
     "description_kr": "히무로 세나의 사복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Casual' of Himuro Sena, added via schaledb roster sync (2026-08).",
     "description_ja": "氷室 セナの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Casual",
-      "Himuro Sena",
-      "Sena ",
-      "氷室 セナ",
-      "게헨나 학원",
-      "사복",
-      "세나",
-      "응급의학부",
-      "히무로 세나"
-    ],
+    "search_tags": {
+      "kr": [
+        "Casual",
+        "Himuro Sena",
+        "Sena ",
+        "氷室 セナ",
+        "게헨나 학원",
+        "사복",
+        "세나",
+        "응급의학부",
+        "히무로 세나"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -4286,7 +4292,7 @@
     "canonical_name_kr": "리쿠하치마 아루"
   },
   {
-    "id": 10000,
+    "id": null,
     "name_kr": "리쿠하치마 아루",
     "name_en": "Aru",
     "name_ja": "アル",
@@ -4448,17 +4454,19 @@
     "description_kr": "아사기 무츠키의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Dress' of Asagi Mutsuki, added via schaledb roster sync (2026-08).",
     "description_ja": "浅黄ムツキの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Asagi Mutsuki",
-      "Dress",
-      "Mutsuki ",
-      "浅黄ムツキ",
-      "게헨나 학원",
-      "드레스",
-      "무츠키",
-      "아사기 무츠키",
-      "흥신소 68"
-    ],
+    "search_tags": {
+      "kr": [
+        "Asagi Mutsuki",
+        "Dress",
+        "Mutsuki ",
+        "浅黄ムツキ",
+        "게헨나 학원",
+        "드레스",
+        "무츠키",
+        "아사기 무츠키",
+        "흥신소 68"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -4942,17 +4950,19 @@
     "description_kr": "이구사 하루카의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Dress' of Igusa Haruka, added via schaledb roster sync (2026-08).",
     "description_ja": "伊草ハルカの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Dress",
-      "Haruka ",
-      "Igusa Haruka",
-      "伊草ハルカ",
-      "게헨나 학원",
-      "드레스",
-      "이구사 하루카",
-      "하루카",
-      "흥신소 68"
-    ],
+    "search_tags": {
+      "kr": [
+        "Dress",
+        "Haruka ",
+        "Igusa Haruka",
+        "伊草ハルカ",
+        "게헨나 학원",
+        "드레스",
+        "이구사 하루카",
+        "하루카",
+        "흥신소 68"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -5235,17 +5245,19 @@
     "description_kr": "무로카사 아카네의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'School' of Murokasa Akane, added via schaledb roster sync (2026-08).",
     "description_ja": "室笠アカネの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Akane ",
-      "Cleaning&Clearing",
-      "Murokasa Akane",
-      "School",
-      "室笠アカネ",
-      "교복",
-      "무로카사 아카네",
-      "밀레니엄 사이언스 스쿨",
-      "아카네"
-    ],
+    "search_tags": {
+      "kr": [
+        "Akane ",
+        "Cleaning&Clearing",
+        "Murokasa Akane",
+        "School",
+        "室笠アカネ",
+        "교복",
+        "무로카사 아카네",
+        "밀레니엄 사이언스 스쿨",
+        "아카네"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -5427,17 +5439,19 @@
     "description_kr": "미카모 네루의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'School' of Mikamo Neru, added via schaledb roster sync (2026-08).",
     "description_ja": "美甘ネルの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Cleaning&Clearing",
-      "Mikamo Neru",
-      "Neru ",
-      "School",
-      "美甘ネル",
-      "교복",
-      "네루",
-      "미카모 네루",
-      "밀레니엄 사이언스 스쿨"
-    ],
+    "search_tags": {
+      "kr": [
+        "Cleaning&Clearing",
+        "Mikamo Neru",
+        "Neru ",
+        "School",
+        "美甘ネル",
+        "교복",
+        "네루",
+        "미카모 네루",
+        "밀레니엄 사이언스 스쿨"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -5741,17 +5755,19 @@
     "description_kr": "아스마 토키의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Armed' of Asuma Toki, added via schaledb roster sync (2026-08).",
     "description_ja": "飛鳥馬トキの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Armed",
-      "Asuma Toki",
-      "C&C",
-      "Toki ",
-      "飛鳥馬トキ",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "아스마 토키",
-      "토키"
-    ],
+    "search_tags": {
+      "kr": [
+        "Armed",
+        "Asuma Toki",
+        "C&C",
+        "Toki ",
+        "飛鳥馬トキ",
+        "무장",
+        "밀레니엄 사이언스 스쿨",
+        "아스마 토키",
+        "토키"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -5871,17 +5887,19 @@
     "description_kr": "이치노세 아스나의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'School' of Ichinose Asuna, added via schaledb roster sync (2026-08).",
     "description_ja": "一之瀬アスナの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Asuna ",
-      "Cleaning&Clearing",
-      "Ichinose Asuna",
-      "School",
-      "一之瀬アスナ",
-      "교복",
-      "밀레니엄 사이언스 스쿨",
-      "아스나",
-      "이치노세 아스나"
-    ],
+    "search_tags": {
+      "kr": [
+        "Asuna ",
+        "Cleaning&Clearing",
+        "Ichinose Asuna",
+        "School",
+        "一之瀬アスナ",
+        "교복",
+        "밀레니엄 사이언스 스쿨",
+        "아스나",
+        "이치노세 아스나"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -6063,17 +6081,19 @@
     "description_kr": "카쿠다테 카린의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'School' of Kakudate Karin, added via schaledb roster sync (2026-08).",
     "description_ja": "角楯カリンの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Cleaning&Clearing",
-      "Kakudate Karin",
-      "Karin ",
-      "School",
-      "角楯カリン",
-      "교복",
-      "밀레니엄 사이언스 스쿨",
-      "카린",
-      "카쿠다테 카린"
-    ],
+    "search_tags": {
+      "kr": [
+        "Cleaning&Clearing",
+        "Kakudate Karin",
+        "Karin ",
+        "School",
+        "角楯カリン",
+        "교복",
+        "밀레니엄 사이언스 스쿨",
+        "카린",
+        "카쿠다테 카린"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -6872,17 +6892,19 @@
     "description_kr": "텐도 아리스의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Armed' of Tendou Aris, added via schaledb roster sync (2026-08).",
     "description_ja": "天童アリスの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Aris ",
-      "Armed",
-      "Tendou Aris",
-      "天童アリス",
-      "게임개발부",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "아리스",
-      "텐도 아리스"
-    ],
+    "search_tags": {
+      "kr": [
+        "Aris ",
+        "Armed",
+        "Tendou Aris",
+        "天童アリス",
+        "게임개발부",
+        "무장",
+        "밀레니엄 사이언스 스쿨",
+        "아리스",
+        "텐도 아리스"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -6967,7 +6989,7 @@
     "canonical_name_kr": "텐도 아리스"
   },
   {
-    "id": 10015,
+    "id": null,
     "name_kr": "텐도 아리스",
     "name_en": "Aris",
     "name_ja": "アリス",
@@ -7194,17 +7216,19 @@
     "description_kr": "하나오카 유즈의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Armed' of Hanaoka Yuzu, added via schaledb roster sync (2026-08).",
     "description_ja": "花岡ユズの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Armed",
-      "Hanaoka Yuzu",
-      "Yuzu ",
-      "花岡ユズ",
-      "게임개발부",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "유즈",
-      "하나오카 유즈"
-    ],
+    "search_tags": {
+      "kr": [
+        "Armed",
+        "Hanaoka Yuzu",
+        "Yuzu ",
+        "花岡ユズ",
+        "게임개발부",
+        "무장",
+        "밀레니엄 사이언스 스쿨",
+        "유즈",
+        "하나오카 유즈"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -7924,17 +7948,19 @@
     "description_kr": "코누리 마키의 캠핑 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Camp' of Konuri Maki, added via schaledb roster sync (2026-08).",
     "description_ja": "小塗マキの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Camp",
-      "Konuri Maki",
-      "Maki ",
-      "小塗マキ",
-      "마키",
-      "밀레니엄 사이언스 스쿨",
-      "베리타스",
-      "캠핑",
-      "코누리 마키"
-    ],
+    "search_tags": {
+      "kr": [
+        "Camp",
+        "Konuri Maki",
+        "Maki ",
+        "小塗マキ",
+        "마키",
+        "밀레니엄 사이언스 스쿨",
+        "베리타스",
+        "캠핑",
+        "코누리 마키"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -8253,17 +8279,19 @@
     "description_kr": "츠카츠키 리오의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Armed' of Tsukatsuki Rio, added via schaledb roster sync (2026-08).",
     "description_ja": "調月リオの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Armed",
-      "Rio ",
-      "Tsukatsuki Rio",
-      "調月リオ",
-      "리오",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "세미나",
-      "츠카츠키 리오"
-    ],
+    "search_tags": {
+      "kr": [
+        "Armed",
+        "Rio ",
+        "Tsukatsuki Rio",
+        "調月リオ",
+        "리오",
+        "무장",
+        "밀레니엄 사이언스 스쿨",
+        "세미나",
+        "츠카츠키 리오"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -8627,7 +8655,7 @@
     "canonical_name_kr": "하야세 유우카"
   },
   {
-    "id": 13010,
+    "id": null,
     "name_kr": "하야세 유우카",
     "name_en": "Yuuka",
     "name_ja": "ユウカ",
@@ -8847,17 +8875,19 @@
     "description_kr": "하야세 유우카의 파자마 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Pajamas' of Hayase Yuuka, added via schaledb roster sync (2026-08).",
     "description_ja": "早瀬ユウカの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Hayase Yuuka",
-      "Pajamas",
-      "Yuuka ",
-      "早瀬ユウカ",
-      "밀레니엄 사이언스 스쿨",
-      "세미나",
-      "유우카",
-      "파자마",
-      "하야세 유우카"
-    ],
+    "search_tags": {
+      "kr": [
+        "Hayase Yuuka",
+        "Pajamas",
+        "Yuuka ",
+        "早瀬ユウカ",
+        "밀레니엄 사이언스 스쿨",
+        "세미나",
+        "유우카",
+        "파자마",
+        "하야세 유우카"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -9550,17 +9580,19 @@
     "description_kr": "아케보시 히마리의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Armed' of Akeboshi Himari, added via schaledb roster sync (2026-08).",
     "description_ja": "明星ヒマリの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Akeboshi Himari",
-      "Armed",
-      "Himari ",
-      "明星ヒマリ",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "아케보시 히마리",
-      "초현상특무부",
-      "히마리"
-    ],
+    "search_tags": {
+      "kr": [
+        "Akeboshi Himari",
+        "Armed",
+        "Himari ",
+        "明星ヒマリ",
+        "무장",
+        "밀레니엄 사이언스 스쿨",
+        "아케보시 히마리",
+        "초현상특무부",
+        "히마리"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -9677,17 +9709,19 @@
     "description_kr": "이즈미모토 에이미의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Armed' of Izumimoto Eimi, added via schaledb roster sync (2026-08).",
     "description_ja": "和泉元エイミの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Armed",
-      "Eimi ",
-      "Izumimoto Eimi",
-      "和泉元エイミ",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "에이미",
-      "이즈미모토 에이미",
-      "초현상특무부"
-    ],
+    "search_tags": {
+      "kr": [
+        "Armed",
+        "Eimi ",
+        "Izumimoto Eimi",
+        "和泉元エイミ",
+        "무장",
+        "밀레니엄 사이언스 스쿨",
+        "에이미",
+        "이즈미모토 에이미",
+        "초현상특무부"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -10199,17 +10233,19 @@
     "description_kr": "오토하나 스미레의 아르바이트 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Part-Timer' of Otohana Sumire, added via schaledb roster sync (2026-08).",
     "description_ja": "乙花スミレの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Otohana Sumire",
-      "Part-Timer",
-      "Sumire ",
-      "乙花スミレ",
-      "밀레니엄 사이언스 스쿨",
-      "스미레",
-      "아르바이트",
-      "오토하나 스미레",
-      "트레이닝부"
-    ],
+    "search_tags": {
+      "kr": [
+        "Otohana Sumire",
+        "Part-Timer",
+        "Sumire ",
+        "乙花スミレ",
+        "밀레니엄 사이언스 스쿨",
+        "스미레",
+        "아르바이트",
+        "오토하나 스미레",
+        "트레이닝부"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -11024,17 +11060,19 @@
     "description_kr": "아사히나 피나의 가이드 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Guide' of Asahina Pina, added via schaledb roster sync (2026-08).",
     "description_ja": "朝比奈フィーナの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Asahina Pina",
-      "Guide",
-      "Pina ",
-      "朝比奈フィーナ",
-      "가이드",
-      "마츠리운영관리부",
-      "백귀야행 연합학원",
-      "아사히나 피나",
-      "피나"
-    ],
+    "search_tags": {
+      "kr": [
+        "Asahina Pina",
+        "Guide",
+        "Pina ",
+        "朝比奈フィーナ",
+        "가이드",
+        "마츠리운영관리부",
+        "백귀야행 연합학원",
+        "아사히나 피나",
+        "피나"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -11812,17 +11850,19 @@
     "description_kr": "카데노코지 유카리의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Kadenokouji Yukari, added via schaledb roster sync (2026-08).",
     "description_ja": "勘解由小路ユカリの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Kadenokouji Yukari",
-      "Swimsuit",
-      "Yukari ",
-      "勘解由小路ユカリ",
-      "백귀야행 연합학원",
-      "백화요란",
-      "수영복",
-      "유카리",
-      "카데노코지 유카리"
-    ],
+    "search_tags": {
+      "kr": [
+        "Kadenokouji Yukari",
+        "Swimsuit",
+        "Yukari ",
+        "勘解由小路ユカリ",
+        "백귀야행 연합학원",
+        "백화요란",
+        "수영복",
+        "유카리",
+        "카데노코지 유카리"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -12071,17 +12111,19 @@
     "description_kr": "키류 키쿄의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Kiryuu Kikyou, added via schaledb roster sync (2026-08).",
     "description_ja": "桐生キキョウの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Kikyou ",
-      "Kiryuu Kikyou",
-      "Swimsuit",
-      "桐生キキョウ",
-      "백귀야행 연합학원",
-      "백화요란 분쟁조정위원회",
-      "수영복",
-      "키류 키쿄",
-      "키쿄"
-    ],
+    "search_tags": {
+      "kr": [
+        "Kikyou ",
+        "Kiryuu Kikyou",
+        "Swimsuit",
+        "桐生キキョウ",
+        "백귀야행 연합학원",
+        "백화요란 분쟁조정위원회",
+        "수영복",
+        "키류 키쿄",
+        "키쿄"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -12198,17 +12240,19 @@
     "description_kr": "후와 렌게의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Fuwa Renge, added via schaledb roster sync (2026-08).",
     "description_ja": "不破レンゲの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Fuwa Renge",
-      "Renge ",
-      "Swimsuit",
-      "不破レンゲ",
-      "렌게",
-      "백귀야행 연합학원",
-      "백화요란 분쟁조정위원회",
-      "수영복",
-      "후와 렌게"
-    ],
+    "search_tags": {
+      "kr": [
+        "Fuwa Renge",
+        "Renge ",
+        "Swimsuit",
+        "不破レンゲ",
+        "렌게",
+        "백귀야행 연합학원",
+        "백화요란 분쟁조정위원회",
+        "수영복",
+        "후와 렌게"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -13016,17 +13060,19 @@
     "description_kr": "오노 츠쿠요의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Dress' of Ono Tsukuyo, added via schaledb roster sync (2026-08).",
     "description_ja": "大野ツクヨの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Dress",
-      "Ono Tsukuyo",
-      "Tsukuyo ",
-      "大野ツクヨ",
-      "드레스",
-      "백귀야행 연합학원",
-      "오노 츠쿠요",
-      "인법연구부",
-      "츠쿠요"
-    ],
+    "search_tags": {
+      "kr": [
+        "Dress",
+        "Ono Tsukuyo",
+        "Tsukuyo ",
+        "大野ツクヨ",
+        "드레스",
+        "백귀야행 연합학원",
+        "오노 츠쿠요",
+        "인법연구부",
+        "츠쿠요"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -13143,17 +13189,19 @@
     "description_kr": "치도리 미치루의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Dress' of Chidori Michiru, added via schaledb roster sync (2026-08).",
     "description_ja": "千鳥ミチルの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Chidori Michiru",
-      "Dress",
-      "Michiru ",
-      "千鳥ミチル",
-      "드레스",
-      "미치루",
-      "백귀야행 연합학원",
-      "인법연구부",
-      "치도리 미치루"
-    ],
+    "search_tags": {
+      "kr": [
+        "Chidori Michiru",
+        "Dress",
+        "Michiru ",
+        "千鳥ミチル",
+        "드레스",
+        "미치루",
+        "백귀야행 연합학원",
+        "인법연구부",
+        "치도리 미치루"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -14121,17 +14169,19 @@
     "description_kr": "사시로 토모에의 치파오 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Qipao' of Sashiro Tomoe, added via schaledb roster sync (2026-08).",
     "description_ja": "佐城トモエの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Qipao",
-      "Sashiro Tomoe",
-      "Tomoe ",
-      "佐城トモエ",
-      "붉은겨울 사무국",
-      "붉은겨울 연방학원",
-      "사시로 토모에",
-      "치파오",
-      "토모에"
-    ],
+    "search_tags": {
+      "kr": [
+        "Qipao",
+        "Sashiro Tomoe",
+        "Tomoe ",
+        "佐城トモエ",
+        "붉은겨울 사무국",
+        "붉은겨울 연방학원",
+        "사시로 토모에",
+        "치파오",
+        "토모에"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -14248,17 +14298,19 @@
     "description_kr": "이케쿠라 마리나의 치파오 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Qipao' of Ikekura Marina, added via schaledb roster sync (2026-08).",
     "description_ja": "池倉マリナの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Ikekura Marina",
-      "Marina ",
-      "Qipao",
-      "池倉マリナ",
-      "마리나",
-      "붉은겨울 사무국",
-      "붉은겨울 연방학원",
-      "이케쿠라 마리나",
-      "치파오"
-    ],
+    "search_tags": {
+      "kr": [
+        "Ikekura Marina",
+        "Marina ",
+        "Qipao",
+        "池倉マリナ",
+        "마리나",
+        "붉은겨울 사무국",
+        "붉은겨울 연방학원",
+        "이케쿠라 마리나",
+        "치파오"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -14913,16 +14965,18 @@
     "description_kr": "슈에링의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Shunling, added via schaledb roster sync (2026-08).",
     "description_ja": "シュエリンの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Shun ",
-      "Shunling",
-      "Swimsuit",
-      "シュエリン",
-      "매화원",
-      "산해경 고급중학교",
-      "수영복",
-      "슈에링"
-    ],
+    "search_tags": {
+      "kr": [
+        "Shun ",
+        "Shunling",
+        "Swimsuit",
+        "シュエリン",
+        "매화원",
+        "산해경 고급중학교",
+        "수영복",
+        "슈에링"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -15039,17 +15093,19 @@
     "description_kr": "스노하라 슌의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Sunohara Shun, added via schaledb roster sync (2026-08).",
     "description_ja": "春原シュンの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Shun ",
-      "Sunohara Shun",
-      "Swimsuit",
-      "春原シュン",
-      "매화원",
-      "산해경 고급중학교",
-      "수영복",
-      "슌",
-      "스노하라 슌"
-    ],
+    "search_tags": {
+      "kr": [
+        "Shun ",
+        "Sunohara Shun",
+        "Swimsuit",
+        "春原シュン",
+        "매화원",
+        "산해경 고급중학교",
+        "수영복",
+        "슌",
+        "스노하라 슌"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -16220,16 +16276,18 @@
     "description_kr": "카야마 레이죠의 기본 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant '기본' of Kayama Reijo, added via schaledb roster sync (2026-08).",
     "description_ja": "鹿山レイジョの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Kayama Reijo",
-      "Reijo",
-      "鹿山レイジョ",
-      "기본",
-      "레이죠",
-      "산해경 고급중학교",
-      "카야마 레이죠",
-      "현무상회"
-    ],
+    "search_tags": {
+      "kr": [
+        "Kayama Reijo",
+        "Reijo",
+        "鹿山レイジョ",
+        "기본",
+        "레이죠",
+        "산해경 고급중학교",
+        "카야마 레이죠",
+        "현무상회"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -16537,17 +16595,19 @@
     "description_kr": "이마시노 미사키의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Imashino Misaki, added via schaledb roster sync (2026-08).",
     "description_ja": "戒野ミサキの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Imashino Misaki",
-      "Misaki ",
-      "Swimsuit",
-      "戒野ミサキ",
-      "미사키",
-      "수영복",
-      "아리우스 분교",
-      "아리우스 스쿼드",
-      "이마시노 미사키"
-    ],
+    "search_tags": {
+      "kr": [
+        "Imashino Misaki",
+        "Misaki ",
+        "Swimsuit",
+        "戒野ミサキ",
+        "미사키",
+        "수영복",
+        "아리우스 분교",
+        "아리우스 스쿼드",
+        "이마시노 미사키"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -16664,17 +16724,19 @@
     "description_kr": "조마에 사오리의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Dress' of Joumae Saori, added via schaledb roster sync (2026-08).",
     "description_ja": "錠前サオリの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Dress",
-      "Joumae Saori",
-      "Saori ",
-      "錠前サオリ",
-      "드레스",
-      "사오리",
-      "아리우스 분교",
-      "아리우스 스쿼드",
-      "조마에 사오리"
-    ],
+    "search_tags": {
+      "kr": [
+        "Dress",
+        "Joumae Saori",
+        "Saori ",
+        "錠前サオリ",
+        "드레스",
+        "사오리",
+        "아리우스 분교",
+        "아리우스 스쿼드",
+        "조마에 사오리"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -17893,7 +17955,7 @@
     "canonical_name_kr": "이자요이 노노미"
   },
   {
-    "id": 13004,
+    "id": null,
     "name_kr": "이자요이 노노미",
     "name_en": "Nonomi",
     "name_ja": "ノノミ",
@@ -22119,7 +22181,7 @@
     "canonical_name_kr": "아오모리 미네"
   },
   {
-    "id": 10058,
+    "id": null,
     "name_kr": "아오모리 미네",
     "name_en": "Mine",
     "name_ja": "ミネ",
@@ -22565,17 +22627,19 @@
     "description_kr": "유토리 나츠의 밴드 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Band' of Yutori Natsu, added via schaledb roster sync (2026-08).",
     "description_ja": "柚鳥ナツの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Band",
-      "Natsu ",
-      "Yutori Natsu",
-      "柚鳥ナツ",
-      "나츠",
-      "방과후 디저트부",
-      "밴드",
-      "유토리 나츠",
-      "트리니티 종합학원"
-    ],
+    "search_tags": {
+      "kr": [
+        "Band",
+        "Natsu ",
+        "Yutori Natsu",
+        "柚鳥ナツ",
+        "나츠",
+        "방과후 디저트부",
+        "밴드",
+        "유토리 나츠",
+        "트리니티 종합학원"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -23572,7 +23636,7 @@
     "canonical_name_kr": "아지타니 히후미"
   },
   {
-    "id": 10003,
+    "id": null,
     "name_kr": "아지타니 히후미",
     "name_en": "Hifumi",
     "name_ja": "ヒフミ",
@@ -24018,7 +24082,7 @@
     "canonical_name_kr": "우타즈미 사쿠라코"
   },
   {
-    "id": 10061,
+    "id": null,
     "name_kr": "우타즈미 사쿠라코",
     "name_en": "Sakurako",
     "name_ja": "サクラコ",
@@ -24154,7 +24218,7 @@
     "canonical_name_kr": "이오치 마리"
   },
   {
-    "id": 23008,
+    "id": null,
     "name_kr": "이오치 마리",
     "name_en": "Mari",
     "name_ja": "マリー",
@@ -24380,17 +24444,19 @@
     "description_kr": "나카마사 이치카의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Nakamasa Ichika, added via schaledb roster sync (2026-08).",
     "description_ja": "仲正イチカの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Ichika ",
-      "Nakamasa Ichika",
-      "Swimsuit",
-      "仲正イチカ",
-      "나카마사 이치카",
-      "수영복",
-      "이치카",
-      "정의실현부",
-      "트리니티 종합학원"
-    ],
+    "search_tags": {
+      "kr": [
+        "Ichika ",
+        "Nakamasa Ichika",
+        "Swimsuit",
+        "仲正イチカ",
+        "나카마사 이치카",
+        "수영복",
+        "이치카",
+        "정의실현부",
+        "트리니티 종합학원"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -24883,17 +24949,19 @@
     "description_kr": "하네카와 하스미의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Hanekawa Hasumi, added via schaledb roster sync (2026-08).",
     "description_ja": "羽川ハスミの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Hanekawa Hasumi",
-      "Hasumi ",
-      "Swimsuit",
-      "羽川ハスミ",
-      "수영복",
-      "정의실현부",
-      "트리니티 종합학원",
-      "하네카와 하스미",
-      "하스미"
-    ],
+    "search_tags": {
+      "kr": [
+        "Hanekawa Hasumi",
+        "Hasumi ",
+        "Swimsuit",
+        "羽川ハスミ",
+        "수영복",
+        "정의실현부",
+        "트리니티 종합학원",
+        "하네카와 하스미",
+        "하스미"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -25075,17 +25143,19 @@
     "description_kr": "모리즈키 스즈미의 매지컬 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Magical' of Morizuki Suzumi, added via schaledb roster sync (2026-08).",
     "description_ja": "守月スズミの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Magical",
-      "Morizuki Suzumi",
-      "Suzumi ",
-      "守月スズミ",
-      "매지컬",
-      "모리즈키 스즈미",
-      "스즈미",
-      "트리니티 자경단",
-      "트리니티 종합학원"
-    ],
+    "search_tags": {
+      "kr": [
+        "Magical",
+        "Morizuki Suzumi",
+        "Suzumi ",
+        "守月スズミ",
+        "매지컬",
+        "모리즈키 스즈미",
+        "스즈미",
+        "트리니티 자경단",
+        "트리니티 종합학원"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -25202,17 +25272,19 @@
     "description_kr": "우자와 레이사의 매지컬 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Magical' of Uzawa Reisa, added via schaledb roster sync (2026-08).",
     "description_ja": "宇沢レイサの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Magical",
-      "Reisa ",
-      "Uzawa Reisa",
-      "宇沢レイサ",
-      "레이사",
-      "매지컬",
-      "우자와 레이사",
-      "트리니티 자경단",
-      "트리니티 종합학원"
-    ],
+    "search_tags": {
+      "kr": [
+        "Magical",
+        "Reisa ",
+        "Uzawa Reisa",
+        "宇沢レイサ",
+        "레이사",
+        "매지컬",
+        "우자와 레이사",
+        "트리니티 자경단",
+        "트리니티 종합학원"
+      ]
+    },
     "images": [
       {
         "category": "공식",
@@ -25802,17 +25874,19 @@
     "description_kr": "키리후지 나기사의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
     "description_en": "Released variant 'Swimsuit' of Kirifuji Nagisa, added via schaledb roster sync (2026-08).",
     "description_ja": "桐藤ナギサの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Kirifuji Nagisa",
-      "Nagisa ",
-      "Swimsuit",
-      "桐藤ナギサ",
-      "나기사",
-      "수영복",
-      "키리후지 나기사",
-      "트리니티 종합학원",
-      "티파티"
-    ],
+    "search_tags": {
+      "kr": [
+        "Kirifuji Nagisa",
+        "Nagisa ",
+        "Swimsuit",
+        "桐藤ナギサ",
+        "나기사",
+        "수영복",
+        "키리후지 나기사",
+        "트리니티 종합학원",
+        "티파티"
+      ]
+    },
     "images": [
       {
         "category": "공식",
