@@ -819,7 +819,7 @@ const statusOrder = ['출시', '출시(일본 서버)', '미출시 학생', '미
 const orderedStatuses = [...statusOrder.filter(st => statusCounts[st]), ...Object.keys(statusCounts).filter(st => !statusOrder.includes(st))];
 
 document.getElementById('statsBar').innerHTML =
-  `<div class="stat-pill" style="opacity:.6">빌드 0827-1347 KST</div>` +
+  `<div class="stat-pill" style="opacity:.6">빌드 0827-1422 KST</div>` +
   `<div class="stat-pill">전체 엔트리: ${STUDENTS.length}건</div>` +
   orderedStatuses.map(st => `<div class="stat-pill">${st === '출시' ? '정식 출시' : st}: ${statusCounts[st]}건</div>`).join('');
 
