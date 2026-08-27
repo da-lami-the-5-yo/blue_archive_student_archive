@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "현룡문 부원 (모브)",
+      "en": "Xuanlong Office Member",
+      "ja": null
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현룡문",
+      "en": "Xuanlong Office",
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "현룡문 소속의 이름 없는 배경(모브) 학생.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현룡문/현룡문 부원 (모브)/기본/공식/official_xuanlong_office_member_portrait.png",
+      "filename": "official_xuanlong_office_member_portrait.png",
+      "source": "fandom Xuanlong_Office_Member_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현룡문/현룡문 부원 (모브)/기본/공식/official_xuanlong_office_member_icon.png",
+      "filename": "official_xuanlong_office_member_icon.png",
+      "source": "fandom Xuanlong_Office_Member_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

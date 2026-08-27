@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유스티나 성도회 부원 (모브)",
+      "en": "Justina Member",
+      "ja": null
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "유스티나 성도회",
+      "en": "Justina Council of Saints",
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "유스티나 성도회 소속의 이름 없는 배경(모브) 학생.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/유스티나 성도회/유스티나 성도회 부원 (모브)/기본/공식/official_justina_member_portrait.png",
+      "filename": "official_justina_member_portrait.png",
+      "source": "fandom Justina_Member_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/유스티나 성도회/유스티나 성도회 부원 (모브)/기본/공식/official_justina_member_icon.png",
+      "filename": "official_justina_member_icon.png",
+      "source": "fandom Justina_Member_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

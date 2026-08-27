@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "현무상회 부원 (모브)",
+      "en": "Xuanwu Merchant Association Member",
+      "ja": null
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현무상회",
+      "en": "Xuanwu Merchant Association",
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "현무상회 소속의 이름 없는 배경(모브) 학생.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현무상회/현무상회 부원 (모브)/기본/공식/official_xuanwu_merchant_association_member_portrait.png",
+      "filename": "official_xuanwu_merchant_association_member_portrait.png",
+      "source": "fandom Xuanwu_Merchant_Association_Member_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현무상회/현무상회 부원 (모브)/기본/공식/official_xuanwu_merchant_association_member_icon.png",
+      "filename": "official_xuanwu_merchant_association_member_icon.png",
+      "source": "fandom Xuanwu_Merchant_Association_Member_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

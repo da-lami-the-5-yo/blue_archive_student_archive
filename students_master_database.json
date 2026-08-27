@@ -1811,6 +1811,53 @@
     "canonical_name_kr": "뇌제"
   },
   {
+    "id": 26021,
+    "name_kr": "만마전 부원 (모브)",
+    "canonical_name_kr": "만마전 부원 (모브)",
+    "name_en": "Pandemonium Society Member",
+    "name_ja": null,
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "만마전 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/만마전 부원 (모브)/기본/공식/official_pandemonium_society_member_portrait.png",
+        "filename": "official_pandemonium_society_member_portrait.png",
+        "source": "fandom Pandemonium_Society_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/만마전 부원 (모브)/기본/공식/official_pandemonium_society_member_icon.png",
+        "filename": "official_pandemonium_society_member_icon.png",
+        "source": "fandom Pandemonium_Society_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "만마전",
+        "모브",
+        "모브 학생",
+        "만마전 모브"
+      ],
+      "en": [
+        "pandemonium society",
+        "mob"
+      ]
+    }
+  },
+  {
     "id": null,
     "family_name_kr": "모토미야",
     "personal_name_kr": "치아키",
@@ -3542,6 +3589,53 @@
     "personal_name_kr": "키라라",
     "family_name_kr": "요자쿠라",
     "canonical_name_kr": "요자쿠라 키라라"
+  },
+  {
+    "id": 26020,
+    "name_kr": "선도부 부원 (모브)",
+    "canonical_name_kr": "선도부 부원 (모브)",
+    "name_en": "Disciplinary Committee Member",
+    "name_ja": null,
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "선도부",
+    "club_en": "Disciplinary Committee",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "선도부 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/선도부/선도부 부원 (모브)/기본/공식/official_disciplinary_committee_member_portrait.png",
+        "filename": "official_disciplinary_committee_member_portrait.png",
+        "source": "fandom Disciplinary_Committee_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/선도부/선도부 부원 (모브)/기본/공식/official_disciplinary_committee_member_icon.png",
+        "filename": "official_disciplinary_committee_member_icon.png",
+        "source": "fandom Disciplinary_Committee_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "선도부",
+        "모브",
+        "모브 학생",
+        "선도부 모브"
+      ],
+      "en": [
+        "disciplinary committee",
+        "mob"
+      ]
+    }
   },
   {
     "id": 10004,
@@ -16480,6 +16574,100 @@
     "canonical_name_kr": "사텐 루이코"
   },
   {
+    "id": 26031,
+    "name_kr": "경극부 학생 (모브) 1",
+    "canonical_name_kr": "경극부 학생 (모브) 1",
+    "name_en": "Peking Opera Club Student 1",
+    "name_ja": null,
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "경극부",
+    "club_en": "Peking Opera Club",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "경극부 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/경극부/경극부 학생 (모브) 1/기본/공식/official_peking_opera_club_student_1_portrait.png",
+        "filename": "official_peking_opera_club_student_1_portrait.png",
+        "source": "fandom Peking_Opera_Club_Student_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/경극부/경극부 학생 (모브) 1/기본/공식/official_peking_opera_club_student_1_icon.png",
+        "filename": "official_peking_opera_club_student_1_icon.png",
+        "source": "fandom Peking_Opera_Club_Student_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "경극부",
+        "모브",
+        "모브 학생",
+        "경극부 모브"
+      ],
+      "en": [
+        "peking opera club",
+        "mob"
+      ]
+    }
+  },
+  {
+    "id": 26032,
+    "name_kr": "경극부 학생 (모브) 2",
+    "canonical_name_kr": "경극부 학생 (모브) 2",
+    "name_en": "Peking Opera Club Student 2",
+    "name_ja": null,
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "경극부",
+    "club_en": "Peking Opera Club",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "경극부 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/경극부/경극부 학생 (모브) 2/기본/공식/official_peking_opera_club_student_2_portrait.png",
+        "filename": "official_peking_opera_club_student_2_portrait.png",
+        "source": "fandom Peking_Opera_Club_Student_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/경극부/경극부 학생 (모브) 2/기본/공식/official_peking_opera_club_student_2_icon.png",
+        "filename": "official_peking_opera_club_student_2_icon.png",
+        "source": "fandom Peking_Opera_Club_Student_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "경극부",
+        "모브",
+        "모브 학생",
+        "경극부 모브"
+      ],
+      "en": [
+        "peking opera club",
+        "mob"
+      ]
+    }
+  },
+  {
     "id": null,
     "name_kr": "우루시바라 카구야",
     "name_en": "Urushibara Kaguya",
@@ -17909,6 +18097,53 @@
     "id": 26017
   },
   {
+    "id": 26033,
+    "name_kr": "현룡문 부원 (모브)",
+    "canonical_name_kr": "현룡문 부원 (모브)",
+    "name_en": "Xuanlong Office Member",
+    "name_ja": null,
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Xuanlong Office",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "현룡문 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/현룡문 부원 (모브)/기본/공식/official_xuanlong_office_member_portrait.png",
+        "filename": "official_xuanlong_office_member_portrait.png",
+        "source": "fandom Xuanlong_Office_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/현룡문 부원 (모브)/기본/공식/official_xuanlong_office_member_icon.png",
+        "filename": "official_xuanlong_office_member_icon.png",
+        "source": "fandom Xuanlong_Office_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "현룡문",
+        "모브",
+        "모브 학생",
+        "현룡문 모브"
+      ],
+      "en": [
+        "xuanlong office",
+        "mob"
+      ]
+    }
+  },
+  {
     "id": 10069,
     "name_kr": "아케시로 루미",
     "name_en": "Rumi",
@@ -18162,6 +18397,53 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "id": 26034,
+    "name_kr": "현무상회 부원 (모브)",
+    "canonical_name_kr": "현무상회 부원 (모브)",
+    "name_en": "Xuanwu Merchant Association Member",
+    "name_ja": null,
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현무상회",
+    "club_en": "Xuanwu Merchant Association",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "현무상회 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현무상회/현무상회 부원 (모브)/기본/공식/official_xuanwu_merchant_association_member_portrait.png",
+        "filename": "official_xuanwu_merchant_association_member_portrait.png",
+        "source": "fandom Xuanwu_Merchant_Association_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현무상회/현무상회 부원 (모브)/기본/공식/official_xuanwu_merchant_association_member_icon.png",
+        "filename": "official_xuanwu_merchant_association_member_icon.png",
+        "source": "fandom Xuanwu_Merchant_Association_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "현무상회",
+        "모브",
+        "모브 학생",
+        "현무상회 모브"
+      ],
+      "en": [
+        "xuanwu merchant association",
+        "mob"
+      ]
+    }
   },
   {
     "id": null,
@@ -23800,6 +24082,100 @@
     "canonical_name_kr": "나나가미 린"
   },
   {
+    "id": 26022,
+    "name_kr": "총학생회 부원 (모브) 1",
+    "canonical_name_kr": "총학생회 부원 (모브) 1",
+    "name_en": "GSC Member 1",
+    "name_ja": null,
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "통괄실",
+    "club_en": "General Student Council",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "통괄실 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/총학생회 부원 (모브) 1/기본/공식/official_gsc_member_1_portrait.png",
+        "filename": "official_gsc_member_1_portrait.png",
+        "source": "fandom GSC_Member_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/총학생회 부원 (모브) 1/기본/공식/official_gsc_member_1_icon.png",
+        "filename": "official_gsc_member_1_icon.png",
+        "source": "fandom GSC_Member_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "통괄실",
+        "모브",
+        "모브 학생",
+        "통괄실 모브"
+      ],
+      "en": [
+        "general student council",
+        "mob"
+      ]
+    }
+  },
+  {
+    "id": 26023,
+    "name_kr": "총학생회 부원 (모브) 2",
+    "canonical_name_kr": "총학생회 부원 (모브) 2",
+    "name_en": "GSC Member 2",
+    "name_ja": null,
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "통괄실",
+    "club_en": "General Student Council",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "통괄실 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/총학생회 부원 (모브) 2/기본/공식/official_gsc_member_2_portrait.png",
+        "filename": "official_gsc_member_2_portrait.png",
+        "source": "fandom GSC_Member_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/총학생회 부원 (모브) 2/기본/공식/official_gsc_member_2_icon.png",
+        "filename": "official_gsc_member_2_icon.png",
+        "source": "fandom GSC_Member_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "통괄실",
+        "모브",
+        "모브 학생",
+        "통괄실 모브"
+      ],
+      "en": [
+        "general student council",
+        "mob"
+      ]
+    }
+  },
+  {
     "id": null,
     "name_kr": "스모모",
     "name_en": "Sumomo",
@@ -24213,6 +24589,53 @@
     "personal_name_kr": "미사키",
     "family_name_kr": "쇼쿠호",
     "canonical_name_kr": "쇼쿠호 미사키"
+  },
+  {
+    "id": 26024,
+    "name_kr": "구급의학부 부원 (모브)",
+    "canonical_name_kr": "구급의학부 부원 (모브)",
+    "name_en": "Emergency Medicine Club Member",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "구급의학부",
+    "club_en": "Emergency Medicine Club",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "구급의학부 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/구급의학부/구급의학부 부원 (모브)/기본/공식/official_emergency_medicine_club_member_portrait.png",
+        "filename": "official_emergency_medicine_club_member_portrait.png",
+        "source": "fandom Emergency_Medicine_Club_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/구급의학부/구급의학부 부원 (모브)/기본/공식/official_emergency_medicine_club_member_icon.png",
+        "filename": "official_emergency_medicine_club_member_icon.png",
+        "source": "fandom Emergency_Medicine_Club_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "구급의학부",
+        "모브",
+        "모브 학생",
+        "구급의학부 모브"
+      ],
+      "en": [
+        "emergency medicine club",
+        "mob"
+      ]
+    }
   },
   {
     "id": null,
@@ -26871,6 +27294,53 @@
     "canonical_name_kr": "우라와 하나코"
   },
   {
+    "id": 26028,
+    "name_kr": "시스터후드 부원 (모브)",
+    "canonical_name_kr": "시스터후드 부원 (모브)",
+    "name_en": "Sisterhood Member",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "시스터후드",
+    "club_en": "Sisterhood",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "시스터후드 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/시스터후드/시스터후드 부원 (모브)/기본/공식/official_sisterhood_member_portrait.png",
+        "filename": "official_sisterhood_member_portrait.png",
+        "source": "fandom Sisterhood_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/시스터후드/시스터후드 부원 (모브)/기본/공식/official_sisterhood_member_icon.png",
+        "filename": "official_sisterhood_member_icon.png",
+        "source": "fandom Sisterhood_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "시스터후드",
+        "모브",
+        "모브 학생",
+        "시스터후드 모브"
+      ],
+      "en": [
+        "sisterhood",
+        "mob"
+      ]
+    }
+  },
+  {
     "id": 10036,
     "name_kr": "와카바 히나타",
     "name_en": "Hinata",
@@ -27381,6 +27851,100 @@
     "id": 26018
   },
   {
+    "id": 26026,
+    "name_kr": "유스티나 성도회 부원 (모브)",
+    "canonical_name_kr": "유스티나 성도회 부원 (모브)",
+    "name_en": "Justina Member",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "유스티나 성도회",
+    "club_en": "Justina Council of Saints",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "유스티나 성도회 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/유스티나 성도회/유스티나 성도회 부원 (모브)/기본/공식/official_justina_member_portrait.png",
+        "filename": "official_justina_member_portrait.png",
+        "source": "fandom Justina_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/유스티나 성도회/유스티나 성도회 부원 (모브)/기본/공식/official_justina_member_icon.png",
+        "filename": "official_justina_member_icon.png",
+        "source": "fandom Justina_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "유스티나 성도회",
+        "모브",
+        "모브 학생",
+        "유스티나 성도회 모브"
+      ],
+      "en": [
+        "justina council of saints",
+        "mob"
+      ]
+    }
+  },
+  {
+    "id": 26027,
+    "name_kr": "유스티나 성도회 부원 (모브)",
+    "canonical_name_kr": "유스티나 성도회 부원 (모브)",
+    "name_en": "Justina Member Swimsuit",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "유스티나 성도회",
+    "club_en": "Justina Council of Saints",
+    "club_ja": null,
+    "seasonal": "수영복",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "유스티나 성도회 소속의 이름 없는 배경(모브) 학생. 수영복 차림.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/유스티나 성도회/유스티나 성도회 부원 (모브)/수영복/공식/official_justina_member_swimsuit_portrait.png",
+        "filename": "official_justina_member_swimsuit_portrait.png",
+        "source": "fandom Justina_Member_Swimsuit_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/유스티나 성도회/유스티나 성도회 부원 (모브)/수영복/공식/official_justina_member_swimsuit_icon.png",
+        "filename": "official_justina_member_swimsuit_icon.png",
+        "source": "fandom Justina_Member_Swimsuit_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "유스티나 성도회",
+        "모브",
+        "모브 학생",
+        "유스티나 성도회 모브"
+      ],
+      "en": [
+        "justina council of saints",
+        "mob"
+      ]
+    }
+  },
+  {
     "id": 10077,
     "name_kr": "나카마사 이치카",
     "name_en": "Ichika",
@@ -27752,6 +28316,53 @@
     "personal_name_kr": "마시로",
     "family_name_kr": "시즈야마",
     "canonical_name_kr": "시즈야마 마시로"
+  },
+  {
+    "id": 26025,
+    "name_kr": "정의실현부 부원 (모브)",
+    "canonical_name_kr": "정의실현부 부원 (모브)",
+    "name_en": "Justice Task Force Member",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "정의실현부 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/정의실현부/정의실현부 부원 (모브)/기본/공식/official_justice_task_force_member_portrait.png",
+        "filename": "official_justice_task_force_member_portrait.png",
+        "source": "fandom Justice_Task_Force_Member_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/정의실현부/정의실현부 부원 (모브)/기본/공식/official_justice_task_force_member_icon.png",
+        "filename": "official_justice_task_force_member_icon.png",
+        "source": "fandom Justice_Task_Force_Member_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "정의실현부",
+        "모브",
+        "모브 학생",
+        "정의실현부 모브"
+      ],
+      "en": [
+        "justice task force",
+        "mob"
+      ]
+    }
   },
   {
     "id": 10013,
@@ -29061,6 +29672,100 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "id": 26029,
+    "name_kr": "티파티 부원 (모브) 1",
+    "canonical_name_kr": "티파티 부원 (모브) 1",
+    "name_en": "Tea Party Member 1",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "티파티 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/티파티 부원 (모브) 1/기본/공식/official_tea_party_member_1_portrait.png",
+        "filename": "official_tea_party_member_1_portrait.png",
+        "source": "fandom Tea_Party_Member_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/티파티 부원 (모브) 1/기본/공식/official_tea_party_member_1_icon.png",
+        "filename": "official_tea_party_member_1_icon.png",
+        "source": "fandom Tea_Party_Member_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "티파티",
+        "모브",
+        "모브 학생",
+        "티파티 모브"
+      ],
+      "en": [
+        "tea party",
+        "mob"
+      ]
+    }
+  },
+  {
+    "id": 26030,
+    "name_kr": "티파티 부원 (모브) 2",
+    "canonical_name_kr": "티파티 부원 (모브) 2",
+    "name_en": "Tea Party Member 2",
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "티파티 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/티파티 부원 (모브) 2/기본/공식/official_tea_party_member_2_portrait.png",
+        "filename": "official_tea_party_member_2_portrait.png",
+        "source": "fandom Tea_Party_Member_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/티파티 부원 (모브) 2/기본/공식/official_tea_party_member_2_icon.png",
+        "filename": "official_tea_party_member_2_icon.png",
+        "source": "fandom Tea_Party_Member_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "티파티",
+        "모브",
+        "모브 학생",
+        "티파티 모브"
+      ],
+      "en": [
+        "tea party",
+        "mob"
+      ]
+    }
   },
   {
     "id": null,

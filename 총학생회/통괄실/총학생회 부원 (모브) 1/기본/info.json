@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "총학생회 부원 (모브) 1",
+      "en": "GSC Member 1",
+      "ja": null
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "통괄실",
+      "en": "General Student Council",
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "통괄실 소속의 이름 없는 배경(모브) 학생.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "총학생회/통괄실/총학생회 부원 (모브) 1/기본/공식/official_gsc_member_1_portrait.png",
+      "filename": "official_gsc_member_1_portrait.png",
+      "source": "fandom GSC_Member_1_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "총학생회/통괄실/총학생회 부원 (모브) 1/기본/공식/official_gsc_member_1_icon.png",
+      "filename": "official_gsc_member_1_icon.png",
+      "source": "fandom GSC_Member_1_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}
