@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카제쿠라 모에",
+      "en": "Moe",
+      "ja": "モエ"
+    },
+    "school": {
+      "kr": "SRT 특수학원",
+      "en": "SRT",
+      "ja": "SRT"
+    },
+    "club": {
+      "kr": "RABBIT 소대",
+      "en": "RABBIT Squad",
+      "ja": "RABBIT小隊"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "카제쿠라 모에의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Moe, sourced from in-game assets.",
+      "ja": "モエの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_moe_gym_portrait.png",
+      "path": "SRT 특수학원/RABBIT 소대/모에/체육복/공식/official_moe_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Moe_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

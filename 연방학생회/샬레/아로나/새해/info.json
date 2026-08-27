@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아로나",
+      "en": "Arona",
+      "ja": "アロナ"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "샬레",
+      "en": "Schale",
+      "ja": "シャーレ"
+    },
+    "seasonal": "새해",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "아로나의 새해 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'New Year' variant of Arona, sourced from in-game assets.",
+      "ja": "アロナの正月バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_arona_new_year_portrait.png",
+      "path": "연방학생회/샬레/아로나/새해/공식/official_arona_new_year_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Arona_New_Year_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

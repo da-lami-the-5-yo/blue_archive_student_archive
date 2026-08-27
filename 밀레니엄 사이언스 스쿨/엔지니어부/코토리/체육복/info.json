@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "토요미 코토리",
+      "en": "Kotori",
+      "ja": "コトリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineering Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "토요미 코토리의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Kotori, sourced from in-game assets.",
+      "ja": "コトリの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_kotori_gym_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/체육복/공식/official_kotori_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kotori_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

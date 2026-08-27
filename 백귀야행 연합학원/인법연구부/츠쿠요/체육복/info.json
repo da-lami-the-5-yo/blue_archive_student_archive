@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "오노 츠쿠요",
+      "en": "Tsukuyo",
+      "ja": "ツクヨ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "인법연구부",
+      "en": "Ninjutsu Research Club",
+      "ja": "忍術研究部"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "오노 츠쿠요의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Tsukuyo, sourced from in-game assets.",
+      "ja": "ツクヨの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_tsukuyo_gym_portrait.png",
+      "path": "백귀야행 연합학원/인법연구부/츠쿠요/체육복/공식/official_tsukuyo_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Tsukuyo_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

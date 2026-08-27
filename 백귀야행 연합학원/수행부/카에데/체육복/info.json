@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이사미 카에데",
+      "en": "Kaede",
+      "ja": "カエデ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "수행부",
+      "en": "Inner Discipline Club",
+      "ja": "修行部"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "이사미 카에데의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Kaede, sourced from in-game assets.",
+      "ja": "カエデの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_kaede_gym_portrait.png",
+      "path": "백귀야행 연합학원/수행부/카에데/체육복/공식/official_kaede_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kaede_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

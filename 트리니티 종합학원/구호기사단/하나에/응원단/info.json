@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아사가오 하나에",
+      "en": "Hanae",
+      "ja": "ハナエ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Remedial Knights",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "응원단",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "아사가오 하나에의 응원단 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Cheerleader' variant of Hanae, sourced from in-game assets.",
+      "ja": "ハナエの応援団バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_hanae_cheerleader_portrait.png",
+      "path": "트리니티 종합학원/구호기사단/하나에/응원단/공식/official_hanae_cheerleader_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hanae_Cheerleader_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

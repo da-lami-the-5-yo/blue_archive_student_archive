@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우시오 노아",
+      "en": "Noa",
+      "ja": "ノア"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "우시오 노아의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Noa, sourced from in-game assets.",
+      "ja": "ノアの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_noa_gym_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/노아/체육복/공식/official_noa_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Noa_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아라타",
+      "en": "Arata",
+      "ja": "アラタ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Allied Hyakkiyako Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "길거리 망량즈",
+      "en": "Street Mouryou",
+      "ja": "路地裏魍魎ズ"
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "아라타의 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Swimsuit' variant of Arata, sourced from in-game assets.",
+      "ja": "アラタの水着バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_arata_swimsuit_portrait.png",
+      "path": "백귀야행 연합학원/길거리 망량즈/아라타/수영복/공식/official_arata_swimsuit_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Arata_Swimsuit_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

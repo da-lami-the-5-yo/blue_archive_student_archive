@@ -408,6 +408,62 @@
     "canonical_name_kr": "소라이 사키"
   },
   {
+    "id": null,
+    "name_kr": "소라이 사키",
+    "name_en": "Saki",
+    "name_ja": "サキ",
+    "full_name_kr": "소라이 사키 (체육복)",
+    "full_name_en": "Saki (Gym Uniform)",
+    "full_name_ja": "サキ（体操服）",
+    "school_kr": "SRT 특수학원",
+    "school_en": "SRT",
+    "school_ja": "SRT",
+    "club_kr": "RABBIT 소대",
+    "club_en": "RABBIT Squad",
+    "club_ja": "RABBIT小隊",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "소라이 사키의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Saki, sourced from in-game assets.",
+    "description_ja": "サキの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "사키",
+        "소라이",
+        "소라이 사키",
+        "소라이사키",
+        "체육복"
+      ],
+      "en": [
+        "saki",
+        "sorai_saki",
+        "사키"
+      ],
+      "ja": [
+        "サキ",
+        "空井サキ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_saki_gym_portrait.png",
+        "path": "SRT 특수학원/RABBIT 소대/사키/체육복/공식/official_saki_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Saki_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "사키",
+    "family_name_kr": "소라이",
+    "canonical_name_kr": "소라이 사키"
+  },
+  {
     "id": 10038,
     "name_kr": "츠키유키 미야코",
     "name_en": "Miyako",
@@ -530,6 +586,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "미야코",
+    "family_name_kr": "츠키유키",
+    "canonical_name_kr": "츠키유키 미야코"
+  },
+  {
+    "id": null,
+    "name_kr": "츠키유키 미야코",
+    "name_en": "Miyako",
+    "name_ja": "ミヤコ",
+    "full_name_kr": "츠키유키 미야코 (체육복)",
+    "full_name_en": "Miyako (Gym Uniform)",
+    "full_name_ja": "ミヤコ（体操服）",
+    "school_kr": "SRT 특수학원",
+    "school_en": "SRT",
+    "school_ja": "SRT",
+    "club_kr": "RABBIT 소대",
+    "club_en": "RABBIT Squad",
+    "club_ja": "RABBIT小隊",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "츠키유키 미야코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Miyako, sourced from in-game assets.",
+    "description_ja": "ミヤコの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "미야코",
+        "체육복",
+        "츠키유키",
+        "츠키유키 미야코",
+        "츠키유키미야코"
+      ],
+      "en": [
+        "miyako",
+        "tsukiyuki_miyako",
+        "미야코"
+      ],
+      "ja": [
+        "ミヤコ",
+        "月雪ミヤコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_miyako_gym_portrait.png",
+        "path": "SRT 특수학원/RABBIT 소대/미야코/체육복/공식/official_miyako_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Miyako_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "미야코",
     "family_name_kr": "츠키유키",
     "canonical_name_kr": "츠키유키 미야코"
@@ -662,6 +774,62 @@
     "canonical_name_kr": "카스미자와 미유"
   },
   {
+    "id": null,
+    "name_kr": "카스미자와 미유",
+    "name_en": "Miyu",
+    "name_ja": "ミユ",
+    "full_name_kr": "카스미자와 미유 (체육복)",
+    "full_name_en": "Miyu (Gym Uniform)",
+    "full_name_ja": "ミユ（体操服）",
+    "school_kr": "SRT 특수학원",
+    "school_en": "SRT",
+    "school_ja": "SRT",
+    "club_kr": "RABBIT 소대",
+    "club_en": "RABBIT Squad",
+    "club_ja": "RABBIT小隊",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "카스미자와 미유의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Miyu, sourced from in-game assets.",
+    "description_ja": "ミユの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "미유",
+        "체육복",
+        "카스미자와",
+        "카스미자와 미유",
+        "카스미자와미유"
+      ],
+      "en": [
+        "kasumizawa_miyu",
+        "miyu",
+        "미유"
+      ],
+      "ja": [
+        "ミユ",
+        "霞沢ミユ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_miyu_gym_portrait.png",
+        "path": "SRT 특수학원/RABBIT 소대/미유/체육복/공식/official_miyu_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Miyu_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "미유",
+    "family_name_kr": "카스미자와",
+    "canonical_name_kr": "카스미자와 미유"
+  },
+  {
     "id": 20018,
     "name_kr": "카제쿠라 모에",
     "name_en": "Moe",
@@ -784,6 +952,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "모에",
+    "family_name_kr": "카제쿠라",
+    "canonical_name_kr": "카제쿠라 모에"
+  },
+  {
+    "id": null,
+    "name_kr": "카제쿠라 모에",
+    "name_en": "Moe",
+    "name_ja": "モエ",
+    "full_name_kr": "카제쿠라 모에 (체육복)",
+    "full_name_en": "Moe (Gym Uniform)",
+    "full_name_ja": "モエ（体操服）",
+    "school_kr": "SRT 특수학원",
+    "school_en": "SRT",
+    "school_ja": "SRT",
+    "club_kr": "RABBIT 소대",
+    "club_en": "RABBIT Squad",
+    "club_ja": "RABBIT小隊",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "카제쿠라 모에의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Moe, sourced from in-game assets.",
+    "description_ja": "モエの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "모에",
+        "체육복",
+        "카제쿠라",
+        "카제쿠라 모에",
+        "카제쿠라모에"
+      ],
+      "en": [
+        "kazekura_moe",
+        "moe",
+        "모에"
+      ],
+      "ja": [
+        "モエ",
+        "風倉モエ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_moe_gym_portrait.png",
+        "path": "SRT 특수학원/RABBIT 소대/모에/체육복/공식/official_moe_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Moe_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "모에",
     "family_name_kr": "카제쿠라",
     "canonical_name_kr": "카제쿠라 모에"
@@ -2417,6 +2641,62 @@
     "canonical_name_kr": "시시도우 이즈미"
   },
   {
+    "id": null,
+    "name_kr": "시시도우 이즈미",
+    "name_en": "Izumi",
+    "name_ja": "イズミ",
+    "full_name_kr": "시시도우 이즈미 (체육복)",
+    "full_name_en": "Izumi (Gym Uniform)",
+    "full_name_ja": "イズミ（体操服）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "미식연구회",
+    "club_en": "Gourmet Research Society",
+    "club_ja": "美食研究会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "시시도우 이즈미의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Izumi, sourced from in-game assets.",
+    "description_ja": "イズミの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "시시도우",
+        "시시도우 이즈미",
+        "시시도우이즈미",
+        "이즈미",
+        "체육복"
+      ],
+      "en": [
+        "izumi",
+        "shishidou_izumi",
+        "이즈미"
+      ],
+      "ja": [
+        "イズミ",
+        "獅子堂イズミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_izumi_gym_portrait.png",
+        "path": "게헨나 학원/미식연구회/이즈미/체육복/공식/official_izumi_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Izumi_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "이즈미",
+    "family_name_kr": "시시도우",
+    "canonical_name_kr": "시시도우 이즈미"
+  },
+  {
     "id": 13007,
     "name_kr": "아카시 준코",
     "name_en": "Junko",
@@ -2544,6 +2824,62 @@
     "canonical_name_kr": "아카시 준코"
   },
   {
+    "id": null,
+    "name_kr": "아카시 준코",
+    "name_en": "Junko",
+    "name_ja": "ジュンコ",
+    "full_name_kr": "아카시 준코 (체육복)",
+    "full_name_en": "Junko (Gym Uniform)",
+    "full_name_ja": "ジュンコ（体操服）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "미식연구회",
+    "club_en": "Gourmet Research Society",
+    "club_ja": "美食研究会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "아카시 준코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Junko, sourced from in-game assets.",
+    "description_ja": "ジュンコの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아카시",
+        "아카시 준코",
+        "아카시준코",
+        "준코",
+        "체육복"
+      ],
+      "en": [
+        "akashi_junko",
+        "junko",
+        "준코"
+      ],
+      "ja": [
+        "ジュンコ",
+        "赤司ジュンコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_junko_gym_portrait.png",
+        "path": "게헨나 학원/미식연구회/준코/체육복/공식/official_junko_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Junko_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "준코",
+    "family_name_kr": "아카시",
+    "canonical_name_kr": "아카시 준코"
+  },
+  {
     "id": 13002,
     "name_kr": "와니부치 아카리",
     "name_en": "Akari",
@@ -2666,6 +3002,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "아카리",
+    "family_name_kr": "와니부치",
+    "canonical_name_kr": "와니부치 아카리"
+  },
+  {
+    "id": null,
+    "name_kr": "와니부치 아카리",
+    "name_en": "Akari",
+    "name_ja": "アカリ",
+    "full_name_kr": "와니부치 아카리 (체육복)",
+    "full_name_en": "Akari (Gym Uniform)",
+    "full_name_ja": "アカリ（体操服）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "미식연구회",
+    "club_en": "Gourmet Research Society",
+    "club_ja": "美食研究会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "와니부치 아카리의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Akari, sourced from in-game assets.",
+    "description_ja": "アカリの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아카리",
+        "와니부치",
+        "와니부치 아카리",
+        "와니부치아카리",
+        "체육복"
+      ],
+      "en": [
+        "akari",
+        "wanibuchi_akari",
+        "아카리"
+      ],
+      "ja": [
+        "アカリ",
+        "鰐渕アカリ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_akari_gym_portrait.png",
+        "path": "게헨나 학원/미식연구회/아카리/체육복/공식/official_akari_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Akari_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "아카리",
     "family_name_kr": "와니부치",
     "canonical_name_kr": "와니부치 아카리"
@@ -3514,6 +3906,62 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/선도부/아마우 아코/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아코",
+    "family_name_kr": "아마우",
+    "canonical_name_kr": "아마우 아코"
+  },
+  {
+    "id": null,
+    "name_kr": "아마우 아코",
+    "name_en": "Ako",
+    "name_ja": "アコ",
+    "full_name_kr": "아마우 아코 (체육복)",
+    "full_name_en": "Ako (Gym Uniform)",
+    "full_name_ja": "アコ（体操服）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "선도부",
+    "club_en": "Prefect Team",
+    "club_ja": "風紀委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "아마우 아코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Ako, sourced from in-game assets.",
+    "description_ja": "アコの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아마우",
+        "아마우 아코",
+        "아마우아코",
+        "아코",
+        "체육복"
+      ],
+      "en": [
+        "ako",
+        "amau_ako",
+        "아코"
+      ],
+      "ja": [
+        "アコ",
+        "天雨アコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ako_gym_portrait.png",
+        "path": "게헨나 학원/선도부/아코/체육복/공식/official_ako_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ako_Gym_Portrait.png",
+        "collected": "2026-08-27"
       }
     ],
     "image_count": 1,
@@ -7923,6 +8371,62 @@
     "canonical_name_kr": "코누리 마키"
   },
   {
+    "id": null,
+    "name_kr": "코누리 마키",
+    "name_en": "Maki",
+    "name_ja": "マキ",
+    "full_name_kr": "코누리 마키 (체육복)",
+    "full_name_en": "Maki (Gym Uniform)",
+    "full_name_ja": "マキ（体操服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "베리타스",
+    "club_en": "Veritas",
+    "club_ja": "ヴェリタス",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "코누리 마키의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Maki, sourced from in-game assets.",
+    "description_ja": "マキの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "마키",
+        "체육복",
+        "코누리",
+        "코누리 마키",
+        "코누리마키"
+      ],
+      "en": [
+        "konuri_maki",
+        "maki",
+        "마키"
+      ],
+      "ja": [
+        "マキ",
+        "小塗マキ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_maki_gym_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/체육복/공식/official_maki_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Maki_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "마키",
+    "family_name_kr": "코누리",
+    "canonical_name_kr": "코누리 마키"
+  },
+  {
     "id": 20042,
     "family_name_kr": "코누리",
     "personal_name_kr": "마키",
@@ -8106,6 +8610,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "노아",
+    "family_name_kr": "우시오",
+    "canonical_name_kr": "우시오 노아"
+  },
+  {
+    "id": null,
+    "name_kr": "우시오 노아",
+    "name_en": "Noa",
+    "name_ja": "ノア",
+    "full_name_kr": "우시오 노아 (체육복)",
+    "full_name_en": "Noa (Gym Uniform)",
+    "full_name_ja": "ノア（体操服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "세미나",
+    "club_en": "Seminar",
+    "club_ja": "セミナー",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "우시오 노아의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Noa, sourced from in-game assets.",
+    "description_ja": "ノアの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "노아",
+        "우시오",
+        "우시오 노아",
+        "우시오노아",
+        "체육복"
+      ],
+      "en": [
+        "noa",
+        "ushio_noa",
+        "노아"
+      ],
+      "ja": [
+        "ノア",
+        "生塩ノア"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_noa_gym_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/노아/체육복/공식/official_noa_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Noa_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "노아",
     "family_name_kr": "우시오",
     "canonical_name_kr": "우시오 노아"
@@ -9358,6 +9918,62 @@
   },
   {
     "id": null,
+    "name_kr": "토요미 코토리",
+    "name_en": "Kotori",
+    "name_ja": "コトリ",
+    "full_name_kr": "토요미 코토리 (체육복)",
+    "full_name_en": "Kotori (Gym Uniform)",
+    "full_name_ja": "コトリ（体操服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "엔지니어부",
+    "club_en": "Engineering Department",
+    "club_ja": "エンジニア部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "토요미 코토리의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Kotori, sourced from in-game assets.",
+    "description_ja": "コトリの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "체육복",
+        "코토리",
+        "토요미",
+        "토요미 코토리",
+        "토요미코토리"
+      ],
+      "en": [
+        "kotori",
+        "toyomi_kotori",
+        "코토리"
+      ],
+      "ja": [
+        "コトリ",
+        "豊見コトリ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kotori_gym_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/체육복/공식/official_kotori_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kotori_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "코토리",
+    "family_name_kr": "토요미",
+    "canonical_name_kr": "토요미 코토리"
+  },
+  {
+    "id": null,
     "name_kr": "아즈마 미라이",
     "name_en": "Azuma Mirai",
     "name_ja": "東ミライ",
@@ -9620,6 +10236,62 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "id": null,
+    "name_kr": "아케보시 히마리",
+    "name_en": "Himari",
+    "name_ja": "ヒマリ",
+    "full_name_kr": "아케보시 히마리 (방한복)",
+    "full_name_en": "Himari (Winter Wear)",
+    "full_name_ja": "ヒマリ（防寒着）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "초현상특무부",
+    "club_en": "Super Phenomenon Task Force",
+    "club_ja": "特異現象捜査部",
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "아케보시 히마리의 방한복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Winter Wear' variant of Himari, sourced from in-game assets.",
+    "description_ja": "ヒマリの防寒着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "방한복",
+        "아케보시",
+        "아케보시 히마리",
+        "아케보시히마리",
+        "히마리"
+      ],
+      "en": [
+        "akeboshi_himari",
+        "himari",
+        "히마리"
+      ],
+      "ja": [
+        "ヒマリ",
+        "明星ヒマリ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_himari_winter_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/방한복/공식/official_himari_winter_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Himari_Winter_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "히마리",
+    "family_name_kr": "아케보시",
+    "canonical_name_kr": "아케보시 히마리"
   },
   {
     "id": 10001,
@@ -10018,6 +10690,61 @@
   },
   {
     "id": null,
+    "family_name_kr": "텐도",
+    "personal_name_kr": "케이",
+    "canonical_name_kr": "텐도 케이",
+    "name_kr": "텐도 케이",
+    "name_en": "Tendou Kei",
+    "name_ja": "天童ケイ",
+    "full_name_kr": "텐도 케이 (아리스)",
+    "full_name_en": "Tendou Kei (Alice Form)",
+    "full_name_ja": "天童ケイ（アリス）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "초현상특무부",
+    "club_en": "Superphenomenon Task Force",
+    "club_ja": "超現象特務部",
+    "seasonal": "아리스",
+    "status": "미출시 시즈널",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "텐도 케이의 아리스 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Alice Form' variant of Tendou Kei, sourced from in-game assets.",
+    "description_ja": "天童ケイのアリスバージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "데카그라마톤 케이",
+        "아리스",
+        "텐도 케이 데카그라마톤"
+      ],
+      "en": [],
+      "ja": []
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kei_alice_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/아리스/공식/official_kei_alice_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kei_Alice_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kei_alice_portrait_no_weapon.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/아리스/공식/official_kei_alice_portrait_no_weapon.png",
+        "note": "bluearchive.fandom portrait (무기 없음)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kei_Alice_Portrait_No_Weapon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
+  },
+  {
+    "id": null,
     "name_kr": "텐도 케이",
     "name_en": "Tendo Key",
     "name_ja": "天童ケイ",
@@ -10273,6 +11000,62 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "id": null,
+    "name_kr": "오토하나 스미레",
+    "name_en": "Sumire",
+    "name_ja": "スミレ",
+    "full_name_kr": "오토하나 스미레 (체육복)",
+    "full_name_en": "Sumire (Gym Uniform)",
+    "full_name_ja": "スミレ（体操服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "트레이닝부",
+    "club_en": "Athletics Training Club",
+    "club_ja": "トレーニング部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "오토하나 스미레의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Sumire, sourced from in-game assets.",
+    "description_ja": "スミレの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "스미레",
+        "오토하나",
+        "오토하나 스미레",
+        "오토하나스미레",
+        "체육복"
+      ],
+      "en": [
+        "otohana_sumire",
+        "sumire",
+        "스미레"
+      ],
+      "ja": [
+        "スミレ",
+        "乙花スミレ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_sumire_gym_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/체육복/공식/official_sumire_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Sumire_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "스미레",
+    "family_name_kr": "오토하나",
+    "canonical_name_kr": "오토하나 스미레"
   },
   {
     "id": null,
@@ -10973,6 +11756,57 @@
     "canonical_name_kr": "아라타"
   },
   {
+    "id": null,
+    "name_kr": "아라타",
+    "name_en": "Arata",
+    "name_ja": "アラタ",
+    "full_name_kr": "아라타 (수영복)",
+    "full_name_en": "Arata (Swimsuit)",
+    "full_name_ja": "アラタ（水着）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Allied Hyakkiyako Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "길거리 망량즈",
+    "club_en": "Street Mouryou",
+    "club_ja": "路地裏魍魎ズ",
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "아라타의 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Swimsuit' variant of Arata, sourced from in-game assets.",
+    "description_ja": "アラタの水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "수영복",
+        "아라타"
+      ],
+      "en": [
+        "arata",
+        "아라타"
+      ],
+      "ja": [
+        "アラタ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_arata_swimsuit_portrait.png",
+        "path": "백귀야행 연합학원/길거리 망량즈/아라타/수영복/공식/official_arata_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Arata_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아라타",
+    "family_name_kr": "",
+    "canonical_name_kr": "아라타"
+  },
+  {
     "id": 10090,
     "name_kr": "사토하마 우미카",
     "name_en": "Umika",
@@ -11292,6 +12126,62 @@
   },
   {
     "id": null,
+    "name_kr": "카와와 시즈코",
+    "name_en": "Shizuko",
+    "name_ja": "シズコ",
+    "full_name_kr": "카와와 시즈코 (체육복)",
+    "full_name_en": "Shizuko (Gym Uniform)",
+    "full_name_ja": "シズコ（体操服）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "마츠리운영관리부",
+    "club_en": "Festival Operations Department",
+    "club_ja": "お祭り運営委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "카와와 시즈코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Shizuko, sourced from in-game assets.",
+    "description_ja": "シズコの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "시즈코",
+        "체육복",
+        "카와와",
+        "카와와 시즈코",
+        "카와와시즈코"
+      ],
+      "en": [
+        "kawawa_shizuko",
+        "shizuko",
+        "시즈코"
+      ],
+      "ja": [
+        "シズコ",
+        "河和シズコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_shizuko_gym_portrait.png",
+        "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/체육복/공식/official_shizuko_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shizuko_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "시즈코",
+    "family_name_kr": "카와와",
+    "canonical_name_kr": "카와와 시즈코"
+  },
+  {
+    "id": null,
     "family_name_kr": "",
     "personal_name_kr": "미쿠리",
     "canonical_name_kr": "미쿠리",
@@ -11325,6 +12215,62 @@
     },
     "images": [],
     "image_count": 0
+  },
+  {
+    "id": null,
+    "name_kr": "코사카 와카모",
+    "name_en": "Wakamo",
+    "name_ja": "ワカモ",
+    "full_name_kr": "코사카 와카모 (기모노)",
+    "full_name_en": "Wakamo (Kimono)",
+    "full_name_ja": "ワカモ（着物）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "무소속",
+    "club_en": "None",
+    "club_ja": "無し",
+    "seasonal": "기모노",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "코사카 와카모의 기모노 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Kimono' variant of Wakamo, sourced from in-game assets.",
+    "description_ja": "ワカモの着物バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "기모노",
+        "와카모",
+        "코사카",
+        "코사카 와카모",
+        "코사카와카모"
+      ],
+      "en": [
+        "kosaka_wakamo",
+        "wakamo",
+        "와카모"
+      ],
+      "ja": [
+        "ワカモ",
+        "狐坂ワカモ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_wakamo_kimono_portrait.png",
+        "path": "백귀야행 연합학원/무소속/와카모/기모노/공식/official_wakamo_kimono_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Wakamo_Kimono_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "와카모",
+    "family_name_kr": "코사카",
+    "canonical_name_kr": "코사카 와카모"
   },
   {
     "id": 10033,
@@ -12525,6 +13471,62 @@
     "canonical_name_kr": "이사미 카에데"
   },
   {
+    "id": null,
+    "name_kr": "이사미 카에데",
+    "name_en": "Kaede",
+    "name_ja": "カエデ",
+    "full_name_kr": "이사미 카에데 (체육복)",
+    "full_name_en": "Kaede (Gym Uniform)",
+    "full_name_ja": "カエデ（体操服）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "수행부",
+    "club_en": "Inner Discipline Club",
+    "club_ja": "修行部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "이사미 카에데의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Kaede, sourced from in-game assets.",
+    "description_ja": "カエデの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "이사미",
+        "이사미 카에데",
+        "이사미카에데",
+        "체육복",
+        "카에데"
+      ],
+      "en": [
+        "isami_kaede",
+        "kaede",
+        "카에데"
+      ],
+      "ja": [
+        "カエデ",
+        "勇美カエデ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kaede_gym_portrait.png",
+        "path": "백귀야행 연합학원/수행부/카에데/체육복/공식/official_kaede_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kaede_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "카에데",
+    "family_name_kr": "이사미",
+    "canonical_name_kr": "이사미 카에데"
+  },
+  {
     "id": 20035,
     "name_kr": "카스가 츠바키",
     "name_en": "Tsubaki",
@@ -12843,6 +13845,62 @@
     "canonical_name_kr": "와라쿠 치세"
   },
   {
+    "id": null,
+    "name_kr": "와라쿠 치세",
+    "name_en": "Chise",
+    "name_ja": "チセ",
+    "full_name_kr": "와라쿠 치세 (체육복)",
+    "full_name_en": "Chise (Gym Uniform)",
+    "full_name_ja": "チセ（体操服）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "음양부",
+    "club_en": "Yin-Yang Club",
+    "club_ja": "陰陽部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "와라쿠 치세의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Chise, sourced from in-game assets.",
+    "description_ja": "チセの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "와라쿠",
+        "와라쿠 치세",
+        "와라쿠치세",
+        "체육복",
+        "치세"
+      ],
+      "en": [
+        "chise",
+        "waraku_chise",
+        "치세"
+      ],
+      "ja": [
+        "チセ",
+        "和楽チセ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_chise_gym_portrait.png",
+        "path": "백귀야행 연합학원/음양부/치세/체육복/공식/official_chise_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Chise_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "치세",
+    "family_name_kr": "와라쿠",
+    "canonical_name_kr": "와라쿠 치세"
+  },
+  {
     "id": 10065,
     "name_kr": "쿠와카미 카호",
     "name_en": "Kaho",
@@ -13100,6 +14158,62 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "id": null,
+    "name_kr": "오노 츠쿠요",
+    "name_en": "Tsukuyo",
+    "name_ja": "ツクヨ",
+    "full_name_kr": "오노 츠쿠요 (체육복)",
+    "full_name_en": "Tsukuyo (Gym Uniform)",
+    "full_name_ja": "ツクヨ（体操服）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "인법연구부",
+    "club_en": "Ninjutsu Research Club",
+    "club_ja": "忍術研究部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "오노 츠쿠요의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Tsukuyo, sourced from in-game assets.",
+    "description_ja": "ツクヨの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "오노",
+        "오노 츠쿠요",
+        "오노츠쿠요",
+        "체육복",
+        "츠쿠요"
+      ],
+      "en": [
+        "ono_tsukuyo",
+        "tsukuyo",
+        "츠쿠요"
+      ],
+      "ja": [
+        "ツクヨ",
+        "大野ツクヨ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_tsukuyo_gym_portrait.png",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/체육복/공식/official_tsukuyo_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Tsukuyo_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "츠쿠요",
+    "family_name_kr": "오노",
+    "canonical_name_kr": "오노 츠쿠요"
   },
   {
     "id": 16009,
@@ -13424,6 +14538,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "이즈나",
+    "family_name_kr": "쿠다",
+    "canonical_name_kr": "쿠다 이즈나"
+  },
+  {
+    "id": null,
+    "name_kr": "쿠다 이즈나",
+    "name_en": "Izuna",
+    "name_ja": "イズナ",
+    "full_name_kr": "쿠다 이즈나 (체육복)",
+    "full_name_en": "Izuna (Gym Uniform)",
+    "full_name_ja": "イズナ（体操服）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "인법연구부",
+    "club_en": "Ninjutsu Research Club",
+    "club_ja": "忍術研究部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "쿠다 이즈나의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Izuna, sourced from in-game assets.",
+    "description_ja": "イズナの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "이즈나",
+        "체육복",
+        "쿠다",
+        "쿠다 이즈나",
+        "쿠다이즈나"
+      ],
+      "en": [
+        "izuna",
+        "kuda_izuna",
+        "이즈나"
+      ],
+      "ja": [
+        "イズナ",
+        "久田イズナ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_izuna_gym_portrait.png",
+        "path": "백귀야행 연합학원/인법연구부/이즈나/체육복/공식/official_izuna_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Izuna_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "이즈나",
     "family_name_kr": "쿠다",
     "canonical_name_kr": "쿠다 이즈나"
@@ -15195,6 +16365,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "슌",
+    "family_name_kr": "스노하라",
+    "canonical_name_kr": "스노하라 슌"
+  },
+  {
+    "id": null,
+    "name_kr": "스노하라 슌",
+    "name_en": "Shun",
+    "name_ja": "シュン",
+    "full_name_kr": "스노하라 슌 (학교 수영복)",
+    "full_name_en": "Shun (School Swimsuit)",
+    "full_name_ja": "シュン（スクール水着）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing",
+    "school_ja": "山海経",
+    "club_kr": "매화원",
+    "club_en": "Plum Blossom Garden",
+    "club_ja": "梅花園",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "스노하라 슌의 학교 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'School Swimsuit' variant of Shun, sourced from in-game assets.",
+    "description_ja": "シュンのスクール水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "슌",
+        "스노하라",
+        "스노하라 슌",
+        "스노하라슌",
+        "학교 수영복"
+      ],
+      "en": [
+        "shun",
+        "sunohara_shun",
+        "슌"
+      ],
+      "ja": [
+        "シュン",
+        "春原シュン"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_shun_young_swimsuit_portrait.png",
+        "path": "산해경 고급중학교/매화원/슌/학교 수영복/공식/official_shun_young_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shun_Young_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "슌",
     "family_name_kr": "스노하라",
     "canonical_name_kr": "스노하라 슌"
@@ -17527,6 +18753,62 @@
     "canonical_name_kr": "스나오오카미 시로코"
   },
   {
+    "id": null,
+    "name_kr": "스나오오카미 시로코",
+    "name_en": "Shiroko",
+    "name_ja": "シロコ",
+    "full_name_kr": "스나오오카미 시로코 (체육복)",
+    "full_name_en": "Shiroko (Gym Uniform)",
+    "full_name_ja": "シロコ（体操服）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "스나오오카미 시로코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Shiroko, sourced from in-game assets.",
+    "description_ja": "シロコの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "스나오오카미",
+        "스나오오카미 시로코",
+        "스나오오카미시로코",
+        "시로코",
+        "체육복"
+      ],
+      "en": [
+        "shiroko",
+        "sunaookami_shiroko",
+        "시로코"
+      ],
+      "ja": [
+        "シロコ",
+        "砂狼シロコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_shiroko_gym_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/시로코/체육복/공식/official_shiroko_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shiroko_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "시로코",
+    "family_name_kr": "스나오오카미",
+    "canonical_name_kr": "스나오오카미 시로코"
+  },
+  {
     "id": 23005,
     "name_kr": "오쿠소라 아야네",
     "name_en": "Ayane",
@@ -17769,6 +19051,62 @@
   },
   {
     "id": null,
+    "name_kr": "오쿠소라 아야네",
+    "name_en": "Ayane",
+    "name_ja": "アヤネ",
+    "full_name_kr": "오쿠소라 아야네 (체육복)",
+    "full_name_en": "Ayane (Gym Uniform)",
+    "full_name_ja": "アヤネ（体操服）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "오쿠소라 아야네의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Ayane, sourced from in-game assets.",
+    "description_ja": "アヤネの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아야네",
+        "오쿠소라",
+        "오쿠소라 아야네",
+        "오쿠소라아야네",
+        "체육복"
+      ],
+      "en": [
+        "ayane",
+        "okusora_ayane",
+        "아야네"
+      ],
+      "ja": [
+        "アヤネ",
+        "奥空アヤネ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ayane_gym_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/아야네/체육복/공식/official_ayane_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayane_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아야네",
+    "family_name_kr": "오쿠소라",
+    "canonical_name_kr": "오쿠소라 아야네"
+  },
+  {
+    "id": null,
     "family_name_kr": "이자요이",
     "personal_name_kr": "노노미",
     "canonical_name_kr": "이자요이 노노미",
@@ -17885,6 +19223,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "노노미",
+    "family_name_kr": "이자요이",
+    "canonical_name_kr": "이자요이 노노미"
+  },
+  {
+    "id": null,
+    "name_kr": "이자요이 노노미",
+    "name_en": "Nonomi",
+    "name_ja": "ノノミ",
+    "full_name_kr": "이자요이 노노미 (방한복)",
+    "full_name_en": "Nonomi (Winter Wear)",
+    "full_name_ja": "ノノミ（防寒着）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "이자요이 노노미의 방한복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Winter Wear' variant of Nonomi, sourced from in-game assets.",
+    "description_ja": "ノノミの防寒着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "노노미",
+        "방한복",
+        "이자요이",
+        "이자요이 노노미",
+        "이자요이노노미"
+      ],
+      "en": [
+        "izayoi_nonomi",
+        "nonomi",
+        "노노미"
+      ],
+      "ja": [
+        "ノノミ",
+        "十六夜ノノミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_nonomi_winter_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/노노미/방한복/공식/official_nonomi_winter_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Nonomi_Winter_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "노노미",
     "family_name_kr": "이자요이",
     "canonical_name_kr": "이자요이 노노미"
@@ -18025,6 +19419,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "노노미",
+    "family_name_kr": "이자요이",
+    "canonical_name_kr": "이자요이 노노미"
+  },
+  {
+    "id": null,
+    "name_kr": "이자요이 노노미",
+    "name_en": "Nonomi",
+    "name_ja": "ノノミ",
+    "full_name_kr": "이자요이 노노미 (체육복)",
+    "full_name_en": "Nonomi (Gym Uniform)",
+    "full_name_ja": "ノノミ（体操服）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "이자요이 노노미의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Nonomi, sourced from in-game assets.",
+    "description_ja": "ノノミの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "노노미",
+        "이자요이",
+        "이자요이 노노미",
+        "이자요이노노미",
+        "체육복"
+      ],
+      "en": [
+        "izayoi_nonomi",
+        "nonomi",
+        "노노미"
+      ],
+      "ja": [
+        "ノノミ",
+        "十六夜ノノミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_nonomi_gym_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/노노미/체육복/공식/official_nonomi_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Nonomi_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "노노미",
     "family_name_kr": "이자요이",
     "canonical_name_kr": "이자요이 노노미"
@@ -18281,6 +19731,62 @@
     "image_count": 2
   },
   {
+    "id": null,
+    "name_kr": "쿠로미 세리카",
+    "name_en": "Serika",
+    "name_ja": "セリカ",
+    "full_name_kr": "쿠로미 세리카 (체육복)",
+    "full_name_en": "Serika (Gym Uniform)",
+    "full_name_ja": "セリカ（体操服）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "쿠로미 세리카의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Serika, sourced from in-game assets.",
+    "description_ja": "セリカの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "세리카",
+        "체육복",
+        "쿠로미",
+        "쿠로미 세리카",
+        "쿠로미세리카"
+      ],
+      "en": [
+        "kuromi_serika",
+        "serika",
+        "세리카"
+      ],
+      "ja": [
+        "セリカ",
+        "黒見セリカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_serika_gym_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/세리카/체육복/공식/official_serika_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Serika_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "세리카",
+    "family_name_kr": "쿠로미",
+    "canonical_name_kr": "쿠로미 세리카"
+  },
+  {
     "id": 10005,
     "name_kr": "타카나시 호시노",
     "name_en": "Hoshino",
@@ -18428,6 +19934,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "호시노",
+    "family_name_kr": "타카나시",
+    "canonical_name_kr": "타카나시 호시노"
+  },
+  {
+    "id": null,
+    "name_kr": "타카나시 호시노",
+    "name_en": "Hoshino",
+    "name_ja": "ホシノ",
+    "full_name_kr": "타카나시 호시노 (방한복)",
+    "full_name_en": "Hoshino (Winter Wear)",
+    "full_name_ja": "ホシノ（防寒着）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "타카나시 호시노의 방한복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Winter Wear' variant of Hoshino, sourced from in-game assets.",
+    "description_ja": "ホシノの防寒着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "방한복",
+        "타카나시",
+        "타카나시 호시노",
+        "타카나시호시노",
+        "호시노"
+      ],
+      "en": [
+        "hoshino",
+        "takanashi_hoshino",
+        "호시노"
+      ],
+      "ja": [
+        "ホシノ",
+        "小鳥遊ホシノ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hoshino_winter_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/호시노/방한복/공식/official_hoshino_winter_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hoshino_Winter_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "호시노",
     "family_name_kr": "타카나시",
     "canonical_name_kr": "타카나시 호시노"
@@ -18702,6 +20264,62 @@
       }
     ],
     "image_count": 6,
+    "personal_name_kr": "유메",
+    "family_name_kr": "쿠치나시",
+    "canonical_name_kr": "쿠치나시 유메"
+  },
+  {
+    "id": null,
+    "name_kr": "쿠치나시 유메",
+    "name_en": "Kuchinashi Yume",
+    "name_ja": "クチナシ・ユメ",
+    "full_name_kr": "쿠치나시 유메 (수영복)",
+    "full_name_en": "Kuchinashi Yume (Swimsuit)",
+    "full_name_ja": "クチナシ・ユメ（水着）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos High School",
+    "school_ja": "アビドス高等学校",
+    "club_kr": "아비도스 학생회",
+    "club_en": "Abydos Student Council",
+    "club_ja": "アビドス生徒会",
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "쿠치나시 유메의 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Swimsuit' variant of Kuchinashi Yume, sourced from in-game assets.",
+    "description_ja": "クチナシ・ユメの水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "수영복",
+        "유메",
+        "쿠치나시",
+        "쿠치나시 유메",
+        "쿠치나시유메"
+      ],
+      "en": [
+        "kuchinashi yume",
+        "kuchinashi_kuchinashi yume",
+        "유메"
+      ],
+      "ja": [
+        "クチナシ・ユメ",
+        "梔子クチナシ・ユメ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_yume_swimsuit_portrait.png",
+        "path": "아비도스 고등학교/아비도스 학생회/쿠치나시 유메/수영복/공식/official_yume_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Yume_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "유메",
     "family_name_kr": "쿠치나시",
     "canonical_name_kr": "쿠치나시 유메"
@@ -20654,6 +22272,57 @@
   },
   {
     "id": null,
+    "name_kr": "아로나",
+    "name_en": "Arona",
+    "name_ja": "アロナ",
+    "full_name_kr": "아로나 (새해)",
+    "full_name_en": "Arona (New Year)",
+    "full_name_ja": "アロナ（正月）",
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "샬레",
+    "club_en": "Schale",
+    "club_ja": "シャーレ",
+    "seasonal": "새해",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "아로나의 새해 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'New Year' variant of Arona, sourced from in-game assets.",
+    "description_ja": "アロナの正月バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "새해",
+        "아로나"
+      ],
+      "en": [
+        "arona",
+        "아로나"
+      ],
+      "ja": [
+        "アロナ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_arona_new_year_portrait.png",
+        "path": "연방학생회/샬레/아로나/새해/공식/official_arona_new_year_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Arona_New_Year_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아로나",
+    "family_name_kr": "",
+    "canonical_name_kr": "아로나"
+  },
+  {
+    "id": null,
     "family_name_kr": "",
     "personal_name_kr": "아로나",
     "canonical_name_kr": "아로나",
@@ -21304,6 +22973,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "린",
+    "family_name_kr": "나나가미",
+    "canonical_name_kr": "나나가미 린"
+  },
+  {
+    "id": null,
+    "name_kr": "나나가미 린",
+    "name_en": "Nanagami Rin",
+    "name_ja": "七神リン",
+    "full_name_kr": "나나가미 린 (사복)",
+    "full_name_en": "Nanagami Rin (Casual)",
+    "full_name_ja": "七神リン（私服）",
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "통괄실",
+    "club_en": "General Affairs Bureau",
+    "club_ja": "統括室",
+    "seasonal": "사복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "나나가미 린의 사복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Casual' variant of Nanagami Rin, sourced from in-game assets.",
+    "description_ja": "七神リンの私服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "나나가미",
+        "나나가미 린",
+        "나나가미린",
+        "린",
+        "사복"
+      ],
+      "en": [
+        "nanagami rin",
+        "nanagami_nanagami rin",
+        "린"
+      ],
+      "ja": [
+        "七神リン",
+        "七神七神リン"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_rin_casual_portrait.png",
+        "path": "총학생회/통괄실/나나가미 린/사복/공식/official_rin_casual_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rin_Casual_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "린",
     "family_name_kr": "나나가미",
     "canonical_name_kr": "나나가미 린"
@@ -22001,6 +23726,62 @@
   {
     "id": null,
     "name_kr": "아사가오 하나에",
+    "name_en": "Hanae",
+    "name_ja": "ハナエ",
+    "full_name_kr": "아사가오 하나에 (응원단)",
+    "full_name_en": "Hanae (Cheerleader)",
+    "full_name_ja": "ハナエ（応援団）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "구호기사단",
+    "club_en": "Remedial Knights",
+    "club_ja": "救護騎士団",
+    "seasonal": "응원단",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "아사가오 하나에의 응원단 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Cheerleader' variant of Hanae, sourced from in-game assets.",
+    "description_ja": "ハナエの応援団バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아사가오",
+        "아사가오 하나에",
+        "아사가오하나에",
+        "응원단",
+        "하나에"
+      ],
+      "en": [
+        "asagao_hanae",
+        "hanae",
+        "하나에"
+      ],
+      "ja": [
+        "ハナエ",
+        "朝顔ハナエ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hanae_cheerleader_portrait.png",
+        "path": "트리니티 종합학원/구호기사단/하나에/응원단/공식/official_hanae_cheerleader_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hanae_Cheerleader_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "하나에",
+    "family_name_kr": "아사가오",
+    "canonical_name_kr": "아사가오 하나에"
+  },
+  {
+    "id": null,
+    "name_kr": "아사가오 하나에",
     "name_en": "Asagao Hanae",
     "name_ja": "朝顔ハナエ",
     "full_name_kr": "아사가오 하나에 (치어리더)",
@@ -22312,6 +24093,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "시미코",
+    "family_name_kr": "엔도우",
+    "canonical_name_kr": "엔도우 시미코"
+  },
+  {
+    "id": null,
+    "name_kr": "엔도우 시미코",
+    "name_en": "Shimiko",
+    "name_ja": "シミコ",
+    "full_name_kr": "엔도우 시미코 (매지컬)",
+    "full_name_en": "Shimiko (Magical Girl)",
+    "full_name_ja": "シミコ（マジカル）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "도서부",
+    "club_en": "Library Committee",
+    "club_ja": "図書委員会",
+    "seasonal": "매지컬",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "엔도우 시미코의 매지컬 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Magical Girl' variant of Shimiko, sourced from in-game assets.",
+    "description_ja": "シミコのマジカルバージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "매지컬",
+        "시미코",
+        "엔도우",
+        "엔도우 시미코",
+        "엔도우시미코"
+      ],
+      "en": [
+        "endou_shimiko",
+        "shimiko",
+        "시미코"
+      ],
+      "ja": [
+        "シミコ",
+        "円堂シミコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_shimiko_magical_portrait.png",
+        "path": "트리니티 종합학원/도서부/시미코/매지컬/공식/official_shimiko_magical_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shimiko_Magical_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "시미코",
     "family_name_kr": "엔도우",
     "canonical_name_kr": "엔도우 시미코"
@@ -22727,6 +24564,62 @@
       }
     ],
     "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "유토리 나츠",
+    "name_en": "Natsu",
+    "name_ja": "ナツ",
+    "full_name_kr": "유토리 나츠 (체육복)",
+    "full_name_en": "Natsu (Gym Uniform)",
+    "full_name_ja": "ナツ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "방과후 디저트부",
+    "club_en": "After-School Sweets Club",
+    "club_ja": "放課後スイーツ部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "유토리 나츠의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Natsu, sourced from in-game assets.",
+    "description_ja": "ナツの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "나츠",
+        "유토리",
+        "유토리 나츠",
+        "유토리나츠",
+        "체육복"
+      ],
+      "en": [
+        "natsu",
+        "yutori_natsu",
+        "나츠"
+      ],
+      "ja": [
+        "ナツ",
+        "柚鳥ナツ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_natsu_gym_portrait.png",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/체육복/공식/official_natsu_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Natsu_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "나츠",
+    "family_name_kr": "유토리",
+    "canonical_name_kr": "유토리 나츠"
   },
   {
     "id": 26005,
@@ -23382,6 +25275,118 @@
     "canonical_name_kr": "시라스 아즈사"
   },
   {
+    "id": null,
+    "name_kr": "시라스 아즈사",
+    "name_en": "Azusa",
+    "name_ja": "アズサ",
+    "full_name_kr": "시라스 아즈사 (체육복)",
+    "full_name_en": "Azusa (Gym Uniform)",
+    "full_name_ja": "アズサ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "시라스 아즈사의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Azusa, sourced from in-game assets.",
+    "description_ja": "アズサの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "시라스",
+        "시라스 아즈사",
+        "시라스아즈사",
+        "아즈사",
+        "체육복"
+      ],
+      "en": [
+        "azusa",
+        "shirasu_azusa",
+        "아즈사"
+      ],
+      "ja": [
+        "アズサ",
+        "白洲アズサ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_azusa_gym_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/아즈사/체육복/공식/official_azusa_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Azusa_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아즈사",
+    "family_name_kr": "시라스",
+    "canonical_name_kr": "시라스 아즈사"
+  },
+  {
+    "id": null,
+    "name_kr": "시라스 아즈사",
+    "name_en": "Azusa",
+    "name_ja": "アズサ",
+    "full_name_kr": "시라스 아즈사 (학교 수영복)",
+    "full_name_en": "Azusa (School Swimsuit)",
+    "full_name_ja": "アズサ（スクール水着）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "시라스 아즈사의 학교 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'School Swimsuit' variant of Azusa, sourced from in-game assets.",
+    "description_ja": "アズサのスクール水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "시라스",
+        "시라스 아즈사",
+        "시라스아즈사",
+        "아즈사",
+        "학교 수영복"
+      ],
+      "en": [
+        "azusa",
+        "shirasu_azusa",
+        "아즈사"
+      ],
+      "ja": [
+        "アズサ",
+        "白洲アズサ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_azusa_school_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/아즈사/학교 수영복/공식/official_azusa_school_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Azusa_School_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아즈사",
+    "family_name_kr": "시라스",
+    "canonical_name_kr": "시라스 아즈사"
+  },
+  {
     "id": 10020,
     "name_kr": "시모에 코하루",
     "name_en": "Koharu",
@@ -23504,6 +25509,118 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "코하루",
+    "family_name_kr": "시모에",
+    "canonical_name_kr": "시모에 코하루"
+  },
+  {
+    "id": null,
+    "name_kr": "시모에 코하루",
+    "name_en": "Koharu",
+    "name_ja": "コハル",
+    "full_name_kr": "시모에 코하루 (체육복)",
+    "full_name_en": "Koharu (Gym Uniform)",
+    "full_name_ja": "コハル（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "시모에 코하루의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Koharu, sourced from in-game assets.",
+    "description_ja": "コハルの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "시모에",
+        "시모에 코하루",
+        "시모에코하루",
+        "체육복",
+        "코하루"
+      ],
+      "en": [
+        "koharu",
+        "shimoe_koharu",
+        "코하루"
+      ],
+      "ja": [
+        "コハル",
+        "下江コハル"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_koharu_gym_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/코하루/체육복/공식/official_koharu_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Koharu_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "코하루",
+    "family_name_kr": "시모에",
+    "canonical_name_kr": "시모에 코하루"
+  },
+  {
+    "id": null,
+    "name_kr": "시모에 코하루",
+    "name_en": "Koharu",
+    "name_ja": "コハル",
+    "full_name_kr": "시모에 코하루 (학교 수영복)",
+    "full_name_en": "Koharu (School Swimsuit)",
+    "full_name_ja": "コハル（スクール水着）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "시모에 코하루의 학교 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'School Swimsuit' variant of Koharu, sourced from in-game assets.",
+    "description_ja": "コハルのスクール水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "시모에",
+        "시모에 코하루",
+        "시모에코하루",
+        "코하루",
+        "학교 수영복"
+      ],
+      "en": [
+        "koharu",
+        "shimoe_koharu",
+        "코하루"
+      ],
+      "ja": [
+        "コハル",
+        "下江コハル"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_koharu_school_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/코하루/학교 수영복/공식/official_koharu_school_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Koharu_School_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "코하루",
     "family_name_kr": "시모에",
     "canonical_name_kr": "시모에 코하루"
@@ -23711,6 +25828,118 @@
     "canonical_name_kr": "아지타니 히후미"
   },
   {
+    "id": null,
+    "name_kr": "아지타니 히후미",
+    "name_en": "Hifumi",
+    "name_ja": "ヒフミ",
+    "full_name_kr": "아지타니 히후미 (체육복)",
+    "full_name_en": "Hifumi (Gym Uniform)",
+    "full_name_ja": "ヒフミ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "아지타니 히후미의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Hifumi, sourced from in-game assets.",
+    "description_ja": "ヒフミの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아지타니",
+        "아지타니 히후미",
+        "아지타니히후미",
+        "체육복",
+        "히후미"
+      ],
+      "en": [
+        "ajitani_hifumi",
+        "hifumi",
+        "히후미"
+      ],
+      "ja": [
+        "ヒフミ",
+        "阿慈谷ヒフミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hifumi_gym_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/히후미/체육복/공식/official_hifumi_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hifumi_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "히후미",
+    "family_name_kr": "아지타니",
+    "canonical_name_kr": "아지타니 히후미"
+  },
+  {
+    "id": null,
+    "name_kr": "아지타니 히후미",
+    "name_en": "Hifumi",
+    "name_ja": "ヒフミ",
+    "full_name_kr": "아지타니 히후미 (학교 수영복)",
+    "full_name_en": "Hifumi (School Swimsuit)",
+    "full_name_ja": "ヒフミ（スクール水着）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "아지타니 히후미의 학교 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'School Swimsuit' variant of Hifumi, sourced from in-game assets.",
+    "description_ja": "ヒフミのスクール水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "아지타니",
+        "아지타니 히후미",
+        "아지타니히후미",
+        "학교 수영복",
+        "히후미"
+      ],
+      "en": [
+        "ajitani_hifumi",
+        "hifumi",
+        "히후미"
+      ],
+      "ja": [
+        "ヒフミ",
+        "阿慈谷ヒフミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hifumi_school_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/히후미/학교 수영복/공식/official_hifumi_school_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hifumi_School_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "히후미",
+    "family_name_kr": "아지타니",
+    "canonical_name_kr": "아지타니 히후미"
+  },
+  {
     "id": 23007,
     "name_kr": "우라와 하나코",
     "name_en": "Hanako",
@@ -23885,6 +26114,118 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "트리니티 종합학원/보충수업부/우라와 하나코/우주전함/공식/official_wiki_portrait.png"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "하나코",
+    "family_name_kr": "우라와",
+    "canonical_name_kr": "우라와 하나코"
+  },
+  {
+    "id": null,
+    "name_kr": "우라와 하나코",
+    "name_en": "Hanako",
+    "name_ja": "ハナコ",
+    "full_name_kr": "우라와 하나코 (체육복)",
+    "full_name_en": "Hanako (Gym Uniform)",
+    "full_name_ja": "ハナコ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "우라와 하나코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Hanako, sourced from in-game assets.",
+    "description_ja": "ハナコの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "우라와",
+        "우라와 하나코",
+        "우라와하나코",
+        "체육복",
+        "하나코"
+      ],
+      "en": [
+        "hanako",
+        "urawa_hanako",
+        "하나코"
+      ],
+      "ja": [
+        "ハナコ",
+        "浦和ハナコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hanako_gym_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/하나코/체육복/공식/official_hanako_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hanako_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "하나코",
+    "family_name_kr": "우라와",
+    "canonical_name_kr": "우라와 하나코"
+  },
+  {
+    "id": null,
+    "name_kr": "우라와 하나코",
+    "name_en": "Hanako",
+    "name_ja": "ハナコ",
+    "full_name_kr": "우라와 하나코 (학교 수영복)",
+    "full_name_en": "Hanako (School Swimsuit)",
+    "full_name_ja": "ハナコ（スクール水着）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "우라와 하나코의 학교 수영복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'School Swimsuit' variant of Hanako, sourced from in-game assets.",
+    "description_ja": "ハナコのスクール水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "우라와",
+        "우라와 하나코",
+        "우라와하나코",
+        "하나코",
+        "학교 수영복"
+      ],
+      "en": [
+        "hanako",
+        "urawa_hanako",
+        "하나코"
+      ],
+      "ja": [
+        "ハナコ",
+        "浦和ハナコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hanako_school_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/보충수업부/하나코/학교 수영복/공식/official_hanako_school_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hanako_School_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
       }
     ],
     "image_count": 1,
@@ -24547,6 +26888,62 @@
     "image_count": 2
   },
   {
+    "id": null,
+    "name_kr": "나카마사 이치카",
+    "name_en": "Ichika",
+    "name_ja": "イチカ",
+    "full_name_kr": "나카마사 이치카 (정장)",
+    "full_name_en": "Ichika (Suit)",
+    "full_name_ja": "イチカ（スーツ）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": "正義実現委員会",
+    "seasonal": "정장",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "진동",
+    "armor_type": "중장갑",
+    "description_kr": "나카마사 이치카의 정장 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Suit' variant of Ichika, sourced from in-game assets.",
+    "description_ja": "イチカのスーツバージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "나카마사",
+        "나카마사 이치카",
+        "나카마사이치카",
+        "이치카",
+        "정장"
+      ],
+      "en": [
+        "ichika",
+        "nakamasa_ichika",
+        "이치카"
+      ],
+      "ja": [
+        "イチカ",
+        "仲正イチカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ichika_suit_portrait.png",
+        "path": "트리니티 종합학원/정의실현부/이치카/정장/공식/official_ichika_suit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ichika_Suit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "이치카",
+    "family_name_kr": "나카마사",
+    "canonical_name_kr": "나카마사 이치카"
+  },
+  {
     "id": 20003,
     "name_kr": "시즈야마 마시로",
     "name_en": "Mashiro",
@@ -24674,6 +27071,62 @@
     "canonical_name_kr": "시즈야마 마시로"
   },
   {
+    "id": null,
+    "name_kr": "시즈야마 마시로",
+    "name_en": "Mashiro",
+    "name_ja": "マシロ",
+    "full_name_kr": "시즈야마 마시로 (체육복)",
+    "full_name_en": "Mashiro (Gym Uniform)",
+    "full_name_ja": "マシロ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": "正義実現委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "시즈야마 마시로의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Mashiro, sourced from in-game assets.",
+    "description_ja": "マシロの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "마시로",
+        "시즈야마",
+        "시즈야마 마시로",
+        "시즈야마마시로",
+        "체육복"
+      ],
+      "en": [
+        "mashiro",
+        "shizuyama_mashiro",
+        "마시로"
+      ],
+      "ja": [
+        "マシロ",
+        "静山マシロ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mashiro_gym_portrait.png",
+        "path": "트리니티 종합학원/정의실현부/마시로/체육복/공식/official_mashiro_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mashiro_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "마시로",
+    "family_name_kr": "시즈야마",
+    "canonical_name_kr": "시즈야마 마시로"
+  },
+  {
     "id": 10013,
     "name_kr": "켄자키 츠루기",
     "name_en": "Tsurugi",
@@ -24731,6 +27184,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "츠루기",
+    "family_name_kr": "켄자키",
+    "canonical_name_kr": "켄자키 츠루기"
+  },
+  {
+    "id": null,
+    "name_kr": "켄자키 츠루기",
+    "name_en": "Tsurugi",
+    "name_ja": "ツルギ",
+    "full_name_kr": "켄자키 츠루기 (드레스)",
+    "full_name_en": "Tsurugi (Dress)",
+    "full_name_ja": "ツルギ（ドレス）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": "正義実現委員会",
+    "seasonal": "드레스",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "켄자키 츠루기의 드레스 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Dress' variant of Tsurugi, sourced from in-game assets.",
+    "description_ja": "ツルギのドレスバージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "드레스",
+        "츠루기",
+        "켄자키",
+        "켄자키 츠루기",
+        "켄자키츠루기"
+      ],
+      "en": [
+        "kenzaki_tsurugi",
+        "tsurugi",
+        "츠루기"
+      ],
+      "ja": [
+        "ツルギ",
+        "剣先ツルギ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_tsurugi_dress_portrait.png",
+        "path": "트리니티 종합학원/정의실현부/츠루기/드레스/공식/official_tsurugi_dress_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Tsurugi_Dress_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "츠루기",
     "family_name_kr": "켄자키",
     "canonical_name_kr": "켄자키 츠루기"
@@ -24860,6 +27369,62 @@
       }
     ],
     "image_count": 2
+  },
+  {
+    "id": null,
+    "name_kr": "켄자키 츠루기",
+    "name_en": "Tsurugi",
+    "name_ja": "ツルギ",
+    "full_name_kr": "켄자키 츠루기 (체육복)",
+    "full_name_en": "Tsurugi (Gym Uniform)",
+    "full_name_ja": "ツルギ（体操服）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": "正義実現委員会",
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "켄자키 츠루기의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+    "description_en": "Unreleased 'Gym Uniform' variant of Tsurugi, sourced from in-game assets.",
+    "description_ja": "ツルギの体操服バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "체육복",
+        "츠루기",
+        "켄자키",
+        "켄자키 츠루기",
+        "켄자키츠루기"
+      ],
+      "en": [
+        "kenzaki_tsurugi",
+        "tsurugi",
+        "츠루기"
+      ],
+      "ja": [
+        "ツルギ",
+        "剣先ツルギ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_tsurugi_gym_portrait.png",
+        "path": "트리니티 종합학원/정의실현부/츠루기/체육복/공식/official_tsurugi_gym_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Tsurugi_Gym_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "츠루기",
+    "family_name_kr": "켄자키",
+    "canonical_name_kr": "켄자키 츠루기"
   },
   {
     "id": 13003,

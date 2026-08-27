@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시모에 코하루",
+      "en": "Koharu",
+      "ja": "コハル"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "시모에 코하루의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Koharu, sourced from in-game assets.",
+      "ja": "コハルの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_koharu_gym_portrait.png",
+      "path": "트리니티 종합학원/보충수업부/코하루/체육복/공식/official_koharu_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Koharu_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

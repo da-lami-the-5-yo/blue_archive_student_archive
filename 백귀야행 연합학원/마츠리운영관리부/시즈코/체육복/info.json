@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카와와 시즈코",
+      "en": "Shizuko",
+      "ja": "シズコ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "마츠리운영관리부",
+      "en": "Festival Operations Department",
+      "ja": "お祭り運営委員会"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "카와와 시즈코의 체육복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Gym Uniform' variant of Shizuko, sourced from in-game assets.",
+      "ja": "シズコの体操服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_shizuko_gym_portrait.png",
+      "path": "백귀야행 연합학원/마츠리운영관리부/시즈코/체육복/공식/official_shizuko_gym_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shizuko_Gym_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

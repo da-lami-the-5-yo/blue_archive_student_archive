@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "나나가미 린",
+      "en": "Nanagami Rin",
+      "ja": "七神リン"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "통괄실",
+      "en": "General Affairs Bureau",
+      "ja": "統括室"
+    },
+    "seasonal": "사복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "나나가미 린의 사복 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
+      "en": "Unreleased 'Casual' variant of Nanagami Rin, sourced from in-game assets.",
+      "ja": "七神リンの私服バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_rin_casual_portrait.png",
+      "path": "총학생회/통괄실/나나가미 린/사복/공식/official_rin_casual_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rin_Casual_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}
