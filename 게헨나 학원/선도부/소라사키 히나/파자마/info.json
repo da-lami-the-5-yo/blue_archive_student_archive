@@ -27,42 +27,12 @@
       "kr": "에덴조약 편 3장 및 소야곡 이벤트에서 등장한 히나의 잠옷/파자마 스탠딩 CG.",
       "en": "Unreleased 파자마 variant for Sorasaki Hina.",
       "ja": "空崎ヒナの未実装파자마衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "소라사키",
-        "소라사키 히나",
-        "소라사키 히나(파자마)",
-        "소라사키히나",
-        "파자마",
-        "히나",
-        "히나(파자마)"
-      ],
-      "en": [
-        "sorasaki hina",
-        "sorasaki_sorasaki hina",
-        "히나"
-      ],
-      "ja": [
-        "空崎ヒナ",
-        "空崎空崎ヒナ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_hina_pajamas_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

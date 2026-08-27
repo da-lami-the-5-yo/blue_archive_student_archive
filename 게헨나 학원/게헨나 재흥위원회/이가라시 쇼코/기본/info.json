@@ -30,14 +30,9 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_shouko_portrait.png",
@@ -55,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

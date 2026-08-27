@@ -27,42 +27,12 @@
       "kr": "Get Set, Go! ~키보토스 황륜대제~ 이벤트에 등장한 간호복 차림의 세리나.",
       "en": "Unreleased 체육복 variant for Sumi Serina.",
       "ja": "鷲見セリナの未実装체육복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "세리나",
-        "세리나(체육복)",
-        "스미",
-        "스미 세리나",
-        "스미 세리나(체육복)",
-        "스미세리나",
-        "체육복"
-      ],
-      "en": [
-        "sumi serina",
-        "sumi_sumi serina",
-        "세리나"
-      ],
-      "ja": [
-        "鷲見セリナ",
-        "鷲見鷲見セリナ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "트리니티 종합학원/구호기사단/스미 세리나/간호복/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_serina_nurse_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

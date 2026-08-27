@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 5
+    "공식": 4
   },
   "images": [
     {
@@ -51,12 +51,6 @@
     },
     {
       "category": "공식",
-      "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_schaledb_portrait.webp",
-      "filename": "official_schaledb_portrait.webp",
-      "source": "https://schaledb.com/images/student/portrait/10148.webp"
-    },
-    {
-      "category": "공식",
       "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_schaledb_collection.webp",
       "filename": "official_schaledb_collection.webp",
       "source": "https://schaledb.com/images/student/collection/10148.webp"
@@ -68,6 +62,6 @@
       "source": "https://schaledb.com/images/student/icon/10148.webp"
     }
   ],
-  "image_count": 5,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

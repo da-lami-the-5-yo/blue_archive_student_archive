@@ -27,42 +27,12 @@
       "kr": "티파티의 여름 휴가 스토리 CG에서 등장한 세이아의 청초한 수영복 의상.",
       "en": "Unreleased 수영복 variant for Yurizono Seia.",
       "ja": "百合園セイアの未実装수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "세이아",
-        "세이아(수영복)",
-        "수영복",
-        "유리조노",
-        "유리조노 세이아",
-        "유리조노 세이아(수영복)",
-        "유리조노세이아"
-      ],
-      "en": [
-        "yurizono seia",
-        "yurizono_yurizono seia",
-        "세이아"
-      ],
-      "ja": [
-        "百合園セイア",
-        "百合園百合園セイア"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "트리니티 종합학원/티파티/유리조노 세이아/수영복/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_seia_swimsuit_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

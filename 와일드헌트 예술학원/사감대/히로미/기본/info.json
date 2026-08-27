@@ -27,34 +27,12 @@
       "kr": "와일드헌트 사감대 소속 학생.",
       "en": "Unreleased student from Wild Hunt Art Academy Dormitory Inspectors.",
       "ja": "ワイルドハント芸術学院 舎監隊所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "히로미"
-      ],
-      "en": [
-        "hiromi",
-        "히로미"
-      ],
-      "ja": [
-        "ヒロミ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "와일드헌트 예술학원/사감대/히로미/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_hiromi_portrait.png",
@@ -72,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

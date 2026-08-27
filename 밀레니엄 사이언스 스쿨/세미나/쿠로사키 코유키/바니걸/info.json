@@ -27,42 +27,12 @@
       "kr": "선상의 바니 체이서 이벤트에서 첫 등장한 코유키의 바니걸 의상 스탠딩. SD 모델링이 존재하나 플레이어블 미출시 상태.",
       "en": "Unreleased 바니걸 variant for Kurosaki Koyuki.",
       "ja": "黒崎コユキの未実装바니걸衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "바니걸",
-        "코유키",
-        "코유키(바니걸)",
-        "쿠로사키",
-        "쿠로사키 코유키",
-        "쿠로사키 코유키(바니걸)",
-        "쿠로사키코유키"
-      ],
-      "en": [
-        "kurosaki koyuki",
-        "kurosaki_kurosaki koyuki",
-        "코유키"
-      ],
-      "ja": [
-        "黒崎コユキ",
-        "黒崎黒崎コユキ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_koyuki_bunny_girl_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

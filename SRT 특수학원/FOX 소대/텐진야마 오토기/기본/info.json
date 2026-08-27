@@ -27,39 +27,12 @@
       "kr": "FOX 소대 소속 저격수. 코드네임 FOX 4.",
       "en": "Unreleased student from SRT Special Academy FOX Platoon.",
       "ja": "SRT特殊学園 FOX小隊所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "오토기",
-        "텐진야마",
-        "텐진야마 오토기",
-        "텐진야마오토기"
-      ],
-      "en": [
-        "tenjinyama otogi",
-        "tenjinyama_tenjinyama otogi",
-        "오토기"
-      ],
-      "ja": [
-        "天神山オトギ",
-        "天神山天神山オトギ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "SRT 특수학원/FOX 소대/텐진야마 오토기/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_otogi_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

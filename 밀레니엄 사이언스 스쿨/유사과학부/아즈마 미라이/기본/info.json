@@ -27,39 +27,12 @@
       "kr": "밀레니엄 유사과학부의 부원.",
       "en": "Unreleased student from Millennium Science School Pseudoscience Club.",
       "ja": "ミレニアムサイエンススクール 疑似科学部所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "미라이",
-        "아즈마",
-        "아즈마 미라이",
-        "아즈마미라이"
-      ],
-      "en": [
-        "azuma mirai",
-        "azuma_azuma mirai",
-        "미라이"
-      ],
-      "ja": [
-        "東ミライ",
-        "東東ミライ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_mirai_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

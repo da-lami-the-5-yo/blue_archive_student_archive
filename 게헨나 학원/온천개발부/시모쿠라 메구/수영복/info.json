@@ -27,42 +27,12 @@
       "kr": "여름 하늘의 프로미스 이벤트에서 화염방사기 튜브를 든 메구의 수영복 스탠딩.",
       "en": "Unreleased 수영복 variant for Shimokura Megu.",
       "ja": "下倉メグの未実装수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "메구",
-        "메구(수영복)",
-        "수영복",
-        "시모쿠라",
-        "시모쿠라 메구",
-        "시모쿠라 메구(수영복)",
-        "시모쿠라메구"
-      ],
-      "en": [
-        "shimokura megu",
-        "shimokura_shimokura megu",
-        "메구"
-      ],
-      "ja": [
-        "下倉メグ",
-        "下倉下倉メグ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/온천개발부/시모쿠라 메구/수영복/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_megu_swimsuit_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

@@ -30,8 +30,8 @@
     }
   },
   "collection_stats": {
-    "공식": 4,
-    "비공식": 2
+    "공식": 3,
+    "비공식": 1
   },
   "images": [
     {
@@ -46,18 +46,6 @@
       "similarity": 0.65
     },
     {
-      "category": "비공식",
-      "filename": "fanart_7070868_rank01.jpg",
-      "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/비공식/rank01/fanart_7070868_rank01.jpg",
-      "similarity": 0.65
-    },
-    {
-      "category": "공식",
-      "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_schaledb_portrait.webp",
-      "filename": "official_schaledb_portrait.webp",
-      "source": "https://schaledb.com/images/student/portrait/10138.webp"
-    },
-    {
       "category": "공식",
       "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_schaledb_collection.webp",
       "filename": "official_schaledb_collection.webp",
@@ -70,6 +58,6 @@
       "source": "https://schaledb.com/images/student/icon/10138.webp"
     }
   ],
-  "image_count": 6,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

@@ -27,39 +27,12 @@
       "kr": "아리우스 분교 니코메디아 트룹 단원.",
       "en": "Unreleased student from Arius Branch School Nicomedia Troupe.",
       "ja": "アリウス分校 ニコメディア劇団所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "스바루",
-        "카케하시",
-        "카케하시 스바루",
-        "카케하시스바루"
-      ],
-      "en": [
-        "kakehashi subaru",
-        "kakehashi_kakehashi subaru",
-        "스바루"
-      ],
-      "ja": [
-        "架橋梯スバル",
-        "梯スバル"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "아리우스 분교/니코메디아 트룹/카케하시 스바루/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_subaru_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

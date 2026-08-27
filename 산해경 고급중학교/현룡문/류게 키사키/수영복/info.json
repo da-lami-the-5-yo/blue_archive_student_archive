@@ -30,19 +30,13 @@
     }
   },
   "collection_stats": {
-    "공식": 4
+    "공식": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_portrait.png",
       "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_portrait.png"
-    },
-    {
-      "category": "공식",
-      "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_schaledb_portrait.webp",
-      "filename": "official_schaledb_portrait.webp",
-      "source": "https://schaledb.com/images/student/portrait/10145.webp"
     },
     {
       "category": "공식",
@@ -57,6 +51,6 @@
       "source": "https://schaledb.com/images/student/icon/10145.webp"
     }
   ],
-  "image_count": 4,
+  "image_count": 3,
   "updated": "2026-08-27"
 }

@@ -1,0 +1,74 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유리조노 세이아",
+      "en": "Yurizono Seia",
+      "ja": "百合園セイア"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "티파티 3대 파벌 중 하나인 필리우스의 수장이자 예지몽의 능력을 지녔던 소녀.",
+      "en": "Unreleased student from Trinity General School Tea Party.",
+      "ja": "トリニティ総合学園 ティーパーティー所属の未実装生徒。"
+    }
+  },
+  "collection_stats": {
+    "rank01": 1,
+    "rank02": 2,
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "rank01",
+      "filename": "fanart_7084215_rank01_0.49.jpg",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank01/fanart_7084215_rank01_0.49.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7084228_rank02_0.45.jpg",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084228_rank02_0.45.jpg"
+    },
+    {
+      "category": "rank02",
+      "filename": "fanart_7084325_rank02_0.32.jpg",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084325_rank02_0.32.jpg"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/10110.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/10110.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/10110.webp"
+    }
+  ],
+  "image_count": 6,
+  "updated": "2026-08-27"
+}

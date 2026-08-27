@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 2
   },
   "images": [
     {
@@ -48,16 +48,8 @@
       "note": "bluearchive.fandom icon",
       "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mika_School_Swimsuit_Icon.png",
       "collected": "2026-08-27"
-    },
-    {
-      "category": "공식",
-      "filename": "official_zerochan_school_swimsuit.webp",
-      "path": "트리니티 종합학원/티파티/미카/학교 수영복/공식/official_zerochan_school_swimsuit.webp",
-      "note": "공식 일러 (경영 수영복) — 수영복 엔트리에서 이동",
-      "source": "https://www.zerochan.net",
-      "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

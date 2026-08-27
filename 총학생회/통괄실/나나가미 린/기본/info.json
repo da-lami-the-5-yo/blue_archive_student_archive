@@ -27,39 +27,12 @@
       "kr": "총학생회 수석행정관이자 총학생회장 대행. 키보토스의 비상 행정을 총괄.",
       "en": "Unreleased student from General Student Council General Affairs Bureau.",
       "ja": "連邦生徒会 統括室所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "나나가미",
-        "나나가미 린",
-        "나나가미린",
-        "린"
-      ],
-      "en": [
-        "nanagami rin",
-        "nanagami_nanagami rin",
-        "린"
-      ],
-      "ja": [
-        "七神リン",
-        "七神七神リン"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "총학생회/통괄실/나나가미 린/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_rin_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

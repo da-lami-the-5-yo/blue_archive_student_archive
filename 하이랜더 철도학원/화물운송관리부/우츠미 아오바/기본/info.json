@@ -27,39 +27,12 @@
       "kr": "하이랜더 화물운송관리부 부원.",
       "en": "Unreleased student from Highlander Railway Academy Freight Transport Department.",
       "ja": "ハイランダー鉄道学園 貨物輸送管理部所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "아오바",
-        "우츠미",
-        "우츠미 아오바",
-        "우츠미아오바"
-      ],
-      "en": [
-        "utsumi aoba",
-        "utsumi_utsumi aoba",
-        "아오바"
-      ],
-      "ja": [
-        "宇津見アオバ",
-        "宇津見宇津見アオバ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_aoba_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

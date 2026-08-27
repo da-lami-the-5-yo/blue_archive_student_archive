@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 4,
+    "공식": 3,
     "비공식": 2
   },
   "images": [
@@ -53,12 +53,6 @@
     },
     {
       "category": "공식",
-      "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_schaledb_portrait.webp",
-      "filename": "official_schaledb_portrait.webp",
-      "source": "https://schaledb.com/images/student/portrait/10125.webp"
-    },
-    {
-      "category": "공식",
       "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_schaledb_collection.webp",
       "filename": "official_schaledb_collection.webp",
       "source": "https://schaledb.com/images/student/collection/10125.webp"
@@ -70,6 +64,6 @@
       "source": "https://schaledb.com/images/student/icon/10125.webp"
     }
   ],
-  "image_count": 6,
+  "image_count": 5,
   "updated": "2026-08-27"
 }

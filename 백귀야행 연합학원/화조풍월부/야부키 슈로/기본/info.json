@@ -27,39 +27,12 @@
       "kr": "화조풍월부 소속 요호 소녀. 백귀야행 백화요란 편에서 요괴를 부려 혼란을 일으킴.",
       "en": "Unreleased student from Allied Hyakkiyako Academy Kachoufuugetsu Club.",
       "ja": "百鬼夜行連合学院 花鳥風月部所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "슈로",
-        "야부키",
-        "야부키 슈로",
-        "야부키슈로"
-      ],
-      "en": [
-        "yabuki shuro",
-        "yabuki_yabuki shuro",
-        "슈로"
-      ],
-      "ja": [
-        "矢吹シュロ",
-        "矢吹矢吹シュロ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_shuro_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

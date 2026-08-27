@@ -27,39 +27,12 @@
       "kr": "게헨나 재흥위원회의 부원. 게헨나의 질서와 재흥을 도모함.",
       "en": "Unreleased student from Gehenna Academy Gehenna Restoration Committee.",
       "ja": "ゲヘナ学園 ゲヘナ再興委員会所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "마유미",
-        "후리하타",
-        "후리하타 마유미",
-        "후리하타마유미"
-      ],
-      "en": [
-        "furihata mayumi",
-        "furihata_furihata mayumi",
-        "마유미"
-      ],
-      "ja": [
-        "降旗マユミ",
-        "降旗降旗マユミ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/게헨나 재흥위원회/후리하타 마유미/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_mayumi_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

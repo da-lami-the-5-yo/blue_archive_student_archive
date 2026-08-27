@@ -27,42 +27,12 @@
       "kr": "227호 온천장 운영일지 이벤트에서 처음 등장한 메루의 온천 초기 일러스트.",
       "en": "Unreleased 온천 variant for Himeki Meru.",
       "ja": "姫木メルの未実装온천衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "메루",
-        "메루(온천)",
-        "온천",
-        "히메키",
-        "히메키 메루",
-        "히메키 메루(온천)",
-        "히메키메루"
-      ],
-      "en": [
-        "himeki meru",
-        "himeki_himeki meru",
-        "메루"
-      ],
-      "ja": [
-        "姫木メル",
-        "姫木姫木メル"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_meru_hot_spring_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

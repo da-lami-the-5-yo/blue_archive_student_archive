@@ -27,34 +27,12 @@
       "kr": "총학생회 실장.",
       "en": "Unreleased student from General Student Council Communications Bureau.",
       "ja": "連邦生徒会 通信室所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "스모모"
-      ],
-      "en": [
-        "sumomo",
-        "스모모"
-      ],
-      "ja": [
-        "スモモ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "총학생회/통신실/스모모/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_sumomo_portrait.png",
@@ -72,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

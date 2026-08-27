@@ -27,39 +27,12 @@
       "kr": "밀레니엄 트레이닝부 및 야구부 겸직 학생.",
       "en": "Unreleased student from Millennium Science School Training Club.",
       "ja": "ミレニアムサイエンススクール トレーニング部所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "노마사",
-        "노마사 레이",
-        "노마사레이",
-        "레이"
-      ],
-      "en": [
-        "nomasa rei",
-        "nomasa_nomasa rei",
-        "레이"
-      ],
-      "ja": [
-        "野間サレイ",
-        "野間佐野間サレイ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "밀레니엄 사이언스 스쿨/트레이닝부/노마사 레이/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_rei_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

@@ -27,39 +27,12 @@
       "kr": "발키리 경찰학교 교정국 소속 경관.",
       "en": "Unreleased student from Valkyrie Police Academy Correctional Bureau.",
       "ja": "ヴァルキューレ警察学校 矯正局所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "미스즈",
-        "칸바라",
-        "칸바라 미스즈",
-        "칸바라미스즈"
-      ],
-      "en": [
-        "kanbara misuzu",
-        "kanbara_kanbara misuzu",
-        "미스즈"
-      ],
-      "ja": [
-        "神原ミスズ",
-        "神原神原ミスズ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_misuzu_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

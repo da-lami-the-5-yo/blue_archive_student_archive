@@ -27,39 +27,12 @@
       "kr": "붉은겨울 출판부 부원.",
       "en": "Unreleased student from Red Winter Federal Academy Publishing Department.",
       "ja": "レッドウィンター連邦学園 出版部所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "아라마키",
-        "아라마키 야쿠모",
-        "아라마키야쿠모",
-        "야쿠모"
-      ],
-      "en": [
-        "aramaki yakumo",
-        "aramaki_aramaki yakumo",
-        "야쿠모"
-      ],
-      "ja": [
-        "荒巻ヤクモ",
-        "荒巻荒巻ヤクモ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "붉은겨울 연방학원/출판부/아라마키 야쿠모/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_yakumo_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

@@ -1,0 +1,78 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠카츠키 리오",
+      "en": "Tsukatsuki Rio",
+      "ja": "調月リオ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 학생회 세미나의 전 회장(빅 시스터). 에리두 요새와 아방가르드군을 건조한 천재.",
+      "en": "Unreleased student from Millennium Science School Seminar.",
+      "ja": "ミレニアムサイエンススクール セミナー所属の未実装生徒。"
+    }
+  },
+  "collection_stats": {
+    "rank01": 4,
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "rank01",
+      "filename": "fanart_7069264_rank01_0.50.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7069264_rank01_0.50.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7072278_rank01_0.63.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7072278_rank01_0.63.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7081041_rank01_0.65.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7081041_rank01_0.65.jpg"
+    },
+    {
+      "category": "rank01",
+      "filename": "fanart_7087595_rank01_0.54.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7087595_rank01_0.54.jpg"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/20041.webp"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/20041.webp"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/20041.webp"
+    }
+  ],
+  "image_count": 7,
+  "updated": "2026-08-27"
+}

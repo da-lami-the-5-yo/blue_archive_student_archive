@@ -27,42 +27,12 @@
       "kr": "소야곡 이벤트에서 파티에 참석한 이부키의 공주풍 드레스 의상.",
       "en": "Unreleased 드레스 variant for Tanga Ibuki.",
       "ja": "丹花イブキの未実装드레스衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "드레스",
-        "이부키",
-        "이부키(드레스)",
-        "탄가",
-        "탄가 이부키",
-        "탄가 이부키(드레스)",
-        "탄가이부키"
-      ],
-      "en": [
-        "tanga ibuki",
-        "tanga_tanga ibuki",
-        "이부키"
-      ],
-      "ja": [
-        "丹花イブキ",
-        "丹花丹花イブキ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_ibuki_dress_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

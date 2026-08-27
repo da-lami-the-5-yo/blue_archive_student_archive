@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 5
+    "공식": 4
   },
   "images": [
     {
@@ -51,14 +51,6 @@
     },
     {
       "category": "공식",
-      "filename": "official_schaledb_portrait.webp",
-      "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_portrait.webp",
-      "note": "schaledb portrait (id 26016, 해적 컨셉 수영복)",
-      "source": "https://schaledb.com/images/student/portrait/26016.webp",
-      "collected": "2026-08-27"
-    },
-    {
-      "category": "공식",
       "filename": "official_schaledb_collection.webp",
       "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_collection.webp",
       "note": "schaledb collection (id 26016, 해적 컨셉 수영복)",
@@ -74,6 +66,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 5,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

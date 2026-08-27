@@ -27,39 +27,12 @@
       "kr": "FOX 소대 소속 작전참모 및 통신담당. 코드네임 FOX 2.",
       "en": "Unreleased student from SRT Special Academy FOX Platoon.",
       "ja": "SRT特殊学園 FOX小隊所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "니코",
-        "요시노",
-        "요시노 니코",
-        "요시노니코"
-      ],
-      "en": [
-        "yoshino niko",
-        "yoshino_yoshino niko",
-        "니코"
-      ],
-      "ja": [
-        "吉野ニコ",
-        "吉野吉野ニコ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "SRT 특수학원/FOX 소대/요시노 니코/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_niko_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

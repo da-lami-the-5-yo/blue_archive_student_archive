@@ -27,42 +27,12 @@
       "kr": "불인의 길 패션쇼 경호 임무에서 착용한 이즈나의 닌자 파티 드레스.",
       "en": "Unreleased 드레스 variant for Kuda Izuna.",
       "ja": "久田イズナの未実装드레스衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "드레스",
-        "이즈나",
-        "이즈나(드레스)",
-        "쿠다",
-        "쿠다 이즈나",
-        "쿠다 이즈나(드레스)",
-        "쿠다이즈나"
-      ],
-      "en": [
-        "kuda izuna",
-        "kuda_kuda izuna",
-        "이즈나"
-      ],
-      "ja": [
-        "久田イズナ",
-        "久田久田イズナ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_izuna_dress_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

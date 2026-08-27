@@ -27,42 +27,12 @@
       "kr": "밀레니엄 파자마 파티 이벤트에서 등장한 우시오 노아의 파자마 스탠딩.",
       "en": "Unreleased 파자마 variant for Ushio Noa.",
       "ja": "生塩ノアの未実装파자마衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "노아",
-        "노아(파자마)",
-        "우시오",
-        "우시오 노아",
-        "우시오 노아(파자마)",
-        "우시오노아",
-        "파자마"
-      ],
-      "en": [
-        "ushio noa",
-        "ushio_ushio noa",
-        "노아"
-      ],
-      "ja": [
-        "生塩ノア",
-        "生塩生塩ノア"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_noa_pajamas_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

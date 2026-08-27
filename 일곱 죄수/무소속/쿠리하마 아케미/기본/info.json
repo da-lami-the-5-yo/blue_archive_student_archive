@@ -27,39 +27,12 @@
       "kr": "일곱 죄수 중 한 명.",
       "en": "Unreleased student from Seven Prisoners Unaffiliated.",
       "ja": "七人の囚人 無所属所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "아케미",
-        "쿠리하마",
-        "쿠리하마 아케미",
-        "쿠리하마아케미"
-      ],
-      "en": [
-        "kurihama akemi",
-        "kurihama_kurihama akemi",
-        "아케미"
-      ],
-      "ja": [
-        "栗浜アケミ",
-        "栗浜栗浜アケミ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "일곱 죄수/무소속/쿠리하마 아케미/기본/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_akemi_portrait.png",
@@ -77,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

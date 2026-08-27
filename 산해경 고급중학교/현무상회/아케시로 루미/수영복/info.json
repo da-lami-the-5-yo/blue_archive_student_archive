@@ -27,42 +27,12 @@
       "kr": "람과천청 이벤트에서 만두를굽는 루미의 바캉스 수영복 스탠딩.",
       "en": "Unreleased 수영복 variant for Akeshiro Rumi.",
       "ja": "朱城ルミの未実装수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "루미",
-        "루미(수영복)",
-        "수영복",
-        "아케시로",
-        "아케시로 루미",
-        "아케시로 루미(수영복)",
-        "아케시로루미"
-      ],
-      "en": [
-        "akeshiro rumi",
-        "akeshiro_akeshiro rumi",
-        "루미"
-      ],
-      "ja": [
-        "朱城ルミ",
-        "朱城朱城ルミ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_rumi_swimsuit_portrait.png",
@@ -80,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }
