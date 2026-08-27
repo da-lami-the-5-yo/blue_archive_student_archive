@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 1,
+    "공식": 4,
     "비공식": 2
   },
   "images": [
@@ -50,8 +50,26 @@
       "filename": "fanart_7074475_rank01.jpg",
       "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/비공식/rank01/fanart_7074475_rank01.jpg",
       "similarity": 0.65
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/10119.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/10119.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/10119.webp"
     }
   ],
-  "image_count": 3,
+  "image_count": 6,
   "updated": "2026-08-27"
 }

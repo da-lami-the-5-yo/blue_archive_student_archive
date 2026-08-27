@@ -1,54 +1,43 @@
 {
-  "id": null,
-  "name_kr": "류게 키사키",
-  "name_en": "Ryuuge Kisaki",
-  "name_ja": "竜華キサキ",
-  "full_name_kr": "류게 키사키 (기본)",
-  "full_name_en": "Ryuuge Kisaki (Default)",
-  "full_name_ja": "竜華キサキ（基本）",
-  "school_kr": "산해경 고급중학교",
-  "school_en": "Shanhaijing Senior Secondary School",
-  "school_ja": "山海経高級中学校",
-  "club_kr": "현룡문",
-  "club_en": "Genryumon",
-  "club_ja": "玄竜門",
-  "seasonal": "기본",
-  "status": "출시",
-  "role": "서포터",
-  "position": "스페셜",
-  "bullet_type": "신비",
-  "armor_type": "특수장갑",
-  "description_kr": "산해경 고급중학교의 학생회 격인 현룡문의 수장이자 최고 권력자. 키보토스 굴지의 카리스마를 지녔다.",
-  "description_en": "Head of Genryumon and the supreme authority of Shanhaijing Senior Secondary School.",
-  "description_ja": "山海経高級中学校の生徒会にあたる玄竜門の門主。",
-  "search_tags": {
-    "kr": [
-      "류게 키사키",
-      "키사키",
-      "현룡문",
-      "산해경 키사키"
-    ],
-    "en": [
-      "ryuuge kisaki",
-      "kisaki",
-      "kisaki_(blue_archive)"
-    ],
-    "ja": [
-      "竜華キサキ",
-      "キサキ",
-      "玄竜門"
-    ]
+  "student_info": {
+    "name": {
+      "kr": "류게 키사키",
+      "en": "Ryuuge Kisaki",
+      "ja": "竜華キサキ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현룡문",
+      "en": "Genryumon",
+      "ja": "玄竜門"
+    },
+    "seasonal": "기본",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "산해경 고급중학교의 학생회 격인 현룡문의 수장이자 최고 권력자. 키보토스 굴지의 카리스마를 지녔다.",
+      "en": "Head of Genryumon and the supreme authority of Shanhaijing Senior Secondary School.",
+      "ja": "山海経高級中学校の生徒会にあたる玄竜門の門主。"
+    }
+  },
+  "collection_stats": {
+    "공식": 4,
+    "비공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_portrait.png",
       "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_portrait.png"
-    },
-    {
-      "category": "공식",
-      "filename": "official_icon.png",
-      "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_icon.png"
     },
     {
       "category": "비공식",
@@ -61,7 +50,26 @@
       "filename": "fanart_7077886_rank01.jpg",
       "path": "산해경 고급중학교/현룡문/류게 키사키/기본/비공식/rank01/fanart_7077886_rank01.jpg",
       "similarity": 0.65
+    },
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/20039.webp"
+    },
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/20039.webp"
+    },
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/20039.webp"
     }
   ],
-  "image_count": 4
+  "image_count": 6,
+  "updated": "2026-08-27"
 }

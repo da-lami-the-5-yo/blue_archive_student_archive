@@ -1,54 +1,43 @@
 {
-  "id": null,
-  "name_kr": "하타미 에리카",
-  "name_en": "Hatami Erika",
-  "name_ja": "羽留エリカ",
-  "full_name_kr": "하타미 에리카 (기본)",
-  "full_name_en": "Hatami Erika (Default)",
-  "full_name_ja": "羽留エリカ（基本）",
-  "school_kr": "게헨나 학원",
-  "school_en": "Gehenna Academy",
-  "school_ja": "ゲヘナ学園",
-  "club_kr": "귀가부",
-  "club_en": "Go-Home Club",
-  "club_ja": "帰宅部",
-  "seasonal": "기본",
-  "status": "출시(일본 서버)",
-  "role": "서포터",
-  "position": "스페셜",
-  "bullet_type": "폭발",
-  "armor_type": "경장갑",
-  "description_kr": "게헨나 학원 귀가부 소속 학생. 키라라와 단짝으로 방과 후 자유로운 학원 생활을 즐긴다.",
-  "description_en": "Member of the Go-Home Club at Gehenna Academy and close friend of Kirara.",
-  "description_ja": "ゲヘナ学園帰宅部所属。キララの大親友。",
-  "search_tags": {
-    "kr": [
-      "하타미 에리카",
-      "에리카",
-      "게헨나 에리카",
-      "귀가부"
-    ],
-    "en": [
-      "hatami erika",
-      "erika",
-      "erika_(blue_archive)"
-    ],
-    "ja": [
-      "羽留エリカ",
-      "エリカ",
-      "帰宅部"
-    ]
+  "student_info": {
+    "name": {
+      "kr": "하타미 에리카",
+      "en": "Hatami Erika",
+      "ja": "羽留エリカ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "귀가부",
+      "en": "Go-Home Club",
+      "ja": "帰宅部"
+    },
+    "seasonal": "기본",
+    "status": "출시(일본 서버)",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "게헨나 학원 귀가부 소속 학생. 키라라와 단짝으로 방과 후 자유로운 학원 생활을 즐긴다.",
+      "en": "Member of the Go-Home Club at Gehenna Academy and close friend of Kirara.",
+      "ja": "ゲヘナ学園帰宅部所属。キララの大親友。"
+    }
+  },
+  "collection_stats": {
+    "공식": 4,
+    "비공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_portrait.png",
       "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_portrait.png"
-    },
-    {
-      "category": "공식",
-      "filename": "official_icon.png",
-      "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_icon.png"
     },
     {
       "category": "비공식",
@@ -61,8 +50,26 @@
       "filename": "fanart_7043006_rank01.jpg",
       "path": "게헨나 학원/귀가부/하타미 에리카/기본/비공식/rank01/fanart_7043006_rank01.jpg",
       "similarity": 0.65
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/20058.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/20058.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/20058.webp"
     }
   ],
-  "image_count": 4,
+  "image_count": 6,
   "updated": "2026-08-27"
 }

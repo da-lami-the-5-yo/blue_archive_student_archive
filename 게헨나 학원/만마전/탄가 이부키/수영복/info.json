@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 2
+    "공식": 5
   },
   "images": [
     {
@@ -48,8 +48,26 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/20060.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/20060.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/20060.webp"
     }
   ],
-  "image_count": 2,
+  "image_count": 5,
   "updated": "2026-08-27"
 }

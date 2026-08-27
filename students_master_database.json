@@ -1273,9 +1273,27 @@
         "filename": "fanart_7043006_rank01.jpg",
         "path": "게헨나 학원/귀가부/하타미 에리카/기본/비공식/rank01/fanart_7043006_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20058.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20058.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/귀가부/하타미 에리카/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20058.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "에리카",
     "family_name_kr": "하타미",
     "canonical_name_kr": "하타미 에리카"
@@ -1728,9 +1746,27 @@
         "note": "인게임 Icon",
         "source": "https://bluearchive.fandom.com",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10148.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10148.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10148.webp"
       }
     ],
-    "image_count": 2,
+    "image_count": 5,
     "personal_name_kr": "이로하",
     "family_name_kr": "나츠메",
     "canonical_name_kr": "나츠메 이로하"
@@ -2037,9 +2073,27 @@
         "filename": "fanart_7023758_rank01.jpg",
         "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/비공식/rank01/fanart_7023758_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20040.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20040.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20040.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "사츠키",
     "family_name_kr": "쿄고쿠",
     "canonical_name_kr": "쿄고쿠 사츠키"
@@ -2103,9 +2157,27 @@
         "note": "인게임 Icon",
         "source": "https://bluearchive.fandom.com",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10147.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10147.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10147.webp"
       }
     ],
-    "image_count": 2,
+    "image_count": 5,
     "personal_name_kr": "사츠키",
     "family_name_kr": "쿄고쿠",
     "canonical_name_kr": "쿄고쿠 사츠키"
@@ -2347,9 +2419,27 @@
         "note": "인게임 Icon",
         "source": "https://bluearchive.fandom.com",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20060.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20060.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20060.webp"
       }
     ],
-    "image_count": 2,
+    "image_count": 5,
     "personal_name_kr": "이부키",
     "family_name_kr": "탄가",
     "canonical_name_kr": "탄가 이부키"
@@ -2591,9 +2681,27 @@
         "note": "인게임 Icon",
         "source": "https://bluearchive.fandom.com",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10146.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10146.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10146.webp"
       }
     ],
-    "image_count": 2,
+    "image_count": 5,
     "personal_name_kr": "마코토",
     "family_name_kr": "하누마",
     "canonical_name_kr": "하누마 마코토"
@@ -9307,9 +9415,27 @@
         "category": "rank01",
         "filename": "fanart_7087595_rank01_0.54.jpg",
         "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7087595_rank01_0.54.jpg"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20041.webp"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20041.webp"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20041.webp"
       }
     ],
-    "image_count": 5,
+    "image_count": 8,
     "personal_name_kr": "리오",
     "family_name_kr": "츠카츠키",
     "canonical_name_kr": "츠카츠키 리오"
@@ -9629,9 +9755,27 @@
         "note": "인게임 아이콘",
         "source": "https://bluearchive.fandom.com",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20056.webp"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20056.webp"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20056.webp"
       }
     ],
-    "image_count": 2
+    "image_count": 5
   },
   {
     "id": 13010,
@@ -12964,9 +13108,27 @@
         "filename": "fanart_7074475_rank01.jpg",
         "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/비공식/rank01/fanart_7074475_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10119.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10119.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10119.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "나구사",
     "family_name_kr": "고료",
     "canonical_name_kr": "고료 나구사"
@@ -13019,9 +13181,27 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10142.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10142.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10142.webp"
       }
     ],
-    "image_count": 1,
+    "image_count": 4,
     "personal_name_kr": "나구사",
     "family_name_kr": "고료",
     "canonical_name_kr": "고료 나구사"
@@ -14215,9 +14395,27 @@
         "filename": "fanart_6848102_rank01.jpg",
         "path": "백귀야행 연합학원/음양부/아마치 니야/기본/비공식/rank01/fanart_6848102_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20046.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20046.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/음양부/아마치 니야/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20046.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "니야",
     "family_name_kr": "아마치",
     "canonical_name_kr": "아마치 니야"
@@ -17494,6 +17692,8 @@
         "류게",
         "류게 키사키",
         "류게키사키",
+        "류우게",
+        "류우게 키사키",
         "키사키"
       ],
       "en": [
@@ -17523,9 +17723,27 @@
         "filename": "fanart_7077886_rank01.jpg",
         "path": "산해경 고급중학교/현룡문/류게 키사키/기본/비공식/rank01/fanart_7077886_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20039.webp"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20039.webp"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20039.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "키사키",
     "family_name_kr": "류게",
     "canonical_name_kr": "류게 키사키"
@@ -17559,6 +17777,8 @@
         "류게 키사키",
         "류게 키사키(수영복)",
         "류게키사키",
+        "류우게",
+        "류우게 키사키",
         "수영복",
         "키사키",
         "키사키(수영복)"
@@ -17578,9 +17798,27 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10145.webp"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10145.webp"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10145.webp"
       }
     ],
-    "image_count": 1,
+    "image_count": 4,
     "personal_name_kr": "키사키",
     "family_name_kr": "류게",
     "canonical_name_kr": "류게 키사키"
@@ -21193,6 +21431,8 @@
     "search_tags": {
       "kr": [
         "코코로",
+        "토미",
+        "토미 코코로",
         "토우미",
         "토우미 코코로",
         "토우미코코로"
@@ -21218,9 +21458,27 @@
         "filename": "fanart_7084672_rank01.jpg",
         "path": "오디세이아 해양학교/다이빙부/토우미 코코로/기본/비공식/rank01/fanart_7084672_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "오디세이아 해양학교/다이빙부/토우미 코코로/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10149.webp"
+      },
+      {
+        "category": "공식",
+        "path": "오디세이아 해양학교/다이빙부/토우미 코코로/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10149.webp"
+      },
+      {
+        "category": "공식",
+        "path": "오디세이아 해양학교/다이빙부/토우미 코코로/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10149.webp"
       }
     ],
-    "image_count": 2,
+    "image_count": 5,
     "personal_name_kr": "코코로",
     "family_name_kr": "토우미",
     "canonical_name_kr": "토우미 코코로"
@@ -21282,9 +21540,27 @@
         "filename": "fanart_7084959_rank01.jpg",
         "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/비공식/rank01/fanart_7084959_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10150.webp"
+      },
+      {
+        "category": "공식",
+        "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10150.webp"
+      },
+      {
+        "category": "공식",
+        "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10150.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "코토네",
     "family_name_kr": "후치가미",
     "canonical_name_kr": "후치가미 코토네"
@@ -21902,9 +22178,27 @@
         "filename": "fanart_7088715_rank01.jpg",
         "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/비공식/rank01/fanart_7088715_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10125.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10125.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10125.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "에리",
     "family_name_kr": "시라오",
     "canonical_name_kr": "시라오 에리"
@@ -22034,9 +22328,27 @@
         "filename": "fanart_7085576_rank01.jpg",
         "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/비공식/rank01/fanart_7085576_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10126.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10126.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/이타가키 카노에/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10126.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "카노에",
     "family_name_kr": "이타가키",
     "canonical_name_kr": "이타가키 카노에"
@@ -22098,9 +22410,27 @@
         "filename": "fanart_7070868_rank01.jpg",
         "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/비공식/rank01/fanart_7070868_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10138.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10138.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/오컬트 연구회/키누이 레나/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10138.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "레나",
     "family_name_kr": "키누이",
     "canonical_name_kr": "키누이 레나"
@@ -22162,9 +22492,27 @@
         "filename": "fanart_473084_rank01.jpg",
         "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/비공식/rank01/fanart_473084_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10127.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10127.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/사쿠라이 미요/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10127.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "미요",
     "family_name_kr": "사쿠라이",
     "canonical_name_kr": "사쿠라이 미요"
@@ -22226,9 +22574,27 @@
         "filename": "fanart_7022250_rank01.jpg",
         "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/비공식/rank01/fanart_7022250_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10128.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10128.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/와카사 후유/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10128.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "후유",
     "family_name_kr": "와카사",
     "canonical_name_kr": "와카사 후유"
@@ -22290,9 +22656,27 @@
         "filename": "fanart_7047433_rank01.jpg",
         "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/비공식/rank01/fanart_7047433_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/20050.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/20050.webp"
+      },
+      {
+        "category": "공식",
+        "path": "와일드헌트 예술학원/특수교역부/우스바 리츠/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/20050.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "리츠",
     "family_name_kr": "우스바",
     "canonical_name_kr": "우스바 리츠"
@@ -28803,9 +29187,27 @@
         "category": "rank02",
         "filename": "fanart_7084325_rank02_0.32.jpg",
         "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084325_rank02_0.32.jpg"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10110.webp"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10110.webp"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10110.webp"
       }
     ],
-    "image_count": 4,
+    "image_count": 7,
     "personal_name_kr": "세이아",
     "family_name_kr": "유리조노",
     "canonical_name_kr": "유리조노 세이아"
@@ -29272,9 +29674,27 @@
         "filename": "fanart_7085436_rank01.jpg",
         "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/비공식/rank01/fanart_7085436_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10118.webp"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10118.webp"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 노조미/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10118.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "노조미",
     "family_name_kr": "타치바나",
     "canonical_name_kr": "타치바나 노조미"
@@ -29336,9 +29756,27 @@
         "filename": "fanart_7085420_rank01.jpg",
         "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/비공식/rank01/fanart_7085420_rank01.jpg",
         "similarity": 0.65
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_schaledb_portrait.webp",
+        "filename": "official_schaledb_portrait.webp",
+        "source": "https://schaledb.com/images/student/portrait/10117.webp"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_schaledb_collection.webp",
+        "filename": "official_schaledb_collection.webp",
+        "source": "https://schaledb.com/images/student/collection/10117.webp"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/중앙통제실/타치바나 히카리/기본/공식/official_schaledb_icon.webp",
+        "filename": "official_schaledb_icon.webp",
+        "source": "https://schaledb.com/images/student/icon/10117.webp"
       }
     ],
-    "image_count": 3,
+    "image_count": 6,
     "personal_name_kr": "히카리",
     "family_name_kr": "타치바나",
     "canonical_name_kr": "타치바나 히카리"

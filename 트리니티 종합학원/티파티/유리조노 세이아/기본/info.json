@@ -27,29 +27,12 @@
       "kr": "티파티 3대 파벌 중 하나인 필리우스의 수장이자 예지몽의 능력을 지녔던 소녀.",
       "en": "Unreleased student from Trinity General School Tea Party.",
       "ja": "トリニティ総合学園 ティーパーティー所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "유리조노 세이아",
-        "세이아"
-      ],
-      "en": [
-        "yurizono_seia",
-        "seia_(blue_archive)"
-      ],
-      "ja": [
-        "百合園セイア",
-        "セイア"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 1,
-    "unofficial_rank02": 2,
-    "total_images": 4
+    "공식": 4,
+    "rank01": 1,
+    "rank02": 2
   },
   "images": [
     {
@@ -71,8 +54,26 @@
       "category": "rank02",
       "filename": "fanart_7084325_rank02_0.32.jpg",
       "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084325_rank02_0.32.jpg"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/10110.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/10110.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/10110.webp"
     }
   ],
-  "image_count": 4,
+  "image_count": 7,
   "updated": "2026-08-27"
 }

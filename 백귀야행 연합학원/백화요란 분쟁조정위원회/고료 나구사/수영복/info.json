@@ -30,15 +30,33 @@
     }
   },
   "collection_stats": {
-    "공식": 1
+    "공식": 4
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_portrait.png",
       "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/10142.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/10142.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/10142.webp"
     }
   ],
-  "image_count": 1,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

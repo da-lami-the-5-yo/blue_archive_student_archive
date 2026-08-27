@@ -1,41 +1,37 @@
 {
-  "id": null,
-  "name_kr": "후치가미 코토네",
-  "name_en": "Fuchigami Kotone",
-  "name_ja": "渕上コトネ",
-  "full_name_kr": "후치가미 코토네 (기본)",
-  "full_name_en": "Fuchigami Kotone (Default)",
-  "full_name_ja": "渕上コトネ（基本）",
-  "school_kr": "오디세이아 해양학교",
-  "school_en": "Odyssey Maritime School",
-  "school_ja": "オデッセイア海洋学校",
-  "club_kr": "다이빙부",
-  "club_en": "Diving Club",
-  "club_ja": "ダイビング部",
-  "seasonal": "기본",
-  "status": "출시(일본 서버)",
-  "role": "탱커",
-  "position": "스트라이커",
-  "bullet_type": "관통",
-  "armor_type": "중장갑",
-  "description_kr": "오디세이아 해양학교 다이빙부 부원. 안경과 수중 헤드셋을 착용한 회색 머리의 거유 학생.",
-  "description_en": "Member of the Diving Club at Odyssey Maritime School.",
-  "description_ja": "オデッセイア海洋学校ダイビング部の部員。メガネとイヤーマフを着用。",
-  "search_tags": {
-    "kr": [
-      "후치가미 코토네",
-      "코토네",
-      "오디세이아 코토네"
-    ],
-    "en": [
-      "fuchigami kotone",
-      "kotone",
-      "kotone_(blue_archive)"
-    ],
-    "ja": [
-      "渕上コトネ",
-      "コトネ"
-    ]
+  "student_info": {
+    "name": {
+      "kr": "후치가미 코토네",
+      "en": "Fuchigami Kotone",
+      "ja": "渕上コトネ"
+    },
+    "school": {
+      "kr": "오디세이아 해양학교",
+      "en": "Odyssey Maritime School",
+      "ja": "オデッセイア海洋学校"
+    },
+    "club": {
+      "kr": "다이빙부",
+      "en": "Diving Club",
+      "ja": "ダイビング部"
+    },
+    "seasonal": "기본",
+    "status": "출시(일본 서버)",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "오디세이아 해양학교 다이빙부 부원. 안경과 수중 헤드셋을 착용한 회색 머리의 거유 학생.",
+      "en": "Member of the Diving Club at Odyssey Maritime School.",
+      "ja": "オデッセイア海洋学校ダイビング部の部員。メガネとイヤーマフを着用。"
+    }
+  },
+  "collection_stats": {
+    "공식": 4,
+    "비공식": 2
   },
   "images": [
     {
@@ -54,8 +50,26 @@
       "filename": "fanart_7084959_rank01.jpg",
       "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/비공식/rank01/fanart_7084959_rank01.jpg",
       "similarity": 0.65
+    },
+    {
+      "category": "공식",
+      "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/10150.webp"
+    },
+    {
+      "category": "공식",
+      "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/10150.webp"
+    },
+    {
+      "category": "공식",
+      "path": "오디세이아 해양학교/다이빙부/후치가미 코토네/기본/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/10150.webp"
     }
   ],
-  "image_count": 3,
+  "image_count": 6,
   "updated": "2026-08-27"
 }

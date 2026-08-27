@@ -27,28 +27,10 @@
       "kr": "《비밀의 미드나잇 파티》 복각에 맞춰 공개된 장난기 가득한 파자마 차림의 코유키.",
       "en": "Koyuki wearing cute playful pajamas.",
       "ja": "パジャマ姿のコユキ。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "쿠로사키 코유키 (파자마)",
-        "파자마 코유키",
-        "코유키"
-      ],
-      "en": [
-        "koyuki_pajamas"
-      ],
-      "ja": [
-        "パジャマコユキ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 2,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 2
+    "공식": 5
   },
   "images": [
     {
@@ -66,8 +48,26 @@
       "note": "인게임 아이콘",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_schaledb_portrait.webp",
+      "filename": "official_schaledb_portrait.webp",
+      "source": "https://schaledb.com/images/student/portrait/20056.webp"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_schaledb_collection.webp",
+      "filename": "official_schaledb_collection.webp",
+      "source": "https://schaledb.com/images/student/collection/20056.webp"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_schaledb_icon.webp",
+      "filename": "official_schaledb_icon.webp",
+      "source": "https://schaledb.com/images/student/icon/20056.webp"
     }
   ],
-  "image_count": 2,
+  "image_count": 5,
   "updated": "2026-08-27"
 }
