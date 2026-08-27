@@ -17843,6 +17843,52 @@
     "club_kr": "현룡문",
     "club_en": "Genryumon",
     "club_ja": "玄竜門",
+    "status": "출시(일본 서버)",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "seasonal": "수영복",
+    "description_kr": "류게 키사키(수영복)와 함께 등장하는 키키의 수영복 차림. 흰 원피스 수영복과 노란 튜브. fandom에는 키사키 수영복의 _2 변형으로 등재.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/키키/수영복/공식/official_kiki_swimsuit_portrait.png",
+        "filename": "official_kiki_swimsuit_portrait.png",
+        "source": "fandom Kisaki_Swimsuit_2_Portrait.png (키사키 수영복의 동반 변형=키키)"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/키키/수영복/공식/official_kiki_swimsuit_icon.png",
+        "filename": "official_kiki_swimsuit_icon.png",
+        "source": "fandom Kisaki_Swimsuit_2_Icon.png (키사키 수영복의 동반 변형=키키)"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "키키",
+        "키키 수영복",
+        "수영복 키키",
+        "키사키 수영복"
+      ],
+      "ja": [
+        "キキ"
+      ]
+    },
+    "canonical_name_kr": "키키",
+    "id": 26019
+  },
+  {
+    "name_kr": "키키",
+    "name_en": "Kiki",
+    "name_ja": "キキ",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Genryumon",
+    "club_ja": "玄竜門",
     "status": "미출시 시즈널",
     "role": null,
     "position": null,
