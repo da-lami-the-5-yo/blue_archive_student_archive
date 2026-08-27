@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아케보시 히마리",
+      "en": "Himari",
+      "ja": "ヒマリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Super Phenomenon Task Force",
+      "ja": "特異現象捜査部"
+    },
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "최종편 우주전함(방주) 제복.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/아케보시 히마리/우주전함/공식/official_himari_ark_uniform_portrait.png",
+      "filename": "official_himari_ark_uniform_portrait.png",
+      "source": "fandom Himari_Ark_Uniform_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/아케보시 히마리/우주전함/공식/official_himari_ark_uniform_icon.png",
+      "filename": "official_himari_ark_uniform_icon.png",
+      "source": "fandom Himari_Ark_Uniform_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

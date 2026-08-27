@@ -1,0 +1,57 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스나오오카미 시로코*테러",
+      "en": "Shiroko*Terror",
+      "ja": "シロコ＊テラー"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "아비도스 학생회",
+      "en": "Abydos Student Council",
+      "ja": "アビドス生徒会"
+    },
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "시로코*테러의 복면(강도) 변형.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/아비도스 학생회/스나오오카미 시로코*테러/강도/공식/official_shiroko_terror_robber_portrait.png",
+      "filename": "official_shiroko_terror_robber_portrait.png",
+      "source": "fandom Shiroko_Terror_Robber_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/아비도스 학생회/스나오오카미 시로코*테러/강도/공식/official_shiroko_terror_robber_icon.png",
+      "filename": "official_shiroko_terror_robber_icon.png",
+      "source": "fandom Shiroko_Terror_Robber_Icon.png"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/아비도스 학생회/스나오오카미 시로코*테러/강도/공식/official_shiroko_terror_2_robber_icon.png",
+      "filename": "official_shiroko_terror_2_robber_icon.png",
+      "source": "fandom Shiroko_Terror_2_Robber_Icon.png"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

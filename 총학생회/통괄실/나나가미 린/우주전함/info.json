@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "나나가미 린",
+      "en": "Nanagami Rin",
+      "ja": "七神リン"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "통괄실",
+      "en": "General Affairs Bureau",
+      "ja": "統括室"
+    },
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "최종편 우주전함(방주) 제복.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "총학생회/통괄실/나나가미 린/우주전함/공식/official_rin_ark_uniform_portrait.png",
+      "filename": "official_rin_ark_uniform_portrait.png",
+      "source": "fandom Rin_Ark_Uniform_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "총학생회/통괄실/나나가미 린/우주전함/공식/official_rin_ark_uniform_icon.png",
+      "filename": "official_rin_ark_uniform_icon.png",
+      "source": "fandom Rin_Ark_Uniform_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

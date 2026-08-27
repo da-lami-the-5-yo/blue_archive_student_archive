@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "산해경 학생 (모브) 2",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "산해경 고급중학교 소속의 이름 없는 배경(모브) 학생.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/무소속/산해경 학생 (모브) 2/기본/공식/official_shanhaijing_student_2_portrait.png",
+      "filename": "official_shanhaijing_student_2_portrait.png",
+      "source": "fandom Shanhaijing_Student_2_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/무소속/산해경 학생 (모브) 2/기본/공식/official_shanhaijing_student_2_icon.png",
+      "filename": "official_shanhaijing_student_2_icon.png",
+      "source": "fandom Shanhaijing_Student_2_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

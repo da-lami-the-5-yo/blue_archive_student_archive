@@ -27,34 +27,24 @@
       "kr": "최종편 우주전함 방주 결전 당시 착용한 유우카의 제복 스탠딩.",
       "en": "Unreleased 우주전함 variant for Hayase Yuuka.",
       "ja": "早瀬ユウカの未実装우주전함衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "제복 유우카",
-        "함장 유우카"
-      ],
-      "en": [
-        "hayase_yuuka_(spaceship)_(blue_archive)"
-      ],
-      "ja": [
-        "早瀬ユウカ(宇宙戦艦)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "밀레니엄 사이언스 스쿨/세미나/하야세 유우카/우주전함/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/세미나/하야세 유우카/우주전함/공식/official_yuuka_ark_uniform_icon.png",
+      "filename": "official_yuuka_ark_uniform_icon.png",
+      "source": "fandom Yuuka_Ark_Uniform_Icon.png"
     }
   ],
-  "image_count": 1
+  "image_count": 2,
+  "updated": "2026-08-27"
 }

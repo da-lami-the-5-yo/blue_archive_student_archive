@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "카즈사",
+      "kr": "쿄야마 카즈사",
       "en": "Kazusa",
       "ja": "カズサ"
     },
@@ -27,32 +27,10 @@
       "kr": "느긋하고 조용한 성격의 <방과후 디저트부> 부원.\n\n자신을 잘 드러내지 않는 편이며, 보통 다른 부원들의 행동에 묵묵히 따른다. 늘 주변의 기행에 휘말려 고생하지만 한편으론 그런 것들까지도 소중하게 생각한다.",
       "en": "A member of the After-School Dessert Club with a relaxed and quiet personality. \nShe usually keeps to herself and tends to just go along with the other members' shenanigans. She'll grumble a lot about their constant chaos, but she secretly loves that about her friends.",
       "ja": "トリニティ総合学園所属、ゆったりとした静かな性格の「放課後スイーツ部」の部員。\n\n自分をあまり表に出さないため、普段は他の部員たちに黙々とついていく事が多い。いつも周囲の奇行に巻き込まれて苦労しているが、一方でそういう所も大切に思っている。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "카즈사",
-        "카즈사",
-        "카즈사 블루아카이브"
-      ],
-      "en": [
-        "kazusa_(blue_archive)",
-        "kazusa",
-        "blue_archive_kazusa"
-      ],
-      "ja": [
-        "カズサ",
-        "カズサ(ブルーアーカイブ)",
-        "ブルーアーカイブ カズサ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 5
   },
   "images": [
     {
@@ -69,7 +47,20 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_kazusa_old_portrait.png",
+      "filename": "official_kazusa_old_portrait.png",
+      "source": "fandom Kazusa_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_kazusa_old_icon.png",
+      "filename": "official_kazusa_old_icon.png",
+      "source": "fandom Kazusa_Old_Icon.png (구버전 아이콘)"
     }
   ],
-  "image_count": 3
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

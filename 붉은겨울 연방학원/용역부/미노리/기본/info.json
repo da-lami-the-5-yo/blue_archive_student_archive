@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "미노리",
+      "kr": "야스모리 미노리",
       "en": "Minori",
       "ja": "ミノリ"
     },
@@ -27,32 +27,10 @@
       "kr": "붉은겨울 연방학원의 용역부를 이끌고 있는 용역부장.\n\n대규모의 토목 공사 등 인력이 필요한 곳이면 어디든 달려가 인력을 파견하고 현장을 지휘한다. 맡겨진 일을 처리하는 능력은 우수하지만, 사소한 일로도 걸핏하면 파업과 시위를 일삼기 때문에 고용주들로부터의 악명이 높은 편이다.",
       "en": "Head of Red Winter Federal Academy's Labor Party.\n\nShe dispatches and manages laborers wherever they are needed, including large-scale construction sites. Despite her ability to get any job done, she has a bad reputation with employers due to being prone to leading strikes and protests at the slightest hint of trouble.",
       "ja": "レッドウィンター連邦学園所属、工務部の部長。\n\n大規模な土木工事や建築など、人力が必要な所ならどこにだって人を派遣し現場を指揮する。仕事の手腕はたしかだが、些細なことでストライキやデモを起こすため雇い主たちから悪名高い模様。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "미노리",
-        "미노리",
-        "미노리 블루아카이브"
-      ],
-      "en": [
-        "minori_(blue_archive)",
-        "minori",
-        "blue_archive_minori"
-      ],
-      "ja": [
-        "ミノリ",
-        "ミノリ(ブルーアーカイブ)",
-        "ブルーアーカイブ ミノリ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 5
   },
   "images": [
     {
@@ -69,7 +47,20 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_minori_old_portrait.png",
+      "filename": "official_minori_old_portrait.png",
+      "source": "fandom Minori_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_minori_old_icon.png",
+      "filename": "official_minori_old_icon.png",
+      "source": "fandom Minori_Old_Icon.png (구버전 아이콘)"
     }
   ],
-  "image_count": 3
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

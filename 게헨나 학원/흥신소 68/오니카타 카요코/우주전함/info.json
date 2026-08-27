@@ -27,34 +27,24 @@
       "kr": "최종편 방주 결전에서 오퍼레이션을 보조한 카요코의 제복 스탠딩.",
       "en": "Unreleased 우주전함 variant for Onikata Kayoko.",
       "ja": "鬼方カヨコの未実装우주전함衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "제복 카요코",
-        "우주선 카요코"
-      ],
-      "en": [
-        "onikata_kayoko_(spaceship)_(blue_archive)"
-      ],
-      "ja": [
-        "鬼方カヨコ(宇宙戦艦)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "게헨나 학원/흥신소 68/오니카타 카요코/우주전함/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/흥신소 68/오니카타 카요코/우주전함/공식/official_kayoko_ark_uniform_icon.png",
+      "filename": "official_kayoko_ark_uniform_icon.png",
+      "source": "fandom Kayoko_Ark_Uniform_Icon.png"
     }
   ],
-  "image_count": 1
+  "image_count": 2,
+  "updated": "2026-08-27"
 }

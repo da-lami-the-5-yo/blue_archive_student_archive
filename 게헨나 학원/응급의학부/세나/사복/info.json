@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 5
   },
   "images": [
     {
@@ -56,8 +56,20 @@
       "note": "schaledb icon (id 10113)",
       "source": "https://schaledb.com/images/student/icon/10113.webp",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/응급의학부/세나/사복/공식/official_sena_casual_portrait_2.png",
+      "filename": "official_sena_casual_portrait_2.png",
+      "source": "fandom Sena_Casual_Portrait_2.png"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/응급의학부/세나/사복/공식/official_sena_casual_icon.png",
+      "filename": "official_sena_casual_icon.png",
+      "source": "fandom Sena_Casual_Icon.png"
     }
   ],
-  "image_count": 3,
+  "image_count": 5,
   "updated": "2026-08-27"
 }

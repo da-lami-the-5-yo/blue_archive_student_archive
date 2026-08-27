@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이자요이 노노미",
+      "en": "Nonomi",
+      "ja": "ノノミ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 4
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_robber_portrait.png",
+      "filename": "official_nonomi_robber_portrait.png",
+      "source": "fandom Nonomi_Robber_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_robber_icon.png",
+      "filename": "official_nonomi_robber_icon.png",
+      "source": "fandom Nonomi_Robber_Icon.png"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_swimsuit_robber_portrait.png",
+      "filename": "official_nonomi_swimsuit_robber_portrait.png",
+      "source": "fandom Nonomi_Swimsuit_Robber_Portrait.png (수영복 변형)"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_swimsuit_robber_icon.png",
+      "filename": "official_nonomi_swimsuit_robber_icon.png",
+      "source": "fandom Nonomi_Swimsuit_Robber_Icon.png (수영복 변형)"
+    }
+  ],
+  "image_count": 4,
+  "updated": "2026-08-27"
+}

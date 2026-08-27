@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아지타니 히후미",
+      "en": "Hifumi",
+      "ja": "ヒフミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/보충수업부/아지타니 히후미/강도/공식/official_hifumi_robber_portrait.png",
+      "filename": "official_hifumi_robber_portrait.png",
+      "source": "fandom Hifumi_Robber_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/보충수업부/아지타니 히후미/강도/공식/official_hifumi_robber_icon.png",
+      "filename": "official_hifumi_robber_icon.png",
+      "source": "fandom Hifumi_Robber_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

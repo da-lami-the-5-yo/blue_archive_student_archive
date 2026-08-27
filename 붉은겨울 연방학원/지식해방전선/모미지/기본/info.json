@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "모미지",
+      "kr": "아키이즈미 모미지",
       "en": "Momiji",
       "ja": "モミジ"
     },
@@ -27,32 +27,10 @@
       "kr": "붉은겨울 학원의 도서관에서 지식을 위해 투쟁하는 문학소녀.\n\n빵과 간식을 위해 싸우는 붉은겨울 학원 대부분의 학생들과는 달리, 그녀는 도서관에 더 많은 장서를 유치하기 위해 싸우고 있다. 실상은 중증의 오타쿠로, 사무국에 구입을 요청하는 대부분의 책이 사리사욕에 따라 신청한 도서들이며, 그 덕에 요청의 대부분이 기각되기 마련이지만, 모미지는 포기하지 않는다.",
       "en": "A literature enthusiast fighting to preserve knowledge in Red Winter Academy's library.\n\nMost of her peers fight for bread and snacks, but she fights for books. Unfortunately, she's a serious otaku, which means that the Secrateriat rejects most of her requests to get more manga in the library... But does Momiji give up? Never!",
       "ja": "レッドウィンター連邦学園所属、「知識解放戦線」の文学少女。\n\nパンとおやつのために戦うレッドウィンターの他生徒とは違い、彼女は図書館により多くの蔵書を置くために戦っている。かなりのオタクで、事務局に出す図書購入申請の大半は個人的な理由によるもの。そのため、ほとんどの申請は却下されているが、それでもモミジは諦めずに申請し続けている。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "모미지",
-        "모미지",
-        "모미지 블루아카이브"
-      ],
-      "en": [
-        "momiji_(blue_archive)",
-        "momiji",
-        "blue_archive_momiji"
-      ],
-      "ja": [
-        "モミジ",
-        "モミジ(ブルーアーカイブ)",
-        "ブルーアーカイブ モミジ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 5
   },
   "images": [
     {
@@ -69,7 +47,20 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_momiji_old_portrait.png",
+      "filename": "official_momiji_old_portrait.png",
+      "source": "fandom Momiji_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_momiji_old_icon.png",
+      "filename": "official_momiji_old_icon.png",
+      "source": "fandom Momiji_Old_Icon.png (구버전 아이콘)"
     }
   ],
-  "image_count": 3
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

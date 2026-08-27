@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 1
+    "공식": 2
   },
   "images": [
     {
@@ -40,8 +40,14 @@
       "note": "bluearchive.fandom portrait",
       "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayumu_Ark_Uniform_Portrait.png",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "총학생회/조정실/이와비츠 아유무/우주전함/공식/official_ayumu_ark_uniform_icon.png",
+      "filename": "official_ayumu_ark_uniform_icon.png",
+      "source": "fandom Ayumu_Ark_Uniform_Icon.png"
     }
   ],
-  "image_count": 1,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

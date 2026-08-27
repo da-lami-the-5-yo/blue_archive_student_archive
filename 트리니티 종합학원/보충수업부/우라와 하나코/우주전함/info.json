@@ -27,34 +27,24 @@
       "kr": "최종편 우주전함 우트나피쉬팀의 배에서 활약한 하나코의 제복 스탠딩.",
       "en": "Unreleased 우주전함 variant for Urawa Hanako.",
       "ja": "浦和ハナコの未実装우주전함衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "제복 하나코",
-        "우주선 하나코"
-      ],
-      "en": [
-        "urawa_hanako_(spaceship)_(blue_archive)"
-      ],
-      "ja": [
-        "浦和ハナコ(宇宙戦艦)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "트리니티 종합학원/보충수업부/우라와 하나코/우주전함/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/보충수업부/우라와 하나코/우주전함/공식/official_hanako_ark_uniform_icon.png",
+      "filename": "official_hanako_ark_uniform_icon.png",
+      "source": "fandom Hanako_Ark_Uniform_Icon.png"
     }
   ],
-  "image_count": 1
+  "image_count": 2,
+  "updated": "2026-08-27"
 }

@@ -1,0 +1,45 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우타즈미 사쿠라코",
+      "en": "Sakurako",
+      "ja": "サクラコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "시스터후드",
+      "en": "The Sisterhood",
+      "ja": "シスターフッド"
+    },
+    "seasonal": "유스티나 제복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "유스티나 성도회 의식용 제복 차림.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/시스터후드/우타즈미 사쿠라코/유스티나 제복/공식/official_sakurako_justina_suit_portrait.png",
+      "filename": "official_sakurako_justina_suit_portrait.png",
+      "source": "fandom Sakurako_Justina_Suit_Portrait.png"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

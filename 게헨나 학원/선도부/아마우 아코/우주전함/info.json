@@ -27,34 +27,24 @@
       "kr": "최종편 방주 조타실에서 착용한 아코의 우주전함 승조원 제복.",
       "en": "Unreleased 우주전함 variant for Amau Ako.",
       "ja": "天雨アコの未実装우주전함衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "제복 아코",
-        "우주선 아코"
-      ],
-      "en": [
-        "amau_ako_(spaceship)_(blue_archive)"
-      ],
-      "ja": [
-        "天雨アコ(宇宙戦艦)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "게헨나 학원/선도부/아마우 아코/우주전함/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/선도부/아마우 아코/우주전함/공식/official_ako_ark_uniform_icon.png",
+      "filename": "official_ako_ark_uniform_icon.png",
+      "source": "fandom Ako_Ark_Uniform_Icon.png"
     }
   ],
-  "image_count": 1
+  "image_count": 2,
+  "updated": "2026-08-27"
 }

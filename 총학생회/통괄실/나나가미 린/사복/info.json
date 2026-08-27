@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 1
+    "공식": 2
   },
   "images": [
     {
@@ -40,8 +40,14 @@
       "note": "bluearchive.fandom portrait",
       "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rin_Casual_Portrait.png",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "총학생회/통괄실/나나가미 린/사복/공식/official_rin_casual_icon.png",
+      "filename": "official_rin_casual_icon.png",
+      "source": "fandom Rin_Casual_Icon.png"
     }
   ],
-  "image_count": 1,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

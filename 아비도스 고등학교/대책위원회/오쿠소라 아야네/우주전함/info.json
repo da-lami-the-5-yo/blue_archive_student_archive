@@ -27,34 +27,24 @@
       "kr": "최종편 우주전함 우트나피쉬팀의 배에서 오퍼레이션을 맡은 아야네의 함장 제복 스탠딩.",
       "en": "Unreleased 우주전함 variant for Okusora Ayane.",
       "ja": "奥空アヤネの未実装우주전함衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "함장 아야네",
-        "우주선 아야네"
-      ],
-      "en": [
-        "okusora_ayane_(spaceship)_(blue_archive)"
-      ],
-      "ja": [
-        "奥空アヤネ(宇宙戦艦)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 2
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/우주전함/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/우주전함/공식/official_ayane_ark_uniform_icon.png",
+      "filename": "official_ayane_ark_uniform_icon.png",
+      "source": "fandom Ayane_Ark_Uniform_Icon.png"
     }
   ],
-  "image_count": 1
+  "image_count": 2,
+  "updated": "2026-08-27"
 }

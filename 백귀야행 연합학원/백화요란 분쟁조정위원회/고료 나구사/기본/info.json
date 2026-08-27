@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 4,
+    "공식": 6,
     "비공식": 2
   },
   "images": [
@@ -68,8 +68,20 @@
       "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_icon.webp",
       "filename": "official_schaledb_icon.webp",
       "source": "https://schaledb.com/images/student/icon/10119.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_nagusa_old_portrait.png",
+      "filename": "official_nagusa_old_portrait.png",
+      "source": "fandom Nagusa_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_nagusa_old_icon.png",
+      "filename": "official_nagusa_old_icon.png",
+      "source": "fandom Nagusa_Old_Icon.png (구버전 아이콘)"
     }
   ],
-  "image_count": 6,
+  "image_count": 8,
   "updated": "2026-08-27"
 }

@@ -2268,9 +2268,21 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "게헨나 학원/판데모니움 소사이어티/이부키/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/판데모니움 소사이어티/이부키/기본/공식/official_ibuki_old_portrait.png",
+        "filename": "official_ibuki_old_portrait.png",
+        "source": "fandom Ibuki_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/판데모니움 소사이어티/이부키/기본/공식/official_ibuki_old_icon.png",
+        "filename": "official_ibuki_old_icon.png",
+        "source": "fandom Ibuki_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 3,
+    "image_count": 5,
     "personal_name_kr": "이부키",
     "family_name_kr": "탄가",
     "canonical_name_kr": "탄가 이부키"
@@ -2719,6 +2731,48 @@
     "personal_name_kr": "마코토",
     "family_name_kr": "하누마",
     "canonical_name_kr": "하누마 마코토"
+  },
+  {
+    "name_kr": "게헨나 학생 (모브)",
+    "canonical_name_kr": "게헨나 학생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26049,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "게헨나 학원 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/무소속/게헨나 학생 (모브)/기본/공식/official_gehenna_student_portrait.png",
+        "filename": "official_gehenna_student_portrait.png",
+        "source": "fandom Gehenna_Student_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/무소속/게헨나 학생 (모브)/기본/공식/official_gehenna_student_icon.png",
+        "filename": "official_gehenna_student_icon.png",
+        "source": "fandom Gehenna_Student_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "게헨나 학생 (모브)",
+        "모브",
+        "모브 학생"
+      ]
+    }
   },
   {
     "id": 10009,
@@ -4224,9 +4278,15 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/선도부/아마우 아코/우주전함/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/선도부/아마우 아코/우주전함/공식/official_ako_ark_uniform_icon.png",
+        "filename": "official_ako_ark_uniform_icon.png",
+        "source": "fandom Ako_Ark_Uniform_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "아코",
     "family_name_kr": "아마우",
     "canonical_name_kr": "아마우 아코"
@@ -4836,9 +4896,21 @@
         "note": "schaledb icon (id 10113)",
         "source": "https://schaledb.com/images/student/icon/10113.webp",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/응급의학부/세나/사복/공식/official_sena_casual_portrait_2.png",
+        "filename": "official_sena_casual_portrait_2.png",
+        "source": "fandom Sena_Casual_Portrait_2.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/응급의학부/세나/사복/공식/official_sena_casual_icon.png",
+        "filename": "official_sena_casual_icon.png",
+        "source": "fandom Sena_Casual_Icon.png"
       }
     ],
-    "image_count": 3
+    "image_count": 5
   },
   {
     "id": 10000,
@@ -5618,9 +5690,15 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/흥신소 68/오니카타 카요코/우주전함/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/흥신소 68/오니카타 카요코/우주전함/공식/official_kayoko_ark_uniform_icon.png",
+        "filename": "official_kayoko_ark_uniform_icon.png",
+        "source": "fandom Kayoko_Ark_Uniform_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "카요코",
     "family_name_kr": "오니카타",
     "canonical_name_kr": "오니카타 카요코"
@@ -5873,6 +5951,48 @@
     "personal_name_kr": "하루카",
     "family_name_kr": "이구사",
     "canonical_name_kr": "이구사 하루카"
+  },
+  {
+    "name_kr": "새 학생 (모브)",
+    "canonical_name_kr": "새 학생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": "Etc.",
+    "school_ja": "その他",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26059,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "그 외 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/새 학생 (모브)/기본/공식/official_bird_student_portrait.png",
+        "filename": "official_bird_student_portrait.png",
+        "source": "fandom Bird_Student_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/새 학생 (모브)/기본/공식/official_bird_student_icon.png",
+        "filename": "official_bird_student_icon.png",
+        "source": "fandom Bird_Student_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "새 학생 (모브)"
+      ]
+    }
   },
   {
     "id": 20007,
@@ -8366,6 +8486,90 @@
     "canonical_name_kr": "오르"
   },
   {
+    "name_kr": "밀레니엄 학생 (모브) 1",
+    "canonical_name_kr": "밀레니엄 학생 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26053,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "밀레니엄 사이언스 스쿨 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/무소속/밀레니엄 학생 (모브) 1/기본/공식/official_millennium_student_1_portrait.png",
+        "filename": "official_millennium_student_1_portrait.png",
+        "source": "fandom Millennium_Student_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/무소속/밀레니엄 학생 (모브) 1/기본/공식/official_millennium_student_1_icon.png",
+        "filename": "official_millennium_student_1_icon.png",
+        "source": "fandom Millennium_Student_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "밀레니엄 학생 (모브) 1"
+      ]
+    }
+  },
+  {
+    "name_kr": "밀레니엄 학생 (모브) 2",
+    "canonical_name_kr": "밀레니엄 학생 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26054,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "밀레니엄 사이언스 스쿨 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/무소속/밀레니엄 학생 (모브) 2/기본/공식/official_millennium_student_2_portrait.png",
+        "filename": "official_millennium_student_2_portrait.png",
+        "source": "fandom Millennium_Student_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/무소속/밀레니엄 학생 (모브) 2/기본/공식/official_millennium_student_2_icon.png",
+        "filename": "official_millennium_student_2_icon.png",
+        "source": "fandom Millennium_Student_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "밀레니엄 학생 (모브) 2"
+      ]
+    }
+  },
+  {
     "id": 23003,
     "name_kr": "오마가리 하레",
     "name_en": "Hare",
@@ -9965,9 +10169,15 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/세미나/하야세 유우카/우주전함/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/세미나/하야세 유우카/우주전함/공식/official_yuuka_ark_uniform_icon.png",
+        "filename": "official_yuuka_ark_uniform_icon.png",
+        "source": "fandom Yuuka_Ark_Uniform_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "유우카",
     "family_name_kr": "하야세",
     "canonical_name_kr": "하야세 유우카"
@@ -10910,6 +11120,49 @@
     "personal_name_kr": "히마리",
     "family_name_kr": "아케보시",
     "canonical_name_kr": "아케보시 히마리"
+  },
+  {
+    "name_kr": "아케보시 히마리",
+    "canonical_name_kr": "아케보시 히마리",
+    "name_en": "Himari",
+    "name_ja": "ヒマリ",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "초현상특무부",
+    "club_en": "Super Phenomenon Task Force",
+    "club_ja": "特異現象捜査部",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "id": 26042,
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "description_kr": "최종편 우주전함(방주) 제복.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/아케보시 히마리/우주전함/공식/official_himari_ark_uniform_portrait.png",
+        "filename": "official_himari_ark_uniform_portrait.png",
+        "source": "fandom Himari_Ark_Uniform_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/아케보시 히마리/우주전함/공식/official_himari_ark_uniform_icon.png",
+        "filename": "official_himari_ark_uniform_icon.png",
+        "source": "fandom Himari_Ark_Uniform_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "방주",
+        "방주 제복",
+        "아케보시 히마리",
+        "우주전함"
+      ]
+    }
   },
   {
     "id": 10001,
@@ -11930,6 +12183,48 @@
     "canonical_name_kr": "칸바라 미스즈"
   },
   {
+    "name_kr": "발키리 학생 (모브)",
+    "canonical_name_kr": "발키리 학생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "발키리 경찰학교",
+    "school_en": "Valkyrie Police Academy",
+    "school_ja": "ヴァルキューレ警察学校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26058,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "발키리 경찰학교 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "발키리 경찰학교/무소속/발키리 학생 (모브)/기본/공식/official_valkyrie_student_portrait.png",
+        "filename": "official_valkyrie_student_portrait.png",
+        "source": "fandom Valkyrie_Student_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "발키리 경찰학교/무소속/발키리 학생 (모브)/기본/공식/official_valkyrie_student_icon.png",
+        "filename": "official_valkyrie_student_icon.png",
+        "source": "fandom Valkyrie_Student_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "발키리 학생 (모브)"
+      ]
+    }
+  },
+  {
     "id": 13012,
     "name_kr": "나카츠카사 키리노",
     "name_en": "Kirino",
@@ -12465,9 +12760,21 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "백귀야행 연합학원/마츠리운영관리부/우미카/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/마츠리운영관리부/우미카/기본/공식/official_umika_old_portrait.png",
+        "filename": "official_umika_old_portrait.png",
+        "source": "fandom Umika_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/마츠리운영관리부/우미카/기본/공식/official_umika_old_icon.png",
+        "filename": "official_umika_old_icon.png",
+        "source": "fandom Umika_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 3,
+    "image_count": 5,
     "personal_name_kr": "우미카",
     "family_name_kr": "사토하마",
     "canonical_name_kr": "사토하마 우미카"
@@ -12821,6 +13128,132 @@
     "image_count": 0
   },
   {
+    "name_kr": "백귀야행 학생 (모브) 1",
+    "canonical_name_kr": "백귀야행 학생 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Allied Hyakkiyako Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26050,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "백귀야행 연합학원 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 1/기본/공식/official_hyakkiyako_student_1_portrait.png",
+        "filename": "official_hyakkiyako_student_1_portrait.png",
+        "source": "fandom Hyakkiyako_Student_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 1/기본/공식/official_hyakkiyako_student_1_icon.png",
+        "filename": "official_hyakkiyako_student_1_icon.png",
+        "source": "fandom Hyakkiyako_Student_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "백귀야행 학생 (모브) 1"
+      ]
+    }
+  },
+  {
+    "name_kr": "백귀야행 학생 (모브) 2",
+    "canonical_name_kr": "백귀야행 학생 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Allied Hyakkiyako Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26051,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "백귀야행 연합학원 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 2/기본/공식/official_hyakkiyako_student_2_portrait.png",
+        "filename": "official_hyakkiyako_student_2_portrait.png",
+        "source": "fandom Hyakkiyako_Student_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 2/기본/공식/official_hyakkiyako_student_2_icon.png",
+        "filename": "official_hyakkiyako_student_2_icon.png",
+        "source": "fandom Hyakkiyako_Student_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "백귀야행 학생 (모브) 2"
+      ]
+    }
+  },
+  {
+    "name_kr": "백귀야행 학생 (모브) 3",
+    "canonical_name_kr": "백귀야행 학생 (모브) 3",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Allied Hyakkiyako Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26052,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "백귀야행 연합학원 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 3/기본/공식/official_hyakkiyako_student_3_portrait.png",
+        "filename": "official_hyakkiyako_student_3_portrait.png",
+        "source": "fandom Hyakkiyako_Student_3_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 3/기본/공식/official_hyakkiyako_student_3_icon.png",
+        "filename": "official_hyakkiyako_student_3_icon.png",
+        "source": "fandom Hyakkiyako_Student_3_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "백귀야행 학생 (모브) 3"
+      ]
+    }
+  },
+  {
     "id": 10033,
     "name_kr": "코사카 와카모",
     "name_en": "Wakamo",
@@ -13077,9 +13510,21 @@
         "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_schaledb_icon.webp",
         "filename": "official_schaledb_icon.webp",
         "source": "https://schaledb.com/images/student/icon/10119.webp"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_nagusa_old_portrait.png",
+        "filename": "official_nagusa_old_portrait.png",
+        "source": "fandom Nagusa_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_nagusa_old_icon.png",
+        "filename": "official_nagusa_old_icon.png",
+        "source": "fandom Nagusa_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 6,
+    "image_count": 8,
     "personal_name_kr": "나구사",
     "family_name_kr": "고료",
     "canonical_name_kr": "고료 나구사"
@@ -16188,9 +16633,21 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_minori_old_portrait.png",
+        "filename": "official_minori_old_portrait.png",
+        "source": "fandom Minori_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/용역부/미노리/기본/공식/official_minori_old_icon.png",
+        "filename": "official_minori_old_icon.png",
+        "source": "fandom Minori_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 3,
+    "image_count": 5,
     "personal_name_kr": "미노리",
     "family_name_kr": "야스모리",
     "canonical_name_kr": "야스모리 미노리"
@@ -16250,9 +16707,21 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_momiji_old_portrait.png",
+        "filename": "official_momiji_old_portrait.png",
+        "source": "fandom Momiji_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/지식해방전선/모미지/기본/공식/official_momiji_old_icon.png",
+        "filename": "official_momiji_old_icon.png",
+        "source": "fandom Momiji_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 3,
+    "image_count": 5,
     "personal_name_kr": "모미지",
     "family_name_kr": "아키이즈미",
     "canonical_name_kr": "아키이즈미 모미지"
@@ -16312,9 +16781,21 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "붉은겨울 연방학원/지식해방전선/메루/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/지식해방전선/메루/기본/공식/official_meru_old_portrait.png",
+        "filename": "official_meru_old_portrait.png",
+        "source": "fandom Meru_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/지식해방전선/메루/기본/공식/official_meru_old_icon.png",
+        "filename": "official_meru_old_icon.png",
+        "source": "fandom Meru_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 3,
+    "image_count": 5,
     "personal_name_kr": "메루",
     "family_name_kr": "히메키",
     "canonical_name_kr": "히메키 메루"
@@ -17252,6 +17733,90 @@
     "canonical_name_kr": "스노하라 코코나"
   },
   {
+    "name_kr": "산해경 학생 (모브) 1",
+    "canonical_name_kr": "산해경 학생 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26055,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "산해경 고급중학교 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/무소속/산해경 학생 (모브) 1/기본/공식/official_shanhaijing_student_1_portrait.png",
+        "filename": "official_shanhaijing_student_1_portrait.png",
+        "source": "fandom Shanhaijing_Student_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/무소속/산해경 학생 (모브) 1/기본/공식/official_shanhaijing_student_1_icon.png",
+        "filename": "official_shanhaijing_student_1_icon.png",
+        "source": "fandom Shanhaijing_Student_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "산해경 학생 (모브) 1"
+      ]
+    }
+  },
+  {
+    "name_kr": "산해경 학생 (모브) 2",
+    "canonical_name_kr": "산해경 학생 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26056,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "산해경 고급중학교 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/무소속/산해경 학생 (모브) 2/기본/공식/official_shanhaijing_student_2_portrait.png",
+        "filename": "official_shanhaijing_student_2_portrait.png",
+        "source": "fandom Shanhaijing_Student_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/무소속/산해경 학생 (모브) 2/기본/공식/official_shanhaijing_student_2_icon.png",
+        "filename": "official_shanhaijing_student_2_icon.png",
+        "source": "fandom Shanhaijing_Student_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "산해경 학생 (모브) 2"
+      ]
+    }
+  },
+  {
     "id": null,
     "name_kr": "우토 요코",
     "name_en": "Uto Yoko",
@@ -17596,9 +18161,15 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "산해경 고급중학교/연단방/사야/사복/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/연단방/사야/사복/공식/official_saya_casual_icon.png",
+        "filename": "official_saya_casual_icon.png",
+        "source": "fandom Saya_Casual_Icon.png"
       }
     ],
-    "image_count": 3,
+    "image_count": 4,
     "personal_name_kr": "사야",
     "family_name_kr": "야쿠시",
     "canonical_name_kr": "야쿠시 사야"
@@ -18572,6 +19143,132 @@
     "canonical_name_kr": "타치기 마이아"
   },
   {
+    "name_kr": "아리우스 분교 학생 (모브)",
+    "canonical_name_kr": "아리우스 분교 학생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "아리우스 분교",
+    "school_en": "Arius Branch School",
+    "school_ja": "アリウス分校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26046,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "아리우스 분교 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아리우스 분교/무소속/아리우스 분교 학생 (모브)/기본/공식/official_arius_student_portrait.png",
+        "filename": "official_arius_student_portrait.png",
+        "source": "fandom Arius_Student_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아리우스 분교/무소속/아리우스 분교 학생 (모브)/기본/공식/official_arius_student_icon.png",
+        "filename": "official_arius_student_icon.png",
+        "source": "fandom Arius_Student_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "아리우스 분교 학생 (모브)"
+      ]
+    }
+  },
+  {
+    "name_kr": "아리우스 분교 학생 (모브) 1",
+    "canonical_name_kr": "아리우스 분교 학생 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "아리우스 분교",
+    "school_en": "Arius Branch School",
+    "school_ja": "アリウス分校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26047,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "아리우스 분교 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아리우스 분교/무소속/아리우스 분교 학생 (모브) 1/기본/공식/official_arius_student_1_portrait.png",
+        "filename": "official_arius_student_1_portrait.png",
+        "source": "fandom Arius_Student_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아리우스 분교/무소속/아리우스 분교 학생 (모브) 1/기본/공식/official_arius_student_1_icon.png",
+        "filename": "official_arius_student_1_icon.png",
+        "source": "fandom Arius_Student_1_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "아리우스 분교 학생 (모브) 1"
+      ]
+    }
+  },
+  {
+    "name_kr": "아리우스 분교 학생 (모브) 2",
+    "canonical_name_kr": "아리우스 분교 학생 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "아리우스 분교",
+    "school_en": "Arius Branch School",
+    "school_ja": "アリウス分校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26048,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "아리우스 분교 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아리우스 분교/무소속/아리우스 분교 학생 (모브) 2/기본/공식/official_arius_student_2_portrait.png",
+        "filename": "official_arius_student_2_portrait.png",
+        "source": "fandom Arius_Student_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아리우스 분교/무소속/아리우스 분교 학생 (모브) 2/기본/공식/official_arius_student_2_icon.png",
+        "filename": "official_arius_student_2_icon.png",
+        "source": "fandom Arius_Student_2_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "아리우스 분교 학생 (모브) 2"
+      ]
+    }
+  },
+  {
     "id": 10041,
     "name_kr": "이마시노 미사키",
     "name_en": "Misaki",
@@ -19429,6 +20126,64 @@
     "image_count": 2
   },
   {
+    "name_kr": "스나오오카미 시로코",
+    "canonical_name_kr": "스나오오카미 시로코",
+    "name_en": "Shiroko",
+    "name_ja": "シロコ",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "id": 26040,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/스나오오카미 시로코/강도/공식/official_shiroko_robber_portrait.png",
+        "filename": "official_shiroko_robber_portrait.png",
+        "source": "fandom Shiroko_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/스나오오카미 시로코/강도/공식/official_shiroko_robber_icon.png",
+        "filename": "official_shiroko_robber_icon.png",
+        "source": "fandom Shiroko_Robber_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/스나오오카미 시로코/강도/공식/official_shiroko_swimsuit_robber_portrait.png",
+        "filename": "official_shiroko_swimsuit_robber_portrait.png",
+        "source": "fandom Shiroko_Swimsuit_Robber_Portrait.png (수영복 변형)"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/스나오오카미 시로코/강도/공식/official_shiroko_swimsuit_robber_icon.png",
+        "filename": "official_shiroko_swimsuit_robber_icon.png",
+        "source": "fandom Shiroko_Swimsuit_Robber_Icon.png (수영복 변형)"
+      }
+    ],
+    "image_count": 4,
+    "search_tags": {
+      "kr": [
+        "robber",
+        "강도",
+        "강도 시로코",
+        "복면",
+        "스나오오카미 시로코",
+        "시로코",
+        "시로코 강도"
+      ]
+    }
+  },
+  {
     "id": 10010,
     "name_kr": "스나오오카미 시로코",
     "name_en": "Shiroko",
@@ -19702,6 +20457,64 @@
     "canonical_name_kr": "스나오오카미 시로코"
   },
   {
+    "name_kr": "오쿠소라 아야네",
+    "canonical_name_kr": "오쿠소라 아야네",
+    "name_en": "Ayane",
+    "name_ja": "アヤネ",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "id": 26035,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/강도/공식/official_ayane_robber_portrait.png",
+        "filename": "official_ayane_robber_portrait.png",
+        "source": "fandom Ayane_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/강도/공식/official_ayane_robber_icon.png",
+        "filename": "official_ayane_robber_icon.png",
+        "source": "fandom Ayane_Robber_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/강도/공식/official_ayane_swimsuit_robber_portrait.png",
+        "filename": "official_ayane_swimsuit_robber_portrait.png",
+        "source": "fandom Ayane_Swimsuit_Robber_Portrait.png (수영복 변형)"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/강도/공식/official_ayane_swimsuit_robber_icon.png",
+        "filename": "official_ayane_swimsuit_robber_icon.png",
+        "source": "fandom Ayane_Swimsuit_Robber_Icon.png (수영복 변형)"
+      }
+    ],
+    "image_count": 4,
+    "search_tags": {
+      "kr": [
+        "robber",
+        "강도",
+        "강도 아야네",
+        "복면",
+        "아야네",
+        "아야네 강도",
+        "오쿠소라 아야네"
+      ]
+    }
+  },
+  {
     "id": 23005,
     "name_kr": "오쿠소라 아야네",
     "name_en": "Ayane",
@@ -19937,9 +20750,15 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/우주전함/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/오쿠소라 아야네/우주전함/공식/official_ayane_ark_uniform_icon.png",
+        "filename": "official_ayane_ark_uniform_icon.png",
+        "source": "fandom Ayane_Ark_Uniform_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "아야네",
     "family_name_kr": "오쿠소라",
     "canonical_name_kr": "오쿠소라 아야네"
@@ -20059,6 +20878,64 @@
       }
     ],
     "image_count": 2
+  },
+  {
+    "name_kr": "이자요이 노노미",
+    "canonical_name_kr": "이자요이 노노미",
+    "name_en": "Nonomi",
+    "name_ja": "ノノミ",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "id": 26038,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_robber_portrait.png",
+        "filename": "official_nonomi_robber_portrait.png",
+        "source": "fandom Nonomi_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_robber_icon.png",
+        "filename": "official_nonomi_robber_icon.png",
+        "source": "fandom Nonomi_Robber_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_swimsuit_robber_portrait.png",
+        "filename": "official_nonomi_swimsuit_robber_portrait.png",
+        "source": "fandom Nonomi_Swimsuit_Robber_Portrait.png (수영복 변형)"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/이자요이 노노미/강도/공식/official_nonomi_swimsuit_robber_icon.png",
+        "filename": "official_nonomi_swimsuit_robber_icon.png",
+        "source": "fandom Nonomi_Swimsuit_Robber_Icon.png (수영복 변형)"
+      }
+    ],
+    "image_count": 4,
+    "search_tags": {
+      "kr": [
+        "robber",
+        "강도",
+        "강도 노노미",
+        "노노미",
+        "노노미 강도",
+        "복면",
+        "이자요이 노노미"
+      ]
+    }
   },
   {
     "id": 13004,
@@ -20375,6 +21252,64 @@
     "canonical_name_kr": "이자요이 노노미"
   },
   {
+    "name_kr": "쿠로미 세리카",
+    "canonical_name_kr": "쿠로미 세리카",
+    "name_en": "Serika",
+    "name_ja": "セリカ",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "id": 26039,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/쿠로미 세리카/강도/공식/official_serika_robber_portrait.png",
+        "filename": "official_serika_robber_portrait.png",
+        "source": "fandom Serika_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/쿠로미 세리카/강도/공식/official_serika_robber_icon.png",
+        "filename": "official_serika_robber_icon.png",
+        "source": "fandom Serika_Robber_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/쿠로미 세리카/강도/공식/official_serika_swimsuit_robber_portrait.png",
+        "filename": "official_serika_swimsuit_robber_portrait.png",
+        "source": "fandom Serika_Swimsuit_Robber_Portrait.png (수영복 변형)"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/쿠로미 세리카/강도/공식/official_serika_swimsuit_robber_icon.png",
+        "filename": "official_serika_swimsuit_robber_icon.png",
+        "source": "fandom Serika_Swimsuit_Robber_Icon.png (수영복 변형)"
+      }
+    ],
+    "image_count": 4,
+    "search_tags": {
+      "kr": [
+        "robber",
+        "강도",
+        "강도 세리카",
+        "복면",
+        "세리카",
+        "세리카 강도",
+        "쿠로미 세리카"
+      ]
+    }
+  },
+  {
     "id": 13008,
     "name_kr": "쿠로미 세리카",
     "name_en": "Serika",
@@ -20680,6 +21615,64 @@
     "personal_name_kr": "세리카",
     "family_name_kr": "쿠로미",
     "canonical_name_kr": "쿠로미 세리카"
+  },
+  {
+    "name_kr": "타카나시 호시노",
+    "canonical_name_kr": "타카나시 호시노",
+    "name_en": "Hoshino",
+    "name_ja": "ホシノ",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "id": 26037,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/강도/공식/official_hoshino_robber_portrait.png",
+        "filename": "official_hoshino_robber_portrait.png",
+        "source": "fandom Hoshino_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/강도/공식/official_hoshino_robber_icon.png",
+        "filename": "official_hoshino_robber_icon.png",
+        "source": "fandom Hoshino_Robber_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/강도/공식/official_hoshino_swimsuit_robber_portrait.png",
+        "filename": "official_hoshino_swimsuit_robber_portrait.png",
+        "source": "fandom Hoshino_Swimsuit_Robber_Portrait.png (수영복 변형)"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/대책위원회/타카나시 호시노/강도/공식/official_hoshino_swimsuit_robber_icon.png",
+        "filename": "official_hoshino_swimsuit_robber_icon.png",
+        "source": "fandom Hoshino_Swimsuit_Robber_Icon.png (수영복 변형)"
+      }
+    ],
+    "image_count": 4,
+    "search_tags": {
+      "kr": [
+        "robber",
+        "강도",
+        "강도 호시노",
+        "복면",
+        "타카나시 호시노",
+        "호시노",
+        "호시노 강도"
+      ]
+    }
   },
   {
     "id": 10005,
@@ -21018,6 +22011,55 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "name_kr": "스나오오카미 시로코*테러",
+    "canonical_name_kr": "스나오오카미 시로코*테러",
+    "name_en": "Shiroko*Terror",
+    "name_ja": "シロコ＊テラー",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "아비도스 학생회",
+    "club_en": "Abydos Student Council",
+    "club_ja": "アビドス生徒会",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "id": 26041,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "시로코*테러의 복면(강도) 변형.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/아비도스 학생회/스나오오카미 시로코*테러/강도/공식/official_shiroko_terror_robber_portrait.png",
+        "filename": "official_shiroko_terror_robber_portrait.png",
+        "source": "fandom Shiroko_Terror_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/아비도스 학생회/스나오오카미 시로코*테러/강도/공식/official_shiroko_terror_robber_icon.png",
+        "filename": "official_shiroko_terror_robber_icon.png",
+        "source": "fandom Shiroko_Terror_Robber_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "아비도스 고등학교/아비도스 학생회/스나오오카미 시로코*테러/강도/공식/official_shiroko_terror_2_robber_icon.png",
+        "filename": "official_shiroko_terror_2_robber_icon.png",
+        "source": "fandom Shiroko_Terror_2_Robber_Icon.png"
+      }
+    ],
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "강도",
+        "복면",
+        "시로코 테러",
+        "시로코*테러"
+      ]
+    }
   },
   {
     "id": 10100,
@@ -23151,6 +24193,49 @@
     "canonical_name_kr": "유라키 모모카"
   },
   {
+    "name_kr": "유라키 모모카",
+    "canonical_name_kr": "유라키 모모카",
+    "name_en": "Yuraki Momoka",
+    "name_ja": "由良木モモカ",
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "교통실",
+    "club_en": "Traffic Bureau",
+    "club_ja": "交通室",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "id": 26043,
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "description_kr": "최종편 우주전함(방주) 제복.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "총학생회/교통실/유라키 모모카/우주전함/공식/official_momoka_ark_uniform_portrait.png",
+        "filename": "official_momoka_ark_uniform_portrait.png",
+        "source": "fandom Momoka_Ark_Uniform_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "총학생회/교통실/유라키 모모카/우주전함/공식/official_momoka_ark_uniform_icon.png",
+        "filename": "official_momoka_ark_uniform_icon.png",
+        "source": "fandom Momoka_Ark_Uniform_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "방주",
+        "방주 제복",
+        "우주전함",
+        "유라키 모모카"
+      ]
+    }
+  },
+  {
     "id": null,
     "name_kr": "시라누이 카야",
     "name_en": "Shiranui Kaya",
@@ -23897,9 +24982,15 @@
         "note": "bluearchive.fandom portrait",
         "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayumu_Ark_Uniform_Portrait.png",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "총학생회/조정실/이와비츠 아유무/우주전함/공식/official_ayumu_ark_uniform_icon.png",
+        "filename": "official_ayumu_ark_uniform_icon.png",
+        "source": "fandom Ayumu_Ark_Uniform_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "아유무",
     "family_name_kr": "이와비츠",
     "canonical_name_kr": "이와비츠 아유무"
@@ -24074,12 +25165,61 @@
         "note": "bluearchive.fandom portrait",
         "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rin_Casual_Portrait.png",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/나나가미 린/사복/공식/official_rin_casual_icon.png",
+        "filename": "official_rin_casual_icon.png",
+        "source": "fandom Rin_Casual_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "린",
     "family_name_kr": "나나가미",
     "canonical_name_kr": "나나가미 린"
+  },
+  {
+    "name_kr": "나나가미 린",
+    "canonical_name_kr": "나나가미 린",
+    "name_en": "Nanagami Rin",
+    "name_ja": "七神リン",
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "통괄실",
+    "club_en": "General Affairs Bureau",
+    "club_ja": "統括室",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "id": 26044,
+    "seasonal": "우주전함",
+    "status": "미출시 시즈널",
+    "description_kr": "최종편 우주전함(방주) 제복.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/나나가미 린/우주전함/공식/official_rin_ark_uniform_portrait.png",
+        "filename": "official_rin_ark_uniform_portrait.png",
+        "source": "fandom Rin_Ark_Uniform_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "총학생회/통괄실/나나가미 린/우주전함/공식/official_rin_ark_uniform_icon.png",
+        "filename": "official_rin_ark_uniform_icon.png",
+        "source": "fandom Rin_Ark_Uniform_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "나나가미 린",
+        "방주",
+        "방주 제복",
+        "우주전함"
+      ]
+    }
   },
   {
     "id": 26022,
@@ -25435,6 +26575,48 @@
     "canonical_name_kr": "코제키 우이"
   },
   {
+    "name_kr": "트리니티 학생 (모브)",
+    "canonical_name_kr": "트리니티 학생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26057,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "트리니티 종합학원 소속의 이름 없는 배경(모브) 학생.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/무소속/트리니티 학생 (모브)/기본/공식/official_trinity_student_portrait.png",
+        "filename": "official_trinity_student_portrait.png",
+        "source": "fandom Trinity_Student_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/무소속/트리니티 학생 (모브)/기본/공식/official_trinity_student_icon.png",
+        "filename": "official_trinity_student_icon.png",
+        "source": "fandom Trinity_Student_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "트리니티 학생 (모브)"
+      ]
+    }
+  },
+  {
     "id": 10029,
     "name_kr": "유토리 나츠",
     "name_en": "Natsu",
@@ -25904,9 +27086,21 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_kazusa_old_portrait.png",
+        "filename": "official_kazusa_old_portrait.png",
+        "source": "fandom Kazusa_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/방과후 디저트부/카즈사/기본/공식/official_kazusa_old_icon.png",
+        "filename": "official_kazusa_old_icon.png",
+        "source": "fandom Kazusa_Old_Icon.png (구버전 아이콘)"
       }
     ],
-    "image_count": 3,
+    "image_count": 5,
     "personal_name_kr": "카즈사",
     "family_name_kr": "쿄야마",
     "canonical_name_kr": "쿄야마 카즈사"
@@ -26684,6 +27878,52 @@
     "canonical_name_kr": "시모에 코하루"
   },
   {
+    "name_kr": "아지타니 히후미",
+    "canonical_name_kr": "아지타니 히후미",
+    "name_en": "Hifumi",
+    "name_ja": "ヒフミ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "id": 26036,
+    "seasonal": "강도",
+    "status": "미출시 시즈널",
+    "description_kr": "은행강도로 오해받은 대책위원회 이벤트의 복면(강도) 변형. 교복/수영복 차림 포함.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/보충수업부/아지타니 히후미/강도/공식/official_hifumi_robber_portrait.png",
+        "filename": "official_hifumi_robber_portrait.png",
+        "source": "fandom Hifumi_Robber_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/보충수업부/아지타니 히후미/강도/공식/official_hifumi_robber_icon.png",
+        "filename": "official_hifumi_robber_icon.png",
+        "source": "fandom Hifumi_Robber_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "robber",
+        "강도",
+        "강도 히후미",
+        "복면",
+        "아지타니 히후미",
+        "히후미",
+        "히후미 강도"
+      ]
+    }
+  },
+  {
     "id": 10003,
     "name_kr": "아지타니 히후미",
     "name_en": "Hifumi",
@@ -27174,9 +28414,15 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "트리니티 종합학원/보충수업부/우라와 하나코/우주전함/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/보충수업부/우라와 하나코/우주전함/공식/official_hanako_ark_uniform_icon.png",
+        "filename": "official_hanako_ark_uniform_icon.png",
+        "source": "fandom Hanako_Ark_Uniform_Icon.png"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "하나코",
     "family_name_kr": "우라와",
     "canonical_name_kr": "우라와 하나코"
@@ -27522,9 +28768,15 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "트리니티 종합학원/시스터후드/사쿠라코/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/기본/공식/official_sakurako_old_portrait.png",
+        "filename": "official_sakurako_old_portrait.png",
+        "source": "fandom Sakurako_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
       }
     ],
-    "image_count": 3,
+    "image_count": 4,
     "personal_name_kr": "사쿠라코",
     "family_name_kr": "우타즈미",
     "canonical_name_kr": "우타즈미 사쿠라코"
@@ -27602,6 +28854,43 @@
     "personal_name_kr": "사쿠라코",
     "family_name_kr": "우타즈미",
     "canonical_name_kr": "우타즈미 사쿠라코"
+  },
+  {
+    "name_kr": "우타즈미 사쿠라코",
+    "canonical_name_kr": "우타즈미 사쿠라코",
+    "name_en": "Sakurako",
+    "name_ja": "サクラコ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "시스터후드",
+    "club_en": "The Sisterhood",
+    "club_ja": "シスターフッド",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "id": 26045,
+    "seasonal": "유스티나 제복",
+    "status": "미출시 시즈널",
+    "description_kr": "유스티나 성도회 의식용 제복 차림.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/시스터후드/우타즈미 사쿠라코/유스티나 제복/공식/official_sakurako_justina_suit_portrait.png",
+        "filename": "official_sakurako_justina_suit_portrait.png",
+        "source": "fandom Sakurako_Justina_Suit_Portrait.png"
+      }
+    ],
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "사쿠라코",
+        "우타즈미 사쿠라코",
+        "유스티나",
+        "유스티나 제복"
+      ]
+    }
   },
   {
     "id": 23008,
@@ -29599,9 +30888,15 @@
         "category": "공식",
         "filename": "official_portrait.webp",
         "path": "트리니티 종합학원/티파티/나기사/기본/공식/official_portrait.webp"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/티파티/나기사/기본/공식/official_nagisa_old_portrait.png",
+        "filename": "official_nagisa_old_portrait.png",
+        "source": "fandom Nagisa_Old_Portrait.png (일러 업데이트 전 구버전 스탠딩)"
       }
     ],
-    "image_count": 3,
+    "image_count": 4,
     "personal_name_kr": "나기사",
     "family_name_kr": "키리후지",
     "canonical_name_kr": "키리후지 나기사"
