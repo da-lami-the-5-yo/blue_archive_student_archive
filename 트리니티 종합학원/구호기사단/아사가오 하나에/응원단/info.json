@@ -15,7 +15,7 @@
       "en": "Knights Hospitaller",
       "ja": "救護騎士団"
     },
-    "seasonal": "치어리더",
+    "seasonal": "응원단",
     "status": "미출시 시즈널",
     "combat_profile": {
       "role": "서포터",
@@ -27,34 +27,18 @@
       "kr": "황륜대제 및 플레이볼 이벤트에서 등장한 치어리더 복장의 하나에 스탠딩.",
       "en": "Unreleased 치어리더 variant for Asagao Hanae.",
       "ja": "朝顔ハナエの未実装치어리더衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "치어리더 하나에",
-        "치나에"
-      ],
-      "en": [
-        "asagao_hanae_(cheerleader)_(blue_archive)"
-      ],
-      "ja": [
-        "朝顔ハナエ(応援団)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 1
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
-      "path": "트리니티 종합학원/구호기사단/아사가오 하나에/치어리더/공식/official_wiki_portrait.png"
+      "path": "트리니티 종합학원/구호기사단/아사가오 하나에/응원단/공식/official_wiki_portrait.png"
     }
   ],
-  "image_count": 1
+  "image_count": 1,
+  "updated": "2026-08-27"
 }

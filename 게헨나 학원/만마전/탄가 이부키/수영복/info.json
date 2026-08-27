@@ -27,35 +27,10 @@
       "kr": "만마선 이벤트에서 귀여운 튜브를 낀 이부키의 해적 수영복.",
       "en": "Unreleased 해적수영복 variant for Tanga Ibuki.",
       "ja": "丹花イブキの未実装해적수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "이부키",
-        "탄가",
-        "탄가 이부키",
-        "탄가이부키",
-        "탄가 이부키 (수영복)",
-        "이부키 수영복",
-        "수영복 이부키"
-      ],
-      "en": [
-        "tanga ibuki",
-        "tanga_tanga ibuki",
-        "이부키"
-      ],
-      "ja": [
-        "丹花イブキ",
-        "丹花丹花イブキ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 3
   },
   "images": [
     {

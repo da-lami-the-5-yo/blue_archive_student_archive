@@ -30,14 +30,9 @@
     }
   },
   "collection_stats": {
-    "공식": 4
+    "공식": 5
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_chiaki_swimsuit_portrait.png",
@@ -56,13 +51,29 @@
     },
     {
       "category": "공식",
-      "filename": "official_chiaki_swimsuit_pirate_portrait.png",
-      "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_chiaki_swimsuit_pirate_portrait.png",
-      "note": "bluearchive.fandom portrait (해적 변형)",
-      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Chiaki_Swimsuit_Pirate_Portrait.png",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 26016, 해적 컨셉 수영복)",
+      "source": "https://schaledb.com/images/student/portrait/26016.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 26016, 해적 컨셉 수영복)",
+      "source": "https://schaledb.com/images/student/collection/26016.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 26016, 해적 컨셉 수영복)",
+      "source": "https://schaledb.com/images/student/icon/26016.webp",
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 4,
+  "image_count": 5,
   "updated": "2026-08-27"
 }

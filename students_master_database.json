@@ -1696,11 +1696,13 @@
       "kr": [
         "나츠메",
         "나츠메 이로하",
-        "나츠메이로하",
-        "이로하",
         "나츠메 이로하 (수영복)",
+        "나츠메이로하",
+        "수영복 이로하",
+        "이로하",
         "이로하 수영복",
-        "수영복 이로하"
+        "해적 수영복",
+        "해적수영복"
       ],
       "en": [
         "natsume iroha",
@@ -1875,11 +1877,13 @@
       "kr": [
         "모토미야",
         "모토미야 치아키",
-        "모토미야치아키",
-        "치아키",
         "모토미야 치아키 (수영복)",
+        "모토미야치아키",
+        "수영복 치아키",
+        "치아키",
         "치아키 수영복",
-        "수영복 치아키"
+        "해적 수영복",
+        "해적수영복"
       ],
       "en": [
         "motomiya chiaki",
@@ -1892,11 +1896,6 @@
       ]
     },
     "images": [
-      {
-        "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_wiki_portrait.png"
-      },
       {
         "category": "공식",
         "filename": "official_chiaki_swimsuit_portrait.png",
@@ -1915,14 +1914,30 @@
       },
       {
         "category": "공식",
-        "filename": "official_chiaki_swimsuit_pirate_portrait.png",
-        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_chiaki_swimsuit_pirate_portrait.png",
-        "note": "bluearchive.fandom portrait (해적 변형)",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Chiaki_Swimsuit_Pirate_Portrait.png",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 26016, 해적 컨셉 수영복)",
+        "source": "https://schaledb.com/images/student/portrait/26016.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 26016, 해적 컨셉 수영복)",
+        "source": "https://schaledb.com/images/student/collection/26016.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 26016, 해적 컨셉 수영복)",
+        "source": "https://schaledb.com/images/student/icon/26016.webp",
         "collected": "2026-08-27"
       }
     ],
-    "image_count": 4,
+    "image_count": 5,
     "personal_name_kr": "치아키",
     "family_name_kr": "모토미야",
     "canonical_name_kr": "모토미야 치아키"
@@ -2017,12 +2032,14 @@
     "search_tags": {
       "kr": [
         "사츠키",
+        "사츠키 수영복",
+        "수영복 사츠키",
         "쿄고쿠",
         "쿄고쿠 사츠키",
-        "쿄고쿠사츠키",
         "쿄고쿠 사츠키 (수영복)",
-        "사츠키 수영복",
-        "수영복 사츠키"
+        "쿄고쿠사츠키",
+        "해적 수영복",
+        "해적수영복"
       ],
       "en": [
         "kyogoku satsuki",
@@ -2220,13 +2237,15 @@
     "description_ja": "丹花イブキの未実装해적수영복衣装。",
     "search_tags": {
       "kr": [
+        "수영복 이부키",
         "이부키",
+        "이부키 수영복",
         "탄가",
         "탄가 이부키",
-        "탄가이부키",
         "탄가 이부키 (수영복)",
-        "이부키 수영복",
-        "수영복 이부키"
+        "탄가이부키",
+        "해적 수영복",
+        "해적수영복"
       ],
       "en": [
         "tanga ibuki",
@@ -2425,12 +2444,14 @@
     "search_tags": {
       "kr": [
         "마코토",
+        "마코토 수영복",
+        "수영복 마코토",
         "하누마",
         "하누마 마코토",
-        "하누마마코토",
         "하누마 마코토 (수영복)",
-        "마코토 수영복",
-        "수영복 마코토"
+        "하누마마코토",
+        "해적 수영복",
+        "해적수영복"
       ],
       "en": [
         "hanuma makoto",
@@ -3885,62 +3906,6 @@
   {
     "id": null,
     "name_kr": "아마우 아코",
-    "name_en": "Ako",
-    "name_ja": "アコ",
-    "full_name_kr": "아마우 아코 (방주 제복)",
-    "full_name_en": "Ako (Ark Uniform)",
-    "full_name_ja": "アコ（方舟制服）",
-    "school_kr": "게헨나 학원",
-    "school_en": "Gehenna",
-    "school_ja": "ゲヘナ",
-    "club_kr": "선도부",
-    "club_en": "Prefect Team",
-    "club_ja": "風紀委員会",
-    "seasonal": "방주 제복",
-    "status": "미출시 시즈널",
-    "role": "서포터",
-    "position": "스페셜",
-    "bullet_type": "신비",
-    "armor_type": "중장갑",
-    "description_kr": "아마우 아코의 방주 제복 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
-    "description_en": "Unreleased 'Ark Uniform' variant of Ako.",
-    "description_ja": "アコの方舟制服バージョン。",
-    "search_tags": {
-      "kr": [
-        "방주 제복",
-        "아마우",
-        "아마우 아코",
-        "아마우아코",
-        "아코"
-      ],
-      "en": [
-        "ako",
-        "amau_ako",
-        "아코"
-      ],
-      "ja": [
-        "アコ",
-        "天雨アコ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_ako_ark_uniform_portrait.png",
-        "path": "게헨나 학원/선도부/아코/방주 제복/공식/official_ako_ark_uniform_portrait.png",
-        "note": "bluearchive.fandom portrait",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ako_Ark_Uniform_Portrait.png",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
-    "personal_name_kr": "아코",
-    "family_name_kr": "아마우",
-    "canonical_name_kr": "아마우 아코"
-  },
-  {
-    "id": null,
-    "name_kr": "아마우 아코",
     "name_en": "Amau Ako",
     "name_ja": "天雨アコ",
     "full_name_kr": "아마우 아코 (우주전함)",
@@ -3963,6 +3928,8 @@
     "description_ja": "天雨アコの未実装우주전함衣装。",
     "search_tags": {
       "kr": [
+        "방주",
+        "방주 제복",
         "아마우",
         "아마우 아코",
         "아마우 아코(우주전함)",
@@ -5360,6 +5327,8 @@
     "description_ja": "鬼方カヨコの未実装우주전함衣装。",
     "search_tags": {
       "kr": [
+        "방주",
+        "방주 제복",
         "오니카타",
         "오니카타 카요코",
         "오니카타 카요코(우주전함)",
@@ -9694,6 +9663,8 @@
     "description_ja": "早瀬ユウカの未実装우주전함衣装。",
     "search_tags": {
       "kr": [
+        "방주",
+        "방주 제복",
         "우주전함",
         "유우카",
         "유우카(우주전함)",
@@ -12597,62 +12568,6 @@
     "image_count": 0
   },
   {
-    "id": null,
-    "name_kr": "코사카 와카모",
-    "name_en": "Wakamo",
-    "name_ja": "ワカモ",
-    "full_name_kr": "코사카 와카모 (기모노)",
-    "full_name_en": "Wakamo (Kimono)",
-    "full_name_ja": "ワカモ（着物）",
-    "school_kr": "백귀야행 연합학원",
-    "school_en": "Hyakkiyako",
-    "school_ja": "百鬼夜行",
-    "club_kr": "무소속",
-    "club_en": "None",
-    "club_ja": "無し",
-    "seasonal": "기모노",
-    "status": "미출시 시즈널",
-    "role": "어태커",
-    "position": "스트라이커",
-    "bullet_type": "신비",
-    "armor_type": "경장갑",
-    "description_kr": "코사카 와카모의 기모노 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
-    "description_en": "Unreleased 'Kimono' variant of Wakamo, sourced from in-game assets.",
-    "description_ja": "ワカモの着物バージョン。未実装シーズナル。",
-    "search_tags": {
-      "kr": [
-        "기모노",
-        "와카모",
-        "코사카",
-        "코사카 와카모",
-        "코사카와카모"
-      ],
-      "en": [
-        "kosaka_wakamo",
-        "wakamo",
-        "와카모"
-      ],
-      "ja": [
-        "ワカモ",
-        "狐坂ワカモ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_wakamo_kimono_portrait.png",
-        "path": "백귀야행 연합학원/무소속/와카모/기모노/공식/official_wakamo_kimono_portrait.png",
-        "note": "bluearchive.fandom portrait",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Wakamo_Kimono_Portrait.png",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
-    "personal_name_kr": "와카모",
-    "family_name_kr": "코사카",
-    "canonical_name_kr": "코사카 와카모"
-  },
-  {
     "id": 10033,
     "name_kr": "코사카 와카모",
     "name_en": "Wakamo",
@@ -12946,21 +12861,9 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_portrait.png"
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7084025_rank01.jpg",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
-        "similarity": 0.65
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7074475_rank01.jpg",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7074475_rank01.jpg",
-        "similarity": 0.65
       }
     ],
-    "image_count": 3,
+    "image_count": 1,
     "personal_name_kr": "나구사",
     "family_name_kr": "고료",
     "canonical_name_kr": "고료 나구사"
@@ -17511,21 +17414,9 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_portrait.png"
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7080192_rank01.jpg",
-        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7080192_rank01.jpg",
-        "similarity": 0.65
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7077886_rank01.jpg",
-        "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7077886_rank01.jpg",
-        "similarity": 0.65
       }
     ],
-    "image_count": 3,
+    "image_count": 1,
     "personal_name_kr": "키사키",
     "family_name_kr": "류게",
     "canonical_name_kr": "류게 키사키"
@@ -19315,62 +19206,6 @@
     "canonical_name_kr": "오쿠소라 아야네"
   },
   {
-    "id": null,
-    "name_kr": "오쿠소라 아야네",
-    "name_en": "Ayane",
-    "name_ja": "アヤネ",
-    "full_name_kr": "오쿠소라 아야네 (방주 제복)",
-    "full_name_en": "Ayane (Ark Uniform)",
-    "full_name_ja": "アヤネ（方舟制服）",
-    "school_kr": "아비도스 고등학교",
-    "school_en": "Abydos",
-    "school_ja": "アビドス",
-    "club_kr": "대책위원회",
-    "club_en": "Foreclosure Task Force",
-    "club_ja": "対策委員会",
-    "seasonal": "방주 제복",
-    "status": "미출시 시즈널",
-    "role": "힐러",
-    "position": "스페셜",
-    "bullet_type": "관통",
-    "armor_type": "경장갑",
-    "description_kr": "오쿠소라 아야네의 방주 제복 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
-    "description_en": "Unreleased 'Ark Uniform' variant of Ayane.",
-    "description_ja": "アヤネの方舟制服バージョン。",
-    "search_tags": {
-      "kr": [
-        "방주 제복",
-        "아야네",
-        "오쿠소라",
-        "오쿠소라 아야네",
-        "오쿠소라아야네"
-      ],
-      "en": [
-        "ayane",
-        "okusora_ayane",
-        "아야네"
-      ],
-      "ja": [
-        "アヤネ",
-        "奥空アヤネ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_ayane_ark_uniform_portrait.png",
-        "path": "아비도스 고등학교/대책위원회/아야네/방주 제복/공식/official_ayane_ark_uniform_portrait.png",
-        "note": "bluearchive.fandom portrait",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayane_Ark_Uniform_Portrait.png",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
-    "personal_name_kr": "아야네",
-    "family_name_kr": "오쿠소라",
-    "canonical_name_kr": "오쿠소라 아야네"
-  },
-  {
     "id": 26007,
     "name_kr": "오쿠소라 아야네",
     "name_en": "Ayane",
@@ -19519,6 +19354,8 @@
     "description_ja": "奥空アヤネの未実装우주전함衣装。",
     "search_tags": {
       "kr": [
+        "방주",
+        "방주 제복",
         "아야네",
         "아야네(우주전함)",
         "오쿠소라",
@@ -23351,7 +23188,7 @@
     "name_kr": "이와비츠 아유무",
     "name_en": "Iwabitsu Ayumu",
     "name_ja": "岩櫃アユム",
-    "full_name_kr": "이와비츠 아유무 (방주 제복)",
+    "full_name_kr": "이와비츠 아유무 (우주전함)",
     "full_name_en": "Iwabitsu Ayumu (Ark Uniform)",
     "full_name_ja": "岩櫃アユム（方舟制服）",
     "school_kr": "총학생회",
@@ -23360,7 +23197,7 @@
     "club_kr": "조정실",
     "club_en": "Coordination Bureau",
     "club_ja": "調整室",
-    "seasonal": "방주 제복",
+    "seasonal": "우주전함",
     "status": "미출시 시즈널",
     "role": "서포터",
     "position": "스페셜",
@@ -23371,8 +23208,10 @@
     "description_ja": "岩櫃アユムの方舟制服バージョン。",
     "search_tags": {
       "kr": [
+        "방주",
         "방주 제복",
         "아유무",
+        "우주전함",
         "이와비츠",
         "이와비츠 아유무",
         "이와비츠아유무"
@@ -23391,7 +23230,7 @@
       {
         "category": "공식",
         "filename": "official_ayumu_ark_uniform_portrait.png",
-        "path": "총학생회/조정실/이와비츠 아유무/방주 제복/공식/official_ayumu_ark_uniform_portrait.png",
+        "path": "총학생회/조정실/이와비츠 아유무/우주전함/공식/official_ayumu_ark_uniform_portrait.png",
         "note": "bluearchive.fandom portrait",
         "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayumu_Ark_Uniform_Portrait.png",
         "collected": "2026-08-27"
@@ -24282,65 +24121,9 @@
   {
     "id": null,
     "name_kr": "아사가오 하나에",
-    "name_en": "Hanae",
-    "name_ja": "ハナエ",
-    "full_name_kr": "아사가오 하나에 (응원단)",
-    "full_name_en": "Hanae (Cheerleader)",
-    "full_name_ja": "ハナエ（応援団）",
-    "school_kr": "트리니티 종합학원",
-    "school_en": "Trinity",
-    "school_ja": "トリニティ",
-    "club_kr": "구호기사단",
-    "club_en": "Remedial Knights",
-    "club_ja": "救護騎士団",
-    "seasonal": "응원단",
-    "status": "미출시 시즈널",
-    "role": "힐러",
-    "position": "스페셜",
-    "bullet_type": "폭발",
-    "armor_type": "중장갑",
-    "description_kr": "아사가오 하나에의 응원단 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
-    "description_en": "Unreleased 'Cheerleader' variant of Hanae, sourced from in-game assets.",
-    "description_ja": "ハナエの応援団バージョン。未実装シーズナル。",
-    "search_tags": {
-      "kr": [
-        "아사가오",
-        "아사가오 하나에",
-        "아사가오하나에",
-        "응원단",
-        "하나에"
-      ],
-      "en": [
-        "asagao_hanae",
-        "hanae",
-        "하나에"
-      ],
-      "ja": [
-        "ハナエ",
-        "朝顔ハナエ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_hanae_cheerleader_portrait.png",
-        "path": "트리니티 종합학원/구호기사단/하나에/응원단/공식/official_hanae_cheerleader_portrait.png",
-        "note": "bluearchive.fandom portrait",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hanae_Cheerleader_Portrait.png",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
-    "personal_name_kr": "하나에",
-    "family_name_kr": "아사가오",
-    "canonical_name_kr": "아사가오 하나에"
-  },
-  {
-    "id": null,
-    "name_kr": "아사가오 하나에",
     "name_en": "Asagao Hanae",
     "name_ja": "朝顔ハナエ",
-    "full_name_kr": "아사가오 하나에 (치어리더)",
+    "full_name_kr": "아사가오 하나에 (응원단)",
     "full_name_en": "Asagao Hanae (치어리더)",
     "full_name_ja": "朝顔ハナエ（치어리더）",
     "school_kr": "트리니티 종합학원",
@@ -24349,7 +24132,7 @@
     "club_kr": "구호기사단",
     "club_en": "Knights Hospitaller",
     "club_ja": "救護騎士団",
-    "seasonal": "치어리더",
+    "seasonal": "응원단",
     "status": "미출시 시즈널",
     "role": "서포터",
     "position": "스트라이커",
@@ -24382,7 +24165,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "트리니티 종합학원/구호기사단/아사가오 하나에/치어리더/공식/official_wiki_portrait.png"
+        "path": "트리니티 종합학원/구호기사단/아사가오 하나에/응원단/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -24702,61 +24485,6 @@
         "note": "bluearchive.fandom portrait",
         "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shimiko_Magical_Portrait.png",
         "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
-    "personal_name_kr": "시미코",
-    "family_name_kr": "엔도우",
-    "canonical_name_kr": "엔도우 시미코"
-  },
-  {
-    "id": null,
-    "name_kr": "엔도우 시미코",
-    "name_en": "Endou Shimiko",
-    "name_ja": "円堂シミコ",
-    "full_name_kr": "엔도우 시미코 (에라)",
-    "full_name_en": "Endou Shimiko (에라)",
-    "full_name_ja": "円堂シミコ（에라）",
-    "school_kr": "트리니티 종합학원",
-    "school_en": "Trinity General School",
-    "school_ja": "トリニティ総合学園",
-    "club_kr": "도서부",
-    "club_en": "Library Committee",
-    "club_ja": "図書委員会",
-    "seasonal": "에라",
-    "status": "미출시 시즈널",
-    "role": "서포터",
-    "position": "스페셜",
-    "bullet_type": "신비",
-    "armor_type": "특수장갑",
-    "description_kr": "마법소녀 헤비캘리버 이벤트에서 악의 간부 '에라' 역을 맡은 시미코의 의상.",
-    "description_en": "Unreleased 에라 variant for Endou Shimiko.",
-    "description_ja": "円堂シミコの未実装에라衣装。",
-    "search_tags": {
-      "kr": [
-        "시미코",
-        "시미코(에라)",
-        "에라",
-        "엔도우",
-        "엔도우 시미코",
-        "엔도우 시미코(에라)",
-        "엔도우시미코"
-      ],
-      "en": [
-        "endou shimiko",
-        "endou_endou shimiko",
-        "시미코"
-      ],
-      "ja": [
-        "円堂シミコ",
-        "円堂円堂シミコ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "트리니티 종합학원/도서부/엔도우 시미코/에라/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -26647,6 +26375,8 @@
     "description_ja": "浦和ハナコの未実装우주전함衣装。",
     "search_tags": {
       "kr": [
+        "방주",
+        "방주 제복",
         "우라와",
         "우라와 하나코",
         "우라와 하나코(우주전함)",
@@ -27444,62 +27174,6 @@
     "image_count": 2
   },
   {
-    "id": null,
-    "name_kr": "나카마사 이치카",
-    "name_en": "Ichika",
-    "name_ja": "イチカ",
-    "full_name_kr": "나카마사 이치카 (정장)",
-    "full_name_en": "Ichika (Suit)",
-    "full_name_ja": "イチカ（スーツ）",
-    "school_kr": "트리니티 종합학원",
-    "school_en": "Trinity",
-    "school_ja": "トリニティ",
-    "club_kr": "정의실현부",
-    "club_en": "Justice Task Force",
-    "club_ja": "正義実現委員会",
-    "seasonal": "정장",
-    "status": "미출시 시즈널",
-    "role": "어태커",
-    "position": "스트라이커",
-    "bullet_type": "진동",
-    "armor_type": "중장갑",
-    "description_kr": "나카마사 이치카의 정장 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
-    "description_en": "Unreleased 'Suit' variant of Ichika, sourced from in-game assets.",
-    "description_ja": "イチカのスーツバージョン。未実装シーズナル。",
-    "search_tags": {
-      "kr": [
-        "나카마사",
-        "나카마사 이치카",
-        "나카마사이치카",
-        "이치카",
-        "정장"
-      ],
-      "en": [
-        "ichika",
-        "nakamasa_ichika",
-        "이치카"
-      ],
-      "ja": [
-        "イチカ",
-        "仲正イチカ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_ichika_suit_portrait.png",
-        "path": "트리니티 종합학원/정의실현부/이치카/정장/공식/official_ichika_suit_portrait.png",
-        "note": "bluearchive.fandom portrait",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ichika_Suit_Portrait.png",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
-    "personal_name_kr": "이치카",
-    "family_name_kr": "나카마사",
-    "canonical_name_kr": "나카마사 이치카"
-  },
-  {
     "id": 20003,
     "name_kr": "시즈야마 마시로",
     "name_en": "Mashiro",
@@ -27740,62 +27414,6 @@
       }
     ],
     "image_count": 3,
-    "personal_name_kr": "츠루기",
-    "family_name_kr": "켄자키",
-    "canonical_name_kr": "켄자키 츠루기"
-  },
-  {
-    "id": null,
-    "name_kr": "켄자키 츠루기",
-    "name_en": "Tsurugi",
-    "name_ja": "ツルギ",
-    "full_name_kr": "켄자키 츠루기 (드레스)",
-    "full_name_en": "Tsurugi (Dress)",
-    "full_name_ja": "ツルギ（ドレス）",
-    "school_kr": "트리니티 종합학원",
-    "school_en": "Trinity",
-    "school_ja": "トリニティ",
-    "club_kr": "정의실현부",
-    "club_en": "Justice Task Force",
-    "club_ja": "正義実現委員会",
-    "seasonal": "드레스",
-    "status": "미출시 시즈널",
-    "role": "어태커",
-    "position": "스트라이커",
-    "bullet_type": "관통",
-    "armor_type": "중장갑",
-    "description_kr": "켄자키 츠루기의 드레스 버전. 게임 내 스토리/이벤트 등장 미출시 시즈널 (fandom 에셋 기반).",
-    "description_en": "Unreleased 'Dress' variant of Tsurugi, sourced from in-game assets.",
-    "description_ja": "ツルギのドレスバージョン。未実装シーズナル。",
-    "search_tags": {
-      "kr": [
-        "드레스",
-        "츠루기",
-        "켄자키",
-        "켄자키 츠루기",
-        "켄자키츠루기"
-      ],
-      "en": [
-        "kenzaki_tsurugi",
-        "tsurugi",
-        "츠루기"
-      ],
-      "ja": [
-        "ツルギ",
-        "剣先ツルギ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_tsurugi_dress_portrait.png",
-        "path": "트리니티 종합학원/정의실현부/츠루기/드레스/공식/official_tsurugi_dress_portrait.png",
-        "note": "bluearchive.fandom portrait",
-        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Tsurugi_Dress_Portrait.png",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 1,
     "personal_name_kr": "츠루기",
     "family_name_kr": "켄자키",
     "canonical_name_kr": "켄자키 츠루기"
@@ -28608,10 +28226,26 @@
     "images": [
       {
         "category": "공식",
-        "filename": "official_mika_swimsuit.webp",
-        "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_mika_swimsuit.webp",
-        "note": "공식 일러(경영 수영복)",
-        "source": "https://www.zerochan.net",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10122)",
+        "source": "https://schaledb.com/images/student/icon/10122.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10122)",
+        "source": "https://schaledb.com/images/student/collection/10122.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10122)",
+        "source": "https://schaledb.com/images/student/portrait/10122.webp",
         "collected": "2026-08-27"
       },
       {
@@ -28625,7 +28259,7 @@
         "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank01/fanart_mika_swimsuit_02.png"
       }
     ],
-    "image_count": 3
+    "image_count": 5
   },
   {
     "id": null,
@@ -28765,9 +28399,17 @@
         "note": "bluearchive.fandom icon",
         "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mika_School_Swimsuit_Icon.png",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_zerochan_school_swimsuit.webp",
+        "path": "트리니티 종합학원/티파티/미카/학교 수영복/공식/official_zerochan_school_swimsuit.webp",
+        "note": "공식 일러 (경영 수영복) — 수영복 엔트리에서 이동",
+        "source": "https://www.zerochan.net",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 2
+    "image_count": 3
   },
   {
     "id": null,

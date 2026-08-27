@@ -27,35 +27,10 @@
       "kr": "만마선 이벤트에서 한숨을 쉬며 휴식을 취하는 이로하의 해적 수영복 스탠딩.",
       "en": "Unreleased 해적수영복 variant for Natsume Iroha.",
       "ja": "棗イロハの未実装해적수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "나츠메",
-        "나츠메 이로하",
-        "나츠메이로하",
-        "이로하",
-        "나츠메 이로하 (수영복)",
-        "이로하 수영복",
-        "수영복 이로하"
-      ],
-      "en": [
-        "natsume iroha",
-        "natsume_natsume iroha",
-        "이로하"
-      ],
-      "ja": [
-        "棗イロハ",
-        "棗棗イロハ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 3
   },
   "images": [
     {

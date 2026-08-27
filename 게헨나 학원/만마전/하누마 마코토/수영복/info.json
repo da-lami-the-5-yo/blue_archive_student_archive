@@ -27,35 +27,10 @@
       "kr": "출항! 만마선 이벤트에서 해적 모자를 쓰고 바다를 제패하려는 마코토의 수영복.",
       "en": "Unreleased 해적수영복 variant for Hanuma Makoto.",
       "ja": "羽沼マコトの未実装해적수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "마코토",
-        "하누마",
-        "하누마 마코토",
-        "하누마마코토",
-        "하누마 마코토 (수영복)",
-        "마코토 수영복",
-        "수영복 마코토"
-      ],
-      "en": [
-        "hanuma makoto",
-        "hanuma_hanuma makoto",
-        "마코토"
-      ],
-      "ja": [
-        "羽沼マコト",
-        "羽沼羽沼マコト"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 3
   },
   "images": [
     {

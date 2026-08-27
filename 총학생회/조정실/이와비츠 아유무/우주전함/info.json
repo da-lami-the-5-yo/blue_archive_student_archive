@@ -15,7 +15,7 @@
       "en": "Coordination Bureau",
       "ja": "調整室"
     },
-    "seasonal": "방주 제복",
+    "seasonal": "우주전함",
     "status": "미출시 시즈널",
     "combat_profile": {
       "role": "서포터",
@@ -36,7 +36,7 @@
     {
       "category": "공식",
       "filename": "official_ayumu_ark_uniform_portrait.png",
-      "path": "총학생회/조정실/이와비츠 아유무/방주 제복/공식/official_ayumu_ark_uniform_portrait.png",
+      "path": "총학생회/조정실/이와비츠 아유무/우주전함/공식/official_ayumu_ark_uniform_portrait.png",
       "note": "bluearchive.fandom portrait",
       "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayumu_Ark_Uniform_Portrait.png",
       "collected": "2026-08-27"

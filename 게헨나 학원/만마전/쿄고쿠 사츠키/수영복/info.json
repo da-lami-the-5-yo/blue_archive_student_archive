@@ -27,35 +27,10 @@
       "kr": "만마선 이벤트에서 마코토를 보좌하는 사츠키의 최면술 해적 수영복.",
       "en": "Unreleased 해적수영복 variant for Kyogoku Satsuki.",
       "ja": "京極サツキの未実装해적수영복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "사츠키",
-        "쿄고쿠",
-        "쿄고쿠 사츠키",
-        "쿄고쿠사츠키",
-        "쿄고쿠 사츠키 (수영복)",
-        "사츠키 수영복",
-        "수영복 사츠키"
-      ],
-      "en": [
-        "kyogoku satsuki",
-        "kyogoku_kyogoku satsuki",
-        "사츠키"
-      ],
-      "ja": [
-        "京極サツキ",
-        "京極京極サツキ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 3
   },
   "images": [
     {

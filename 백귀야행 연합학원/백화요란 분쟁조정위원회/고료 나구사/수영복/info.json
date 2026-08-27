@@ -30,28 +30,15 @@
     }
   },
   "collection_stats": {
-    "공식": 1,
-    "비공식": 2
+    "공식": 1
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_portrait.png",
       "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_portrait.png"
-    },
-    {
-      "category": "비공식",
-      "filename": "fanart_7084025_rank01.jpg",
-      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
-      "similarity": 0.65
-    },
-    {
-      "category": "비공식",
-      "filename": "fanart_7074475_rank01.jpg",
-      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7074475_rank01.jpg",
-      "similarity": 0.65
     }
   ],
-  "image_count": 3,
+  "image_count": 1,
   "updated": "2026-08-27"
 }

@@ -27,39 +27,36 @@
       "kr": "에덴조약 및 공식 여름 이벤트에 등장하는 화이트 비키니 수영복 복장의 미카(수미카).",
       "en": "4.5th Anniversary Limited Fest Character Swimsuit Mika from Trinity Tea Party.",
       "ja": "ブルーアーカイブ4.5周年記念フェス限定キャラとして登場した水着姿のミカ。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "미소노 미카 (수영복)",
-        "수영복 미카",
-        "수미카",
-        "미카"
-      ],
-      "en": [
-        "mika_swimsuit",
-        "swimsuit_mika"
-      ],
-      "ja": [
-        "水着ミカ",
-        "ミカ（水着）"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
-    "semi_official_images": 0,
-    "unofficial_rank00": 1,
-    "unofficial_rank01": 1,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 3,
+    "비공식/rank00": 1,
+    "비공식/rank01": 1
   },
   "images": [
     {
       "category": "공식",
-      "filename": "official_mika_swimsuit.webp",
-      "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_mika_swimsuit.webp",
-      "note": "공식 일러(경영 수영복)",
-      "source": "https://www.zerochan.net",
+      "filename": "official_schaledb_icon.webp",
+      "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10122)",
+      "source": "https://schaledb.com/images/student/icon/10122.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10122)",
+      "source": "https://schaledb.com/images/student/collection/10122.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "트리니티 종합학원/티파티/미카/수영복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10122)",
+      "source": "https://schaledb.com/images/student/portrait/10122.webp",
       "collected": "2026-08-27"
     },
     {
@@ -73,6 +70,6 @@
       "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank01/fanart_mika_swimsuit_02.png"
     }
   ],
-  "image_count": 3,
+  "image_count": 5,
   "updated": "2026-08-27"
 }

@@ -1,65 +1,44 @@
 {
-  "id": null,
-  "name_kr": "류게 키사키",
-  "name_en": "Ryuuge Kisaki",
-  "name_ja": "竜華キサキ",
-  "full_name_kr": "류게 키사키 (수영복)",
-  "full_name_en": "Ryuuge Kisaki (Swimsuit)",
-  "full_name_ja": "竜華キサキ（水着）",
-  "school_kr": "산해경 고급중학교",
-  "school_en": "Shanhaijing Senior Secondary School",
-  "school_ja": "山海経高級中学校",
-  "club_kr": "현룡문",
-  "club_en": "Genryumon",
-  "club_ja": "玄竜門",
-  "seasonal": "수영복",
-  "status": "출시(일본 서버)",
-  "role": "딜러",
-  "position": "스트라이커",
-  "bullet_type": "신비",
-  "armor_type": "특수장갑",
-  "description_kr": "여름 바캉스에서 우아하고 매혹적인 수영복을 입은 현룡문 수장 류게 키사키.",
-  "description_en": "Swimsuit variant of Ryuuge Kisaki during the summer vacation.",
-  "description_ja": "夏のバカンスで水着姿になった玄竜門主・竜華キサキ。",
-  "search_tags": {
-    "kr": [
-      "수사키",
-      "수영복 키사키",
-      "류게 키사키 수영복"
-    ],
-    "en": [
-      "kisaki swimsuit",
-      "kisaki_(swimsuit)_(blue_archive)"
-    ],
-    "ja": [
-      "水着キサキ",
-      "キサキ(水着)"
-    ]
+  "student_info": {
+    "name": {
+      "kr": "류게 키사키",
+      "en": "Ryuuge Kisaki",
+      "ja": "竜華キサキ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현룡문",
+      "en": "Genryumon",
+      "ja": "玄竜門"
+    },
+    "seasonal": "수영복",
+    "status": "출시(일본 서버)",
+    "combat_profile": {
+      "role": "딜러",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "여름 바캉스에서 우아하고 매혹적인 수영복을 입은 현룡문 수장 류게 키사키.",
+      "en": "Swimsuit variant of Ryuuge Kisaki during the summer vacation.",
+      "ja": "夏のバカンスで水着姿になった玄竜門主・竜華キサキ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_portrait.png",
       "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_portrait.png"
-    },
-    {
-      "category": "공식",
-      "filename": "official_icon.png",
-      "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/공식/official_icon.png"
-    },
-    {
-      "category": "비공식",
-      "filename": "fanart_7080192_rank01.jpg",
-      "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7080192_rank01.jpg",
-      "similarity": 0.65
-    },
-    {
-      "category": "비공식",
-      "filename": "fanart_7077886_rank01.jpg",
-      "path": "산해경 고급중학교/현룡문/류게 키사키/수영복/비공식/rank01/fanart_7077886_rank01.jpg",
-      "similarity": 0.65
     }
   ],
-  "image_count": 4,
+  "image_count": 1,
   "updated": "2026-08-27"
 }
