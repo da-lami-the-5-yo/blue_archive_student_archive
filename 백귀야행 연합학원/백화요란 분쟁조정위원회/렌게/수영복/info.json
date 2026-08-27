@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "후와 렌게",
+      "en": "Fuwa Renge",
+      "ja": "不破レンゲ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako",
+      "ja": "百鬼夜行"
+    },
+    "club": {
+      "kr": "백화요란 분쟁조정위원회",
+      "en": "Hyakkaryouran Resolution Council",
+      "ja": "百花繚乱紛争調停委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "진동",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "후와 렌게의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Swimsuit' of Fuwa Renge, added via schaledb roster sync (2026-08).",
+      "ja": "不破レンゲの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/수영복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 13014)",
+      "source": "https://schaledb.com/images/student/portrait/13014.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/수영복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 13014)",
+      "source": "https://schaledb.com/images/student/collection/13014.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/수영복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 13014)",
+      "source": "https://schaledb.com/images/student/icon/13014.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

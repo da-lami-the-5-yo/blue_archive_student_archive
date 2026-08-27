@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이케쿠라 마리나",
+      "en": "Ikekura Marina",
+      "ja": "池倉マリナ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter",
+      "ja": "レッドウィンター"
+    },
+    "club": {
+      "kr": "붉은겨울 사무국",
+      "en": "Red Winter Office",
+      "ja": "レッドウィンター事務局"
+    },
+    "seasonal": "치파오",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "이케쿠라 마리나의 치파오 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Qipao' of Ikekura Marina, added via schaledb roster sync (2026-08).",
+      "ja": "池倉マリナの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/치파오/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10103)",
+      "source": "https://schaledb.com/images/student/portrait/10103.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/치파오/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10103)",
+      "source": "https://schaledb.com/images/student/collection/10103.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/치파오/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10103)",
+      "source": "https://schaledb.com/images/student/icon/10103.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

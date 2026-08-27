@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유토리 나츠",
+      "en": "Yutori Natsu",
+      "ja": "柚鳥ナツ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "방과후 디저트부",
+      "en": "After-School Sweets Club",
+      "ja": "放課後スイーツ部"
+    },
+    "seasonal": "밴드",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "유토리 나츠의 밴드 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Band' of Yutori Natsu, added via schaledb roster sync (2026-08).",
+      "ja": "柚鳥ナツの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "트리니티 종합학원/방과후 디저트부/나츠/밴드/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10120)",
+      "source": "https://schaledb.com/images/student/portrait/10120.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "트리니티 종합학원/방과후 디저트부/나츠/밴드/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10120)",
+      "source": "https://schaledb.com/images/student/collection/10120.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "트리니티 종합학원/방과후 디저트부/나츠/밴드/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10120)",
+      "source": "https://schaledb.com/images/student/icon/10120.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아사기 무츠키",
+      "en": "Asagi Mutsuki",
+      "ja": "浅黄ムツキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "흥신소 68",
+      "en": "Problem Solver 68",
+      "ja": "便利屋68"
+    },
+    "seasonal": "드레스",
+    "status": "출시(일본 서버)",
+    "combat_profile": {
+      "role": "스페셜",
+      "position": "백",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "아사기 무츠키의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Dress' of Asagi Mutsuki, added via schaledb roster sync (2026-08).",
+      "ja": "浅黄ムツキの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "게헨나 학원/흥신소 68/무츠키/드레스/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 20059)",
+      "source": "https://schaledb.com/images/student/portrait/20059.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "게헨나 학원/흥신소 68/무츠키/드레스/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 20059)",
+      "source": "https://schaledb.com/images/student/collection/20059.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "게헨나 학원/흥신소 68/무츠키/드레스/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 20059)",
+      "source": "https://schaledb.com/images/student/icon/20059.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

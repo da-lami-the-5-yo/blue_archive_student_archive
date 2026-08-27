@@ -91,7 +91,7 @@
     "club_en": "FOX Platoon",
     "club_ja": "FOX小隊",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -159,7 +159,7 @@
     "club_en": "FOX Platoon",
     "club_ja": "FOX小隊",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "어태커",
     "position": "스트라이커",
     "bullet_type": "관통",
@@ -227,7 +227,7 @@
     "club_en": "FOX Platoon",
     "club_ja": "FOX小隊",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "어태커",
     "position": "스트라이커",
     "bullet_type": "신비",
@@ -991,7 +991,7 @@
     "club_en": "Go-Home Club",
     "club_ja": "帰宅部",
     "seasonal": "기본",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -1301,6 +1301,71 @@
     "canonical_name_kr": "우시마키 주리"
   },
   {
+    "id": 10114,
+    "family_name_kr": "우시마키",
+    "personal_name_kr": "주리",
+    "canonical_name_kr": "우시마키 주리",
+    "name_kr": "우시마키 주리",
+    "name_en": "Ushimaki Juri",
+    "name_ja": "牛牧ジュリ",
+    "full_name_kr": "우시마키 주리 (아르바이트)",
+    "full_name_en": "Ushimaki Juri (Part-Timer)",
+    "full_name_ja": "牛牧ジュリ（기본）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "급양부",
+    "club_en": "School Lunch Club",
+    "club_ja": "給食部",
+    "seasonal": "아르바이트",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "우시마키 주리의 아르바이트 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Part-Timer' of Ushimaki Juri, added via schaledb roster sync (2026-08).",
+    "description_ja": "牛牧ジュリの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Juri ",
+      "Part-Timer",
+      "Ushimaki Juri",
+      "牛牧ジュリ",
+      "게헨나 학원",
+      "급양부",
+      "아르바이트",
+      "우시마키 주리",
+      "주리"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "게헨나 학원/급양부/주리/아르바이트/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10114)",
+        "source": "https://schaledb.com/images/student/portrait/10114.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "게헨나 학원/급양부/주리/아르바이트/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10114)",
+        "source": "https://schaledb.com/images/student/collection/10114.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "게헨나 학원/급양부/주리/아르바이트/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10114)",
+        "source": "https://schaledb.com/images/student/icon/10114.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 20016,
     "name_kr": "나츠메 이로하",
     "name_en": "Iroha",
@@ -1377,7 +1442,7 @@
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "택티컬 서포트",
     "position": "스페셜",
     "bullet_type": "신비",
@@ -1492,7 +1557,7 @@
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "신비",
@@ -1556,7 +1621,7 @@
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "관통",
@@ -1691,7 +1756,7 @@
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -1895,7 +1960,7 @@
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -2099,7 +2164,7 @@
     "club_en": "Pandemonium Society",
     "club_ja": "万魔殿",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "탱커",
     "position": "스트라이커",
     "bullet_type": "관통",
@@ -2216,6 +2281,71 @@
     "personal_name_kr": "이즈미",
     "family_name_kr": "시시도우",
     "canonical_name_kr": "시시도우 이즈미"
+  },
+  {
+    "id": 20043,
+    "family_name_kr": "시시도우",
+    "personal_name_kr": "이즈미",
+    "canonical_name_kr": "시시도우 이즈미",
+    "name_kr": "시시도우 이즈미",
+    "name_en": "Shishidou Izumi",
+    "name_ja": "獅子堂イズミ",
+    "full_name_kr": "시시도우 이즈미 (새해)",
+    "full_name_en": "Shishidou Izumi (New Year)",
+    "full_name_ja": "獅子堂イズミ（기본）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "미식연구회",
+    "club_en": "Gourmet Research Society",
+    "club_ja": "美食研究会",
+    "seasonal": "새해",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "시시도우 이즈미의 새해 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'New Year' of Shishidou Izumi, added via schaledb roster sync (2026-08).",
+    "description_ja": "獅子堂イズミの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Izumi ",
+      "New Year",
+      "Shishidou Izumi",
+      "獅子堂イズミ",
+      "게헨나 학원",
+      "미식연구회",
+      "새해",
+      "시시도우 이즈미",
+      "이즈미"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/새해/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20043)",
+        "source": "https://schaledb.com/images/student/portrait/20043.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/새해/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20043)",
+        "source": "https://schaledb.com/images/student/collection/20043.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "게헨나 학원/미식연구회/이즈미/새해/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20043)",
+        "source": "https://schaledb.com/images/student/icon/20043.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16006,
@@ -3879,6 +4009,71 @@
     "canonical_name_kr": "히무로 세나"
   },
   {
+    "id": 10113,
+    "family_name_kr": "히무로",
+    "personal_name_kr": "세나",
+    "canonical_name_kr": "히무로 세나",
+    "name_kr": "히무로 세나",
+    "name_en": "Himuro Sena",
+    "name_ja": "氷室 セナ",
+    "full_name_kr": "히무로 세나 (사복)",
+    "full_name_en": "Himuro Sena (Casual)",
+    "full_name_ja": "氷室 セナ（기본）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "응급의학부",
+    "club_en": "Medical Emergency Club",
+    "club_ja": "救急医学部",
+    "seasonal": "사복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "진동",
+    "armor_type": "중장갑",
+    "description_kr": "히무로 세나의 사복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Casual' of Himuro Sena, added via schaledb roster sync (2026-08).",
+    "description_ja": "氷室 セナの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Casual",
+      "Himuro Sena",
+      "Sena ",
+      "氷室 セナ",
+      "게헨나 학원",
+      "사복",
+      "세나",
+      "응급의학부",
+      "히무로 세나"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "게헨나 학원/응급의학부/세나/사복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10113)",
+        "source": "https://schaledb.com/images/student/portrait/10113.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "게헨나 학원/응급의학부/세나/사복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10113)",
+        "source": "https://schaledb.com/images/student/collection/10113.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "게헨나 학원/응급의학부/세나/사복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10113)",
+        "source": "https://schaledb.com/images/student/icon/10113.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10000,
     "name_kr": "리쿠하치마 아루",
     "name_en": "Aru",
@@ -4226,6 +4421,71 @@
     "personal_name_kr": "무츠키",
     "family_name_kr": "아사기",
     "canonical_name_kr": "아사기 무츠키"
+  },
+  {
+    "id": 20059,
+    "family_name_kr": "아사기",
+    "personal_name_kr": "무츠키",
+    "canonical_name_kr": "아사기 무츠키",
+    "name_kr": "아사기 무츠키",
+    "name_en": "Asagi Mutsuki",
+    "name_ja": "浅黄ムツキ",
+    "full_name_kr": "아사기 무츠키 (드레스)",
+    "full_name_en": "Asagi Mutsuki (Dress)",
+    "full_name_ja": "浅黄ムツキ（기본）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "흥신소 68",
+    "club_en": "Problem Solver 68",
+    "club_ja": "便利屋68",
+    "seasonal": "드레스",
+    "status": "출시(일본 서버)",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "아사기 무츠키의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Dress' of Asagi Mutsuki, added via schaledb roster sync (2026-08).",
+    "description_ja": "浅黄ムツキの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Asagi Mutsuki",
+      "Dress",
+      "Mutsuki ",
+      "浅黄ムツキ",
+      "게헨나 학원",
+      "드레스",
+      "무츠키",
+      "아사기 무츠키",
+      "흥신소 68"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/드레스/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20059)",
+        "source": "https://schaledb.com/images/student/portrait/20059.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/드레스/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20059)",
+        "source": "https://schaledb.com/images/student/collection/20059.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "게헨나 학원/흥신소 68/무츠키/드레스/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20059)",
+        "source": "https://schaledb.com/images/student/icon/20059.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10032,
@@ -4657,6 +4917,71 @@
     "canonical_name_kr": "이구사 하루카"
   },
   {
+    "id": 10141,
+    "family_name_kr": "이구사",
+    "personal_name_kr": "하루카",
+    "canonical_name_kr": "이구사 하루카",
+    "name_kr": "이구사 하루카",
+    "name_en": "Igusa Haruka",
+    "name_ja": "伊草ハルカ",
+    "full_name_kr": "이구사 하루카 (드레스)",
+    "full_name_en": "Igusa Haruka (Dress)",
+    "full_name_ja": "伊草ハルカ（기본）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "흥신소 68",
+    "club_en": "Problem Solver 68",
+    "club_ja": "便利屋68",
+    "seasonal": "드레스",
+    "status": "출시(일본 서버)",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "이구사 하루카의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Dress' of Igusa Haruka, added via schaledb roster sync (2026-08).",
+    "description_ja": "伊草ハルカの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Dress",
+      "Haruka ",
+      "Igusa Haruka",
+      "伊草ハルカ",
+      "게헨나 학원",
+      "드레스",
+      "이구사 하루카",
+      "하루카",
+      "흥신소 68"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/드레스/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10141)",
+        "source": "https://schaledb.com/images/student/portrait/10141.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/드레스/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10141)",
+        "source": "https://schaledb.com/images/student/collection/10141.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "게헨나 학원/흥신소 68/하루카/드레스/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10141)",
+        "source": "https://schaledb.com/images/student/icon/10141.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 20025,
     "name_kr": "이구사 하루카",
     "name_en": "Haruka",
@@ -4928,6 +5253,136 @@
     "image_count": 0
   },
   {
+    "id": 16019,
+    "family_name_kr": "아스마",
+    "personal_name_kr": "토키",
+    "canonical_name_kr": "아스마 토키",
+    "name_kr": "아스마 토키",
+    "name_en": "Asuma Toki",
+    "name_ja": "飛鳥馬トキ",
+    "full_name_kr": "아스마 토키 (무장)",
+    "full_name_en": "Asuma Toki (Armed)",
+    "full_name_ja": "飛鳥馬トキ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "C&C",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "C&C",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "아스마 토키의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Asuma Toki, added via schaledb roster sync (2026-08).",
+    "description_ja": "飛鳥馬トキの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Armed",
+      "Asuma Toki",
+      "C&C",
+      "Toki ",
+      "飛鳥馬トキ",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "아스마 토키",
+      "토키"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 16019)",
+        "source": "https://schaledb.com/images/student/portrait/16019.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 16019)",
+        "source": "https://schaledb.com/images/student/collection/16019.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 16019)",
+        "source": "https://schaledb.com/images/student/icon/16019.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
+    "id": 20057,
+    "family_name_kr": "무로카사",
+    "personal_name_kr": "아카네",
+    "canonical_name_kr": "무로카사 아카네",
+    "name_kr": "무로카사 아카네",
+    "name_en": "Murokasa Akane",
+    "name_ja": "室笠アカネ",
+    "full_name_kr": "무로카사 아카네 (교복)",
+    "full_name_en": "Murokasa Akane (School)",
+    "full_name_ja": "室笠アカネ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "Cleaning&Clearing",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "Cleaning&Clearing",
+    "seasonal": "교복",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "무로카사 아카네의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'School' of Murokasa Akane, added via schaledb roster sync (2026-08).",
+    "description_ja": "室笠アカネの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Akane ",
+      "Cleaning&Clearing",
+      "Murokasa Akane",
+      "School",
+      "室笠アカネ",
+      "교복",
+      "무로카사 아카네",
+      "밀레니엄 사이언스 스쿨",
+      "아카네"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20057)",
+        "source": "https://schaledb.com/images/student/portrait/20057.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20057)",
+        "source": "https://schaledb.com/images/student/collection/20057.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20057)",
+        "source": "https://schaledb.com/images/student/icon/20057.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 13000,
     "name_kr": "무로카사 아카네",
     "name_en": "Akane",
@@ -5053,6 +5508,71 @@
     "personal_name_kr": "아카네",
     "family_name_kr": "무로카사",
     "canonical_name_kr": "무로카사 아카네"
+  },
+  {
+    "id": 10111,
+    "family_name_kr": "미카모",
+    "personal_name_kr": "네루",
+    "canonical_name_kr": "미카모 네루",
+    "name_kr": "미카모 네루",
+    "name_en": "Mikamo Neru",
+    "name_ja": "美甘ネル",
+    "full_name_kr": "미카모 네루 (교복)",
+    "full_name_en": "Mikamo Neru (School)",
+    "full_name_ja": "美甘ネル（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "Cleaning&Clearing",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "Cleaning&Clearing",
+    "seasonal": "교복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "탄력장갑",
+    "description_kr": "미카모 네루의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'School' of Mikamo Neru, added via schaledb roster sync (2026-08).",
+    "description_ja": "美甘ネルの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Cleaning&Clearing",
+      "Mikamo Neru",
+      "Neru ",
+      "School",
+      "美甘ネル",
+      "교복",
+      "네루",
+      "미카모 네루",
+      "밀레니엄 사이언스 스쿨"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/교복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10111)",
+        "source": "https://schaledb.com/images/student/portrait/10111.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/교복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10111)",
+        "source": "https://schaledb.com/images/student/collection/10111.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/네루/교복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10111)",
+        "source": "https://schaledb.com/images/student/icon/10111.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10008,
@@ -5309,6 +5829,71 @@
     "canonical_name_kr": "아스마 토키"
   },
   {
+    "id": 10112,
+    "family_name_kr": "이치노세",
+    "personal_name_kr": "아스나",
+    "canonical_name_kr": "이치노세 아스나",
+    "name_kr": "이치노세 아스나",
+    "name_en": "Ichinose Asuna",
+    "name_ja": "一之瀬アスナ",
+    "full_name_kr": "이치노세 아스나 (교복)",
+    "full_name_en": "Ichinose Asuna (School)",
+    "full_name_ja": "一之瀬アスナ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "Cleaning&Clearing",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "Cleaning&Clearing",
+    "seasonal": "교복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "이치노세 아스나의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'School' of Ichinose Asuna, added via schaledb roster sync (2026-08).",
+    "description_ja": "一之瀬アスナの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Asuna ",
+      "Cleaning&Clearing",
+      "Ichinose Asuna",
+      "School",
+      "一之瀬アスナ",
+      "교복",
+      "밀레니엄 사이언스 스쿨",
+      "아스나",
+      "이치노세 아스나"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/교복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10112)",
+        "source": "https://schaledb.com/images/student/portrait/10112.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/교복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10112)",
+        "source": "https://schaledb.com/images/student/collection/10112.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/교복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10112)",
+        "source": "https://schaledb.com/images/student/icon/10112.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 16001,
     "name_kr": "이치노세 아스나",
     "name_en": "Asuna",
@@ -5434,6 +6019,71 @@
     "personal_name_kr": "아스나",
     "family_name_kr": "이치노세",
     "canonical_name_kr": "이치노세 아스나"
+  },
+  {
+    "id": 26014,
+    "family_name_kr": "카쿠다테",
+    "personal_name_kr": "카린",
+    "canonical_name_kr": "카쿠다테 카린",
+    "name_kr": "카쿠다테 카린",
+    "name_en": "Kakudate Karin",
+    "name_ja": "角楯カリン",
+    "full_name_kr": "카쿠다테 카린 (교복)",
+    "full_name_en": "Kakudate Karin (School)",
+    "full_name_ja": "角楯カリン（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "Cleaning&Clearing",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "Cleaning&Clearing",
+    "seasonal": "교복",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "카쿠다테 카린의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'School' of Kakudate Karin, added via schaledb roster sync (2026-08).",
+    "description_ja": "角楯カリンの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Cleaning&Clearing",
+      "Kakudate Karin",
+      "Karin ",
+      "School",
+      "角楯カリン",
+      "교복",
+      "밀레니엄 사이언스 스쿨",
+      "카린",
+      "카쿠다테 카린"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/교복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 26014)",
+        "source": "https://schaledb.com/images/student/portrait/26014.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/교복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 26014)",
+        "source": "https://schaledb.com/images/student/collection/26014.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/카린/교복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 26014)",
+        "source": "https://schaledb.com/images/student/icon/26014.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20001,
@@ -6180,6 +6830,71 @@
     "canonical_name_kr": "텐도 아리스"
   },
   {
+    "id": 10134,
+    "family_name_kr": "텐도",
+    "personal_name_kr": "아리스",
+    "canonical_name_kr": "텐도 아리스",
+    "name_kr": "텐도 아리스",
+    "name_en": "Tendou Aris",
+    "name_ja": "天童アリス",
+    "full_name_kr": "텐도 아리스 (무장)",
+    "full_name_en": "Tendou Aris (Armed)",
+    "full_name_ja": "天童アリス（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "게임개발부",
+    "club_en": "Game Development Department",
+    "club_ja": "ゲーム開発部",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "신비",
+    "armor_type": null,
+    "description_kr": "텐도 아리스의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Tendou Aris, added via schaledb roster sync (2026-08).",
+    "description_ja": "天童アリスの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Aris ",
+      "Armed",
+      "Tendou Aris",
+      "天童アリス",
+      "게임개발부",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "아리스",
+      "텐도 아리스"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10134)",
+        "source": "https://schaledb.com/images/student/portrait/10134.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10134)",
+        "source": "https://schaledb.com/images/student/collection/10134.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10134)",
+        "source": "https://schaledb.com/images/student/icon/10134.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": null,
     "name_kr": "텐도 아리스",
     "name_en": "Tendo Alice",
@@ -6435,6 +7150,71 @@
     "personal_name_kr": "유즈",
     "family_name_kr": "하나오카",
     "canonical_name_kr": "하나오카 유즈"
+  },
+  {
+    "id": 20055,
+    "family_name_kr": "하나오카",
+    "personal_name_kr": "유즈",
+    "canonical_name_kr": "하나오카 유즈",
+    "name_kr": "하나오카 유즈",
+    "name_en": "Hanaoka Yuzu",
+    "name_ja": "花岡ユズ",
+    "full_name_kr": "하나오카 유즈 (무장)",
+    "full_name_en": "Hanaoka Yuzu (Armed)",
+    "full_name_ja": "花岡ユズ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "게임개발부",
+    "club_en": "Game Development Department",
+    "club_ja": "ゲーム開発部",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "하나오카 유즈의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Hanaoka Yuzu, added via schaledb roster sync (2026-08).",
+    "description_ja": "花岡ユズの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Armed",
+      "Hanaoka Yuzu",
+      "Yuzu ",
+      "花岡ユズ",
+      "게임개발부",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "유즈",
+      "하나오카 유즈"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20055)",
+        "source": "https://schaledb.com/images/student/portrait/20055.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20055)",
+        "source": "https://schaledb.com/images/student/collection/20055.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/유즈/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20055)",
+        "source": "https://schaledb.com/images/student/icon/20055.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": null,
@@ -7068,6 +7848,71 @@
     "canonical_name_kr": "코누리 마키"
   },
   {
+    "id": 20042,
+    "family_name_kr": "코누리",
+    "personal_name_kr": "마키",
+    "canonical_name_kr": "코누리 마키",
+    "name_kr": "코누리 마키",
+    "name_en": "Konuri Maki",
+    "name_ja": "小塗マキ",
+    "full_name_kr": "코누리 마키 (캠핑)",
+    "full_name_en": "Konuri Maki (Camp)",
+    "full_name_ja": "小塗マキ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "베리타스",
+    "club_en": "Veritas",
+    "club_ja": "ヴェリタス",
+    "seasonal": "캠핑",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "코누리 마키의 캠핑 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Camp' of Konuri Maki, added via schaledb roster sync (2026-08).",
+    "description_ja": "小塗マキの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Camp",
+      "Konuri Maki",
+      "Maki ",
+      "小塗マキ",
+      "마키",
+      "밀레니엄 사이언스 스쿨",
+      "베리타스",
+      "캠핑",
+      "코누리 마키"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/캠핑/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20042)",
+        "source": "https://schaledb.com/images/student/portrait/20042.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/캠핑/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20042)",
+        "source": "https://schaledb.com/images/student/collection/20042.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/캠핑/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20042)",
+        "source": "https://schaledb.com/images/student/icon/20042.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": null,
     "family_name_kr": "코누리",
     "personal_name_kr": "마키",
@@ -7274,7 +8119,7 @@
     "club_en": "Seminar",
     "club_ja": "セミナー",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "신비",
@@ -7330,6 +8175,71 @@
     "personal_name_kr": "리오",
     "family_name_kr": "츠카츠키",
     "canonical_name_kr": "츠카츠키 리오"
+  },
+  {
+    "id": 10133,
+    "family_name_kr": "츠카츠키",
+    "personal_name_kr": "리오",
+    "canonical_name_kr": "츠카츠키 리오",
+    "name_kr": "츠카츠키 리오",
+    "name_en": "Tsukatsuki Rio",
+    "name_ja": "調月リオ",
+    "full_name_kr": "츠카츠키 리오 (무장)",
+    "full_name_en": "Tsukatsuki Rio (Armed)",
+    "full_name_ja": "調月リオ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "세미나",
+    "club_en": "Seminar",
+    "club_ja": "セミナー",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "츠카츠키 리오의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Tsukatsuki Rio, added via schaledb roster sync (2026-08).",
+    "description_ja": "調月リオの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Armed",
+      "Rio ",
+      "Tsukatsuki Rio",
+      "調月リオ",
+      "리오",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "세미나",
+      "츠카츠키 리오"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10133)",
+        "source": "https://schaledb.com/images/student/portrait/10133.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10133)",
+        "source": "https://schaledb.com/images/student/collection/10133.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10133)",
+        "source": "https://schaledb.com/images/student/icon/10133.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": null,
@@ -7842,6 +8752,71 @@
     "personal_name_kr": "유우카",
     "family_name_kr": "하야세",
     "canonical_name_kr": "하야세 유우카"
+  },
+  {
+    "id": 10108,
+    "family_name_kr": "하야세",
+    "personal_name_kr": "유우카",
+    "canonical_name_kr": "하야세 유우카",
+    "name_kr": "하야세 유우카",
+    "name_en": "Hayase Yuuka",
+    "name_ja": "早瀬ユウカ",
+    "full_name_kr": "하야세 유우카 (파자마)",
+    "full_name_en": "Hayase Yuuka (Pajamas)",
+    "full_name_ja": "早瀬ユウカ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "세미나",
+    "club_en": "Seminar",
+    "club_ja": "セミナー",
+    "seasonal": "파자마",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "하야세 유우카의 파자마 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Pajamas' of Hayase Yuuka, added via schaledb roster sync (2026-08).",
+    "description_ja": "早瀬ユウカの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Hayase Yuuka",
+      "Pajamas",
+      "Yuuka ",
+      "早瀬ユウカ",
+      "밀레니엄 사이언스 스쿨",
+      "세미나",
+      "유우카",
+      "파자마",
+      "하야세 유우카"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/파자마/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10108)",
+        "source": "https://schaledb.com/images/student/portrait/10108.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/파자마/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10108)",
+        "source": "https://schaledb.com/images/student/collection/10108.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/파자마/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10108)",
+        "source": "https://schaledb.com/images/student/icon/10108.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20000,
@@ -8482,6 +9457,71 @@
     "canonical_name_kr": "아케보시 히마리"
   },
   {
+    "id": 20054,
+    "family_name_kr": "아케보시",
+    "personal_name_kr": "히마리",
+    "canonical_name_kr": "아케보시 히마리",
+    "name_kr": "아케보시 히마리",
+    "name_en": "Akeboshi Himari",
+    "name_ja": "明星ヒマリ",
+    "full_name_kr": "아케보시 히마리 (무장)",
+    "full_name_en": "Akeboshi Himari (Armed)",
+    "full_name_ja": "明星ヒマリ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "초현상특무부",
+    "club_en": "Super Phenomenon Task Force",
+    "club_ja": "特異現象捜査部",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "탄력장갑",
+    "description_kr": "아케보시 히마리의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Akeboshi Himari, added via schaledb roster sync (2026-08).",
+    "description_ja": "明星ヒマリの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Akeboshi Himari",
+      "Armed",
+      "Himari ",
+      "明星ヒマリ",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "아케보시 히마리",
+      "초현상특무부",
+      "히마리"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20054)",
+        "source": "https://schaledb.com/images/student/portrait/20054.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20054)",
+        "source": "https://schaledb.com/images/student/collection/20054.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20054)",
+        "source": "https://schaledb.com/images/student/icon/20054.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10001,
     "name_kr": "이즈미모토 에이미",
     "name_en": "Eimi",
@@ -8542,6 +9582,71 @@
     "personal_name_kr": "에이미",
     "family_name_kr": "이즈미모토",
     "canonical_name_kr": "이즈미모토 에이미"
+  },
+  {
+    "id": 10136,
+    "family_name_kr": "이즈미모토",
+    "personal_name_kr": "에이미",
+    "canonical_name_kr": "이즈미모토 에이미",
+    "name_kr": "이즈미모토 에이미",
+    "name_en": "Izumimoto Eimi",
+    "name_ja": "和泉元エイミ",
+    "full_name_kr": "이즈미모토 에이미 (무장)",
+    "full_name_en": "Izumimoto Eimi (Armed)",
+    "full_name_ja": "和泉元エイミ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "초현상특무부",
+    "club_en": "Super Phenomenon Task Force",
+    "club_ja": "特異現象捜査部",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "이즈미모토 에이미의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Izumimoto Eimi, added via schaledb roster sync (2026-08).",
+    "description_ja": "和泉元エイミの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Armed",
+      "Eimi ",
+      "Izumimoto Eimi",
+      "和泉元エイミ",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "에이미",
+      "이즈미모토 에이미",
+      "초현상특무부"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10136)",
+        "source": "https://schaledb.com/images/student/portrait/10136.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10136)",
+        "source": "https://schaledb.com/images/student/collection/10136.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10136)",
+        "source": "https://schaledb.com/images/student/icon/10136.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20032,
@@ -8885,7 +9990,7 @@
     "club_en": "Training Club",
     "club_ja": "トレーニング部",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "탱커",
     "position": "스트라이커",
     "bullet_type": "폭발",
@@ -9001,6 +10106,71 @@
     "canonical_name_kr": "오토하나 스미레"
   },
   {
+    "id": 20044,
+    "family_name_kr": "오토하나",
+    "personal_name_kr": "스미레",
+    "canonical_name_kr": "오토하나 스미레",
+    "name_kr": "오토하나 스미레",
+    "name_en": "Otohana Sumire",
+    "name_ja": "乙花スミレ",
+    "full_name_kr": "오토하나 스미레 (아르바이트)",
+    "full_name_en": "Otohana Sumire (Part-Timer)",
+    "full_name_ja": "乙花スミレ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "트레이닝부",
+    "club_en": "Athletics Training Club",
+    "club_ja": "トレーニング部",
+    "seasonal": "아르바이트",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "오토하나 스미레의 아르바이트 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Part-Timer' of Otohana Sumire, added via schaledb roster sync (2026-08).",
+    "description_ja": "乙花スミレの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Otohana Sumire",
+      "Part-Timer",
+      "Sumire ",
+      "乙花スミレ",
+      "밀레니엄 사이언스 스쿨",
+      "스미레",
+      "아르바이트",
+      "오토하나 스미레",
+      "트레이닝부"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/아르바이트/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20044)",
+        "source": "https://schaledb.com/images/student/portrait/20044.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/아르바이트/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20044)",
+        "source": "https://schaledb.com/images/student/collection/20044.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/스미레/아르바이트/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20044)",
+        "source": "https://schaledb.com/images/student/icon/20044.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "canonical_name_kr": "나카츠카사 키리노",
     "personal_name_kr": "키리노",
     "family_name_kr": "나카츠카사",
@@ -9074,7 +10244,7 @@
     "club_en": "Public Peace Bureau",
     "club_ja": "公安局",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -9761,6 +10931,71 @@
     "canonical_name_kr": "사토하마 우미카"
   },
   {
+    "id": 20045,
+    "family_name_kr": "아사히나",
+    "personal_name_kr": "피나",
+    "canonical_name_kr": "아사히나 피나",
+    "name_kr": "아사히나 피나",
+    "name_en": "Asahina Pina",
+    "name_ja": "朝比奈フィーナ",
+    "full_name_kr": "아사히나 피나 (가이드)",
+    "full_name_en": "Asahina Pina (Guide)",
+    "full_name_ja": "朝比奈フィーナ（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "마츠리운영관리부",
+    "club_en": "Festival Operations Department",
+    "club_ja": "お祭り運営委員会",
+    "seasonal": "가이드",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "아사히나 피나의 가이드 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Guide' of Asahina Pina, added via schaledb roster sync (2026-08).",
+    "description_ja": "朝比奈フィーナの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Asahina Pina",
+      "Guide",
+      "Pina ",
+      "朝比奈フィーナ",
+      "가이드",
+      "마츠리운영관리부",
+      "백귀야행 연합학원",
+      "아사히나 피나",
+      "피나"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/피나/가이드/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20045)",
+        "source": "https://schaledb.com/images/student/portrait/20045.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/피나/가이드/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20045)",
+        "source": "https://schaledb.com/images/student/collection/20045.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/마츠리운영관리부/피나/가이드/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20045)",
+        "source": "https://schaledb.com/images/student/icon/20045.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 16004,
     "name_kr": "아사히나 피나",
     "name_en": "Pina",
@@ -10039,6 +11274,71 @@
     "personal_name_kr": "와카모",
     "family_name_kr": "코사카",
     "canonical_name_kr": "코사카 와카모"
+  },
+  {
+    "id": 10121,
+    "family_name_kr": "카데노코지",
+    "personal_name_kr": "유카리",
+    "canonical_name_kr": "카데노코지 유카리",
+    "name_kr": "카데노코지 유카리",
+    "name_en": "Kadenokouji Yukari",
+    "name_ja": "勘解由小路ユカリ",
+    "full_name_kr": "카데노코지 유카리 (수영복)",
+    "full_name_en": "Kadenokouji Yukari (Swimsuit)",
+    "full_name_ja": "勘解由小路ユカリ（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란",
+    "club_en": "Hyakkaryoran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "카데노코지 유카리의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Kadenokouji Yukari, added via schaledb roster sync (2026-08).",
+    "description_ja": "勘解由小路ユカリの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Kadenokouji Yukari",
+      "Swimsuit",
+      "Yukari ",
+      "勘解由小路ユカリ",
+      "백귀야행 연합학원",
+      "백화요란",
+      "수영복",
+      "유카리",
+      "카데노코지 유카리"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10121)",
+        "source": "https://schaledb.com/images/student/portrait/10121.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10121)",
+        "source": "https://schaledb.com/images/student/collection/10121.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10121)",
+        "source": "https://schaledb.com/images/student/icon/10121.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "canonical_name_kr": "카데노코지 유카리",
@@ -10420,6 +11720,71 @@
     "canonical_name_kr": "키류 키쿄"
   },
   {
+    "id": 20047,
+    "family_name_kr": "키류",
+    "personal_name_kr": "키쿄",
+    "canonical_name_kr": "키류 키쿄",
+    "name_kr": "키류 키쿄",
+    "name_en": "Kiryuu Kikyou",
+    "name_ja": "桐生キキョウ",
+    "full_name_kr": "키류 키쿄 (수영복)",
+    "full_name_en": "Kiryuu Kikyou (Swimsuit)",
+    "full_name_ja": "桐生キキョウ（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkaryouran Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "중장갑",
+    "description_kr": "키류 키쿄의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Kiryuu Kikyou, added via schaledb roster sync (2026-08).",
+    "description_ja": "桐生キキョウの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Kikyou ",
+      "Kiryuu Kikyou",
+      "Swimsuit",
+      "桐生キキョウ",
+      "백귀야행 연합학원",
+      "백화요란 분쟁조정위원회",
+      "수영복",
+      "키류 키쿄",
+      "키쿄"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20047)",
+        "source": "https://schaledb.com/images/student/portrait/20047.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20047)",
+        "source": "https://schaledb.com/images/student/collection/20047.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20047)",
+        "source": "https://schaledb.com/images/student/icon/20047.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10082,
     "name_kr": "후와 렌게",
     "name_en": "Renge",
@@ -10480,6 +11845,71 @@
     "personal_name_kr": "렌게",
     "family_name_kr": "후와",
     "canonical_name_kr": "후와 렌게"
+  },
+  {
+    "id": 13014,
+    "family_name_kr": "후와",
+    "personal_name_kr": "렌게",
+    "canonical_name_kr": "후와 렌게",
+    "name_kr": "후와 렌게",
+    "name_en": "Fuwa Renge",
+    "name_ja": "不破レンゲ",
+    "full_name_kr": "후와 렌게 (수영복)",
+    "full_name_en": "Fuwa Renge (Swimsuit)",
+    "full_name_ja": "不破レンゲ（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkaryouran Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "후와 렌게의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Fuwa Renge, added via schaledb roster sync (2026-08).",
+    "description_ja": "不破レンゲの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Fuwa Renge",
+      "Renge ",
+      "Swimsuit",
+      "不破レンゲ",
+      "렌게",
+      "백귀야행 연합학원",
+      "백화요란 분쟁조정위원회",
+      "수영복",
+      "후와 렌게"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 13014)",
+        "source": "https://schaledb.com/images/student/portrait/13014.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 13014)",
+        "source": "https://schaledb.com/images/student/collection/13014.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 13014)",
+        "source": "https://schaledb.com/images/student/icon/13014.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": null,
@@ -10560,7 +11990,7 @@
     "club_en": "Hyakkayouran Conflict Resolution Council",
     "club_ja": "百花繚乱紛争調停委員会",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "서포터",
     "position": "스트라이커",
     "bullet_type": "폭발",
@@ -11493,6 +12923,71 @@
     "canonical_name_kr": "오노 츠쿠요"
   },
   {
+    "id": 10132,
+    "family_name_kr": "오노",
+    "personal_name_kr": "츠쿠요",
+    "canonical_name_kr": "오노 츠쿠요",
+    "name_kr": "오노 츠쿠요",
+    "name_en": "Ono Tsukuyo",
+    "name_ja": "大野ツクヨ",
+    "full_name_kr": "오노 츠쿠요 (드레스)",
+    "full_name_en": "Ono Tsukuyo (Dress)",
+    "full_name_ja": "大野ツクヨ（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "인법연구부",
+    "club_en": "Ninjutsu Research Club",
+    "club_ja": "忍術研究部",
+    "seasonal": "드레스",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "오노 츠쿠요의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Dress' of Ono Tsukuyo, added via schaledb roster sync (2026-08).",
+    "description_ja": "大野ツクヨの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Dress",
+      "Ono Tsukuyo",
+      "Tsukuyo ",
+      "大野ツクヨ",
+      "드레스",
+      "백귀야행 연합학원",
+      "오노 츠쿠요",
+      "인법연구부",
+      "츠쿠요"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/드레스/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10132)",
+        "source": "https://schaledb.com/images/student/portrait/10132.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/드레스/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10132)",
+        "source": "https://schaledb.com/images/student/collection/10132.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/인법연구부/츠쿠요/드레스/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10132)",
+        "source": "https://schaledb.com/images/student/icon/10132.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 16009,
     "name_kr": "치도리 미치루",
     "name_en": "Michiru",
@@ -11553,6 +13048,71 @@
     "personal_name_kr": "미치루",
     "family_name_kr": "치도리",
     "canonical_name_kr": "치도리 미치루"
+  },
+  {
+    "id": 20053,
+    "family_name_kr": "치도리",
+    "personal_name_kr": "미치루",
+    "canonical_name_kr": "치도리 미치루",
+    "name_kr": "치도리 미치루",
+    "name_en": "Chidori Michiru",
+    "name_ja": "千鳥ミチル",
+    "full_name_kr": "치도리 미치루 (드레스)",
+    "full_name_en": "Chidori Michiru (Dress)",
+    "full_name_ja": "千鳥ミチル（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "인법연구부",
+    "club_en": "Ninjutsu Research Club",
+    "club_ja": "忍術研究部",
+    "seasonal": "드레스",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "치도리 미치루의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Dress' of Chidori Michiru, added via schaledb roster sync (2026-08).",
+    "description_ja": "千鳥ミチルの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Chidori Michiru",
+      "Dress",
+      "Michiru ",
+      "千鳥ミチル",
+      "드레스",
+      "미치루",
+      "백귀야행 연합학원",
+      "인법연구부",
+      "치도리 미치루"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/인법연구부/미치루/드레스/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20053)",
+        "source": "https://schaledb.com/images/student/portrait/20053.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/인법연구부/미치루/드레스/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20053)",
+        "source": "https://schaledb.com/images/student/collection/20053.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/인법연구부/미치루/드레스/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20053)",
+        "source": "https://schaledb.com/images/student/icon/20053.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10014,
@@ -12443,6 +14003,71 @@
     "canonical_name_kr": "사시로 토모에"
   },
   {
+    "id": 20038,
+    "family_name_kr": "사시로",
+    "personal_name_kr": "토모에",
+    "canonical_name_kr": "사시로 토모에",
+    "name_kr": "사시로 토모에",
+    "name_en": "Sashiro Tomoe",
+    "name_ja": "佐城トモエ",
+    "full_name_kr": "사시로 토모에 (치파오)",
+    "full_name_en": "Sashiro Tomoe (Qipao)",
+    "full_name_ja": "佐城トモエ（기본）",
+    "school_kr": "붉은겨울 연방학원",
+    "school_en": "Red Winter",
+    "school_ja": "レッドウィンター",
+    "club_kr": "붉은겨울 사무국",
+    "club_en": "Red Winter Office",
+    "club_ja": "レッドウィンター事務局",
+    "seasonal": "치파오",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "사시로 토모에의 치파오 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Qipao' of Sashiro Tomoe, added via schaledb roster sync (2026-08).",
+    "description_ja": "佐城トモエの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Qipao",
+      "Sashiro Tomoe",
+      "Tomoe ",
+      "佐城トモエ",
+      "붉은겨울 사무국",
+      "붉은겨울 연방학원",
+      "사시로 토모에",
+      "치파오",
+      "토모에"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/토모에/치파오/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20038)",
+        "source": "https://schaledb.com/images/student/portrait/20038.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/토모에/치파오/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20038)",
+        "source": "https://schaledb.com/images/student/collection/20038.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/토모에/치파오/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20038)",
+        "source": "https://schaledb.com/images/student/icon/20038.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10037,
     "name_kr": "이케쿠라 마리나",
     "name_en": "Marina",
@@ -12503,6 +14128,71 @@
     "personal_name_kr": "마리나",
     "family_name_kr": "이케쿠라",
     "canonical_name_kr": "이케쿠라 마리나"
+  },
+  {
+    "id": 10103,
+    "family_name_kr": "이케쿠라",
+    "personal_name_kr": "마리나",
+    "canonical_name_kr": "이케쿠라 마리나",
+    "name_kr": "이케쿠라 마리나",
+    "name_en": "Ikekura Marina",
+    "name_ja": "池倉マリナ",
+    "full_name_kr": "이케쿠라 마리나 (치파오)",
+    "full_name_en": "Ikekura Marina (Qipao)",
+    "full_name_ja": "池倉マリナ（기본）",
+    "school_kr": "붉은겨울 연방학원",
+    "school_en": "Red Winter",
+    "school_ja": "レッドウィンター",
+    "club_kr": "붉은겨울 사무국",
+    "club_en": "Red Winter Office",
+    "club_ja": "レッドウィンター事務局",
+    "seasonal": "치파오",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "이케쿠라 마리나의 치파오 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Qipao' of Ikekura Marina, added via schaledb roster sync (2026-08).",
+    "description_ja": "池倉マリナの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Ikekura Marina",
+      "Marina ",
+      "Qipao",
+      "池倉マリナ",
+      "마리나",
+      "붉은겨울 사무국",
+      "붉은겨울 연방학원",
+      "이케쿠라 마리나",
+      "치파오"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/치파오/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10103)",
+        "source": "https://schaledb.com/images/student/portrait/10103.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/치파오/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10103)",
+        "source": "https://schaledb.com/images/student/collection/10103.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/마리나/치파오/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10103)",
+        "source": "https://schaledb.com/images/student/icon/10103.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 20026,
@@ -12776,7 +14466,7 @@
     "club_en": "Publishing Department",
     "club_ja": "出版部",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "어태커",
     "position": "스트라이커",
     "bullet_type": "관통",
@@ -12844,7 +14534,7 @@
     "club_en": "Publishing Department",
     "club_ja": "出版部",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",
@@ -13105,6 +14795,70 @@
     "image_count": 0
   },
   {
+    "id": 10144,
+    "family_name_kr": null,
+    "personal_name_kr": "슈에링",
+    "canonical_name_kr": "슈에링",
+    "name_kr": "슈에링",
+    "name_en": "Shunling",
+    "name_ja": "シュエリン",
+    "full_name_kr": "슈에링 (수영복)",
+    "full_name_en": "Shunling (Swimsuit)",
+    "full_name_ja": "シュエリン（기본）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "매화원",
+    "club_en": "Plum Blossom Garden",
+    "club_ja": "梅花園",
+    "seasonal": "수영복",
+    "status": "출시(일본 서버)",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "경장갑",
+    "description_kr": "슈에링의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Shunling, added via schaledb roster sync (2026-08).",
+    "description_ja": "シュエリンの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Shun ",
+      "Shunling",
+      "Swimsuit",
+      "シュエリン",
+      "매화원",
+      "산해경 고급중학교",
+      "수영복",
+      "슈에링"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "산해경 고급중학교/매화원/슈에링/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10144)",
+        "source": "https://schaledb.com/images/student/portrait/10144.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "산해경 고급중학교/매화원/슈에링/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10144)",
+        "source": "https://schaledb.com/images/student/collection/10144.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "산해경 고급중학교/매화원/슈에링/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10144)",
+        "source": "https://schaledb.com/images/student/icon/10144.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10011,
     "name_kr": "스노하라 슌",
     "name_en": "Shun",
@@ -13165,6 +14919,71 @@
     "personal_name_kr": "슌",
     "family_name_kr": "스노하라",
     "canonical_name_kr": "스노하라 슌"
+  },
+  {
+    "id": 10143,
+    "family_name_kr": "스노하라",
+    "personal_name_kr": "슌",
+    "canonical_name_kr": "스노하라 슌",
+    "name_kr": "스노하라 슌",
+    "name_en": "Sunohara Shun",
+    "name_ja": "春原シュン",
+    "full_name_kr": "스노하라 슌 (수영복)",
+    "full_name_en": "Sunohara Shun (Swimsuit)",
+    "full_name_ja": "春原シュン（기본）",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing",
+    "school_ja": "山海経",
+    "club_kr": "매화원",
+    "club_en": "Plum Blossom Garden",
+    "club_ja": "梅花園",
+    "seasonal": "수영복",
+    "status": "출시(일본 서버)",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "경장갑",
+    "description_kr": "스노하라 슌의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Sunohara Shun, added via schaledb roster sync (2026-08).",
+    "description_ja": "春原シュンの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Shun ",
+      "Sunohara Shun",
+      "Swimsuit",
+      "春原シュン",
+      "매화원",
+      "산해경 고급중학교",
+      "수영복",
+      "슌",
+      "스노하라 슌"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "산해경 고급중학교/매화원/슌/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10143)",
+        "source": "https://schaledb.com/images/student/portrait/10143.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "산해경 고급중학교/매화원/슌/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10143)",
+        "source": "https://schaledb.com/images/student/collection/10143.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "산해경 고급중학교/매화원/슌/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10143)",
+        "source": "https://schaledb.com/images/student/icon/10143.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10025,
@@ -13840,7 +15659,7 @@
     "club_en": "Genryumon",
     "club_ja": "玄竜門",
     "seasonal": "수영복",
-    "status": "출시",
+    "status": "출시(일본 서버)",
     "role": "딜러",
     "position": "스트라이커",
     "bullet_type": "신비",
@@ -14283,6 +16102,70 @@
     "image_count": 2
   },
   {
+    "id": 10104,
+    "family_name_kr": "카야마",
+    "personal_name_kr": "레이죠",
+    "canonical_name_kr": "카야마 레이죠",
+    "name_kr": "카야마 레이죠",
+    "name_en": "Kayama Reijo",
+    "name_ja": "鹿山レイジョ",
+    "full_name_kr": "카야마 레이죠",
+    "full_name_en": "Kayama Reijo",
+    "full_name_ja": "鹿山レイジョ",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현무상회",
+    "club_en": "Black Tortoise Promenade",
+    "club_ja": "玄武商会",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "카야마 레이죠의 기본 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant '기본' of Kayama Reijo, added via schaledb roster sync (2026-08).",
+    "description_ja": "鹿山レイジョの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Kayama Reijo",
+      "Reijo",
+      "鹿山レイジョ",
+      "기본",
+      "레이죠",
+      "산해경 고급중학교",
+      "카야마 레이죠",
+      "현무상회"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "산해경 고급중학교/현무상회/레이죠/기본/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10104)",
+        "source": "https://schaledb.com/images/student/portrait/10104.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "산해경 고급중학교/현무상회/레이죠/기본/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10104)",
+        "source": "https://schaledb.com/images/student/collection/10104.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "산해경 고급중학교/현무상회/레이죠/기본/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10104)",
+        "source": "https://schaledb.com/images/student/icon/10104.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": null,
     "name_kr": "카케하시 스바루",
     "name_en": "Kakehashi Subaru",
@@ -14297,7 +16180,7 @@
     "club_en": "Nicomedia Troupe",
     "club_ja": "ニコメディア劇団",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "어태커",
     "position": "스트라이커",
     "bullet_type": "관통",
@@ -14536,6 +16419,71 @@
     "canonical_name_kr": "이마시노 미사키"
   },
   {
+    "id": 20049,
+    "family_name_kr": "이마시노",
+    "personal_name_kr": "미사키",
+    "canonical_name_kr": "이마시노 미사키",
+    "name_kr": "이마시노 미사키",
+    "name_en": "Imashino Misaki",
+    "name_ja": "戒野ミサキ",
+    "full_name_kr": "이마시노 미사키 (수영복)",
+    "full_name_en": "Imashino Misaki (Swimsuit)",
+    "full_name_ja": "戒野ミサキ（기본）",
+    "school_kr": "아리우스 분교",
+    "school_en": "Arius",
+    "school_ja": "アリウス",
+    "club_kr": "아리우스 스쿼드",
+    "club_en": "Arius Squad",
+    "club_ja": "アリウススクワッド",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "이마시노 미사키의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Imashino Misaki, added via schaledb roster sync (2026-08).",
+    "description_ja": "戒野ミサキの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Imashino Misaki",
+      "Misaki ",
+      "Swimsuit",
+      "戒野ミサキ",
+      "미사키",
+      "수영복",
+      "아리우스 분교",
+      "아리우스 스쿼드",
+      "이마시노 미사키"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/미사키/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20049)",
+        "source": "https://schaledb.com/images/student/portrait/20049.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/미사키/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20049)",
+        "source": "https://schaledb.com/images/student/collection/20049.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/미사키/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20049)",
+        "source": "https://schaledb.com/images/student/icon/20049.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10048,
     "name_kr": "조마에 사오리",
     "name_en": "Saori",
@@ -14596,6 +16544,71 @@
     "personal_name_kr": "사오리",
     "family_name_kr": "조마에",
     "canonical_name_kr": "조마에 사오리"
+  },
+  {
+    "id": 10116,
+    "family_name_kr": "조마에",
+    "personal_name_kr": "사오리",
+    "canonical_name_kr": "조마에 사오리",
+    "name_kr": "조마에 사오리",
+    "name_en": "Joumae Saori",
+    "name_ja": "錠前サオリ",
+    "full_name_kr": "조마에 사오리 (드레스)",
+    "full_name_en": "Joumae Saori (Dress)",
+    "full_name_ja": "錠前サオリ（기본）",
+    "school_kr": "아리우스 분교",
+    "school_en": "Arius",
+    "school_ja": "アリウス",
+    "club_kr": "아리우스 스쿼드",
+    "club_en": "Arius Squad",
+    "club_ja": "アリウススクワッド",
+    "seasonal": "드레스",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "진동",
+    "armor_type": "경장갑",
+    "description_kr": "조마에 사오리의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Dress' of Joumae Saori, added via schaledb roster sync (2026-08).",
+    "description_ja": "錠前サオリの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Dress",
+      "Joumae Saori",
+      "Saori ",
+      "錠前サオリ",
+      "드레스",
+      "사오리",
+      "아리우스 분교",
+      "아리우스 스쿼드",
+      "조마에 사오리"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/드레스/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10116)",
+        "source": "https://schaledb.com/images/student/portrait/10116.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/드레스/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10116)",
+        "source": "https://schaledb.com/images/student/collection/10116.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "아리우스 분교/아리우스 스쿼드/사오리/드레스/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10116)",
+        "source": "https://schaledb.com/images/student/icon/10116.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": null,
@@ -16793,7 +18806,7 @@
     "club_en": "Diving Club",
     "club_ja": "ダイビング部",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시(일본 서버)",
     "role": "서포터",
     "position": "스트라이커",
     "bullet_type": "신비",
@@ -16851,7 +18864,7 @@
     "club_en": "Diving Club",
     "club_ja": "ダイビング部",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시(일본 서버)",
     "role": "탱커",
     "position": "스트라이커",
     "bullet_type": "관통",
@@ -20400,6 +22413,71 @@
     "canonical_name_kr": "유토리 나츠"
   },
   {
+    "id": 10120,
+    "family_name_kr": "유토리",
+    "personal_name_kr": "나츠",
+    "canonical_name_kr": "유토리 나츠",
+    "name_kr": "유토리 나츠",
+    "name_en": "Yutori Natsu",
+    "name_ja": "柚鳥ナツ",
+    "full_name_kr": "유토리 나츠 (밴드)",
+    "full_name_en": "Yutori Natsu (Band)",
+    "full_name_ja": "柚鳥ナツ（기본）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "방과후 디저트부",
+    "club_en": "After-School Sweets Club",
+    "club_ja": "放課後スイーツ部",
+    "seasonal": "밴드",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "프론트",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "유토리 나츠의 밴드 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Band' of Yutori Natsu, added via schaledb roster sync (2026-08).",
+    "description_ja": "柚鳥ナツの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Band",
+      "Natsu ",
+      "Yutori Natsu",
+      "柚鳥ナツ",
+      "나츠",
+      "방과후 디저트부",
+      "밴드",
+      "유토리 나츠",
+      "트리니티 종합학원"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/밴드/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10120)",
+        "source": "https://schaledb.com/images/student/portrait/10120.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/밴드/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10120)",
+        "source": "https://schaledb.com/images/student/collection/10120.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/밴드/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10120)",
+        "source": "https://schaledb.com/images/student/icon/10120.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "canonical_name_kr": "유토리 나츠",
     "personal_name_kr": "나츠",
     "family_name_kr": "유토리",
@@ -22150,6 +24228,71 @@
     "canonical_name_kr": "나카마사 이치카"
   },
   {
+    "id": 26015,
+    "family_name_kr": "나카마사",
+    "personal_name_kr": "이치카",
+    "canonical_name_kr": "나카마사 이치카",
+    "name_kr": "나카마사 이치카",
+    "name_en": "Nakamasa Ichika",
+    "name_ja": "仲正イチカ",
+    "full_name_kr": "나카마사 이치카 (수영복)",
+    "full_name_en": "Nakamasa Ichika (Swimsuit)",
+    "full_name_ja": "仲正イチカ（기본）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": "正義実現委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "나카마사 이치카의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Nakamasa Ichika, added via schaledb roster sync (2026-08).",
+    "description_ja": "仲正イチカの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Ichika ",
+      "Nakamasa Ichika",
+      "Swimsuit",
+      "仲正イチカ",
+      "나카마사 이치카",
+      "수영복",
+      "이치카",
+      "정의실현부",
+      "트리니티 종합학원"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/이치카/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 26015)",
+        "source": "https://schaledb.com/images/student/portrait/26015.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/이치카/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 26015)",
+        "source": "https://schaledb.com/images/student/collection/26015.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/정의실현부/이치카/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 26015)",
+        "source": "https://schaledb.com/images/student/icon/26015.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "canonical_name_kr": "나카마사 이치카",
     "personal_name_kr": "이치카",
     "family_name_kr": "나카마사",
@@ -22588,6 +24731,71 @@
     "canonical_name_kr": "하네카와 하스미"
   },
   {
+    "id": 10124,
+    "family_name_kr": "하네카와",
+    "personal_name_kr": "하스미",
+    "canonical_name_kr": "하네카와 하스미",
+    "name_kr": "하네카와 하스미",
+    "name_en": "Hanekawa Hasumi",
+    "name_ja": "羽川ハスミ",
+    "full_name_kr": "하네카와 하스미 (수영복)",
+    "full_name_en": "Hanekawa Hasumi (Swimsuit)",
+    "full_name_ja": "羽川ハスミ（기본）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "정의실현부",
+    "club_en": "Justice Task Force",
+    "club_ja": "正義実現委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "하네카와 하스미의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Hanekawa Hasumi, added via schaledb roster sync (2026-08).",
+    "description_ja": "羽川ハスミの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Hanekawa Hasumi",
+      "Hasumi ",
+      "Swimsuit",
+      "羽川ハスミ",
+      "수영복",
+      "정의실현부",
+      "트리니티 종합학원",
+      "하네카와 하스미",
+      "하스미"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10124)",
+        "source": "https://schaledb.com/images/student/portrait/10124.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10124)",
+        "source": "https://schaledb.com/images/student/collection/10124.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/정의실현부/하스미/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10124)",
+        "source": "https://schaledb.com/images/student/icon/10124.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 16011,
     "name_kr": "하네카와 하스미",
     "name_en": "Hasumi",
@@ -22715,6 +24923,71 @@
     "canonical_name_kr": "모리즈키 스즈미"
   },
   {
+    "id": 10129,
+    "family_name_kr": "모리즈키",
+    "personal_name_kr": "스즈미",
+    "canonical_name_kr": "모리즈키 스즈미",
+    "name_kr": "모리즈키 스즈미",
+    "name_en": "Morizuki Suzumi",
+    "name_ja": "守月スズミ",
+    "full_name_kr": "모리즈키 스즈미 (매지컬)",
+    "full_name_en": "Morizuki Suzumi (Magical)",
+    "full_name_ja": "守月スズミ（기본）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "트리니티 자경단",
+    "club_en": "Trinity's Vigilante Crew",
+    "club_ja": "トリニティ自警団",
+    "seasonal": "매지컬",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "모리즈키 스즈미의 매지컬 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Magical' of Morizuki Suzumi, added via schaledb roster sync (2026-08).",
+    "description_ja": "守月スズミの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Magical",
+      "Morizuki Suzumi",
+      "Suzumi ",
+      "守月スズミ",
+      "매지컬",
+      "모리즈키 스즈미",
+      "스즈미",
+      "트리니티 자경단",
+      "트리니티 종합학원"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/스즈미/매지컬/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10129)",
+        "source": "https://schaledb.com/images/student/portrait/10129.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/스즈미/매지컬/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10129)",
+        "source": "https://schaledb.com/images/student/collection/10129.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/스즈미/매지컬/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10129)",
+        "source": "https://schaledb.com/images/student/icon/10129.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": 10068,
     "name_kr": "우자와 레이사",
     "name_en": "Reisa",
@@ -22775,6 +25048,71 @@
     "personal_name_kr": "레이사",
     "family_name_kr": "우자와",
     "canonical_name_kr": "우자와 레이사"
+  },
+  {
+    "id": 20051,
+    "family_name_kr": "우자와",
+    "personal_name_kr": "레이사",
+    "canonical_name_kr": "우자와 레이사",
+    "name_kr": "우자와 레이사",
+    "name_en": "Uzawa Reisa",
+    "name_ja": "宇沢レイサ",
+    "full_name_kr": "우자와 레이사 (매지컬)",
+    "full_name_en": "Uzawa Reisa (Magical)",
+    "full_name_ja": "宇沢レイサ（기본）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "트리니티 자경단",
+    "club_en": "Trinity's Vigilante Crew",
+    "club_ja": "トリニティ自警団",
+    "seasonal": "매지컬",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "특수장갑",
+    "description_kr": "우자와 레이사의 매지컬 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Magical' of Uzawa Reisa, added via schaledb roster sync (2026-08).",
+    "description_ja": "宇沢レイサの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Magical",
+      "Reisa ",
+      "Uzawa Reisa",
+      "宇沢レイサ",
+      "레이사",
+      "매지컬",
+      "우자와 레이사",
+      "트리니티 자경단",
+      "트리니티 종합학원"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20051)",
+        "source": "https://schaledb.com/images/student/portrait/20051.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20051)",
+        "source": "https://schaledb.com/images/student/collection/20051.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20051)",
+        "source": "https://schaledb.com/images/student/icon/20051.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10059,
@@ -22923,7 +25261,7 @@
     "club_en": "Tea Party",
     "club_ja": "ティーパーティー",
     "seasonal": "수영복",
-    "status": "미출시 시즈널",
+    "status": "출시",
     "role": "어태커",
     "position": "스트라이커",
     "bullet_type": "진동",
@@ -23064,7 +25402,7 @@
     "club_en": "Tea Party",
     "club_ja": "ティーパーティー",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "신비",
@@ -23131,7 +25469,7 @@
     "club_en": "Tea Party",
     "club_ja": "ティーパーティー",
     "seasonal": "수영복",
-    "status": "미출시 시즈널",
+    "status": "출시",
     "role": "서포터",
     "position": "스트라이커",
     "bullet_type": "신비",
@@ -23250,6 +25588,71 @@
     "canonical_name_kr": "키리후지 나기사"
   },
   {
+    "id": 20048,
+    "family_name_kr": "키리후지",
+    "personal_name_kr": "나기사",
+    "canonical_name_kr": "키리후지 나기사",
+    "name_kr": "키리후지 나기사",
+    "name_en": "Kirifuji Nagisa",
+    "name_ja": "桐藤ナギサ",
+    "full_name_kr": "키리후지 나기사 (수영복)",
+    "full_name_en": "Kirifuji Nagisa (Swimsuit)",
+    "full_name_ja": "桐藤ナギサ（기본）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": "ティーパーティー",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스페셜",
+    "position": "백",
+    "bullet_type": "진동",
+    "armor_type": "탄력장갑",
+    "description_kr": "키리후지 나기사의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Kirifuji Nagisa, added via schaledb roster sync (2026-08).",
+    "description_ja": "桐藤ナギサの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Kirifuji Nagisa",
+      "Nagisa ",
+      "Swimsuit",
+      "桐藤ナギサ",
+      "나기사",
+      "수영복",
+      "키리후지 나기사",
+      "트리니티 종합학원",
+      "티파티"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "트리니티 종합학원/티파티/나기사/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 20048)",
+        "source": "https://schaledb.com/images/student/portrait/20048.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "트리니티 종합학원/티파티/나기사/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 20048)",
+        "source": "https://schaledb.com/images/student/collection/20048.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "트리니티 종합학원/티파티/나기사/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 20048)",
+        "source": "https://schaledb.com/images/student/icon/20048.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
     "id": null,
     "name_kr": "코마카제 라브",
     "name_en": "Komakaze Rabu",
@@ -23264,7 +25667,7 @@
     "club_en": "Helmet Gang",
     "club_ja": "ヘルメット団",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "어태커",
     "position": "스트라이커",
     "bullet_type": "폭발",
@@ -23597,7 +26000,7 @@
     "club_en": "Freight Transport Department",
     "club_ja": "貨物輸送管理部",
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "role": "서포터",
     "position": "스페셜",
     "bullet_type": "폭발",

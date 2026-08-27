@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코누리 마키",
+      "en": "Konuri Maki",
+      "ja": "小塗マキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "캠핑",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스페셜",
+      "position": "백",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "코누리 마키의 캠핑 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Camp' of Konuri Maki, added via schaledb roster sync (2026-08).",
+      "ja": "小塗マキの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/마키/캠핑/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 20042)",
+      "source": "https://schaledb.com/images/student/portrait/20042.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/마키/캠핑/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 20042)",
+      "source": "https://schaledb.com/images/student/collection/20042.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/마키/캠핑/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 20042)",
+      "source": "https://schaledb.com/images/student/icon/20042.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

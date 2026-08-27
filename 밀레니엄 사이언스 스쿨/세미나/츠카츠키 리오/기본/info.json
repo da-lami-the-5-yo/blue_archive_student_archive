@@ -16,7 +16,7 @@
       "ja": "セミナー"
     },
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "combat_profile": {
       "role": "서포터",
       "position": "스페셜",
@@ -78,5 +78,6 @@
       "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/기본/비공식/rank01/fanart_7087595_rank01_0.54.jpg"
     }
   ],
-  "image_count": 5
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

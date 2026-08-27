@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시시도우 이즈미",
+      "en": "Shishidou Izumi",
+      "ja": "獅子堂イズミ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "미식연구회",
+      "en": "Gourmet Research Society",
+      "ja": "美食研究会"
+    },
+    "seasonal": "새해",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스페셜",
+      "position": "백",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "시시도우 이즈미의 새해 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'New Year' of Shishidou Izumi, added via schaledb roster sync (2026-08).",
+      "ja": "獅子堂イズミの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "게헨나 학원/미식연구회/이즈미/새해/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 20043)",
+      "source": "https://schaledb.com/images/student/portrait/20043.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "게헨나 학원/미식연구회/이즈미/새해/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 20043)",
+      "source": "https://schaledb.com/images/student/collection/20043.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "게헨나 학원/미식연구회/이즈미/새해/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 20043)",
+      "source": "https://schaledb.com/images/student/icon/20043.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

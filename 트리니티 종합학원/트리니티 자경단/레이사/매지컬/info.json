@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우자와 레이사",
+      "en": "Uzawa Reisa",
+      "ja": "宇沢レイサ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "트리니티 자경단",
+      "en": "Trinity's Vigilante Crew",
+      "ja": "トリニティ自警団"
+    },
+    "seasonal": "매지컬",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스페셜",
+      "position": "백",
+      "bullet_type": "진동",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "우자와 레이사의 매지컬 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Magical' of Uzawa Reisa, added via schaledb roster sync (2026-08).",
+      "ja": "宇沢レイサの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 20051)",
+      "source": "https://schaledb.com/images/student/portrait/20051.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 20051)",
+      "source": "https://schaledb.com/images/student/collection/20051.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 20051)",
+      "source": "https://schaledb.com/images/student/icon/20051.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

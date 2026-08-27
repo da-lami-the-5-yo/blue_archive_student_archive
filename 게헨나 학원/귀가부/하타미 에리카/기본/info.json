@@ -13,7 +13,7 @@
   "club_en": "Go-Home Club",
   "club_ja": "帰宅部",
   "seasonal": "기본",
-  "status": "출시",
+  "status": "출시(일본 서버)",
   "role": "서포터",
   "position": "스페셜",
   "bullet_type": "폭발",
@@ -63,5 +63,6 @@
       "similarity": 0.65
     }
   ],
-  "image_count": 4
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

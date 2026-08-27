@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아스마 토키",
+      "en": "Asuma Toki",
+      "ja": "飛鳥馬トキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "C&C",
+      "en": "Cleaning & Clearing",
+      "ja": "C&C"
+    },
+    "seasonal": "무장",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "미들",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "아스마 토키의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Armed' of Asuma Toki, added via schaledb roster sync (2026-08).",
+      "ja": "飛鳥馬トキの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 16019)",
+      "source": "https://schaledb.com/images/student/portrait/16019.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 16019)",
+      "source": "https://schaledb.com/images/student/collection/16019.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 16019)",
+      "source": "https://schaledb.com/images/student/icon/16019.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

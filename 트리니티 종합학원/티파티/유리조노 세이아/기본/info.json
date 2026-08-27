@@ -16,7 +16,7 @@
       "ja": "ティーパーティー"
     },
     "seasonal": "기본",
-    "status": "미출시 학생",
+    "status": "출시",
     "combat_profile": {
       "role": "서포터",
       "position": "스페셜",
@@ -73,5 +73,6 @@
       "path": "트리니티 종합학원/티파티/유리조노 세이아/기본/비공식/rank02/fanart_7084325_rank02_0.32.jpg"
     }
   ],
-  "image_count": 4
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

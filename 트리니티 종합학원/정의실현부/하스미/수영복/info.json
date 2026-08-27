@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하네카와 하스미",
+      "en": "Hanekawa Hasumi",
+      "ja": "羽川ハスミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Task Force",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "하네카와 하스미의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Swimsuit' of Hanekawa Hasumi, added via schaledb roster sync (2026-08).",
+      "ja": "羽川ハスミの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "트리니티 종합학원/정의실현부/하스미/수영복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10124)",
+      "source": "https://schaledb.com/images/student/portrait/10124.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "트리니티 종합학원/정의실현부/하스미/수영복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10124)",
+      "source": "https://schaledb.com/images/student/collection/10124.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "트리니티 종합학원/정의실현부/하스미/수영복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10124)",
+      "source": "https://schaledb.com/images/student/icon/10124.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

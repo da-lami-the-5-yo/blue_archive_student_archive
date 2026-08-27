@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "무로카사 아카네",
+      "en": "Murokasa Akane",
+      "ja": "室笠アカネ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "교복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스페셜",
+      "position": "백",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "무로카사 아카네의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'School' of Murokasa Akane, added via schaledb roster sync (2026-08).",
+      "ja": "室笠アカネの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 20057)",
+      "source": "https://schaledb.com/images/student/portrait/20057.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 20057)",
+      "source": "https://schaledb.com/images/student/collection/20057.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 20057)",
+      "source": "https://schaledb.com/images/student/icon/20057.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

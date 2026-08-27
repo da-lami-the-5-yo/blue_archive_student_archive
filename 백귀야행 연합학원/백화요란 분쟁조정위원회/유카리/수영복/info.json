@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카데노코지 유카리",
+      "en": "Kadenokouji Yukari",
+      "ja": "勘解由小路ユカリ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako Alliance Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "백화요란",
+      "en": "Hyakkaryoran Conflict Resolution Council",
+      "ja": "百花繚乱紛争調停委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "카데노코지 유카리의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Swimsuit' of Kadenokouji Yukari, added via schaledb roster sync (2026-08).",
+      "ja": "勘解由小路ユカリの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10121)",
+      "source": "https://schaledb.com/images/student/portrait/10121.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10121)",
+      "source": "https://schaledb.com/images/student/collection/10121.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10121)",
+      "source": "https://schaledb.com/images/student/icon/10121.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

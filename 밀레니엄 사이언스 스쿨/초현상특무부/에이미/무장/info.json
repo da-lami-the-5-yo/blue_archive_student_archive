@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이즈미모토 에이미",
+      "en": "Izumimoto Eimi",
+      "ja": "和泉元エイミ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Super Phenomenon Task Force",
+      "ja": "特異現象捜査部"
+    },
+    "seasonal": "무장",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "이즈미모토 에이미의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Armed' of Izumimoto Eimi, added via schaledb roster sync (2026-08).",
+      "ja": "和泉元エイミの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/무장/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10136)",
+      "source": "https://schaledb.com/images/student/portrait/10136.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/무장/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10136)",
+      "source": "https://schaledb.com/images/student/collection/10136.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/에이미/무장/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10136)",
+      "source": "https://schaledb.com/images/student/icon/10136.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스노하라 슌",
+      "en": "Sunohara Shun",
+      "ja": "春原シュン"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing",
+      "ja": "山海経"
+    },
+    "club": {
+      "kr": "매화원",
+      "en": "Plum Blossom Garden",
+      "ja": "梅花園"
+    },
+    "seasonal": "수영복",
+    "status": "출시(일본 서버)",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "진동",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "스노하라 슌의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Swimsuit' of Sunohara Shun, added via schaledb roster sync (2026-08).",
+      "ja": "春原シュンの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "산해경 고급중학교/매화원/슌/수영복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10143)",
+      "source": "https://schaledb.com/images/student/portrait/10143.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "산해경 고급중학교/매화원/슌/수영복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10143)",
+      "source": "https://schaledb.com/images/student/collection/10143.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "산해경 고급중학교/매화원/슌/수영복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10143)",
+      "source": "https://schaledb.com/images/student/icon/10143.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

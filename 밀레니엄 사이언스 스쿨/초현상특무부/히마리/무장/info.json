@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아케보시 히마리",
+      "en": "Akeboshi Himari",
+      "ja": "明星ヒマリ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Super Phenomenon Task Force",
+      "ja": "特異現象捜査部"
+    },
+    "seasonal": "무장",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스페셜",
+      "position": "백",
+      "bullet_type": "관통",
+      "armor_type": "탄력장갑"
+    },
+    "description": {
+      "kr": "아케보시 히마리의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Armed' of Akeboshi Himari, added via schaledb roster sync (2026-08).",
+      "ja": "明星ヒマリの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/무장/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 20054)",
+      "source": "https://schaledb.com/images/student/portrait/20054.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/무장/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 20054)",
+      "source": "https://schaledb.com/images/student/collection/20054.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/히마리/무장/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 20054)",
+      "source": "https://schaledb.com/images/student/icon/20054.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

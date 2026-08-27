@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이치노세 아스나",
+      "en": "Ichinose Asuna",
+      "ja": "一之瀬アスナ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "교복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "미들",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "이치노세 아스나의 교복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'School' of Ichinose Asuna, added via schaledb roster sync (2026-08).",
+      "ja": "一之瀬アスナの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/교복/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10112)",
+      "source": "https://schaledb.com/images/student/portrait/10112.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/교복/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10112)",
+      "source": "https://schaledb.com/images/student/collection/10112.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아스나/교복/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10112)",
+      "source": "https://schaledb.com/images/student/icon/10112.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

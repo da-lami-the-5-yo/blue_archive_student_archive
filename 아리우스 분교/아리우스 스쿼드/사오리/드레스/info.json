@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "조마에 사오리",
+      "en": "Joumae Saori",
+      "ja": "錠前サオリ"
+    },
+    "school": {
+      "kr": "아리우스 분교",
+      "en": "Arius",
+      "ja": "アリウス"
+    },
+    "club": {
+      "kr": "아리우스 스쿼드",
+      "en": "Arius Squad",
+      "ja": "アリウススクワッド"
+    },
+    "seasonal": "드레스",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "미들",
+      "bullet_type": "진동",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "조마에 사오리의 드레스 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Dress' of Joumae Saori, added via schaledb roster sync (2026-08).",
+      "ja": "錠前サオリの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "아리우스 분교/아리우스 스쿼드/사오리/드레스/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10116)",
+      "source": "https://schaledb.com/images/student/portrait/10116.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "아리우스 분교/아리우스 스쿼드/사오리/드레스/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10116)",
+      "source": "https://schaledb.com/images/student/collection/10116.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "아리우스 분교/아리우스 스쿼드/사오리/드레스/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10116)",
+      "source": "https://schaledb.com/images/student/icon/10116.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

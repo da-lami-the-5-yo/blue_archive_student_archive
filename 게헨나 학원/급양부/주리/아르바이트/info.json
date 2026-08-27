@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우시마키 주리",
+      "en": "Ushimaki Juri",
+      "ja": "牛牧ジュリ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "급양부",
+      "en": "School Lunch Club",
+      "ja": "給食部"
+    },
+    "seasonal": "아르바이트",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "신비",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "우시마키 주리의 아르바이트 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+      "en": "Released variant 'Part-Timer' of Ushimaki Juri, added via schaledb roster sync (2026-08).",
+      "ja": "牛牧ジュリの기본バージョン。schaledbロスター同期で追加。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_schaledb_portrait.webp",
+      "path": "게헨나 학원/급양부/주리/아르바이트/공식/official_schaledb_portrait.webp",
+      "note": "schaledb portrait (id 10114)",
+      "source": "https://schaledb.com/images/student/portrait/10114.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_collection.webp",
+      "path": "게헨나 학원/급양부/주리/아르바이트/공식/official_schaledb_collection.webp",
+      "note": "schaledb collection (id 10114)",
+      "source": "https://schaledb.com/images/student/collection/10114.webp",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_schaledb_icon.webp",
+      "path": "게헨나 학원/급양부/주리/아르바이트/공식/official_schaledb_icon.webp",
+      "note": "schaledb icon (id 10114)",
+      "source": "https://schaledb.com/images/student/icon/10114.webp",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}
