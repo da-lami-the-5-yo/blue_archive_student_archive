@@ -1,0 +1,75 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 케이",
+      "en": "Tendo Key",
+      "ja": "天童ケイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Supernatural Phenomenon Task Force",
+      "ja": "特異現象特捜部"
+    },
+    "seasonal": "키링",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "로봇 모양 키홀더에 세이브 파일로 깃든 케이. 최종편 이후 아리스가 간직했으며, 파반느 편 2장 후편(2022.12.07)에서 첫 등장. Ex. 데카그라마톤 편 2장 '불타는 검'에서 이 키홀더 속 세이브 파일을 기점으로 자아가 부활한다.",
+      "en": "Kei existing as a save file inside a robot-shaped keyholder, kept by Alice after Vol.F. First appeared in Pavane Chapter 2 (2022.12.07).",
+      "ja": "ロボット型キーホルダーのセーブファイルとして残ったケイ。パヴァーヌ編2章後編で初登場。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "AL-1S",
+        "Key",
+        "케이",
+        "키",
+        "텐도",
+        "텐도 케이",
+        "텐도케이",
+        "케이 키링",
+        "케이 키홀더",
+        "케이의 조각"
+      ],
+      "en": [
+        "tendo key",
+        "tendo_tendo key",
+        "케이"
+      ],
+      "ja": [
+        "天童ケイ",
+        "天童天童ケイ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 1,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_fragment_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/키링/공식/official_fragment_icon.png",
+      "note": "케이의 조각(키홀더 세이브 파일) 인게임 아이콘",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

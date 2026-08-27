@@ -1,0 +1,84 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 케이",
+      "en": "Tendou Kei",
+      "ja": "天童ケイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Superphenomenon Task Force",
+      "ja": "超現象特務部"
+    },
+    "seasonal": "데카그라마톤",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "Ex. 데카그라마톤 편 3장에서 데카그라마톤의 신체를 얻은 케이. (일본 2026.01.18 / 글로벌 2026.05.19)",
+      "en": "",
+      "ja": ""
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "텐도 케이 데카그라마톤",
+        "데카그라마톤 케이"
+      ],
+      "en": [],
+      "ja": []
+    }
+  },
+  "collection_stats": {
+    "official_images": 4,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 4
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_vessel_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_vessel_portrait.png",
+      "note": "데카그라마톤 소녀형 소체 인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_vessel_damaged_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_vessel_damaged_portrait.png",
+      "note": "소녀형 소체 대미지 버전 포트레이트",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_vessel_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_vessel_icon.png",
+      "note": "소녀형 소체 인게임 아이콘",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_prototype_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_prototype_portrait.png",
+      "note": "프로토타입 소체 포트레이트",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 4,
+  "updated": "2026-08-27"
+}

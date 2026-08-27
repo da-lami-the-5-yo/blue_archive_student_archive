@@ -1,0 +1,88 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아오모리 미네",
+      "en": "Mine",
+      "ja": "ミネ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "구호기사단",
+      "en": "Remedial Knights",
+      "ja": "救護騎士団"
+    },
+    "seasonal": "아이돌",
+    "status": "출시",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "미네(아이돌). 이벤트 배포 1성 스트라이커, 폭발/탱커. 트리니티 시스터후드+구호기사단 합동 아이돌 그룹 '앤틱 세라핌' 멤버. 이벤트 'Serenade Promenade' (일본 2024.10.23 / 한국·글로벌 2025.04.15).",
+      "en": "Mine (Idol). Event welfare 1★ striker of the idol unit 'Antique Seraphim'.",
+      "ja": "ミネ（アイドル）。「アンティークセラフィム」メンバー。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "미네",
+        "아오모리",
+        "아오모리 미네",
+        "아오모리미네",
+        "미네 아이돌",
+        "앤틱 세라핌",
+        "수녀시대"
+      ],
+      "en": [
+        "aomori_mine",
+        "mine",
+        "미네"
+      ],
+      "ja": [
+        "ミネ",
+        "蒼森ミネ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "트리니티 종합학원/구호기사단/미네/아이돌/공식/official_collection.webp",
+      "note": "SchaleDB collection 아트",
+      "source": "https://schaledb.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "트리니티 종합학원/구호기사단/미네/아이돌/공식/official_lobby.webp",
+      "note": "SchaleDB lobby 아트",
+      "source": "https://schaledb.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "트리니티 종합학원/구호기사단/미네/아이돌/공식/official_portrait.webp",
+      "note": "SchaleDB portrait 아트",
+      "source": "https://schaledb.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

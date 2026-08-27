@@ -1,0 +1,89 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하야세 유우카",
+      "en": "Yuuka",
+      "ja": "ユウカ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "노아의 반강제 추천으로 참가. 2nd 싱글은 유우카가 직접 기획. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+      "en": "유우카 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+      "ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유우카",
+        "하야세",
+        "하야세 유우카",
+        "하야세유우카",
+        "유우카 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "hayase_yuuka",
+        "yuuka",
+        "유우카"
+      ],
+      "ja": [
+        "ユウカ",
+        "早瀬ユウカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mv_closeup.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/유우카/아이돌/공식/official_mv_closeup.jpg",
+      "note": "2nd 싱글 MV 클로즈업",
+      "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_duo.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/유우카/아이돌/공식/official_mv_duo.jpg",
+      "note": "데뷔곡 MV 아리스와 듀오 무대",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_group_card.jpg",
+      "path": "밀레니엄 사이언스 스쿨/세미나/유우카/아이돌/공식/official_mv_group_card.jpg",
+      "note": "데뷔곡 MV 엔딩 그룹 카드",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

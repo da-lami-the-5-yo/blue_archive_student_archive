@@ -8143,9 +8143,17 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_portrait.png",
+        "note": "출시판 케이 인게임 스탠딩",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "케이",
     "family_name_kr": "텐도",
     "canonical_name_kr": "텐도 케이"
@@ -21123,8 +21131,41 @@
       "en": [],
       "ja": []
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_vessel_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_vessel_portrait.png",
+        "note": "데카그라마톤 소녀형 소체 인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_vessel_damaged_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_vessel_damaged_portrait.png",
+        "note": "소녀형 소체 대미지 버전 포트레이트",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_vessel_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_vessel_icon.png",
+        "note": "소녀형 소체 인게임 아이콘",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_prototype_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/데카그라마톤/공식/official_prototype_portrait.png",
+        "note": "프로토타입 소체 포트레이트",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 4
   },
   {
     "id": null,
@@ -21514,5 +21555,731 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "id": null,
+    "name_kr": "텐도 케이",
+    "name_en": "Tendo Key",
+    "name_ja": "天童ケイ",
+    "full_name_kr": "텐도 케이 (키링)",
+    "full_name_en": "Tendo Key",
+    "full_name_ja": "天童ケイ",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "초현상특무부",
+    "club_en": "Supernatural Phenomenon Task Force",
+    "club_ja": "特異現象特捜部",
+    "seasonal": "키링",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "로봇 모양 키홀더에 세이브 파일로 깃든 케이. 최종편 이후 아리스가 간직했으며, 파반느 편 2장 후편(2022.12.07)에서 첫 등장. Ex. 데카그라마톤 편 2장 '불타는 검'에서 이 키홀더 속 세이브 파일을 기점으로 자아가 부활한다.",
+    "description_en": "Kei existing as a save file inside a robot-shaped keyholder, kept by Alice after Vol.F. First appeared in Pavane Chapter 2 (2022.12.07).",
+    "description_ja": "ロボット型キーホルダーのセーブファイルとして残ったケイ。パヴァーヌ編2章後編で初登場。",
+    "search_tags": {
+      "kr": [
+        "AL-1S",
+        "Key",
+        "케이",
+        "키",
+        "텐도",
+        "텐도 케이",
+        "텐도케이",
+        "케이 키링",
+        "케이 키홀더",
+        "케이의 조각"
+      ],
+      "en": [
+        "tendo key",
+        "tendo_tendo key",
+        "케이"
+      ],
+      "ja": [
+        "天童ケイ",
+        "天童天童ケイ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_fragment_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/키링/공식/official_fragment_icon.png",
+        "note": "케이의 조각(키홀더 세이브 파일) 인게임 아이콘",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "케이",
+    "family_name_kr": "텐도",
+    "canonical_name_kr": "텐도 케이"
+  },
+  {
+    "id": null,
+    "name_kr": "텐도 케이",
+    "name_en": "Tendo Key",
+    "name_ja": "天童ケイ",
+    "full_name_kr": "텐도 케이 (로봇)",
+    "full_name_en": "Tendo Key",
+    "full_name_ja": "天童ケイ",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "초현상특무부",
+    "club_en": "Supernatural Phenomenon Task Force",
+    "club_ja": "特異現象特捜部",
+    "seasonal": "로봇",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "Ex. 데카그라마톤 편 2장에서 부활한 케이의 비인간형 로봇 소체. 모니터 얼굴과 바퀴가 달린 투박한 로봇으로, 게임개발부에게 놀림을 받기도 했다. 3장에서 데카그라마톤의 소녀형 소체를 강탈하기 전까지 사용.",
+    "description_en": "Kei's non-humanoid robot body revived in Decagrammaton Chapter 2, used until she seized the Decagrammaton vessel in Chapter 3.",
+    "description_ja": "デカグラマトン編2章で復活したケイの非人間型ロボット素体。",
+    "search_tags": {
+      "kr": [
+        "AL-1S",
+        "Key",
+        "케이",
+        "키",
+        "텐도",
+        "텐도 케이",
+        "텐도케이",
+        "케이 로봇",
+        "케이 로봇 소체"
+      ],
+      "en": [
+        "tendo key",
+        "tendo_tendo key",
+        "케이"
+      ],
+      "ja": [
+        "天童ケイ",
+        "天童天童ケイ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_robot_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/로봇/공식/official_robot_portrait.png",
+        "note": "케이 로봇 소체 인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_robot_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/로봇/공식/official_robot_icon.png",
+        "note": "케이 로봇 소체 인게임 아이콘",
+        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2,
+    "personal_name_kr": "케이",
+    "family_name_kr": "텐도",
+    "canonical_name_kr": "텐도 케이"
+  },
+  {
+    "id": 23008,
+    "name_kr": "이오치 마리",
+    "name_en": "Mari",
+    "name_ja": "マリー",
+    "full_name_kr": "이오치 마리 (아이돌)",
+    "full_name_en": "Mari",
+    "full_name_ja": "マリー",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "시스터후드",
+    "club_en": "The Sisterhood",
+    "club_ja": "シスターフッド",
+    "seasonal": "아이돌",
+    "status": "출시",
+    "role": "힐러",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "마리(아이돌). 한정 3성 스트라이커, 폭발/힐러. 트리니티 시스터후드+구호기사단 합동 아이돌 그룹 '앤틱 세라핌' 멤버. 이벤트 'Serenade Promenade' (일본 2024.10.23 / 한국·글로벌 2025.04.15). 그룹의 리더.",
+    "description_en": "Mari (Idol). Limited 3★ striker. Leader of the Trinity idol unit 'Antique Seraphim' from the event Serenade Promenade.",
+    "description_ja": "マリー（アイドル）。トリニティのアイドルユニット「アンティークセラフィム」のリーダー。",
+    "search_tags": {
+      "kr": [
+        "마리",
+        "이오치",
+        "이오치 마리",
+        "이오치마리",
+        "마리 아이돌",
+        "앤틱 세라핌",
+        "수녀시대"
+      ],
+      "en": [
+        "iochi_mari",
+        "mari",
+        "마리"
+      ],
+      "ja": [
+        "マリー",
+        "伊落マリー"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/아이돌/공식/official_collection.webp",
+        "note": "SchaleDB collection 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/아이돌/공식/official_lobby.webp",
+        "note": "SchaleDB lobby 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/마리/아이돌/공식/official_portrait.webp",
+        "note": "SchaleDB portrait 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "마리",
+    "family_name_kr": "이오치",
+    "canonical_name_kr": "이오치 마리"
+  },
+  {
+    "id": 10061,
+    "name_kr": "우타즈미 사쿠라코",
+    "name_en": "Sakurako",
+    "name_ja": "サクラコ",
+    "full_name_kr": "우타즈미 사쿠라코 (아이돌)",
+    "full_name_en": "Sakurako",
+    "full_name_ja": "サクラコ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "시스터후드",
+    "club_en": "The Sisterhood",
+    "club_ja": "シスターフッド",
+    "seasonal": "아이돌",
+    "status": "출시",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "사쿠라코(아이돌). 한정 3성 스트라이커, 폭발/서포터. 트리니티 시스터후드+구호기사단 합동 아이돌 그룹 '앤틱 세라핌' 멤버. 이벤트 'Serenade Promenade' (일본 2024.10.23 / 한국·글로벌 2025.04.15).",
+    "description_en": "Sakurako (Idol). Limited 3★ striker of the idol unit 'Antique Seraphim'.",
+    "description_ja": "サクラコ（アイドル）。「アンティークセラフィム」メンバー。",
+    "search_tags": {
+      "kr": [
+        "사쿠라코",
+        "우타즈미",
+        "우타즈미 사쿠라코",
+        "우타즈미사쿠라코",
+        "사쿠라코 아이돌",
+        "앤틱 세라핌",
+        "수녀시대"
+      ],
+      "en": [
+        "sakurako",
+        "utazumi_sakurako",
+        "사쿠라코"
+      ],
+      "ja": [
+        "サクラコ",
+        "歌住サクラコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/아이돌/공식/official_collection.webp",
+        "note": "SchaleDB collection 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/아이돌/공식/official_lobby.webp",
+        "note": "SchaleDB lobby 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/시스터후드/사쿠라코/아이돌/공식/official_portrait.webp",
+        "note": "SchaleDB portrait 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "사쿠라코",
+    "family_name_kr": "우타즈미",
+    "canonical_name_kr": "우타즈미 사쿠라코"
+  },
+  {
+    "id": 10058,
+    "name_kr": "아오모리 미네",
+    "name_en": "Mine",
+    "name_ja": "ミネ",
+    "full_name_kr": "아오모리 미네 (아이돌)",
+    "full_name_en": "Mine",
+    "full_name_ja": "ミネ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "구호기사단",
+    "club_en": "Remedial Knights",
+    "club_ja": "救護騎士団",
+    "seasonal": "아이돌",
+    "status": "출시",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "미네(아이돌). 이벤트 배포 1성 스트라이커, 폭발/탱커. 트리니티 시스터후드+구호기사단 합동 아이돌 그룹 '앤틱 세라핌' 멤버. 이벤트 'Serenade Promenade' (일본 2024.10.23 / 한국·글로벌 2025.04.15).",
+    "description_en": "Mine (Idol). Event welfare 1★ striker of the idol unit 'Antique Seraphim'.",
+    "description_ja": "ミネ（アイドル）。「アンティークセラフィム」メンバー。",
+    "search_tags": {
+      "kr": [
+        "미네",
+        "아오모리",
+        "아오모리 미네",
+        "아오모리미네",
+        "미네 아이돌",
+        "앤틱 세라핌",
+        "수녀시대"
+      ],
+      "en": [
+        "aomori_mine",
+        "mine",
+        "미네"
+      ],
+      "ja": [
+        "ミネ",
+        "蒼森ミネ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "트리니티 종합학원/구호기사단/미네/아이돌/공식/official_collection.webp",
+        "note": "SchaleDB collection 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "트리니티 종합학원/구호기사단/미네/아이돌/공식/official_lobby.webp",
+        "note": "SchaleDB lobby 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "트리니티 종합학원/구호기사단/미네/아이돌/공식/official_portrait.webp",
+        "note": "SchaleDB portrait 아트",
+        "source": "https://schaledb.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "미네",
+    "family_name_kr": "아오모리",
+    "canonical_name_kr": "아오모리 미네"
+  },
+  {
+    "id": 10000,
+    "name_kr": "리쿠하치마 아루",
+    "name_en": "Aru",
+    "name_ja": "アル",
+    "full_name_kr": "리쿠하치마 아루 (아이돌)",
+    "full_name_en": "Aru",
+    "full_name_ja": "アル",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "흥신소 68",
+    "club_en": "Problem Solver 68",
+    "club_ja": "便利屋68",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "그룹 리더이자 만우절 몰래카메라의 최초 입안자. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+    "description_en": "아루 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+    "description_ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。",
+    "search_tags": {
+      "kr": [
+        "리쿠하치마",
+        "리쿠하치마 아루",
+        "리쿠하치마아루",
+        "아루",
+        "아루 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "aru",
+        "rikuhachima_aru",
+        "아루"
+      ],
+      "ja": [
+        "アル",
+        "陸八魔アル"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mv_closeup.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/아이돌/공식/official_mv_closeup.jpg",
+        "note": "2nd 싱글 MV 클로즈업",
+        "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_stage.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/아이돌/공식/official_mv_stage.jpg",
+        "note": "데뷔곡 MV 무대",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_group_card.jpg",
+        "path": "게헨나 학원/흥신소 68/아루/아이돌/공식/official_mv_group_card.jpg",
+        "note": "데뷔곡 MV 엔딩 그룹 카드",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "아루",
+    "family_name_kr": "리쿠하치마",
+    "canonical_name_kr": "리쿠하치마 아루"
+  },
+  {
+    "id": 13010,
+    "name_kr": "하야세 유우카",
+    "name_en": "Yuuka",
+    "name_ja": "ユウカ",
+    "full_name_kr": "하야세 유우카 (아이돌)",
+    "full_name_en": "Yuuka",
+    "full_name_ja": "ユウカ",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "세미나",
+    "club_en": "Seminar",
+    "club_ja": "セミナー",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "노아의 반강제 추천으로 참가. 2nd 싱글은 유우카가 직접 기획. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+    "description_en": "유우카 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+    "description_ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。",
+    "search_tags": {
+      "kr": [
+        "유우카",
+        "하야세",
+        "하야세 유우카",
+        "하야세유우카",
+        "유우카 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "hayase_yuuka",
+        "yuuka",
+        "유우카"
+      ],
+      "ja": [
+        "ユウカ",
+        "早瀬ユウカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mv_closeup.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/아이돌/공식/official_mv_closeup.jpg",
+        "note": "2nd 싱글 MV 클로즈업",
+        "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_duo.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/아이돌/공식/official_mv_duo.jpg",
+        "note": "데뷔곡 MV 아리스와 듀오 무대",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_group_card.jpg",
+        "path": "밀레니엄 사이언스 스쿨/세미나/유우카/아이돌/공식/official_mv_group_card.jpg",
+        "note": "데뷔곡 MV 엔딩 그룹 카드",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "유우카",
+    "family_name_kr": "하야세",
+    "canonical_name_kr": "하야세 유우카"
+  },
+  {
+    "id": 10015,
+    "name_kr": "텐도 아리스",
+    "name_en": "Aris",
+    "name_ja": "アリス",
+    "full_name_kr": "텐도 아리스 (아이돌)",
+    "full_name_en": "Aris",
+    "full_name_ja": "アリス",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "게임개발부",
+    "club_en": "Game Development Department",
+    "club_ja": "ゲーム開発部",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "아이돌 육성 게임이 재미있었다는 이유로 참가. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+    "description_en": "아리스 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+    "description_ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。",
+    "search_tags": {
+      "kr": [
+        "아리스",
+        "텐도",
+        "텐도 아리스",
+        "텐도아리스",
+        "아리스 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "aris",
+        "tendou_aris",
+        "아리스"
+      ],
+      "ja": [
+        "アリス",
+        "天童アリス"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mv_closeup.jpg",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/아이돌/공식/official_mv_closeup.jpg",
+        "note": "데뷔곡 MV 클로즈업",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_stage.jpg",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/아이돌/공식/official_mv_stage.jpg",
+        "note": "데뷔곡 MV 무대",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_group_card.jpg",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/아이돌/공식/official_mv_group_card.jpg",
+        "note": "데뷔곡 MV 엔딩 그룹 카드",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "아리스",
+    "family_name_kr": "텐도",
+    "canonical_name_kr": "텐도 아리스"
+  },
+  {
+    "id": 10003,
+    "name_kr": "아지타니 히후미",
+    "name_en": "Hifumi",
+    "name_ja": "ヒフミ",
+    "full_name_kr": "아지타니 히후미 (아이돌)",
+    "full_name_en": "Hifumi",
+    "full_name_ja": "ヒフミ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity",
+    "school_ja": "トリニティ",
+    "club_kr": "보충수업부",
+    "club_en": "Make-Up Work Club",
+    "club_ja": "補習授業部",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "페로로와 같은 무대에 서는 것이 진짜 목적이었던 멤버. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+    "description_en": "히후미 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+    "description_ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。",
+    "search_tags": {
+      "kr": [
+        "아지타니",
+        "아지타니 히후미",
+        "아지타니히후미",
+        "히후미",
+        "히후미 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "ajitani_hifumi",
+        "hifumi",
+        "히후미"
+      ],
+      "ja": [
+        "ヒフミ",
+        "阿慈谷ヒフミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mv_center.jpg",
+        "path": "트리니티 종합학원/보충수업부/히후미/아이돌/공식/official_mv_center.jpg",
+        "note": "2nd 싱글 MV 센터",
+        "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_stage.jpg",
+        "path": "트리니티 종합학원/보충수업부/히후미/아이돌/공식/official_mv_stage.jpg",
+        "note": "데뷔곡 MV 무대",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_group_card.jpg",
+        "path": "트리니티 종합학원/보충수업부/히후미/아이돌/공식/official_mv_group_card.jpg",
+        "note": "데뷔곡 MV 엔딩 그룹 카드",
+        "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "히후미",
+    "family_name_kr": "아지타니",
+    "canonical_name_kr": "아지타니 히후미"
+  },
+  {
+    "id": 13004,
+    "name_kr": "이자요이 노노미",
+    "name_en": "Nonomi",
+    "name_ja": "ノノミ",
+    "full_name_kr": "이자요이 노노미 (아이돌)",
+    "full_name_en": "Nonomi",
+    "full_name_ja": "ノノミ",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "2024년 3주년 페스 2nd 싱글에서 합류한 신규 멤버. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+    "description_en": "노노미 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+    "description_ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。",
+    "search_tags": {
+      "kr": [
+        "노노미",
+        "이자요이",
+        "이자요이 노노미",
+        "이자요이노노미",
+        "노노미 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "izayoi_nonomi",
+        "nonomi",
+        "노노미"
+      ],
+      "ja": [
+        "ノノミ",
+        "十六夜ノノミ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mv_closeup.jpg",
+        "path": "아비도스 고등학교/대책위원회/노노미/아이돌/공식/official_mv_closeup.jpg",
+        "note": "2nd 싱글 MV 클로즈업",
+        "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_closeup2.jpg",
+        "path": "아비도스 고등학교/대책위원회/노노미/아이돌/공식/official_mv_closeup2.jpg",
+        "note": "2nd 싱글 MV 클로즈업 2",
+        "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mv_group.jpg",
+        "path": "아비도스 고등학교/대책위원회/노노미/아이돌/공식/official_mv_group.jpg",
+        "note": "2nd 싱글 MV 5인 무대",
+        "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "노노미",
+    "family_name_kr": "이자요이",
+    "canonical_name_kr": "이자요이 노노미"
   }
 ]

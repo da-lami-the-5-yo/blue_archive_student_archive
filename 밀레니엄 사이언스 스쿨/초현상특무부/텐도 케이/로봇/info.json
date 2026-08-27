@@ -1,0 +1,82 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 케이",
+      "en": "Tendo Key",
+      "ja": "天童ケイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Supernatural Phenomenon Task Force",
+      "ja": "特異現象特捜部"
+    },
+    "seasonal": "로봇",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "Ex. 데카그라마톤 편 2장에서 부활한 케이의 비인간형 로봇 소체. 모니터 얼굴과 바퀴가 달린 투박한 로봇으로, 게임개발부에게 놀림을 받기도 했다. 3장에서 데카그라마톤의 소녀형 소체를 강탈하기 전까지 사용.",
+      "en": "Kei's non-humanoid robot body revived in Decagrammaton Chapter 2, used until she seized the Decagrammaton vessel in Chapter 3.",
+      "ja": "デカグラマトン編2章で復活したケイの非人間型ロボット素体。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "AL-1S",
+        "Key",
+        "케이",
+        "키",
+        "텐도",
+        "텐도 케이",
+        "텐도케이",
+        "케이 로봇",
+        "케이 로봇 소체"
+      ],
+      "en": [
+        "tendo key",
+        "tendo_tendo key",
+        "케이"
+      ],
+      "ja": [
+        "天童ケイ",
+        "天童天童ケイ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_robot_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/로봇/공식/official_robot_portrait.png",
+      "note": "케이 로봇 소체 인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_robot_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/로봇/공식/official_robot_icon.png",
+      "note": "케이 로봇 소체 인게임 아이콘",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

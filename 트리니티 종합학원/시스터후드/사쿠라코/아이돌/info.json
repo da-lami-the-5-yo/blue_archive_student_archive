@@ -1,0 +1,88 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "우타즈미 사쿠라코",
+      "en": "Sakurako",
+      "ja": "サクラコ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "시스터후드",
+      "en": "The Sisterhood",
+      "ja": "シスターフッド"
+    },
+    "seasonal": "아이돌",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "사쿠라코(아이돌). 한정 3성 스트라이커, 폭발/서포터. 트리니티 시스터후드+구호기사단 합동 아이돌 그룹 '앤틱 세라핌' 멤버. 이벤트 'Serenade Promenade' (일본 2024.10.23 / 한국·글로벌 2025.04.15).",
+      "en": "Sakurako (Idol). Limited 3★ striker of the idol unit 'Antique Seraphim'.",
+      "ja": "サクラコ（アイドル）。「アンティークセラフィム」メンバー。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사쿠라코",
+        "우타즈미",
+        "우타즈미 사쿠라코",
+        "우타즈미사쿠라코",
+        "사쿠라코 아이돌",
+        "앤틱 세라핌",
+        "수녀시대"
+      ],
+      "en": [
+        "sakurako",
+        "utazumi_sakurako",
+        "사쿠라코"
+      ],
+      "ja": [
+        "サクラコ",
+        "歌住サクラコ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "트리니티 종합학원/시스터후드/사쿠라코/아이돌/공식/official_collection.webp",
+      "note": "SchaleDB collection 아트",
+      "source": "https://schaledb.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "트리니티 종합학원/시스터후드/사쿠라코/아이돌/공식/official_lobby.webp",
+      "note": "SchaleDB lobby 아트",
+      "source": "https://schaledb.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "트리니티 종합학원/시스터후드/사쿠라코/아이돌/공식/official_portrait.webp",
+      "note": "SchaleDB portrait 아트",
+      "source": "https://schaledb.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

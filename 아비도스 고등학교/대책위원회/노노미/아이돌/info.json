@@ -1,0 +1,89 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이자요이 노노미",
+      "en": "Nonomi",
+      "ja": "ノノミ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "2024년 3주년 페스 2nd 싱글에서 합류한 신규 멤버. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+      "en": "노노미 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+      "ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "노노미",
+        "이자요이",
+        "이자요이 노노미",
+        "이자요이노노미",
+        "노노미 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "izayoi_nonomi",
+        "nonomi",
+        "노노미"
+      ],
+      "ja": [
+        "ノノミ",
+        "十六夜ノノミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mv_closeup.jpg",
+      "path": "아비도스 고등학교/대책위원회/노노미/아이돌/공식/official_mv_closeup.jpg",
+      "note": "2nd 싱글 MV 클로즈업",
+      "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_closeup2.jpg",
+      "path": "아비도스 고등학교/대책위원회/노노미/아이돌/공식/official_mv_closeup2.jpg",
+      "note": "2nd 싱글 MV 클로즈업 2",
+      "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_group.jpg",
+      "path": "아비도스 고등학교/대책위원회/노노미/아이돌/공식/official_mv_group.jpg",
+      "note": "2nd 싱글 MV 5인 무대",
+      "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

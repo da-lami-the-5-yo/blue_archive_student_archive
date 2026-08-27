@@ -1,0 +1,89 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아지타니 히후미",
+      "en": "Hifumi",
+      "ja": "ヒフミ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity",
+      "ja": "トリニティ"
+    },
+    "club": {
+      "kr": "보충수업부",
+      "en": "Make-Up Work Club",
+      "ja": "補習授業部"
+    },
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "페로로와 같은 무대에 서는 것이 진짜 목적이었던 멤버. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+      "en": "히후미 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+      "ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아지타니",
+        "아지타니 히후미",
+        "아지타니히후미",
+        "히후미",
+        "히후미 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "ajitani_hifumi",
+        "hifumi",
+        "히후미"
+      ],
+      "ja": [
+        "ヒフミ",
+        "阿慈谷ヒフミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mv_center.jpg",
+      "path": "트리니티 종합학원/보충수업부/히후미/아이돌/공식/official_mv_center.jpg",
+      "note": "2nd 싱글 MV 센터",
+      "source": "https://www.youtube.com/watch?v=s7T7q1MrAG4",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_stage.jpg",
+      "path": "트리니티 종합학원/보충수업부/히후미/아이돌/공식/official_mv_stage.jpg",
+      "note": "데뷔곡 MV 무대",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_group_card.jpg",
+      "path": "트리니티 종합학원/보충수업부/히후미/아이돌/공식/official_mv_group_card.jpg",
+      "note": "데뷔곡 MV 엔딩 그룹 카드",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

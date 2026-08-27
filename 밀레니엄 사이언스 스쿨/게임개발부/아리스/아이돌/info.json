@@ -1,0 +1,89 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 아리스",
+      "en": "Aris",
+      "ja": "アリス"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "아이돌 육성 게임이 재미있었다는 이유로 참가. 2022년 만우절 학원 합동 아이돌 그룹 '장난스런☆스트레이트'(イタズラ☆ストレート / Mischievous☆Straight) 멤버. 데뷔곡 '반짝이는 MiLie로'(2022.04.01), 2024년 3주년 블루아카 페스에서 2nd 싱글 '전력절대 Come☆True'로 재결성.",
+      "en": "아리스 in the April Fools' idol unit 'Mischievous☆Straight' (debut single 'To the Shining MiLie', 2022-04-01).",
+      "ja": "エイプリルフールの学園合同アイドルグループ「イタズラ☆ストレート」メンバー。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아리스",
+        "텐도",
+        "텐도 아리스",
+        "텐도아리스",
+        "아리스 아이돌",
+        "장난스런 스트레이트",
+        "장난스런☆스트레이트",
+        "이타즈라 스트레이트"
+      ],
+      "en": [
+        "aris",
+        "tendou_aris",
+        "아리스"
+      ],
+      "ja": [
+        "アリス",
+        "天童アリス"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mv_closeup.jpg",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/아이돌/공식/official_mv_closeup.jpg",
+      "note": "데뷔곡 MV 클로즈업",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_stage.jpg",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/아이돌/공식/official_mv_stage.jpg",
+      "note": "데뷔곡 MV 무대",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mv_group_card.jpg",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/아이돌/공식/official_mv_group_card.jpg",
+      "note": "데뷔곡 MV 엔딩 그룹 카드",
+      "source": "https://www.youtube.com/watch?v=F0fRnHg39Ko",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}
