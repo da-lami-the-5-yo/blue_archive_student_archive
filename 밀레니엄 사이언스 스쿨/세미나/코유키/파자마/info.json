@@ -1,0 +1,73 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쿠로사키 코유키",
+      "en": "Kurosaki Koyuki",
+      "ja": "黒崎コユキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "파자마",
+    "status": "출시",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "《비밀의 미드나잇 파티》 복각에 맞춰 공개된 장난기 가득한 파자마 차림의 코유키.",
+      "en": "Koyuki wearing cute playful pajamas.",
+      "ja": "パジャマ姿のコユキ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "쿠로사키 코유키 (파자마)",
+        "파자마 코유키",
+        "코유키"
+      ],
+      "en": [
+        "koyuki_pajamas"
+      ],
+      "ja": [
+        "パジャマコユキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_koyuki_pajamas_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_koyuki_pajamas_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_koyuki_pajamas_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_koyuki_pajamas_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

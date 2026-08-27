@@ -1,0 +1,73 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "네무가키 후부키",
+      "en": "Nemugaki Fubuki",
+      "ja": "眠柿フブキ"
+    },
+    "school": {
+      "kr": "발키리 경찰학교",
+      "en": "Valkyrie Police Academy",
+      "ja": "ヴァルキューレ警察学校"
+    },
+    "club": {
+      "kr": "생활안전국",
+      "en": "Public Safety Bureau",
+      "ja": "生活安全局"
+    },
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "미들",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "《Serenade Promenade》 이벤트에 등장한 귀찮아하면서도 무대에 선 아이돌 복장의 후부키.",
+      "en": "Fubuki in idol PR costume during Serenade Promenade.",
+      "ja": "セレナーデ・プロムナードに登場したアイドル衣装のフブキ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "네무가키 후부키 (아이돌)",
+        "아이돌 후부키",
+        "후부키"
+      ],
+      "en": [
+        "fubuki_idol"
+      ],
+      "ja": [
+        "アイドルフブキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_fubuki_idol_portrait.png",
+      "path": "발키리 경찰학교/생활안전국/후부키/아이돌/공식/official_fubuki_idol_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_fubuki_idol_icon.png",
+      "path": "발키리 경찰학교/생활안전국/후부키/아이돌/공식/official_fubuki_idol_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

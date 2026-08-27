@@ -1,0 +1,73 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "시라이시 우타하",
+      "en": "Shiraishi Utaha",
+      "ja": "白石ウタハ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "엔지니어부",
+      "en": "Engineer Department",
+      "ja": "エンジニア部"
+    },
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "미들",
+      "bullet_type": "관통",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "《Serenade Promenade》 이벤트에 등장한 아이돌 무대 의상을 입은 엔지니어부 부장 우타하.",
+      "en": "Utaha in idol costume during Serenade Promenade event.",
+      "ja": "セレナーデ・プロムナードに登場したアイドル衣装のウタハ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "시라이시 우타하 (아이돌)",
+        "아이돌 우타하",
+        "우타하"
+      ],
+      "en": [
+        "utaha_idol"
+      ],
+      "ja": [
+        "アイドルウタハ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_utaha_idol_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/아이돌/공식/official_utaha_idol_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_utaha_idol_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/아이돌/공식/official_utaha_idol_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

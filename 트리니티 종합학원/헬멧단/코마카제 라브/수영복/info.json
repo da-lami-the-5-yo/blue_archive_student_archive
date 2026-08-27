@@ -1,0 +1,74 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "코마카제 라브",
+      "en": "Komakaze Rabukaze",
+      "ja": "駒風ラブ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "헬멧단",
+      "en": "Helmet Gang",
+      "ja": "ヘルメット団"
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "《Say-Bing!》 여름 이벤트에 등장한 시원한 수영복을 입은 헬멧단 두목 라브(수라브).",
+      "en": "Rabukaze in swimsuit appearing in Say-Bing! summer event.",
+      "ja": "Say-Bing!イベントに登場した水着姿のラブ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "코마카제 라브 (수영복)",
+        "수영복 라브",
+        "수라브",
+        "라브"
+      ],
+      "en": [
+        "rabukaze_swimsuit"
+      ],
+      "ja": [
+        "水着ラブ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_rabu_swimsuit_portrait.png",
+      "path": "트리니티 종합학원/헬멧단/코마카제 라브/수영복/공식/official_rabu_swimsuit_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_rabu_swimsuit_icon.png",
+      "path": "트리니티 종합학원/헬멧단/코마카제 라브/수영복/공식/official_rabu_swimsuit_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

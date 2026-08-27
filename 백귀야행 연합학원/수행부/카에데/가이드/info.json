@@ -1,0 +1,68 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이사미 카에데",
+      "en": "Isami Kaede",
+      "ja": "伊佐美カエデ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako Alliance Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "수행부",
+      "en": "Ascetics Club",
+      "ja": "修行部"
+    },
+    "seasonal": "가이드",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "와글와글하며 오손도손하게 이벤트에 등장한 가이드 복장의 카에데. (일본 2024.03.27 / 글로벌 2024.09.24)",
+      "en": "",
+      "ja": ""
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "이사미 카에데 가이드",
+        "가이드 카에데"
+      ],
+      "en": [],
+      "ja": []
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_kaede_guide_portrait.png",
+      "path": "백귀야행 연합학원/수행부/카에데/가이드/공식/official_kaede_guide_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_kaede_guide_icon.png",
+      "path": "백귀야행 연합학원/수행부/카에데/가이드/공식/official_kaede_guide_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

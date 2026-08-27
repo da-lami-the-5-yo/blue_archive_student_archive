@@ -1,0 +1,75 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "나카마사 이치카",
+      "en": "Nakamasa Ichika",
+      "ja": "仲正イチカ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Realization Committee",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "연극",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "미들",
+      "bullet_type": "진동",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "《Serenade Promenade》 트리니티 문화제 연극 무대에서 늠름한 왕자님 분장을 한 이치카.",
+      "en": "Ichika dressed as a handsome prince for the Trinity festival play.",
+      "ja": "トリニティ学園祭の演劇で王子様衣装を着たイチカ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "나카마사 이치카 (연극)",
+        "왕자 이치카",
+        "연극 이치카",
+        "이치카"
+      ],
+      "en": [
+        "ichika_prince",
+        "ichika_play"
+      ],
+      "ja": [
+        "王子様イチカ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_ichika_suit_portrait.png",
+      "path": "트리니티 종합학원/정의실현부/이치카/연극/공식/official_ichika_suit_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_ichika_suit_icon.png",
+      "path": "트리니티 종합학원/정의실현부/이치카/연극/공식/official_ichika_suit_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

@@ -1,0 +1,74 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "카데노코지 유카리",
+      "en": "Kadenokoji Yukari",
+      "ja": "勘解由小路ユカリ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako Alliance Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "백화요란",
+      "en": "Hyakkaryoran Conflict Resolution Council",
+      "ja": "百花繚乱紛争調停委員会"
+    },
+    "seasonal": "중학생",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "백화요란 편 1장에 등장한 과거 중학생 시절의 어린 카데노코지 유카리(응애유카리).",
+      "en": "Middle school younger version of Yukari appearing in Hyakkaryoran Chapter 1.",
+      "ja": "百花繚乱編1章に登場した中学生時代のユカリ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "카데노코지 유카리 (중학생)",
+        "중학생 유카리",
+        "응애유카리",
+        "유카리"
+      ],
+      "en": [
+        "yukari_middle_school"
+      ],
+      "ja": [
+        "中学生ユカリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_yukari_middle_school_portrait.png",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_yukari_middle_school_icon.png",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

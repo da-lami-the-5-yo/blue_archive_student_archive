@@ -1,0 +1,75 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아케시로 루미",
+      "en": "Akeshiro Rumi",
+      "ja": "朱城ルミ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현무상회",
+      "en": "Black Tortoise Promenade",
+      "ja": "玄武商会"
+    },
+    "seasonal": "어린이",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "《오욕내강》 이벤트에 등장한 회춘약을 마시고 어린아이가 된 현무상회 회장 루미(응애루미).",
+      "en": "Young child version of Rumi appearing in Oyokunaiko event.",
+      "ja": "五欲内剛イベントに登場した幼女化ルミ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "아케시로 루미 (어린이)",
+        "어린이 루미",
+        "응애루미",
+        "루미"
+      ],
+      "en": [
+        "rumi_kid",
+        "child_rumi"
+      ],
+      "ja": [
+        "幼女ルミ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_rumi_young_portrait.png",
+      "path": "산해경 고급중학교/현무상회/루미/어린이/공식/official_rumi_young_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_rumi_young_icon.png",
+      "path": "산해경 고급중학교/현무상회/루미/어린이/공식/official_rumi_young_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

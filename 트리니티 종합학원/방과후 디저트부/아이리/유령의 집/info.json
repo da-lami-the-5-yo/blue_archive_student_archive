@@ -1,0 +1,73 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쿠리무라 아이리",
+      "en": "Kurimura Airi",
+      "ja": "栗村アイ리"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "방과후 디저트부",
+      "en": "After-School Sweets Club",
+      "ja": "放課後スイーツ部"
+    },
+    "seasonal": "유령의 집",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "Serenade Promenade 이벤트에 등장한 유령의 집 분장 차림의 아이리.",
+      "en": "Airi in idol stage costume during Serenade Promenade event.",
+      "ja": "セレナーデ・プロムナードに登場したアイドル衣装のアイリ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "쿠리무라 아이리 (아이돌)",
+        "아이돌 아이리",
+        "아이리"
+      ],
+      "en": [
+        "airi_idol"
+      ],
+      "ja": [
+        "アイドルアイリ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_airi_killer_portrait.png",
+      "path": "트리니티 종합학원/방과후 디저트부/아이리/유령의 집/공식/official_airi_killer_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_airi_killer_icon.png",
+      "path": "트리니티 종합학원/방과후 디저트부/아이리/유령의 집/공식/official_airi_killer_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

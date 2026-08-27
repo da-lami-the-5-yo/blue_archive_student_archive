@@ -492,8 +492,25 @@
         "アイドルアヤネ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ayane_idol_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/아야네/아이돌/공식/official_ayane_idol_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ayane_idol_icon.png",
+        "path": "아비도스 고등학교/대책위원회/아야네/아이돌/공식/official_ayane_idol_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,
@@ -951,8 +968,25 @@
         "アイドルセリカ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_serika_idol_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/세리카/아이돌/공식/official_serika_idol_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_serika_idol_icon.png",
+        "path": "아비도스 고등학교/대책위원회/세리카/아이돌/공식/official_serika_idol_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,
@@ -6126,8 +6160,25 @@
     "full_name_kr": "시라이시 우타하 (아이돌)",
     "full_name_en": "Shiraishi Utaha (아이돌)",
     "full_name_ja": "白石ウタハ（아이돌）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_utaha_idol_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/아이돌/공식/official_utaha_idol_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_utaha_idol_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/엔지니어부/우타하/아이돌/공식/official_utaha_idol_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 10051,
@@ -7520,8 +7571,25 @@
         "パジャマチヒロ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_chihiro_pajamas_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/치히로/파자마/공식/official_chihiro_pajamas_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_chihiro_pajamas_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/치히로/파자마/공식/official_chihiro_pajamas_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 20001,
@@ -7751,8 +7819,25 @@
         "パジャママキ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_maki_pajamas_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/파자마/공식/official_maki_pajamas_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_maki_pajamas_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/마키/파자마/공식/official_maki_pajamas_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 10063,
@@ -7910,8 +7995,25 @@
         "パジャマコユキ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_koyuki_pajamas_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_koyuki_pajamas_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_koyuki_pajamas_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/코유키/파자마/공식/official_koyuki_pajamas_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 10015,
@@ -8824,8 +8926,25 @@
     "full_name_kr": "나카마사 이치카 (연극)",
     "full_name_en": "Nakamasa Ichika (연극)",
     "full_name_ja": "仲正イチカ（연극）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ichika_suit_portrait.png",
+        "path": "트리니티 종합학원/정의실현부/이치카/연극/공식/official_ichika_suit_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ichika_suit_icon.png",
+        "path": "트리니티 종합학원/정의실현부/이치카/연극/공식/official_ichika_suit_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 16003,
@@ -10822,8 +10941,25 @@
     "full_name_kr": "유토리 나츠 (유령의 집)",
     "full_name_en": "Yutori Natsu (유령의 집)",
     "full_name_ja": "柚鳥ナツ（유령의 집）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_natsu_frankenstein_portrait.png",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/유령의 집/공식/official_natsu_frankenstein_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_natsu_frankenstein_icon.png",
+        "path": "트리니티 종합학원/방과후 디저트부/나츠/유령의 집/공식/official_natsu_frankenstein_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 26005,
@@ -11331,8 +11467,25 @@
     "full_name_kr": "켄자키 츠루기 (연극)",
     "full_name_en": "Kenzaki Tsurugi (연극)",
     "full_name_ja": "剣先ツルギ（연극）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_tsurugi_dress_portrait.png",
+        "path": "트리니티 종합학원/정의실현부/츠루기/연극/공식/official_tsurugi_dress_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_tsurugi_dress_icon.png",
+        "path": "트리니티 종합학원/정의실현부/츠루기/연극/공식/official_tsurugi_dress_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,
@@ -11426,8 +11579,25 @@
     "full_name_kr": "코마카제 라브 (수영복)",
     "full_name_en": "Komakaze Rabukaze (수영복)",
     "full_name_ja": "駒風ラブ（수영복）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_rabu_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/헬멧단/코마카제 라브/수영복/공식/official_rabu_swimsuit_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rabu_swimsuit_icon.png",
+        "path": "트리니티 종합학원/헬멧단/코마카제 라브/수영복/공식/official_rabu_swimsuit_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 10035,
@@ -11892,8 +12062,25 @@
     "full_name_kr": "쿠리무라 아이리 (유령의 집)",
     "full_name_en": "Kurimura Airi (아이돌)",
     "full_name_ja": "栗村アイ리（아이돌）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_airi_killer_portrait.png",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/유령의 집/공식/official_airi_killer_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_airi_killer_icon.png",
+        "path": "트리니티 종합학원/방과후 디저트부/아이리/유령의 집/공식/official_airi_killer_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 20024,
@@ -13203,8 +13390,25 @@
     "full_name_kr": "카데노코지 유카리 (중학생)",
     "full_name_en": "Kadenokoji Yukari (중학생)",
     "full_name_ja": "勘解由小路ユカリ（중학생）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_yukari_middle_school_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_yukari_middle_school_icon.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,
@@ -14853,8 +15057,25 @@
         "幼女ルミ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_rumi_young_portrait.png",
+        "path": "산해경 고급중학교/현무상회/루미/어린이/공식/official_rumi_young_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rumi_young_icon.png",
+        "path": "산해경 고급중학교/현무상회/루미/어린이/공식/official_rumi_young_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 20002,
@@ -16419,8 +16640,25 @@
     "full_name_kr": "나카츠카사 키리노 (아이돌)",
     "full_name_en": "Nakatsukasa Kirino (아이돌)",
     "full_name_ja": "中務キリノ（아이돌）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kirino_idol_portrait.png",
+        "path": "발키리 경찰학교/생활안전국/키리노/아이돌/공식/official_kirino_idol_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kirino_idol_icon.png",
+        "path": "발키리 경찰학교/생활안전국/키리노/아이돌/공식/official_kirino_idol_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 16008,
@@ -16588,8 +16826,25 @@
     "full_name_kr": "네무가키 후부키 (아이돌)",
     "full_name_en": "Nemugaki Fubuki (아이돌)",
     "full_name_ja": "眠柿フブキ（아이돌）",
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_fubuki_idol_portrait.png",
+        "path": "발키리 경찰학교/생활안전국/후부키/아이돌/공식/official_fubuki_idol_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_fubuki_idol_icon.png",
+        "path": "발키리 경찰학교/생활안전국/후부키/아이돌/공식/official_fubuki_idol_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,
@@ -21094,8 +21349,25 @@
       "en": [],
       "ja": []
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kaede_guide_portrait.png",
+        "path": "백귀야행 연합학원/수행부/카에데/가이드/공식/official_kaede_guide_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kaede_guide_icon.png",
+        "path": "백귀야행 연합학원/수행부/카에데/가이드/공식/official_kaede_guide_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,

@@ -1,0 +1,75 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "켄자키 츠루기",
+      "en": "Kenzaki Tsurugi",
+      "ja": "剣先ツルギ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "정의실현부",
+      "en": "Justice Realization Committee",
+      "ja": "正義実現委員会"
+    },
+    "seasonal": "연극",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "프론트",
+      "bullet_type": "관통",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "《Serenade Promenade》 트리니티 문화제 연극 무대에서 우아한 드레스 공주님 분장을 한 츠루기.",
+      "en": "Tsurugi dressed as a delicate princess for the Trinity festival play.",
+      "ja": "トリニティ学園祭の演劇でお姫様衣装を着たツルギ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "켄자키 츠루기 (연극)",
+        "공주 츠루기",
+        "연극 츠루기",
+        "츠루기"
+      ],
+      "en": [
+        "tsurugi_princess",
+        "tsurugi_play"
+      ],
+      "ja": [
+        "お姫様ツルギ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_tsurugi_dress_portrait.png",
+      "path": "트리니티 종합학원/정의실현부/츠루기/연극/공식/official_tsurugi_dress_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_tsurugi_dress_icon.png",
+      "path": "트리니티 종합학원/정의실현부/츠루기/연극/공식/official_tsurugi_dress_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

@@ -1,0 +1,74 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "유토리 나츠",
+      "en": "Yutori Natsu",
+      "ja": "柚鳥ナツ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "방과후 디저트부",
+      "en": "After-School Sweets Club",
+      "ja": "放課後スイーツ部"
+    },
+    "seasonal": "유령의 집",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "탱커",
+      "position": "프론트",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "《Serenade Promenade》 트리니티 문화제 유령의 집 프랑켄슈타인 분장을 한 나츠.",
+      "en": "Natsu in Frankenstein haunted house costume during Trinity festival.",
+      "ja": "トリニティ学園祭のお化け屋敷フランケンシュタイン衣装を着たナツ。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "유토리 나츠 (유령의 집)",
+        "유령의 집 나츠",
+        "프랑켄 나츠",
+        "나츠"
+      ],
+      "en": [
+        "natsu_franken"
+      ],
+      "ja": [
+        "フランケンナツ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 2,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_natsu_frankenstein_portrait.png",
+      "path": "트리니티 종합학원/방과후 디저트부/나츠/유령의 집/공식/official_natsu_frankenstein_portrait.png",
+      "note": "인게임 포트레이트",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_natsu_frankenstein_icon.png",
+      "path": "트리니티 종합학원/방과후 디저트부/나츠/유령의 집/공식/official_natsu_frankenstein_icon.png",
+      "note": "인게임 아이콘",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}
