@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아로나",
+      "en": "Arona",
+      "ja": "アロナ"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "샬레",
+      "en": "Schale",
+      "ja": "シャーレ"
+    },
+    "seasonal": "수영복 꿈속",
+    "status": "미출시 시즈널",
+    "description": {
+      "kr": "꿈속(드림) 연출에 등장한 수영복 차림의 아로나.",
+      "en": "Arona in swimsuit appearing in the dream sequence.",
+      "ja": "夢の中の水着アロナ。"
+    }
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_arona_ch36_dream_01.jpg",
+      "path": "총학생회/샬레/아로나/수영복 꿈속/공식/official_arona_ch36_dream_01.jpg",
+      "note": "아로나 채널 #36 (선생의 꿈 ver. 검은 프릴 비키니)",
+      "source": "Blue Archive 공식 유튜브 (아로나/아로프라 채널)",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_arona_ch36_dream_02.jpg",
+      "path": "총학생회/샬레/아로나/수영복 꿈속/공식/official_arona_ch36_dream_02.jpg",
+      "note": "아로나 채널 #36 장면",
+      "source": "Blue Archive 공식 유튜브 (아로나/아로프라 채널)",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aropla_ch20_dream_beach.jpg",
+      "path": "총학생회/샬레/아로나/수영복 꿈속/공식/official_aropla_ch20_dream_beach.jpg",
+      "note": "아로프라 채널 #20 꿈속 해변 장면",
+      "source": "Blue Archive 공식 유튜브 (아로나/아로프라 채널)",
+      "collected": "2026-08-27"
+    }
+  ],
+  "updated": "2026-08-27"
+}

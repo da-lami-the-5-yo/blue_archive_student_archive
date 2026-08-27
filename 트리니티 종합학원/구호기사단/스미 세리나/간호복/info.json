@@ -15,7 +15,7 @@
       "en": "Knights Hospitaller",
       "ja": "救護騎士団"
     },
-    "seasonal": "체육복",
+    "seasonal": "간호복",
     "status": "미출시 시즈널",
     "combat_profile": {
       "role": "힐러",
@@ -24,13 +24,13 @@
       "armor_type": "경장갑"
     },
     "description": {
-      "kr": "황륜대제 이벤트에서 등장한 간호사 체육복 차림의 세리나 스탠딩.",
-      "en": "Unreleased 체육복 variant for Sumi Serina.",
-      "ja": "鷲見セリナの未実装체육복衣装。"
+      "kr": "황륜대제 이벤트에서 등장한 간호사 간호복 차림의 세리나 스탠딩.",
+      "en": "Unreleased 간호복 variant for Sumi Serina.",
+      "ja": "鷲見セリナの未実装간호복衣装。"
     },
     "multilingual_search_tags": {
       "kr": [
-        "체육복 세리나",
+        "간호복 세리나",
         "체리나"
       ],
       "en": [
@@ -53,7 +53,7 @@
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
-      "path": "트리니티 종합학원/구호기사단/스미 세리나/체육복/공식/official_wiki_portrait.png"
+      "path": "트리니티 종합학원/구호기사단/스미 세리나/간호복/공식/official_wiki_portrait.png"
     }
   ],
   "image_count": 1

@@ -1,0 +1,53 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아로나",
+      "en": "Arona",
+      "ja": "アロナ"
+    },
+    "school": {
+      "kr": "총학생회",
+      "en": "General Student Council",
+      "ja": "連邦生徒会"
+    },
+    "club": {
+      "kr": "샬레",
+      "en": "Schale",
+      "ja": "シャーレ"
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description": {
+      "kr": "여름 시즌 타이틀 화면 및 공식 일러스트에 등장한 수영복 차림의 아로나.",
+      "en": "Arona in swimsuit from the summer title screen artwork.",
+      "ja": "水着姿のアロナ。"
+    }
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_aropla_ch36_thumbnail.jpg",
+      "path": "총학생회/샬레/아로나/수영복/공식/official_aropla_ch36_thumbnail.jpg",
+      "note": "아로프라 채널 #36 썸네일 (진짜 수영복 공개)",
+      "source": "Blue Archive 공식 유튜브 (아로나/아로프라 채널)",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aropla_ch36_full_01.jpg",
+      "path": "총학생회/샬레/아로나/수영복/공식/official_aropla_ch36_full_01.jpg",
+      "note": "아로프라 채널 #36 장면 (아로나 청록 프릴 비키니)",
+      "source": "Blue Archive 공식 유튜브 (아로나/아로프라 채널)",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aropla_ch36_full_02.jpg",
+      "path": "총학생회/샬레/아로나/수영복/공식/official_aropla_ch36_full_02.jpg",
+      "note": "아로프라 채널 #36 장면 (전신 정면)",
+      "source": "Blue Archive 공식 유튜브 (아로나/아로프라 채널)",
+      "collected": "2026-08-27"
+    }
+  ],
+  "updated": "2026-08-27"
+}
