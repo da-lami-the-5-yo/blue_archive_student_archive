@@ -1,0 +1,44 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "탄가 이부키",
+      "en": "Tanga Ibuki",
+      "ja": "丹花イブキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "해적 수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "일본 서버 수영복 이벤트의 해적 컨셉 의상. 일반 수영복과 별개 변형.",
+      "en": "Unreleased 해적수영복 variant for Tanga Ibuki.",
+      "ja": "丹花イブキの未実装해적수영복衣装。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "게헨나 학원/만마전/탄가 이부키/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
+      "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

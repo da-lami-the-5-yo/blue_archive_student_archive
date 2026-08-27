@@ -1700,9 +1700,7 @@
         "나츠메이로하",
         "수영복 이로하",
         "이로하",
-        "이로하 수영복",
-        "해적 수영복",
-        "해적수영복"
+        "이로하 수영복"
       ],
       "en": [
         "natsume iroha",
@@ -1715,11 +1713,6 @@
       ]
     },
     "images": [
-      {
-        "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_wiki_portrait.png"
-      },
       {
         "category": "공식",
         "filename": "official_iroha_swimsuit_portrait.png",
@@ -1737,7 +1730,51 @@
         "collected": "2026-08-27"
       }
     ],
-    "image_count": 3,
+    "image_count": 2,
+    "personal_name_kr": "이로하",
+    "family_name_kr": "나츠메",
+    "canonical_name_kr": "나츠메 이로하"
+  },
+  {
+    "id": null,
+    "name_kr": "나츠메 이로하",
+    "name_en": "Natsume Iroha",
+    "name_ja": "棗イロハ",
+    "full_name_kr": "나츠메 이로하 (수영복)",
+    "full_name_en": "Natsume Iroha (Swimsuit)",
+    "full_name_ja": "棗イロハ（水着）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": "万魔殿",
+    "seasonal": "해적 수영복",
+    "status": "미출시 시즈널",
+    "role": "택티컬 서포트",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "일본 서버 수영복 이벤트의 해적 컨셉 의상. 일반 수영복과 별개 변형.",
+    "description_en": "Unreleased 해적수영복 variant for Natsume Iroha.",
+    "description_ja": "棗イロハの未実装해적수영복衣装。",
+    "search_tags": {
+      "kr": [
+        "나츠메 이로하",
+        "이로하",
+        "이로하 해적수영복",
+        "해적 수영복",
+        "해적수영복"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/나츠메 이로하/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "이로하",
     "family_name_kr": "나츠메",
     "canonical_name_kr": "나츠메 이로하"
@@ -2037,9 +2074,7 @@
         "쿄고쿠",
         "쿄고쿠 사츠키",
         "쿄고쿠 사츠키 (수영복)",
-        "쿄고쿠사츠키",
-        "해적 수영복",
-        "해적수영복"
+        "쿄고쿠사츠키"
       ],
       "en": [
         "kyogoku satsuki",
@@ -2052,11 +2087,6 @@
       ]
     },
     "images": [
-      {
-        "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_wiki_portrait.png"
-      },
       {
         "category": "공식",
         "filename": "official_satsuki_swimsuit_portrait.png",
@@ -2074,7 +2104,51 @@
         "collected": "2026-08-27"
       }
     ],
-    "image_count": 3,
+    "image_count": 2,
+    "personal_name_kr": "사츠키",
+    "family_name_kr": "쿄고쿠",
+    "canonical_name_kr": "쿄고쿠 사츠키"
+  },
+  {
+    "id": null,
+    "name_kr": "쿄고쿠 사츠키",
+    "name_en": "Kyogoku Satsuki",
+    "name_ja": "京極サツキ",
+    "full_name_kr": "쿄고쿠 사츠키 (수영복)",
+    "full_name_en": "Kyogoku Satsuki (Swimsuit)",
+    "full_name_ja": "京極サツキ（水着）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": "万魔殿",
+    "seasonal": "해적 수영복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "일본 서버 수영복 이벤트의 해적 컨셉 의상. 일반 수영복과 별개 변형.",
+    "description_en": "Unreleased 해적수영복 variant for Kyogoku Satsuki.",
+    "description_ja": "京極サツキの未実装해적수영복衣装。",
+    "search_tags": {
+      "kr": [
+        "사츠키",
+        "사츠키 해적수영복",
+        "쿄고쿠 사츠키",
+        "해적 수영복",
+        "해적수영복"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "사츠키",
     "family_name_kr": "쿄고쿠",
     "canonical_name_kr": "쿄고쿠 사츠키"
@@ -2243,9 +2317,7 @@
         "탄가",
         "탄가 이부키",
         "탄가 이부키 (수영복)",
-        "탄가이부키",
-        "해적 수영복",
-        "해적수영복"
+        "탄가이부키"
       ],
       "en": [
         "tanga ibuki",
@@ -2258,11 +2330,6 @@
       ]
     },
     "images": [
-      {
-        "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_wiki_portrait.png"
-      },
       {
         "category": "공식",
         "filename": "official_ibuki_swimsuit_portrait.png",
@@ -2280,7 +2347,51 @@
         "collected": "2026-08-27"
       }
     ],
-    "image_count": 3,
+    "image_count": 2,
+    "personal_name_kr": "이부키",
+    "family_name_kr": "탄가",
+    "canonical_name_kr": "탄가 이부키"
+  },
+  {
+    "id": null,
+    "name_kr": "탄가 이부키",
+    "name_en": "Tanga Ibuki",
+    "name_ja": "丹花イブキ",
+    "full_name_kr": "탄가 이부키 (수영복)",
+    "full_name_en": "Tanga Ibuki (Swimsuit)",
+    "full_name_ja": "丹花イブキ（水着）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": "万魔殿",
+    "seasonal": "해적 수영복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "폭발",
+    "armor_type": "경장갑",
+    "description_kr": "일본 서버 수영복 이벤트의 해적 컨셉 의상. 일반 수영복과 별개 변형.",
+    "description_en": "Unreleased 해적수영복 variant for Tanga Ibuki.",
+    "description_ja": "丹花イブキの未実装해적수영복衣装。",
+    "search_tags": {
+      "kr": [
+        "이부키",
+        "이부키 해적수영복",
+        "탄가 이부키",
+        "해적 수영복",
+        "해적수영복"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/탄가 이부키/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "이부키",
     "family_name_kr": "탄가",
     "canonical_name_kr": "탄가 이부키"
@@ -2449,9 +2560,7 @@
         "하누마",
         "하누마 마코토",
         "하누마 마코토 (수영복)",
-        "하누마마코토",
-        "해적 수영복",
-        "해적수영복"
+        "하누마마코토"
       ],
       "en": [
         "hanuma makoto",
@@ -2464,11 +2573,6 @@
       ]
     },
     "images": [
-      {
-        "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_wiki_portrait.png"
-      },
       {
         "category": "공식",
         "filename": "official_makoto_swimsuit_portrait.png",
@@ -2486,7 +2590,51 @@
         "collected": "2026-08-27"
       }
     ],
-    "image_count": 3,
+    "image_count": 2,
+    "personal_name_kr": "마코토",
+    "family_name_kr": "하누마",
+    "canonical_name_kr": "하누마 마코토"
+  },
+  {
+    "id": null,
+    "name_kr": "하누마 마코토",
+    "name_en": "Hanuma Makoto",
+    "name_ja": "羽沼マコト",
+    "full_name_kr": "하누마 마코토 (수영복)",
+    "full_name_en": "Hanuma Makoto (Swimsuit)",
+    "full_name_ja": "羽沼マコト（水着）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "만마전",
+    "club_en": "Pandemonium Society",
+    "club_ja": "万魔殿",
+    "seasonal": "해적 수영복",
+    "status": "미출시 시즈널",
+    "role": "탱커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "중장갑",
+    "description_kr": "일본 서버 수영복 이벤트의 해적 컨셉 의상. 일반 수영복과 별개 변형.",
+    "description_en": "Unreleased 해적수영복 variant for Hanuma Makoto.",
+    "description_ja": "羽沼マコトの未実装해적수영복衣装。",
+    "search_tags": {
+      "kr": [
+        "마코토",
+        "마코토 해적수영복",
+        "하누마 마코토",
+        "해적 수영복",
+        "해적수영복"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/만마전/하누마 마코토/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "마코토",
     "family_name_kr": "하누마",
     "canonical_name_kr": "하누마 마코토"
@@ -16954,9 +17102,14 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/아기새반/우토 요코/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/아기새반/우토 요코/기본/공식/official_youko_icon.png",
+        "source": "fandom Youko_Icon"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "요코",
     "family_name_kr": "우토",
     "canonical_name_kr": "우토 요코"
@@ -17620,6 +17773,69 @@
     "personal_name_kr": "미나",
     "family_name_kr": "코노에",
     "canonical_name_kr": "코노에 미나"
+  },
+  {
+    "name_kr": "키키",
+    "name_en": "Kiki",
+    "name_ja": "キキ",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Genryumon",
+    "club_ja": "玄竜門",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "seasonal": "기본",
+    "description_kr": "류게 키사키를 보좌하는 현룡문의 시종. 키사키의 곁을 따르는 소녀.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "산해경 고급중학교/현룡문/키키/기본/공식/official_kiki_portrait.png",
+        "source": "fandom Kiki_Portrait"
+      }
+    ],
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "키키",
+        "키사키 시녀",
+        "현룡문 시종"
+      ],
+      "ja": [
+        "キキ"
+      ]
+    }
+  },
+  {
+    "name_kr": "키키",
+    "name_en": "Kiki",
+    "name_ja": "キキ",
+    "school_kr": "산해경 고급중학교",
+    "school_en": "Shanhaijing Senior Secondary School",
+    "school_ja": "山海経高級中学校",
+    "club_kr": "현룡문",
+    "club_en": "Genryumon",
+    "club_ja": "玄竜門",
+    "status": "미출시 시즈널",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "seasonal": "체육복",
+    "description_kr": "키보토스 황륜대제(체육대회)에 등장하는 키키의 체육복 차림. 공식 단독 일러스트 미확보(fandom/schaledb 에셋 부재, 나무위키 이미지 서버 차단) — 아트 소스 확보 시 추가 예정.",
+    "images": [],
+    "image_count": 0,
+    "search_tags": {
+      "kr": [
+        "키키",
+        "키키 체육복",
+        "체육복 키키"
+      ]
+    }
   },
   {
     "id": 10069,
@@ -22405,6 +22621,58 @@
   },
   {
     "id": null,
+    "name_kr": "신타니 카이",
+    "name_en": "Shintani Kai",
+    "name_ja": "申谷カイ",
+    "full_name_kr": "신타니 카이",
+    "full_name_en": "Shintani Kai",
+    "full_name_ja": "申谷カイ",
+    "school_kr": "일곱 죄수",
+    "school_en": "Seven Prisoners",
+    "school_ja": "七人の囚人",
+    "club_kr": "연단방",
+    "club_en": "Endanbou",
+    "club_ja": "煉丹術研究会",
+    "seasonal": "리쿠",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "신타니 카이의 또 다른 모습 \"리쿠\". fandom 위키에서 카이의 변형 폼으로 등재.",
+    "description_en": "Unreleased student from Seven Prisoners Endanbou.",
+    "description_ja": "七人の囚人 煉丹術研究会所属の未実装生徒。",
+    "search_tags": {
+      "kr": [
+        "리쿠",
+        "카이 리쿠",
+        "신타니 카이",
+        "신타니 리쿠"
+      ],
+      "en": [
+        "riku",
+        "shintani kai"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "일곱 죄수/연단방/신타니 카이/리쿠/공식/official_riku_portrait.png",
+        "source": "fandom Riku_Portrait.png (카이의 변형 폼 리쿠)"
+      },
+      {
+        "category": "공식",
+        "path": "일곱 죄수/연단방/신타니 카이/리쿠/공식/official_riku_icon.png",
+        "source": "fandom Riku_Icon.png (카이의 변형 폼 리쿠)"
+      }
+    ],
+    "image_count": 2,
+    "personal_name_kr": "카이",
+    "family_name_kr": "신타니",
+    "canonical_name_kr": "신타니 카이"
+  },
+  {
+    "id": null,
     "name_kr": "유라키 모모카",
     "name_en": "Yuraki Momoka",
     "name_ja": "由良木モモカ",
@@ -23515,12 +23783,15 @@
     "position": "스페셜",
     "bullet_type": "신비",
     "armor_type": "특수장갑",
-    "description_kr": "키보토스의 정점이자 실종된 수수께끼의 총학생회장.",
+    "description_kr": "연방학생회 총학생회장. 프롤로그에서 실종된 키보토스의 최고 의사결정권자. 실루엣과 뒷모습만 공개됨.",
     "description_en": "Unreleased student from General Student Council President.",
     "description_ja": "連邦生徒会 会長所属の未実装生徒。",
     "search_tags": {
       "kr": [
-        "총학생회장"
+        "연방학생회장",
+        "총학생회장",
+        "프레지던트",
+        "회장"
       ],
       "en": [
         "general student council president",
@@ -23533,24 +23804,18 @@
     "images": [
       {
         "category": "공식",
-        "filename": "official_wiki_portrait.png",
-        "path": "총학생회/회장/총학생회장/기본/공식/official_wiki_portrait.png"
+        "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_portrait.png",
+        "source": "fandom GSC_President_Portrait.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
       },
       {
         "category": "공식",
-        "filename": "official_president_portrait.png",
-        "path": "총학생회/회장/총학생회장/기본/공식/official_president_portrait.png",
-        "note": "인게임 Portrait",
-        "source": "https://bluearchive.fandom.com",
-        "collected": "2026-08-27"
+        "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_prologue.png",
+        "source": "fandom GSC_President_Prologue.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
       },
       {
         "category": "공식",
-        "filename": "official_president_icon.png",
-        "path": "총학생회/회장/총학생회장/기본/공식/official_president_icon.png",
-        "note": "인게임 Icon",
-        "source": "https://bluearchive.fandom.com",
-        "collected": "2026-08-27"
+        "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_icon.png",
+        "source": "fandom GSC_President_Icon.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
       }
     ],
     "image_count": 3,
@@ -26986,6 +27251,48 @@
     "personal_name_kr": "마리",
     "family_name_kr": "이오치",
     "canonical_name_kr": "이오치 마리"
+  },
+  {
+    "name_kr": "바르바라",
+    "name_en": "Barbara",
+    "name_ja": "バルバラ",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "유스티나 성도회",
+    "club_en": "Justina Council of Saints",
+    "club_ja": null,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "트리니티 유스티나 성도회 소속. fandom 위키 등재 미플레이어블 캐릭터.",
+    "images": [
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_portrait.png",
+        "source": "fandom Barbara_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_icon.png",
+        "source": "fandom Barbara_Icon.png"
+      }
+    ],
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "바르바라",
+        "유스티나",
+        "유스티나 성도회"
+      ],
+      "en": [
+        "barbara",
+        "justina"
+      ]
+    }
   },
   {
     "id": 10077,

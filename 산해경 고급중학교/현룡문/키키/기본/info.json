@@ -1,0 +1,44 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "키키",
+      "en": "Kiki",
+      "ja": "キキ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현룡문",
+      "en": "Genryumon",
+      "ja": "玄竜門"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "류게 키사키를 보좌하는 현룡문의 시종. 키사키의 곁을 따르는 소녀.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/현룡문/키키/기본/공식/official_kiki_portrait.png",
+      "source": "fandom Kiki_Portrait"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

@@ -1,0 +1,36 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "키키",
+      "en": "Kiki",
+      "ja": "キキ"
+    },
+    "school": {
+      "kr": "산해경 고급중학교",
+      "en": "Shanhaijing Senior Secondary School",
+      "ja": "山海経高級中学校"
+    },
+    "club": {
+      "kr": "현룡문",
+      "en": "Genryumon",
+      "ja": "玄竜門"
+    },
+    "seasonal": "체육복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "키보토스 황륜대제(체육대회)에 등장하는 키키의 체육복 차림. 공식 단독 일러스트 미확보(fandom/schaledb 에셋 부재, 나무위키 이미지 서버 차단) — 아트 소스 확보 시 추가 예정.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {},
+  "images": [],
+  "image_count": 0,
+  "updated": "2026-08-27"
+}

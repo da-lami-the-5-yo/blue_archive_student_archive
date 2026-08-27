@@ -30,14 +30,9 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 2
   },
   "images": [
-    {
-      "category": "공식",
-      "filename": "official_wiki_portrait.png",
-      "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_wiki_portrait.png"
-    },
     {
       "category": "공식",
       "filename": "official_satsuki_swimsuit_portrait.png",
@@ -55,6 +50,6 @@
       "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 2,
   "updated": "2026-08-27"
 }

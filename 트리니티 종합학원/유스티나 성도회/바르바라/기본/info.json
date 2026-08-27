@@ -1,0 +1,49 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "바르바라",
+      "en": "Barbara",
+      "ja": "バルバラ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "유스티나 성도회",
+      "en": "Justina Council of Saints",
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "트리니티 유스티나 성도회 소속. fandom 위키 등재 미플레이어블 캐릭터.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_portrait.png",
+      "source": "fandom Barbara_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_icon.png",
+      "source": "fandom Barbara_Icon.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}
