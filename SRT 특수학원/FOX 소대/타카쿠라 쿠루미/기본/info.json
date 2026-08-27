@@ -30,33 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
+        "쿠루미",
+        "타카쿠라",
         "타카쿠라 쿠루미",
-        "쿠루미"
+        "타카쿠라쿠루미"
       ],
       "en": [
-        "takakura_kurumi",
-        "kurumi_(blue_archive)"
+        "takakura kurumi",
+        "takakura_takakura kurumi",
+        "쿠루미"
       ],
       "ja": [
         "高倉クルミ",
-        "クルミ(ブルーアーカイブ)"
+        "高倉高倉クルミ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_kurumi_portrait.png",
+      "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_kurumi_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_kurumi_icon.png",
+      "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_kurumi_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

@@ -30,30 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "미야우치 카나에"
+        "미야우치",
+        "미야우치 카나에",
+        "미야우치카나에",
+        "카나에"
       ],
       "en": [
-        "miyauchi_kanae_(blue_archive)"
+        "miyauchi kanae",
+        "miyauchi_miyauchi kanae",
+        "카나에"
       ],
       "ja": [
-        "宮内カナエ"
+        "宮内カナエ",
+        "宮内宮内カナエ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_kanae_portrait.png",
+      "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_kanae_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_kanae_icon.png",
+      "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_kanae_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

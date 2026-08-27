@@ -30,30 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "드레스 이부키"
+        "드레스",
+        "이부키",
+        "이부키(드레스)",
+        "탄가",
+        "탄가 이부키",
+        "탄가 이부키(드레스)",
+        "탄가이부키"
       ],
       "en": [
-        "tanga_ibuki_(dress)_(blue_archive)"
+        "tanga ibuki",
+        "tanga_tanga ibuki",
+        "이부키"
       ],
       "ja": [
-        "丹花イブキ(ドレス)"
+        "丹花イブキ",
+        "丹花丹花イブキ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_ibuki_dress_portrait.png",
+      "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_ibuki_dress_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_ibuki_dress_icon.png",
+      "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_ibuki_dress_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

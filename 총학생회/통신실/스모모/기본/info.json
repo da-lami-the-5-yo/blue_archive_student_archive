@@ -30,30 +30,48 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "총학생회 스모모"
+        "스모모"
       ],
       "en": [
-        "sumomo_(blue_archive)"
+        "sumomo",
+        "스모모"
       ],
       "ja": [
-        "スモモ(ブルーアーカイブ)"
+        "スモモ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "총학생회/통신실/스모모/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_sumomo_portrait.png",
+      "path": "총학생회/통신실/스모모/기본/공식/official_sumomo_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_sumomo_icon.png",
+      "path": "총학생회/통신실/스모모/기본/공식/official_sumomo_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

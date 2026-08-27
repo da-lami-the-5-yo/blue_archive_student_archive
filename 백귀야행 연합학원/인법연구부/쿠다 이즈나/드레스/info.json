@@ -30,31 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "드레스 이즈나",
-        "드즈나"
+        "드레스",
+        "이즈나",
+        "이즈나(드레스)",
+        "쿠다",
+        "쿠다 이즈나",
+        "쿠다 이즈나(드레스)",
+        "쿠다이즈나"
       ],
       "en": [
-        "kuda_izuna_(dress)_(blue_archive)"
+        "kuda izuna",
+        "kuda_kuda izuna",
+        "이즈나"
       ],
       "ja": [
-        "久田イズナ(ドレス)"
+        "久田イズナ",
+        "久田久田イズナ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_izuna_dress_portrait.png",
+      "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_izuna_dress_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_izuna_dress_icon.png",
+      "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_izuna_dress_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

@@ -30,12 +30,11 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "총학생회장",
-        "연방학생회장"
+        "총학생회장"
       ],
       "en": [
-        "general_student_council_president",
-        "president_(blue_archive)"
+        "general student council president",
+        "총학생회장"
       ],
       "ja": [
         "連邦生徒会長"
@@ -43,19 +42,36 @@
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "총학생회/회장/총학생회장/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_president_portrait.png",
+      "path": "총학생회/회장/총학생회장/기본/공식/official_president_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_president_icon.png",
+      "path": "총학생회/회장/총학생회장/기본/공식/official_president_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

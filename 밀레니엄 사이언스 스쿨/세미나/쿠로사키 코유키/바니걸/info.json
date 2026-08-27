@@ -30,32 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "바니걸 코유키",
-        "바유키"
+        "바니걸",
+        "코유키",
+        "코유키(바니걸)",
+        "쿠로사키",
+        "쿠로사키 코유키",
+        "쿠로사키 코유키(바니걸)",
+        "쿠로사키코유키"
       ],
       "en": [
-        "kurosaki_koyuki_(bunny_girl)_(blue_archive)",
-        "bunny_koyuki"
+        "kurosaki koyuki",
+        "kurosaki_kurosaki koyuki",
+        "코유키"
       ],
       "ja": [
-        "黒崎コユキ(バニーガール)"
+        "黒崎コユキ",
+        "黒崎黒崎コユキ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_koyuki_bunny_girl_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_koyuki_bunny_girl_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_koyuki_bunny_girl_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_koyuki_bunny_girl_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

@@ -30,31 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "수영복 루미",
-        "수루미"
+        "루미",
+        "루미(수영복)",
+        "수영복",
+        "아케시로",
+        "아케시로 루미",
+        "아케시로 루미(수영복)",
+        "아케시로루미"
       ],
       "en": [
-        "akeshiro_rumi_(swimsuit)_(blue_archive)"
+        "akeshiro rumi",
+        "akeshiro_akeshiro rumi",
+        "루미"
       ],
       "ja": [
-        "朱城ルミ(水着)"
+        "朱城ルミ",
+        "朱城朱城ルミ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_rumi_swimsuit_portrait.png",
+      "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_rumi_swimsuit_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_rumi_swimsuit_icon.png",
+      "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_rumi_swimsuit_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

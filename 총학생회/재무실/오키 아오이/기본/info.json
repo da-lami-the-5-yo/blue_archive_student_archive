@@ -30,32 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
+        "아오이",
+        "오키",
         "오키 아오이",
-        "아오이"
+        "오키아오이"
       ],
       "en": [
-        "oki_aoi",
-        "aoi_(blue_archive)"
+        "oki aoi",
+        "oki_oki aoi",
+        "아오이"
       ],
       "ja": [
+        "扇喜沖アオイ",
         "沖アオイ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "총학생회/재무실/오키 아오이/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aoi_portrait.png",
+      "path": "총학생회/재무실/오키 아오이/기본/공식/official_aoi_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aoi_icon.png",
+      "path": "총학생회/재무실/오키 아오이/기본/공식/official_aoi_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

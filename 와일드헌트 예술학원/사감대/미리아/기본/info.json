@@ -30,30 +30,48 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "와일드헌트 미리아"
+        "미리아"
       ],
       "en": [
-        "miria_(blue_archive)"
+        "miria",
+        "미리아"
       ],
       "ja": [
-        "ミリア(ブルーアーカイブ)"
+        "ミリア"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_miria_portrait.png",
+      "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_miria_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_miria_icon.png",
+      "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_miria_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

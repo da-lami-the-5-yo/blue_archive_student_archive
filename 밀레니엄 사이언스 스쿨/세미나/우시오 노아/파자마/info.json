@@ -16,7 +16,7 @@
       "ja": "セミナー"
     },
     "seasonal": "파자마",
-    "status": "미출시 시즈널",
+    "status": "출시",
     "combat_profile": {
       "role": "서포터",
       "position": "스페셜",
@@ -30,30 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "파자마 노아"
+        "노아",
+        "노아(파자마)",
+        "우시오",
+        "우시오 노아",
+        "우시오 노아(파자마)",
+        "우시오노아",
+        "파자마"
       ],
       "en": [
-        "ushio_noa_(pajamas)_(blue_archive)"
+        "ushio noa",
+        "ushio_ushio noa",
+        "노아"
       ],
       "ja": [
-        "生塩ノア(パジャマ)"
+        "生塩ノア",
+        "生塩生塩ノア"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_noa_pajamas_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_noa_pajamas_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_noa_pajamas_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_noa_pajamas_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

@@ -30,30 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "온천 메루"
+        "메루",
+        "메루(온천)",
+        "온천",
+        "히메키",
+        "히메키 메루",
+        "히메키 메루(온천)",
+        "히메키메루"
       ],
       "en": [
-        "himeki_meru_(onsen)_(blue_archive)"
+        "himeki meru",
+        "himeki_himeki meru",
+        "메루"
       ],
       "ja": [
-        "姫木メル(温泉)"
+        "姫木メル",
+        "姫木姫木メル"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_meru_hot_spring_portrait.png",
+      "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_meru_hot_spring_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_meru_hot_spring_icon.png",
+      "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_meru_hot_spring_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

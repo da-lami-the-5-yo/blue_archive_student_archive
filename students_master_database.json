@@ -1609,9 +1609,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_iroha_swimsuit_portrait.png",
+        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_iroha_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_iroha_swimsuit_icon.png",
+        "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_iroha_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "이로하",
     "family_name_kr": "나츠메",
     "canonical_name_kr": "나츠메 이로하"
@@ -1916,9 +1932,25 @@
         "category": "공식",
         "filename": "official_portrait.png",
         "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_chiaki_portrait.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_chiaki_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_chiaki_icon.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_chiaki_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1
+    "image_count": 3
   },
   {
     "id": null,
@@ -1968,9 +2000,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_chiaki_swimsuit_portrait.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_chiaki_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_chiaki_swimsuit_icon.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_chiaki_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "치아키",
     "family_name_kr": "모토미야",
     "canonical_name_kr": "모토미야 치아키"
@@ -2020,9 +2068,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/게헨나 재흥위원회/묘라쿠 카렌/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_karen_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/묘라쿠 카렌/기본/공식/official_karen_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_karen_icon.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/묘라쿠 카렌/기본/공식/official_karen_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "카렌",
     "family_name_kr": "묘라쿠",
     "canonical_name_kr": "묘라쿠 카렌"
@@ -2292,9 +2356,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hina_pajamas_portrait.png",
+        "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_hina_pajamas_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hina_pajamas_icon.png",
+        "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_hina_pajamas_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "히나",
     "family_name_kr": "소라사키",
     "canonical_name_kr": "소라사키 히나"
@@ -2536,9 +2616,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/온천개발부/시모쿠라 메구/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_megu_swimsuit_portrait.png",
+        "path": "게헨나 학원/온천개발부/시모쿠라 메구/수영복/공식/official_megu_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_megu_swimsuit_icon.png",
+        "path": "게헨나 학원/온천개발부/시모쿠라 메구/수영복/공식/official_megu_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "메구",
     "family_name_kr": "시모쿠라",
     "canonical_name_kr": "시모쿠라 메구"
@@ -3144,9 +3240,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_fuuka_casual_portrait.png",
+        "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_fuuka_casual_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_fuuka_casual_icon.png",
+        "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_fuuka_casual_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "후우카",
     "family_name_kr": "아이키요",
     "canonical_name_kr": "아이키요 후우카"
@@ -4187,9 +4299,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_satsuki_swimsuit_portrait.png",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_satsuki_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_satsuki_swimsuit_icon.png",
+        "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_satsuki_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "사츠키",
     "family_name_kr": "쿄고쿠",
     "canonical_name_kr": "쿄고쿠 사츠키"
@@ -4496,9 +4624,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/온천개발부/키누가와 카스미/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kasumi_swimsuit_portrait.png",
+        "path": "게헨나 학원/온천개발부/키누가와 카스미/수영복/공식/official_kasumi_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kasumi_swimsuit_icon.png",
+        "path": "게헨나 학원/온천개발부/키누가와 카스미/수영복/공식/official_kasumi_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "카스미",
     "family_name_kr": "키누가와",
     "canonical_name_kr": "키누가와 카스미"
@@ -4613,9 +4757,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ibuki_dress_portrait.png",
+        "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_ibuki_dress_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ibuki_dress_icon.png",
+        "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_ibuki_dress_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "이부키",
     "family_name_kr": "탄가",
     "canonical_name_kr": "탄가 이부키"
@@ -4668,9 +4828,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ibuki_swimsuit_portrait.png",
+        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_ibuki_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ibuki_swimsuit_icon.png",
+        "path": "게헨나 학원/만마전/탄가 이부키/수영복/공식/official_ibuki_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "이부키",
     "family_name_kr": "탄가",
     "canonical_name_kr": "탄가 이부키"
@@ -4785,9 +4961,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/하누마 마코토/드레스/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_makoto_dress_portrait.png",
+        "path": "게헨나 학원/만마전/하누마 마코토/드레스/공식/official_makoto_dress_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_makoto_dress_icon.png",
+        "path": "게헨나 학원/만마전/하누마 마코토/드레스/공식/official_makoto_dress_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "마코토",
     "family_name_kr": "하누마",
     "canonical_name_kr": "하누마 마코토"
@@ -4840,9 +5032,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_makoto_swimsuit_portrait.png",
+        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_makoto_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_makoto_swimsuit_icon.png",
+        "path": "게헨나 학원/만마전/하누마 마코토/수영복/공식/official_makoto_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "마코토",
     "family_name_kr": "하누마",
     "canonical_name_kr": "하누마 마코토"
@@ -4956,9 +5164,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/게헨나 재흥위원회/후리하타 마유미/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mayumi_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/후리하타 마유미/기본/공식/official_mayumi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mayumi_icon.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/후리하타 마유미/기본/공식/official_mayumi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "마유미",
     "family_name_kr": "후리하타",
     "canonical_name_kr": "후리하타 마유미"
@@ -5324,9 +5548,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/트레이닝부/노마사 레이/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rei_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/노마사 레이/기본/공식/official_rei_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rei_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/트레이닝부/노마사 레이/기본/공식/official_rei_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "레이",
     "family_name_kr": "노마사",
     "canonical_name_kr": "노마사 레이"
@@ -5760,9 +6000,17 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 모모이/무장/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_momoi_armed_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 모모이/무장/공식/official_momoi_armed_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "모모이",
     "family_name_kr": "사이바",
     "canonical_name_kr": "사이바 모모이"
@@ -5997,9 +6245,17 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 미도리/무장/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_midori_armed_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/사이바 미도리/무장/공식/official_midori_armed_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "미도리",
     "family_name_kr": "사이바",
     "canonical_name_kr": "사이바 미도리"
@@ -6460,9 +6716,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mirai_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_mirai_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mirai_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_mirai_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "미라이",
     "family_name_kr": "아즈마",
     "canonical_name_kr": "아즈마 미라이"
@@ -7039,9 +7311,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_noa_pajamas_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_noa_pajamas_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_noa_pajamas_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/우시오 노아/파자마/공식/official_noa_pajamas_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "노아",
     "family_name_kr": "우시오",
     "canonical_name_kr": "우시오 노아"
@@ -7949,9 +8237,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_koyuki_bunny_girl_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_koyuki_bunny_girl_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_koyuki_bunny_girl_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/쿠로사키 코유키/바니걸/공식/official_koyuki_bunny_girl_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "코유키",
     "family_name_kr": "쿠로사키",
     "canonical_name_kr": "쿠로사키 코유키"
@@ -8614,9 +8918,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "밀레니엄 사이언스 스쿨/유사과학부/하네모토 츠바사/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_tsubasa_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/유사과학부/하네모토 츠바사/기본/공식/official_tsubasa_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_tsubasa_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/유사과학부/하네모토 츠바사/기본/공식/official_tsubasa_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "츠바사",
     "family_name_kr": "하네모토",
     "canonical_name_kr": "하네모토 츠바사"
@@ -9343,9 +9663,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "트리니티 종합학원/구호기사단/스미 세리나/간호복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_serina_nurse_portrait.png",
+        "path": "트리니티 종합학원/구호기사단/스미 세리나/간호복/공식/official_serina_nurse_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_serina_nurse_icon.png",
+        "path": "트리니티 종합학원/구호기사단/스미 세리나/간호복/공식/official_serina_nurse_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "세리나",
     "family_name_kr": "스미",
     "canonical_name_kr": "스미 세리나"
@@ -10832,9 +11168,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "트리니티 종합학원/티파티/유리조노 세이아/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_seia_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/수영복/공식/official_seia_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_seia_swimsuit_icon.png",
+        "path": "트리니티 종합학원/티파티/유리조노 세이아/수영복/공식/official_seia_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "세이아",
     "family_name_kr": "유리조노",
     "canonical_name_kr": "유리조노 세이아"
@@ -11532,9 +11884,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "트리니티 종합학원/헬멧단/코마카제 라브/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rabu_portrait.png",
+        "path": "트리니티 종합학원/헬멧단/코마카제 라브/기본/공식/official_rabu_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rabu_icon.png",
+        "path": "트리니티 종합학원/헬멧단/코마카제 라브/기본/공식/official_rabu_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "라브",
     "family_name_kr": "코마카제",
     "canonical_name_kr": "코마카제 라브"
@@ -12447,9 +12815,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ayame_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/기본/공식/official_ayame_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ayame_icon.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/기본/공식/official_ayame_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아야메",
     "family_name_kr": "나나카도",
     "canonical_name_kr": "나나카도 아야메"
@@ -12683,9 +13067,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_arata_portrait.png",
+        "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_arata_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_arata_icon.png",
+        "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_arata_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아라타",
     "family_name_kr": "",
     "canonical_name_kr": "아라타"
@@ -12799,9 +13199,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/인력거부/아사쿠사 나츠키/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_natsuki_portrait.png",
+        "path": "백귀야행 연합학원/인력거부/아사쿠사 나츠키/기본/공식/official_natsuki_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_natsuki_icon.png",
+        "path": "백귀야행 연합학원/인력거부/아사쿠사 나츠키/기본/공식/official_natsuki_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "나츠키",
     "family_name_kr": "아사쿠사",
     "canonical_name_kr": "아사쿠사 나츠키"
@@ -12913,9 +13329,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shuro_portrait.png",
+        "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_shuro_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shuro_icon.png",
+        "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_shuro_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "슈로",
     "family_name_kr": "야부키",
     "canonical_name_kr": "야부키 슈로"
@@ -13455,9 +13887,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/화조풍월부/코쿠리코/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kokuriko_portrait.png",
+        "path": "백귀야행 연합학원/화조풍월부/코쿠리코/기본/공식/official_kokuriko_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kokuriko_icon.png",
+        "path": "백귀야행 연합학원/화조풍월부/코쿠리코/기본/공식/official_kokuriko_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "코쿠리코",
     "family_name_kr": "카데노코지",
     "canonical_name_kr": "카데노코지 코쿠리코"
@@ -14008,9 +14456,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_izuna_dress_portrait.png",
+        "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_izuna_dress_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_izuna_dress_icon.png",
+        "path": "백귀야행 연합학원/인법연구부/쿠다 이즈나/드레스/공식/official_izuna_dress_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "이즈나",
     "family_name_kr": "쿠다",
     "canonical_name_kr": "쿠다 이즈나"
@@ -14321,9 +14785,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "백귀야행 연합학원/화조풍월부/하부 아자미/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_azami_portrait.png",
+        "path": "백귀야행 연합학원/화조풍월부/하부 아자미/기본/공식/official_azami_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_azami_icon.png",
+        "path": "백귀야행 연합학원/화조풍월부/하부 아자미/기본/공식/official_azami_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아자미",
     "family_name_kr": "하부",
     "canonical_name_kr": "하부 아자미"
@@ -14648,9 +15128,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kanae_portrait.png",
+        "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_kanae_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kanae_icon.png",
+        "path": "산해경 고급중학교/현룡문/미야우치 카나에/기본/공식/official_kanae_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "카나에",
     "family_name_kr": "미야우치",
     "canonical_name_kr": "미야우치 카나에"
@@ -14892,9 +15388,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/매화원/스노하라 코코나/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kokona_swimsuit_portrait.png",
+        "path": "산해경 고급중학교/매화원/스노하라 코코나/수영복/공식/official_kokona_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kokona_swimsuit_icon.png",
+        "path": "산해경 고급중학교/매화원/스노하라 코코나/수영복/공식/official_kokona_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "코코나",
     "family_name_kr": "스노하라",
     "canonical_name_kr": "스노하라 코코나"
@@ -15009,9 +15521,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rumi_swimsuit_portrait.png",
+        "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_rumi_swimsuit_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rumi_swimsuit_icon.png",
+        "path": "산해경 고급중학교/현무상회/아케시로 루미/수영복/공식/official_rumi_swimsuit_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "루미",
     "family_name_kr": "아케시로",
     "canonical_name_kr": "아케시로 루미"
@@ -15249,9 +15777,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/경극부/우루시바라 카구야/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kaguya_portrait.png",
+        "path": "산해경 고급중학교/경극부/우루시바라 카구야/기본/공식/official_kaguya_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kaguya_icon.png",
+        "path": "산해경 고급중학교/경극부/우루시바라 카구야/기본/공식/official_kaguya_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "카구야",
     "family_name_kr": "우루시바라",
     "canonical_name_kr": "우루시바라 카구야"
@@ -15353,9 +15897,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/아기새반/이오자쿠 나고미/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_nagomi_portrait.png",
+        "path": "산해경 고급중학교/아기새반/이오자쿠 나고미/기본/공식/official_nagomi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_nagomi_icon.png",
+        "path": "산해경 고급중학교/아기새반/이오자쿠 나고미/기본/공식/official_nagomi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "나고미",
     "family_name_kr": "이오자쿠",
     "canonical_name_kr": "이오자쿠 나고미"
@@ -15574,9 +16134,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "산해경 고급중학교/아기새반/타카노스 스이코/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_suiko_portrait.png",
+        "path": "산해경 고급중학교/아기새반/타카노스 스이코/기본/공식/official_suiko_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_suiko_icon.png",
+        "path": "산해경 고급중학교/아기새반/타카노스 스이코/기본/공식/official_suiko_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "스이코",
     "family_name_kr": "타카노스",
     "canonical_name_kr": "타카노스 스이코"
@@ -15923,9 +16499,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_takane_portrait.png",
+        "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_takane_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_takane_icon.png",
+        "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_takane_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "타카네",
     "family_name_kr": "미요시",
     "canonical_name_kr": "미요시 타카네"
@@ -16037,9 +16629,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "붉은겨울 연방학원/출판부/아라마키 야쿠모/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_yakumo_portrait.png",
+        "path": "붉은겨울 연방학원/출판부/아라마키 야쿠모/기본/공식/official_yakumo_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_yakumo_icon.png",
+        "path": "붉은겨울 연방학원/출판부/아라마키 야쿠모/기본/공식/official_yakumo_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "야쿠모",
     "family_name_kr": "아라마키",
     "canonical_name_kr": "아라마키 야쿠모"
@@ -16467,9 +17075,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_meru_hot_spring_portrait.png",
+        "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_meru_hot_spring_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_meru_hot_spring_icon.png",
+        "path": "붉은겨울 연방학원/지식해방전선/히메키 메루/온천/공식/official_meru_hot_spring_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "메루",
     "family_name_kr": "히메키",
     "canonical_name_kr": "히메키 메루"
@@ -16891,9 +17515,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "발키리 경찰학교/공안국/시마 코노카/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_konoka_portrait.png",
+        "path": "발키리 경찰학교/공안국/시마 코노카/기본/공식/official_konoka_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_konoka_icon.png",
+        "path": "발키리 경찰학교/공안국/시마 코노카/기본/공식/official_konoka_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "코노카",
     "family_name_kr": "시마",
     "canonical_name_kr": "시마 코노카"
@@ -17070,9 +17710,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_misuzu_portrait.png",
+        "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_misuzu_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_misuzu_icon.png",
+        "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_misuzu_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "미스즈",
     "family_name_kr": "칸바라",
     "canonical_name_kr": "칸바라 미스즈"
@@ -17326,9 +17982,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "SRT 특수학원/FOX 소대/요시노 니코/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_niko_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/요시노 니코/기본/공식/official_niko_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_niko_icon.png",
+        "path": "SRT 특수학원/FOX 소대/요시노 니코/기본/공식/official_niko_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "니코",
     "family_name_kr": "요시노",
     "canonical_name_kr": "요시노 니코"
@@ -17759,9 +18431,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kurumi_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_kurumi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kurumi_icon.png",
+        "path": "SRT 특수학원/FOX 소대/타카쿠라 쿠루미/기본/공식/official_kurumi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "쿠루미",
     "family_name_kr": "타카쿠라",
     "canonical_name_kr": "타카쿠라 쿠루미"
@@ -17811,9 +18499,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "SRT 특수학원/FOX 소대/텐진야마 오토기/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_otogi_portrait.png",
+        "path": "SRT 특수학원/FOX 소대/텐진야마 오토기/기본/공식/official_otogi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_otogi_icon.png",
+        "path": "SRT 특수학원/FOX 소대/텐진야마 오토기/기본/공식/official_otogi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "오토기",
     "family_name_kr": "텐진야마",
     "canonical_name_kr": "텐진야마 오토기"
@@ -18344,9 +19048,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "아리우스 분교/니코메디아 트룹/카케하시 스바루/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_subaru_portrait.png",
+        "path": "아리우스 분교/니코메디아 트룹/카케하시 스바루/기본/공식/official_subaru_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_subaru_icon.png",
+        "path": "아리우스 분교/니코메디아 트룹/카케하시 스바루/기본/공식/official_subaru_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "스바루",
     "family_name_kr": "카케하시",
     "canonical_name_kr": "카케하시 스바루"
@@ -18396,9 +19116,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "아리우스 분교/니코메디아 트룹/타치기 마이아/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_maia_portrait.png",
+        "path": "아리우스 분교/니코메디아 트룹/타치기 마이아/기본/공식/official_maia_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_maia_icon.png",
+        "path": "아리우스 분교/니코메디아 트룹/타치기 마이아/기본/공식/official_maia_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "마이아",
     "family_name_kr": "타치기",
     "canonical_name_kr": "타치기 마이아"
@@ -18707,9 +19443,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_aoba_portrait.png",
+        "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_aoba_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_aoba_icon.png",
+        "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_aoba_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아오바",
     "family_name_kr": "우츠미",
     "canonical_name_kr": "우츠미 아오바"
@@ -18882,9 +19634,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_miria_portrait.png",
+        "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_miria_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_miria_icon.png",
+        "path": "와일드헌트 예술학원/사감대/미리아/기본/공식/official_miria_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "미리아",
     "family_name_kr": "",
     "canonical_name_kr": "미리아"
@@ -19062,9 +19830,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "와일드헌트 예술학원/오컬트 연구회/시이나 츠무기/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_tsumugi_portrait.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시이나 츠무기/기본/공식/official_tsumugi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_tsumugi_icon.png",
+        "path": "와일드헌트 예술학원/오컬트 연구회/시이나 츠무기/기본/공식/official_tsumugi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "츠무기",
     "family_name_kr": "시이나",
     "canonical_name_kr": "시이나 츠무기"
@@ -19173,14 +19957,8 @@
         "麗麗マナミ"
       ]
     },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "와일드헌트 예술학원/예술 평의회/우루와시 마나미/기본/공식/official_portrait.png"
-      }
-    ],
-    "image_count": 1,
+    "images": [],
+    "image_count": 0,
     "personal_name_kr": "마나미",
     "family_name_kr": "우루와시",
     "canonical_name_kr": "우루와시 마나미"
@@ -19417,9 +20195,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "와일드헌트 예술학원/사감대/히로미/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hiromi_portrait.png",
+        "path": "와일드헌트 예술학원/사감대/히로미/기본/공식/official_hiromi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hiromi_icon.png",
+        "path": "와일드헌트 예술학원/사감대/히로미/기본/공식/official_hiromi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "히로미",
     "family_name_kr": "",
     "canonical_name_kr": "히로미"
@@ -19549,14 +20343,8 @@
         "竜角生徒"
       ]
     },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "오디세이아 해양학교/학생회/오디세이아 선장 (용뿔 학생)/기본/공식/official_portrait.png"
-      }
-    ],
-    "image_count": 1
+    "images": [],
+    "image_count": 0
   },
   {
     "id": null,
@@ -19597,14 +20385,8 @@
         "オデッセイア幹部（メガネ短髪）"
       ]
     },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (안경 단발)/기본/공식/official_portrait.png"
-      }
-    ],
-    "image_count": 1,
+    "images": [],
+    "image_count": 0,
     "personal_name_kr": "오디세이아 학생회 간부 (안경 단발)",
     "family_name_kr": "",
     "canonical_name_kr": "오디세이아 학생회 간부 (안경 단발)"
@@ -19648,14 +20430,8 @@
         "オデッセイア幹部（ポニーテール）"
       ]
     },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "오디세이아 해양학교/학생회/오디세이아 학생회 간부 (제복 포니테일)/기본/공식/official_portrait.png"
-      }
-    ],
-    "image_count": 1,
+    "images": [],
+    "image_count": 0,
     "personal_name_kr": "오디세이아 학생회 간부 (제복 포니테일)",
     "family_name_kr": "",
     "canonical_name_kr": "오디세이아 학생회 간부 (제복 포니테일)"
@@ -19705,9 +20481,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "오디세이아 해양학교/트라이던트/코모리 스미카/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sumika_portrait.png",
+        "path": "오디세이아 해양학교/트라이던트/코모리 스미카/기본/공식/official_sumika_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sumika_icon.png",
+        "path": "오디세이아 해양학교/트라이던트/코모리 스미카/기본/공식/official_sumika_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "스미카",
     "family_name_kr": "코모리",
     "canonical_name_kr": "코모리 스미카"
@@ -19923,9 +20715,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "크로노스 스쿨/보도부/카와루 시논/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shinon_portrait.png",
+        "path": "크로노스 스쿨/보도부/카와루 시논/기본/공식/official_shinon_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shinon_icon.png",
+        "path": "크로노스 스쿨/보도부/카와루 시논/기본/공식/official_shinon_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "시논",
     "family_name_kr": "카와루",
     "canonical_name_kr": "카와루 시논"
@@ -19975,9 +20783,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "크로노스 스쿨/보도부/카자마키 마이/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mai_portrait.png",
+        "path": "크로노스 스쿨/보도부/카자마키 마이/기본/공식/official_mai_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mai_icon.png",
+        "path": "크로노스 스쿨/보도부/카자마키 마이/기본/공식/official_mai_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "마이",
     "family_name_kr": "카자마키",
     "canonical_name_kr": "카자마키 마이"
@@ -20027,9 +20851,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/통괄실/나나가미 린/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rin_portrait.png",
+        "path": "총학생회/통괄실/나나가미 린/기본/공식/official_rin_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rin_icon.png",
+        "path": "총학생회/통괄실/나나가미 린/기본/공식/official_rin_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "린",
     "family_name_kr": "나나가미",
     "canonical_name_kr": "나나가미 린"
@@ -20074,9 +20914,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "연방학생회/엔젤24/소라/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sora_portrait.png",
+        "path": "연방학생회/엔젤24/소라/기본/공식/official_sora_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sora_icon.png",
+        "path": "연방학생회/엔젤24/소라/기본/공식/official_sora_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "소라",
     "family_name_kr": "",
     "canonical_name_kr": "소라"
@@ -20121,9 +20977,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/통신실/스모모/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sumomo_portrait.png",
+        "path": "총학생회/통신실/스모모/기본/공식/official_sumomo_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sumomo_icon.png",
+        "path": "총학생회/통신실/스모모/기본/공식/official_sumomo_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "스모모",
     "family_name_kr": "",
     "canonical_name_kr": "스모모"
@@ -20173,9 +21045,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/방위실/시라누이 카야/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kaya_portrait.png",
+        "path": "총학생회/방위실/시라누이 카야/기본/공식/official_kaya_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kaya_icon.png",
+        "path": "총학생회/방위실/시라누이 카야/기본/공식/official_kaya_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "카야",
     "family_name_kr": "시라누이",
     "canonical_name_kr": "시라누이 카야"
@@ -20297,9 +21185,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/재무실/오키 아오이/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_aoi_portrait.png",
+        "path": "총학생회/재무실/오키 아오이/기본/공식/official_aoi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_aoi_icon.png",
+        "path": "총학생회/재무실/오키 아오이/기본/공식/official_aoi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아오이",
     "family_name_kr": "오키",
     "canonical_name_kr": "오키 아오이"
@@ -20349,9 +21253,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/교통실/유라키 모모카/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_momoka_portrait.png",
+        "path": "총학생회/교통실/유라키 모모카/기본/공식/official_momoka_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_momoka_icon.png",
+        "path": "총학생회/교통실/유라키 모모카/기본/공식/official_momoka_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "모모카",
     "family_name_kr": "유라키",
     "canonical_name_kr": "유라키 모모카"
@@ -20401,9 +21321,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/조정실/이와비츠 아유무/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ayumu_portrait.png",
+        "path": "총학생회/조정실/이와비츠 아유무/기본/공식/official_ayumu_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ayumu_icon.png",
+        "path": "총학생회/조정실/이와비츠 아유무/기본/공식/official_ayumu_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아유무",
     "family_name_kr": "이와비츠",
     "canonical_name_kr": "이와비츠 아유무"
@@ -20448,9 +21384,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/회장/총학생회장/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_president_portrait.png",
+        "path": "총학생회/회장/총학생회장/기본/공식/official_president_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_president_icon.png",
+        "path": "총학생회/회장/총학생회장/기본/공식/official_president_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "총학생회장",
     "family_name_kr": "",
     "canonical_name_kr": "총학생회장"
@@ -20567,9 +21519,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "총학생회/체육실/하이네/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_haine_portrait.png",
+        "path": "총학생회/체육실/하이네/기본/공식/official_haine_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_haine_icon.png",
+        "path": "총학생회/체육실/하이네/기본/공식/official_haine_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "하이네",
     "family_name_kr": "",
     "canonical_name_kr": "하이네"
@@ -20665,9 +21633,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "일곱 죄수/연단방/신타니 카이/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kai_portrait.png",
+        "path": "일곱 죄수/연단방/신타니 카이/기본/공식/official_kai_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kai_icon.png",
+        "path": "일곱 죄수/연단방/신타니 카이/기본/공식/official_kai_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "카이",
     "family_name_kr": "신타니",
     "canonical_name_kr": "신타니 카이"
@@ -20717,9 +21701,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "일곱 죄수/무소속/쿠리하마 아케미/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_akemi_portrait.png",
+        "path": "일곱 죄수/무소속/쿠리하마 아케미/기본/공식/official_akemi_portrait.png",
+        "note": "인게임 Portrait",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_akemi_icon.png",
+        "path": "일곱 죄수/무소속/쿠리하마 아케미/기본/공식/official_akemi_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "아케미",
     "family_name_kr": "쿠리하마",
     "canonical_name_kr": "쿠리하마 아케미"
@@ -20769,9 +21769,17 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "일곱 죄수/괴도 자애의 괴도/키요스미 아키라/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_akira_icon.png",
+        "path": "일곱 죄수/괴도 자애의 괴도/키요스미 아키라/기본/공식/official_akira_icon.png",
+        "note": "인게임 Icon",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 2,
     "personal_name_kr": "아키라",
     "family_name_kr": "키요스미",
     "canonical_name_kr": "키요스미 아키라"

@@ -1,0 +1,81 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "모토미야 치아키",
+      "en": "Motomiya Chiaki",
+      "ja": "元宮チアキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna",
+      "ja": "ゲヘナ"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "중장갑"
+    },
+    "description": {
+      "kr": "게헨나 학원 학생회 만마전(판데모니움 소사이어티) 소속의 의원이자 언론/홍보 담당.",
+      "en": "A council member and PR/press officer of the Pandemonium Society at Gehenna Academy.",
+      "ja": "ゲヘナ学園生徒会「万魔殿」所属の議員兼広報担当。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "모토미야 치아키",
+        "모토미야치아키",
+        "치아키",
+        "만마전"
+      ],
+      "en": [
+        "chiaki",
+        "motomiya_chiaki"
+      ],
+      "ja": [
+        "チアキ",
+        "元宮チアキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_chiaki_portrait.png",
+      "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_chiaki_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_chiaki_icon.png",
+      "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/official_chiaki_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

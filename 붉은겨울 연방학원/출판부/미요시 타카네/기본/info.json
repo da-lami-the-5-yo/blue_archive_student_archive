@@ -30,30 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "미요시 타카네"
+        "미요시",
+        "미요시 타카네",
+        "미요시타카네",
+        "타카네"
       ],
       "en": [
-        "miyoshi_takane_(blue_archive)"
+        "miyoshi takane",
+        "miyoshi_miyoshi takane",
+        "타카네"
       ],
       "ja": [
-        "三好タカネ"
+        "三好タカネ",
+        "三好三好タカネ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_takane_portrait.png",
+      "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_takane_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_takane_icon.png",
+      "path": "붉은겨울 연방학원/출판부/미요시 타카네/기본/공식/official_takane_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

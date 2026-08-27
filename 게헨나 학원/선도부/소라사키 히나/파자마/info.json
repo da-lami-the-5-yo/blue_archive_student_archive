@@ -30,31 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "잠옷 히나",
-        "파자마 히나"
+        "소라사키",
+        "소라사키 히나",
+        "소라사키 히나(파자마)",
+        "소라사키히나",
+        "파자마",
+        "히나",
+        "히나(파자마)"
       ],
       "en": [
-        "sorasaki_hina_(pajamas)_(blue_archive)"
+        "sorasaki hina",
+        "sorasaki_sorasaki hina",
+        "히나"
       ],
       "ja": [
-        "空崎ヒナ(パジャマ)"
+        "空崎ヒナ",
+        "空崎空崎ヒナ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_hina_pajamas_portrait.png",
+      "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_hina_pajamas_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_hina_pajamas_icon.png",
+      "path": "게헨나 학원/선도부/소라사키 히나/파자마/공식/official_hina_pajamas_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

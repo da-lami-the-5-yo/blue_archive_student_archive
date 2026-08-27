@@ -33,27 +33,45 @@
         "아라타"
       ],
       "en": [
-        "arata_(blue_archive)"
+        "arata",
+        "아라타"
       ],
       "ja": [
-        "アラタ(ブルーアーカイブ)"
+        "アラタ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_arata_portrait.png",
+      "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_arata_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_arata_icon.png",
+      "path": "백귀야행 연합학원/길거리 망량즈/아라타/기본/공식/official_arata_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

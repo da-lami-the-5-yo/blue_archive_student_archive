@@ -1,0 +1,85 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "나츠메 이로하",
+      "en": "Natsume Iroha",
+      "ja": "棗イロハ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "택티컬 서포트",
+      "position": "스페셜",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "만마선 이벤트에서 한숨을 쉬며 휴식을 취하는 이로하의 해적 수영복 스탠딩.",
+      "en": "Unreleased 해적수영복 variant for Natsume Iroha.",
+      "ja": "棗イロハの未実装해적수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "나츠메",
+        "나츠메 이로하",
+        "나츠메이로하",
+        "이로하",
+        "나츠메 이로하 (수영복)",
+        "이로하 수영복",
+        "수영복 이로하"
+      ],
+      "en": [
+        "natsume iroha",
+        "natsume_natsume iroha",
+        "이로하"
+      ],
+      "ja": [
+        "棗イロハ",
+        "棗棗イロハ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_iroha_swimsuit_portrait.png",
+      "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_iroha_swimsuit_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_iroha_swimsuit_icon.png",
+      "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/official_iroha_swimsuit_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

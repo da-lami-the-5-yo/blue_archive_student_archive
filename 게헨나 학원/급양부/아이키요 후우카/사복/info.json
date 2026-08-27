@@ -30,30 +30,56 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "사복 후우카"
+        "사복",
+        "아이키요",
+        "아이키요 후우카",
+        "아이키요 후우카(사복)",
+        "아이키요후우카",
+        "후우카",
+        "후우카(사복)"
       ],
       "en": [
-        "aikiyo_fuuka_(casual)_(blue_archive)"
+        "aikiyo fuuka",
+        "aikiyo_aikiyo fuuka",
+        "후우카"
       ],
       "ja": [
-        "愛清フウカ(私服)"
+        "愛清フウカ",
+        "愛清愛清フウカ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 0
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_fuuka_casual_portrait.png",
+      "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_fuuka_casual_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_fuuka_casual_icon.png",
+      "path": "게헨나 학원/급양부/아이키요 후우카/사복/공식/official_fuuka_casual_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

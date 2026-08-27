@@ -30,30 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "아즈마 미라이"
+        "미라이",
+        "아즈마",
+        "아즈마 미라이",
+        "아즈마미라이"
       ],
       "en": [
-        "azuma_mirai_(blue_archive)"
+        "azuma mirai",
+        "azuma_azuma mirai",
+        "미라이"
       ],
       "ja": [
-        "東ミライ"
+        "東ミライ",
+        "東東ミライ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mirai_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_mirai_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mirai_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/유사과학부/아즈마 미라이/기본/공식/official_mirai_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

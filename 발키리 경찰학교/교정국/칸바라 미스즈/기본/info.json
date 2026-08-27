@@ -30,30 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "칸바라 미스즈"
+        "미스즈",
+        "칸바라",
+        "칸바라 미스즈",
+        "칸바라미스즈"
       ],
       "en": [
-        "kanbara_misuzu_(blue_archive)"
+        "kanbara misuzu",
+        "kanbara_kanbara misuzu",
+        "미스즈"
       ],
       "ja": [
-        "神原ミスズ"
+        "神原ミスズ",
+        "神原神原ミスズ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_misuzu_portrait.png",
+      "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_misuzu_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_misuzu_icon.png",
+      "path": "발키리 경찰학교/교정국/칸바라 미스즈/기본/공식/official_misuzu_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

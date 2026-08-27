@@ -30,30 +30,53 @@
     },
     "multilingual_search_tags": {
       "kr": [
-        "우츠미 아오바"
+        "아오바",
+        "우츠미",
+        "우츠미 아오바",
+        "우츠미아오바"
       ],
       "en": [
-        "utsumi_aoba_(blue_archive)"
+        "utsumi aoba",
+        "utsumi_utsumi aoba",
+        "아오바"
       ],
       "ja": [
-        "宇津見アオバ"
+        "宇津見アオバ",
+        "宇津見宇津見アオバ"
       ]
     }
   },
   "collection_stats": {
-    "official_images": 1,
+    "official_images": 3,
     "semi_official_images": 0,
     "unofficial_rank00": 0,
     "unofficial_rank01": 0,
     "unofficial_rank02": 0,
-    "total_images": 1
+    "total_images": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aoba_portrait.png",
+      "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_aoba_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_aoba_icon.png",
+      "path": "하이랜더 철도학원/화물운송관리부/우츠미 아오바/기본/공식/official_aoba_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

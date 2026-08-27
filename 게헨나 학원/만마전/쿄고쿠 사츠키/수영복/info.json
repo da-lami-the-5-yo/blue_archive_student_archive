@@ -1,0 +1,85 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "쿄고쿠 사츠키",
+      "en": "Kyogoku Satsuki",
+      "ja": "京極サツキ"
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "만마전",
+      "en": "Pandemonium Society",
+      "ja": "万魔殿"
+    },
+    "seasonal": "수영복",
+    "status": "출시",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "폭발",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "만마선 이벤트에서 마코토를 보좌하는 사츠키의 최면술 해적 수영복.",
+      "en": "Unreleased 해적수영복 variant for Kyogoku Satsuki.",
+      "ja": "京極サツキの未実装해적수영복衣装。"
+    },
+    "multilingual_search_tags": {
+      "kr": [
+        "사츠키",
+        "쿄고쿠",
+        "쿄고쿠 사츠키",
+        "쿄고쿠사츠키",
+        "쿄고쿠 사츠키 (수영복)",
+        "사츠키 수영복",
+        "수영복 사츠키"
+      ],
+      "en": [
+        "kyogoku satsuki",
+        "kyogoku_kyogoku satsuki",
+        "사츠키"
+      ],
+      "ja": [
+        "京極サツキ",
+        "京極京極サツキ"
+      ]
+    }
+  },
+  "collection_stats": {
+    "official_images": 3,
+    "semi_official_images": 0,
+    "unofficial_rank00": 0,
+    "unofficial_rank01": 0,
+    "unofficial_rank02": 0,
+    "total_images": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_wiki_portrait.png",
+      "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_satsuki_swimsuit_portrait.png",
+      "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_satsuki_swimsuit_portrait.png",
+      "note": "인게임 Portrait",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_satsuki_swimsuit_icon.png",
+      "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/official_satsuki_swimsuit_icon.png",
+      "note": "인게임 Icon",
+      "source": "https://bluearchive.fandom.com",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}
