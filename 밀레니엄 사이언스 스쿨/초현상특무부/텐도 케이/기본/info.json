@@ -27,37 +27,31 @@
       "kr": "AL-1S(아리스)의 동형기이자 초현상특무부의 메이드 로봇.",
       "en": "Unreleased student from Millennium Science School Supernatural Phenomenon Task Force.",
       "ja": "ミレニアムサイエンススクール 特異現象特捜部所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "텐도 케이",
-        "케이"
-      ],
-      "en": [
-        "key_(blue_archive)",
-        "tendo_key"
-      ],
-      "ja": [
-        "天童ケイ",
-        "ケイ(ブルーアーカイブ)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_portrait.png",
+      "note": "출시판 케이 인게임 스탠딩",
+      "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_fragment_icon.png",
+      "source": "fandom Kei_Fragment (키링에서 재배정: 인간형 조각 아이콘)"
     }
   ],
-  "image_count": 1,
+  "image_count": 3,
   "updated": "2026-08-27"
 }

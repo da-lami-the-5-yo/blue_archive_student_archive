@@ -10894,9 +10894,14 @@
         "note": "출시판 케이 인게임 스탠딩",
         "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_fragment_icon.png",
+        "source": "fandom Kei_Fragment (키링에서 재배정: 인간형 조각 아이콘)"
       }
     ],
-    "image_count": 2,
+    "image_count": 3,
     "personal_name_kr": "케이",
     "family_name_kr": "텐도",
     "canonical_name_kr": "텐도 케이"
@@ -11114,7 +11119,7 @@
     "position": "스트라이커",
     "bullet_type": "신비",
     "armor_type": "특수장갑",
-    "description_kr": "로봇 모양 키홀더에 세이브 파일로 깃든 케이. 최종편 이후 아리스가 간직했으며, 파반느 편 2장 후편(2022.12.07)에서 첫 등장. Ex. 데카그라마톤 편 2장 '불타는 검'에서 이 키홀더 속 세이브 파일을 기점으로 자아가 부활한다.",
+    "description_kr": "케이의 키링(키홀더) 폼. 상자형 소형 로봇 몸체에 스크린 얼굴과 헤일로. 공식 단독 일러스트 미확보(fandom 에셋 부재)로 팬아트만 수록.",
     "description_en": "Kei existing as a save file inside a robot-shaped keyholder, kept by Alice after Vol.F. First appeared in Pavane Chapter 2 (2022.12.07).",
     "description_ja": "ロボット型キーホルダーのセーブファイルとして残ったケイ。パヴァーヌ編2章後編で初登場。",
     "search_tags": {
@@ -11122,13 +11127,15 @@
         "AL-1S",
         "Key",
         "케이",
-        "키",
-        "텐도",
-        "텐도 케이",
-        "텐도케이",
         "케이 키링",
         "케이 키홀더",
-        "케이의 조각"
+        "케이의 조각",
+        "키",
+        "키링 케이",
+        "키홀더",
+        "텐도",
+        "텐도 케이",
+        "텐도케이"
       ],
       "en": [
         "tendo key",
@@ -11142,12 +11149,9 @@
     },
     "images": [
       {
-        "category": "공식",
-        "filename": "official_fragment_icon.png",
-        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/키링/공식/official_fragment_icon.png",
-        "note": "케이의 조각(키홀더 세이브 파일) 인게임 아이콘",
-        "source": "https://bluearchive.fandom.com/wiki/Tendou_Kei/Gallery",
-        "collected": "2026-08-27"
+        "category": "비공식",
+        "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/키링/비공식/rank01/fanart_keyring_kei_01.png",
+        "source": "사용자 제공 팬아트 (키링 케이: 상자형 로봇+헤일로)"
       }
     ],
     "image_count": 1,
