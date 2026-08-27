@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "렌게",
+      "kr": "후와 렌게",
       "en": "Renge",
       "ja": "レンゲ"
     },
@@ -27,32 +27,10 @@
       "kr": "백귀야행 학원 백화요란 분쟁조정위원회의 돌격대장.\n\n정의감과 책임감이 강한 성격. 후배들을 아끼지만 그만큼 교육할 때는 절대 봐주는 것이 없는 백화요란의 귀신 교관이기도 하다. 백화요란 활동에 보람을 느끼고 있기에, 입부한 것에 후회는 없지만, 그 대신 청춘을 즐기지 못한 것에 아쉬움을 가지고 있으며, 그 반동으로 만화나 소설에 나올 법한 극적인 청춘을 바라고 있다. 오늘도 운명적인 청춘을 꿈꾸며 훈련에 매진하는 꿈 많은 소녀.",
       "en": "The Assault Squad Captain of Hyakkiyako Academy's Hyakkaryouran Resolution Council.\n\nRenge has a strong sense of justice and duty. She is often called Hyakkaryouran's Disciplinarian because of her strict teaching methods. She is soft-hearted and cares deeply for her underclassmen. She's always taken pride in her Hyakkaryouran responsibilities and has cherished every moment with the club. However, Renge sometimes regrets watching her youth pass her by while she was immersed in her duties. She's passionate about training and marksmanship, but is an idealist who dreams of a life like the ones she sees in mangas and movies.",
       "ja": "百鬼夜行連合学院所属、百花繚乱紛争調停委員会の切り込み隊長。\n\n正義感が強く情に厚い。後輩を大切にしている反面、百花繚乱としての指導は手を抜かないため鬼教官となることも。百花繚乱に入部したこと自体は後悔していないが、青春を謳歌できていないのではないかという不安を抱いている。その反動なのか、漫画や小説に出てくるような青春を追い求めている。今日も運命の出会いに胸を膨らませ、訓練に邁進する夢見がちな少女。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "렌게",
-        "렌게",
-        "렌게 블루아카이브"
-      ],
-      "en": [
-        "renge_(blue_archive)",
-        "renge",
-        "blue_archive_renge"
-      ],
-      "ja": [
-        "レンゲ",
-        "レンゲ(ブルーアーカイブ)",
-        "ブルーアーカイブ レンゲ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/렌게/기본/공식/official_zerochan_4616967.jpg",
+      "filename": "official_zerochan_4616967.jpg",
+      "source": "zerochan 4616967 (Official Art) | https://www.pixiv.net/en/artworks/137501973"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

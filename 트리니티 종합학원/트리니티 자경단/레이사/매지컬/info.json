@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 4
   },
   "images": [
     {
@@ -56,8 +56,14 @@
       "note": "schaledb icon (id 20051)",
       "source": "https://schaledb.com/images/student/icon/20051.webp",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/트리니티 자경단/레이사/매지컬/공식/official_zerochan_4665303.png",
+      "filename": "official_zerochan_4665303.png",
+      "source": "zerochan 4665303 (Official Art) | https://bluearchive.wiki/wiki/Reisa_%28Magical%29"
     }
   ],
-  "image_count": 3,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

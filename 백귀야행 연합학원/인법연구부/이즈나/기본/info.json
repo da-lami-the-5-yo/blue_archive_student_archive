@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "이즈나",
+      "kr": "쿠다 이즈나",
       "en": "Izuna",
       "ja": "イズナ"
     },
@@ -27,32 +27,10 @@
       "kr": "백귀야행 학원 인법연구부 소속의 소녀.\n\n밝고 활기찬 성격을 가진 소녀지만, 남들이 이해하지 못하는 소중한 꿈을 추구해온 결과, 이제까지 외톨이로 지내왔다. 그 꿈이란 바로 키보토스 최고의 닌자가 되는 것. 오늘도 어엿한 닌자가 되기 위해, 그리고 훌륭한 닌자가 되기 위해, 이즈나는 선생님을 '주군!' 이라고 부르며 갖은 활동에 매진하고 있다.",
       "en": "A member of the Hyakkiyako Academy's Ninjutsu Research Club.\n\nA bright and bubbly young girl, but her devotion to her strange dream has caused her to spend most of her life as a loner. She devotes herself to becoming the best ninja she can every day. That also includes following around and referring to Sensei as her lord among other things.",
       "ja": "百鬼夜行連合学院所属、忍術研究部の少女。\n\n明るくて活気溢れる性格の女の子だが、他の人にはあまり理解されない夢を追求してきた結果、これまでずっと独りぼっちで生きてきた。その夢とは「キヴォトス最高の忍者になる」こと。立派な忍者になるため、今日も先生を「主殿！」と呼びながら護衛（単に追いかけ回すとも言う）をし、様々な活動に明け暮れている。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "이즈나",
-        "이즈나",
-        "이즈나 블루아카이브"
-      ],
-      "en": [
-        "izuna_(blue_archive)",
-        "izuna",
-        "blue_archive_izuna"
-      ],
-      "ja": [
-        "イズナ",
-        "イズナ(ブルーアーカイブ)",
-        "ブルーアーカイブ イズナ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "백귀야행 연합학원/인법연구부/이즈나/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/인법연구부/이즈나/기본/공식/official_zerochan_4527054.jpg",
+      "filename": "official_zerochan_4527054.jpg",
+      "source": "zerochan 4527054 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

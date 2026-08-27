@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 2
+    "공식": 4
   },
   "images": [
     {
@@ -48,8 +48,20 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_zerochan_4527638.jpg",
+      "filename": "official_zerochan_4527638.jpg",
+      "source": "zerochan 4527638 (Official Art) | https://x.com/Blue_ArchiveJP/status/1749311025877553213"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/만마전/탄가 이부키/드레스/공식/official_zerochan_4527637.jpg",
+      "filename": "official_zerochan_4527637.jpg",
+      "source": "zerochan 4527637 (Official Art) | https://x.com/EN_BlueArchive/status/1813868815953854847"
     }
   ],
-  "image_count": 2,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

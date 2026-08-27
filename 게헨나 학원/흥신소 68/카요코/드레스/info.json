@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "카요코",
+      "kr": "오니카타 카요코",
       "en": "Kayoko",
       "ja": "カヨコ"
     },
@@ -27,32 +27,10 @@
       "kr": "오페라 하우스에 잠입한 흥신소 68의 과장.\n\n익숙하지 않은 복장이라고 말했지만, 어색함은 전혀 느껴지지 않는다. 본인은 주변의 시선과는 관계없이 해야 할 일을 차분하게 해 나간다.",
       "en": "オペラハウスに潜入した、ゲヘナ学園所属、便利屋68の課長。\n\n慣れない服装だとは言ったものの、そういった様子は全然感じられない。本人は周りの視線など気にせず、やるべき仕事を淡々とこなしていく。",
       "ja": "オペラハウスに潜入した、ゲヘナ学園所属、便利屋68の課長。\n\n慣れない服装だとは言ったものの、そういった様子は全然感じられない。本人は周りの視線など気にせず、やるべき仕事を淡々とこなしていく。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "카요코",
-        "카요코(드레스)",
-        "카요코 블루아카이브"
-      ],
-      "en": [
-        "kayoko_(blue_archive)",
-        "kayoko",
-        "blue_archive_kayoko"
-      ],
-      "ja": [
-        "カヨコ",
-        "カヨコ(ブルーアーカイブ)",
-        "ブルーアーカイブ カヨコ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "게헨나 학원/흥신소 68/카요코/드레스/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/흥신소 68/카요코/드레스/공식/official_zerochan_4653302.png",
+      "filename": "official_zerochan_4653302.png",
+      "source": "zerochan 4653302 (Official Art) | https://www.pixiv.net/en/artworks/140680594"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

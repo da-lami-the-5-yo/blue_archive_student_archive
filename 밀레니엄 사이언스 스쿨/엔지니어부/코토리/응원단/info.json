@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "코토리",
+      "kr": "토요미 코토리",
       "en": "Kotori",
       "ja": " コトリ"
     },
@@ -27,32 +27,10 @@
       "kr": "모두를 응원하기 위해 치어리더 복장으로 갈아입은 엔지니어부의 부원.\n\n힘차고 명랑한 목소리로 모두를 위해 응원하지만, 그러는 와중에도 설명과 해설을 잊지 않는다.",
       "en": "This member of the Engineering Department donned a cheerleading outfit to support her friends.\n\nHer cheers are loud, upbeat, and—most importantly—filled with technical explanations.",
       "ja": "大運動会でみんなを応援するべく、チア服に着替えたミレニアムサイエンススクール所属、エンジニア部の部員。\n\n元気良く明るい声で応援をする間も、いつもの説明や解説は欠かさない。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "코토리",
-        "코토리(응원단)",
-        "코토리 블루아카이브"
-      ],
-      "en": [
-        "kotori_(blue_archive)",
-        "kotori",
-        "blue_archive_kotori"
-      ],
-      "ja": [
-        " コトリ",
-        " コトリ(ブルーアーカイブ)",
-        "ブルーアーカイブ  コトリ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 5
   },
   "images": [
     {
@@ -69,7 +47,20 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/응원단/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/응원단/공식/official_zerochan_4527612.jpg",
+      "filename": "official_zerochan_4527612.jpg",
+      "source": "zerochan 4527612 (Official Art) | https://twitter.com/Blue_ArchiveJP/status/1698531591793090648"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/엔지니어부/코토리/응원단/공식/official_zerochan_4527611.jpg",
+      "filename": "official_zerochan_4527611.jpg",
+      "source": "zerochan 4527611 (Official Art) | https://twitter.com/EN_BlueArchive/status/1765663684402229626"
     }
   ],
-  "image_count": 3
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "준코",
+      "kr": "아카시 준코",
       "en": "Junko",
       "ja": "ジュンコ"
     },
@@ -27,32 +27,10 @@
       "kr": "새해를 맞아 기모노를 입은 준코.\n\n새 옷을 입고, 새해의 음식을 기대하고, 많은 꿈에 부풀어 있지만, 먹을 때에 방해가 들어오는 것만은 여전히 참기 힘든 듯하다.",
       "en": "Junko is wearing a kimono for the new year.\n\nShe went through the trouble of putting on a new outfit, and has been looking forward to New Year's food. Once she starts eating, she won't tolerate interruption.",
       "ja": "ゲヘナ学園所属、新年を迎え、着物に着替えた美食研究会の部員。\n\n新年の料理を楽しみに、装いを新たにしたジュンコ。食べる時に邪魔が入ってくる事には、未だ我慢できない様子。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "준코",
-        "준코(새해)",
-        "준코 블루아카이브"
-      ],
-      "en": [
-        "junko_(blue_archive)",
-        "junko",
-        "blue_archive_junko"
-      ],
-      "ja": [
-        "ジュンコ",
-        "ジュンコ(ブルーアーカイブ)",
-        "ブルーアーカイブ ジュンコ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "게헨나 학원/미식연구회/준코/새해/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/미식연구회/준코/새해/공식/official_zerochan_4527036.jpg",
+      "filename": "official_zerochan_4527036.jpg",
+      "source": "zerochan 4527036 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

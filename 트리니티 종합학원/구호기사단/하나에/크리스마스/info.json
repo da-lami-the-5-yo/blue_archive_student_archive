@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "하나에",
+      "kr": "아사가오 하나에",
       "en": "Hanae",
       "ja": "ハナエ"
     },
@@ -27,32 +27,10 @@
       "kr": "크리스마스를 맞아 산타 복장을 한 하나에.\n\n평소 활발한 하나에답게 산타 복장도 활동하기 편한 것으로 골랐다. 모든 것이 신나고 즐겁기만 한 하나에에게, 크리스마스는 그야말로 축제 그 자체다. 선물 꾸러미를 들고 종을 울리며, 모두에게 기쁜 소식을 전하러 자선 활동에 나선다.",
       "en": "A member of the Trinity Remedial Knights. She's wearing a Santa costume to celebrate Christmas.\n\nBecause she has a very active personality, Hanae needs a Santa costume that allows her freedom of movement. For a girl who finds everything exciting, Christmas is nothing less than a month-long festival. She carries bundles of presents everywhere she goes, and rings a bell to fill everyone with the spirit of the season.",
       "ja": "トリニティ総合学園所属、クリスマスを迎えてサンタ姿に着替えた救護騎士団の団員。\n\n普段活発なハナエらしく、サンタ服も動きやすいものを選んでいる。なんでも楽しめるハナエにとって、クリスマスはまさにお祭りそのものなのだとか。プレゼントの包みを持って鐘を鳴らし、みんなに幸せを伝えるべくボランティアに参加している。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "하나에",
-        "하나에(크리스마스)",
-        "하나에 블루아카이브"
-      ],
-      "en": [
-        "hanae_(blue_archive)",
-        "hanae",
-        "blue_archive_hanae"
-      ],
-      "ja": [
-        "ハナエ",
-        "ハナエ(ブルーアーカイブ)",
-        "ブルーアーカイブ ハナエ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 5
   },
   "images": [
     {
@@ -69,7 +47,20 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "트리니티 종합학원/구호기사단/하나에/크리스마스/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/구호기사단/하나에/크리스마스/공식/official_zerochan_4527075.jpg",
+      "filename": "official_zerochan_4527075.jpg",
+      "source": "zerochan 4527075 (Official Art)"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/구호기사단/하나에/크리스마스/공식/official_zerochan_4527073.jpg",
+      "filename": "official_zerochan_4527073.jpg",
+      "source": "zerochan 4527073 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

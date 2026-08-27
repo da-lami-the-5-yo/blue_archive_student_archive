@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "미치루",
+      "kr": "치도리 미치루",
       "en": "Michiru",
       "ja": "ミチル"
     },
@@ -27,32 +27,10 @@
       "kr": "백귀야행 학원 인법연구부의 부장 겸 동영상 채널 <소녀인법첩 미치룻치>의 운영자.\n\n어째서인지 늘 근거 없는 자신감에 차 있는 소녀. 닌자라면 장르를 불문하고 무척이나 좋아하는 닌자 오타쿠이기도 하며, 인법연구부를 만든 것도, 닌자 관련 동영상 채널을 운영하는 것도 전부 그 때문. 키보토스에 전례 없는 닌자 붐을 불러오고자, 오늘도 인법연구부 멤버들과 함께 좌충우돌 종횡무진으로 활약하고 있다.",
       "en": "The president of the Hyakkiyako Academy Ninjutsu Research Club and admin of the video channel Michiruchi, a Girl's Ninja Scroll.\n\nMichiru tends to operate from a place of complete, unfounded confidence. As a ninja otaku, she works tirelessly with the other members to make ninjas popular throughout Kivotos. Her dreams are to make the Ninjutsu Research Club officially recognized and to reach 100 subscribers on her video channel.",
       "ja": "百鬼夜行連合学院所属、基本的にいつも根拠のない自信に満ち溢れている忍術研究部の部長。\n\n映画もアニメもグッズも嗜む忍者オタクで、それが高じて「忍術研究部」を設立し、動画チャンネル「少女忍法帖ミチルっち」を立ち上げて動画投稿もするようになった。キヴォトス全域に忍者の良さを知ってもらうため、彼女は今日も忍術研究部の部員たちと共にあちこちを駆け回っている。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "미치루",
-        "미치루",
-        "미치루 블루아카이브"
-      ],
-      "en": [
-        "michiru_(blue_archive)",
-        "michiru",
-        "blue_archive_michiru"
-      ],
-      "ja": [
-        "ミチル",
-        "ミチル(ブルーアーカイブ)",
-        "ブルーアーカイブ ミチル"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "백귀야행 연합학원/인법연구부/미치루/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/인법연구부/미치루/기본/공식/official_zerochan_4527069.jpg",
+      "filename": "official_zerochan_4527069.jpg",
+      "source": "zerochan 4527069 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

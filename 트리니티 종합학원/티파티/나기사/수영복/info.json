@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 4
   },
   "images": [
     {
@@ -56,8 +56,14 @@
       "note": "schaledb icon (id 20048)",
       "source": "https://schaledb.com/images/student/icon/20048.webp",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/티파티/나기사/수영복/공식/official_zerochan_4556119.jpg",
+      "filename": "official_zerochan_4556119.jpg",
+      "source": "zerochan 4556119 (Official Art) | https://x.com/Blue_ArchiveJP/status/1949304208072872075"
     }
   ],
-  "image_count": 3,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

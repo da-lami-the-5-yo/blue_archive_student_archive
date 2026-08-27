@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 2
+    "공식": 3
   },
   "images": [
     {
@@ -48,8 +48,14 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "총학생회/재무실/오키 아오이/기본/공식/official_zerochan_4556486.jpg",
+      "filename": "official_zerochan_4556486.jpg",
+      "source": "zerochan 4556486 (Official Art) | https://x.com/Blue_ArchiveJP/status/1667381123532587011"
     }
   ],
-  "image_count": 2,
+  "image_count": 3,
   "updated": "2026-08-27"
 }

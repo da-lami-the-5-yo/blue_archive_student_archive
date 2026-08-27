@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 2
+    "공식": 3
   },
   "images": [
     {
@@ -48,8 +48,14 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/헬멧단/코마카제 라브/기본/공식/official_zerochan_4604826.jpg",
+      "filename": "official_zerochan_4604826.jpg",
+      "source": "zerochan 4604826 (Official Art) | https://x.com/Blue_ArchiveJP/status/1979774592421093583/photo/1"
     }
   ],
-  "image_count": 2,
+  "image_count": 3,
   "updated": "2026-08-27"
 }

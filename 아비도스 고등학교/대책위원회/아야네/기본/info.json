@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "아야네",
+      "kr": "오쿠소라 아야네",
       "en": "Ayane",
       "ja": "アヤネ"
     },
@@ -27,32 +27,10 @@
       "kr": "아비도스 대책위원회의 성실한 서기.\n\n원론과 규정을 중시하는 원칙주의자로 아비도스 고등학교의 부흥을 위해 성실하게 노력하고 있다.",
       "en": "The diligent secretary of the Abydos Foreclosure Task Force.\n\nA hard-working stickler for rules and regulations, she does her best to contribute to the revitalization of Abydos High School.",
       "ja": "アビドス高等学校所属、対策委員会の真面目な書記担当。\n\n原則と規則を重視するタイプの女の子。アビドス高等学校の復興のため、ひたむきに努力している。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "아야네",
-        "아야네",
-        "아야네 블루아카이브"
-      ],
-      "en": [
-        "ayane_(blue_archive)",
-        "ayane",
-        "blue_archive_ayane"
-      ],
-      "ja": [
-        "アヤネ",
-        "アヤネ(ブルーアーカイブ)",
-        "ブルーアーカイブ アヤネ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "아비도스 고등학교/대책위원회/아야네/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "아비도스 고등학교/대책위원회/아야네/기본/공식/official_zerochan_4693974.jpg",
+      "filename": "official_zerochan_4693974.jpg",
+      "source": "zerochan 4693974 (Official Art) | http://gallery.minitokyo.net/view/778637"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 2
+    "공식": 4
   },
   "images": [
     {
@@ -48,8 +48,20 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/기본/공식/official_zerochan_4527447.png",
+      "filename": "official_zerochan_4527447.png",
+      "source": "zerochan 4527447 (Official Art)"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/기본/공식/official_zerochan_4527446.png",
+      "filename": "official_zerochan_4527446.png",
+      "source": "zerochan 4527446 (Official Art)"
     }
   ],
-  "image_count": 2,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

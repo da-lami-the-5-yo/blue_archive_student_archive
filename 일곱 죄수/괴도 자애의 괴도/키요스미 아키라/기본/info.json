@@ -27,32 +27,10 @@
       "kr": "일곱 죄수 중 한 명인 '자애의 괴도'. 예술품을 훔치는 신출귀몰한 괴도.",
       "en": "Unreleased student from Seven Prisoners Phantom Thief of Benevolence.",
       "ja": "七人の囚人 慈愛の怪盗所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "아키라",
-        "키요스미",
-        "키요스미 아키라",
-        "키요스미아키라"
-      ],
-      "en": [
-        "kiyosumi akira",
-        "kiyosumi_kiyosumi akira",
-        "아키라"
-      ],
-      "ja": [
-        "清澄アキラ",
-        "清澄清澄アキラ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 2,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 2
+    "공식": 3
   },
   "images": [
     {
@@ -67,8 +45,14 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "일곱 죄수/괴도 자애의 괴도/키요스미 아키라/기본/공식/official_zerochan_4706060.png",
+      "filename": "official_zerochan_4706060.png",
+      "source": "zerochan 4706060 (Official Art) | self-datamined from game"
     }
   ],
-  "image_count": 2,
+  "image_count": 3,
   "updated": "2026-08-27"
 }

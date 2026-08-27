@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 4
   },
   "images": [
     {
@@ -47,8 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_zerochan_4527025.jpg",
+      "filename": "official_zerochan_4527025.jpg",
+      "source": "zerochan 4527025 (Official Art)"
     }
   ],
-  "image_count": 3,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

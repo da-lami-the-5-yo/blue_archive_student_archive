@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "미사키",
+      "kr": "이마시노 미사키",
       "en": "Misaki",
       "ja": "ミサキ"
     },
@@ -27,32 +27,10 @@
       "kr": "말수가 적고 무뚝뚝한 인상을 가진 아리우스 스쿼드의 일원.\n\n타인의 행동은 물론이고, 자신의 처우에도 별다른 관심이 없는 것처럼 무모한 행동을 할 때가 많다. 손목과 목을 언제나 두꺼운 붕대로 가리고 있다.",
       "en": "A member of the Arius Squad, she gives off a quiet, stand-offish impression.\n\nMisaki has no interest in others' opinions or how they treat her. She can be reckless to a fault, and her wrists and neck are always covered with thick bandages.",
       "ja": "アリウス分校所属、口数が少なく無愛想な印象を受けるアリウススクワッドの少女。\n\n他人にも自分自身にも興味が薄く、時折自暴自棄とも取れる行動を起こす。手首や首元には、何かを隠すように分厚い包帯が巻かれている。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "미사키",
-        "미사키",
-        "미사키 블루아카이브"
-      ],
-      "en": [
-        "misaki_(blue_archive)",
-        "misaki",
-        "blue_archive_misaki"
-      ],
-      "ja": [
-        "ミサキ",
-        "ミサキ(ブルーアーカイブ)",
-        "ブルーアーカイブ ミサキ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "아리우스 분교/아리우스 스쿼드/미사키/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "아리우스 분교/아리우스 스쿼드/미사키/기본/공식/official_zerochan_4527083.jpg",
+      "filename": "official_zerochan_4527083.jpg",
+      "source": "zerochan 4527083 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 2
+    "공식": 4
   },
   "images": [
     {
@@ -48,8 +48,20 @@
       "note": "인게임 Icon",
       "source": "https://bluearchive.fandom.com",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_zerochan_4527704.png",
+      "filename": "official_zerochan_4527704.png",
+      "source": "zerochan 4527704 (Official Art)"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/화조풍월부/야부키 슈로/기본/공식/official_zerochan_4527702.jpg",
+      "filename": "official_zerochan_4527702.jpg",
+      "source": "zerochan 4527702 (Official Art) | https://x.com/Blue_ArchiveJP/status/1731146353487851849"
     }
   ],
-  "image_count": 2,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

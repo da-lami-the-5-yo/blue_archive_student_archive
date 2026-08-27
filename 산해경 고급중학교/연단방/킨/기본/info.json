@@ -27,27 +27,19 @@
       "kr": "산해경 연단방 부원.",
       "en": "Unreleased student from Shanhaijing Senior Secondary School Endanbou.",
       "ja": "山海経高級中学校 煉丹術研究会所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "산해경 킨"
-      ],
-      "en": [
-        "kin_(blue_archive)"
-      ],
-      "ja": [
-        "キン(ブルーアーカイブ)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 1
   },
-  "images": [],
-  "image_count": 0
+  "images": [
+    {
+      "category": "공식",
+      "path": "산해경 고급중학교/연단방/킨/기본/공식/official_zerochan_4527717.png",
+      "filename": "official_zerochan_4527717.png",
+      "source": "zerochan 4527717 (Official Art)"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
 }

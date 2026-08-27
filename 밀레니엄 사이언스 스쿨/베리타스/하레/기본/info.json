@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "하레",
+      "kr": "오마가리 하레",
       "en": "Hare",
       "ja": "ハレ"
     },
@@ -27,32 +27,10 @@
       "kr": "밀레니엄 학원의 해커 집단, 베리타스의 엔지니어.\n\n머리 좋은 사람이 많기로 유명한 밀레니엄 학원에서도 손꼽히는 천재로 밀레니엄의 최첨단 기기들은 대부분 그녀의 손에서 개발되었다. 하지만 이런 성과에도 불구하고 잘난척하거나 으스대지 않고 다른 학생들의 말에 귀를 기울여주는 상냥한 소녀다.",
       "en": "An engineer of Veritas, the hacker group of Millennium Science School.\n\nAn unprecedented genius even amongst the brilliant minds at Millennium. Most of the school's cutting-edge technology was developed by her. Even with all these achievements, she remains humble, friendly, and considerate towards her peers.",
       "ja": "ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」のエンジニア。\n\n頭の良い人が多いことで有名なミレニアムにおいても頭一つ抜けている屈指の天才少女。ミレニアムで生み出される最先端の機器のほとんどは、彼女の手によって開発されている。しかしその実力や成果にも関わらず、自慢したり威張ったりすることなく、他の生徒たちとも交流し、良く話しを聞いてくれる優しい女の子である。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "하레",
-        "하레",
-        "하레 블루아카이브"
-      ],
-      "en": [
-        "hare_(blue_archive)",
-        "hare",
-        "blue_archive_hare"
-      ],
-      "ja": [
-        "ハレ",
-        "ハレ(ブルーアーカイブ)",
-        "ブルーアーカイブ ハレ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "밀레니엄 사이언스 스쿨/베리타스/하레/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/하레/기본/공식/official_zerochan_4527048.jpg",
+      "filename": "official_zerochan_4527048.jpg",
+      "source": "zerochan 4527048 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

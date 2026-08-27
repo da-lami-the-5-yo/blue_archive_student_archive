@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "치세",
+      "kr": "와라쿠 치세",
       "en": "Chise",
       "ja": "チセ"
     },
@@ -27,32 +27,10 @@
       "kr": "백귀야행 학원 음양부에 소속된 전파계 소녀.\n\n하이쿠와 같은 전통문화를 무척이나 좋아하여 음양부에 입부하였다. 외모와 분위기에서 풍기는 특유의 신비로운 느낌 덕분에 백귀야행의 학생들로부터 선망의 대상으로 여겨지고 있지만, 본인은 그런 사실을 거의 인지하지 못하고 있다.",
       "en": "A spacey girl who is a member of the Hyakkiyako Academy's Yin-Yang Club.\n\nExtremely fond of traditional activities such as writing haiku, which led her to join the Yin-Yang Club. Her exotic looks and presence have made her the envy of her peers at Hyakkiyako, but she seems completely oblivious to that fact.",
       "ja": "百鬼夜行連合学院所属、陰陽部の天然な電波系少女。\n\n俳句のような伝統文化が好きで、陰陽部に入部した。その外見や仕草から滲み出る神秘的な雰囲気を纏っており、そのせいで百鬼夜行の生徒たちから羨望の的になっているが、本人はそのことをほとんど自覚していない。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "치세",
-        "치세",
-        "치세 블루아카이브"
-      ],
-      "en": [
-        "chise_(blue_archive)",
-        "chise",
-        "blue_archive_chise"
-      ],
-      "ja": [
-        "チセ",
-        "チセ(ブルーアーカイブ)",
-        "ブルーアーカイブ チセ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 5
   },
   "images": [
     {
@@ -69,7 +47,20 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "백귀야행 연합학원/음양부/치세/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/음양부/치세/기본/공식/official_zerochan_4527615.jpg",
+      "filename": "official_zerochan_4527615.jpg",
+      "source": "zerochan 4527615 (Official Art) | https://x.com/Blue_ArchiveJP/status/1354987639980445704"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/음양부/치세/기본/공식/official_zerochan_4527614.jpg",
+      "filename": "official_zerochan_4527614.jpg",
+      "source": "zerochan 4527614 (Official Art) | https://x.com/EN_BlueArchive/status/1451458301741334528"
     }
   ],
-  "image_count": 3
+  "image_count": 5,
+  "updated": "2026-08-27"
 }

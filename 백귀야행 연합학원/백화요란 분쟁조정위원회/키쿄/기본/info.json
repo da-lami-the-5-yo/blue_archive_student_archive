@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "키쿄",
+      "kr": "키류 키쿄",
       "en": "Kikyou",
       "ja": "キキョウ"
     },
@@ -27,32 +27,10 @@
       "kr": "백귀야행 학원 백화요란 분쟁조정위원회의 작전참모.\n\n상식과 논리, 이성을 중시하는 소녀. 백화요란을 아끼고 있기에 이를 위협하는 이가 있다면 주저 없이 적의를 보이기도 한다. 즉 적과 아군 구분이 명확한 타입. 작전참모로서 승리를 중요시하지만, 그보다 더 중요하게 여기는 것이 아군의 안전으로. 냉혹하면서 상냥한 것이 바로 키쿄라는 소녀이다.",
       "en": "Operations Officer of Hyakkiyako Academy's Hyakkaryouran Resolution Council.\n\nKikyou values logic and reason above all else. This combined with her deep loyalty to the Hyakkaryouran can make her a terrifying foe to face. She may be the mastermind behind all Hyakkaryouran strategy and operations, but she would never sacrifice an ally's safety for a victory. To her, there are only enemies or allies. Her ruthlessness terrifies her foes, while her kindness endears her to her fellow club members.",
       "ja": "百鬼夜行連合学院所属、百花繚乱紛争調停委員会の作戦参謀。\n\n常識と論理、理性を重んじる少女。作戦参謀として勝利を重視するが、それ以上に大切にするのは味方の安全である。冷酷なようでいて優しい少女。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "키쿄",
-        "키쿄",
-        "키쿄 블루아카이브"
-      ],
-      "en": [
-        "kikyou_(blue_archive)",
-        "kikyou",
-        "blue_archive_kikyou"
-      ],
-      "ja": [
-        "キキョウ",
-        "キキョウ(ブルーアーカイブ)",
-        "ブルーアーカイブ キキョウ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/키쿄/기본/공식/official_zerochan_4616968.jpg",
+      "filename": "official_zerochan_4616968.jpg",
+      "source": "zerochan 4616968 (Official Art) | https://www.pixiv.net/en/artworks/137501973"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

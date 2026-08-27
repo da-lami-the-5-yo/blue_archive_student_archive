@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "레이사",
+      "kr": "우자와 레이사",
       "en": "Reisa",
       "ja": "レイサ"
     },
@@ -27,32 +27,10 @@
       "kr": "트리니티 곳곳에서 갑작스레 출몰하는 자경단 멤버.\n\n요란하고 시끄러운 분위기 때문에 장난으로 오인을 받을 때도 있지만, 사실 누구보다 진지하게 자경단 활동을 하고 있다. 늘 자기소개를 하지만 그때마다 멘트가 조금씩 달라진다.",
       "en": "A member of the Vigilante Crew who tends to show up suddenly and unannounced.\n\nReisa is rambunctious and loud, so much so that she's often taken for a joke. But there's no one more passionate about Vigilante Crew activities than she is. She likes to make an entrance when she bursts on to the scene, and is always testing out different heroic introductions.",
       "ja": "トリニティのあちこちに出没し、治安の維持活動をしているトリニティ総合学園所属、自警団のメンバー。\n\n掴みどころのない事を言うため、いたずら通報だと思われる時もあるが、誰よりも真剣に自警団活動をしているのだとか。名乗りあげる口上が、毎回少しずつ変わる模様。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "레이사",
-        "레이사",
-        "레이사 블루아카이브"
-      ],
-      "en": [
-        "reisa_(blue_archive)",
-        "reisa",
-        "blue_archive_reisa"
-      ],
-      "ja": [
-        "レイサ",
-        "レイサ(ブルーアーカイブ)",
-        "ブルーアーカイブ レイサ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "트리니티 종합학원/트리니티 자경단/레이사/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "트리니티 종합학원/트리니티 자경단/레이사/기본/공식/official_zerochan_4604825.jpg",
+      "filename": "official_zerochan_4604825.jpg",
+      "source": "zerochan 4604825 (Official Art) | https://x.com/Blue_ArchiveJP/status/1979744487514804712"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

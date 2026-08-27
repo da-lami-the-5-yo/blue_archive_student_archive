@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "이오리",
+      "kr": "시로미 이오리",
       "en": "Iori",
       "ja": "イオリ"
     },
@@ -27,32 +27,10 @@
       "kr": "게헨나 학원 선도부의 냉혹한 스페셜리스트.\n\n선도부의 행동대장으로 규칙을 위반한 학생들을 발견하면 압도적인 힘으로 무자비하게 처단한다. 일 처리도 빠르고 전투 센스도 나쁘지 않은 편이지만, 적을 발견하면 앞뒤를 가리지 않고 달려드는 무대포 성향 때문에 단순한 함정에도 쉽게 빠지곤 한다.",
       "en": "A cold-blooded specialist of Gehenna Academy's Prefect Team.\n\nShe uses her overwhelming force as field captain to ruthlessly discipline offenders. Iori is highly efficient and formidable in combat, but her stubbornness causes her to fall for even the most obvious traps.",
       "ja": "ゲヘナ学園所属、風紀委員会の冷酷なスペシャリスト。\n\n風紀委員会の切り込み隊長として、規則違反の生徒を見つけると圧倒的な力で即座に処罰する。頭の回転も速く、仕事もでき、戦闘センスも悪くない方だが、敵を発見すると周囲が見えなくなる無鉄砲な一面もあるため、単純な落とし穴にも結構簡単にはまる。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "이오리",
-        "이오리",
-        "이오리 블루아카이브"
-      ],
-      "en": [
-        "iori_(blue_archive)",
-        "iori",
-        "blue_archive_iori"
-      ],
-      "ja": [
-        "イオリ",
-        "イオリ(ブルーアーカイブ)",
-        "ブルーアーカイブ イオリ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "게헨나 학원/선도부/이오리/기본/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/선도부/이오리/기본/공식/official_zerochan_4527066.jpg",
+      "filename": "official_zerochan_4527066.jpg",
+      "source": "zerochan 4527066 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }

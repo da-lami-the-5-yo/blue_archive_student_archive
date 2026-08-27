@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3,
+    "공식": 4,
     "비공식": 2
   },
   "images": [
@@ -62,8 +62,14 @@
       "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_schaledb_icon.webp",
       "filename": "official_schaledb_icon.webp",
       "source": "https://schaledb.com/images/student/icon/10125.webp"
+    },
+    {
+      "category": "공식",
+      "path": "와일드헌트 예술학원/오컬트 연구회/시라오 에리/기본/공식/official_zerochan_4571982.jpg",
+      "filename": "official_zerochan_4571982.jpg",
+      "source": "zerochan 4571982 (Official Art) | https://x.com/Blue_ArchiveJP/status/1957291422039916600"
     }
   ],
-  "image_count": 5,
+  "image_count": 6,
   "updated": "2026-08-27"
 }

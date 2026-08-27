@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "하루나",
+      "kr": "쿠로다테 하루나",
       "en": "Haruna",
       "ja": "ハルナ"
     },
@@ -27,32 +27,10 @@
       "kr": "새해를 맞아 기모노를 차려 입은 미식연구회의 부장.\n\n미식에는 장소와 시기가 있으며, 시기에 맞는 차림을 하는 것도 미식 탐구의 일환이라는 신념 하에, 우아한 기모노를 입고 미식의 길을 나선다. 겉모습만 보면 더없이 고풍스러운 아가씨이지만……가능하다면, 그녀에게 격에 맞지 않는 음식이 차려지는 일만은, 일어나지 않기를 바라는 것이 좋다.",
       "en": "The president of the Gourmet Research Society, who got dressed up in a kimono for the New Year.\n\nShe believes all aspects of a situation are crucial for a gourmand: not just the time and place of the meal, but also wearing the appropriate outfit. Therefore, she has set out on the path of epicureanism wearing a kimono. She certainly seems elegant and refined, but...if she's served food that doesn't meet her standards, watch out.",
       "ja": "ゲヘナ学園所属、新年を迎え、着物に着替えた美食研究会の会長。\n\n美食において、時節に合った装いをする事も美食探究の一環であるという信念のもと、晴れ着を纏って美食の道を歩む。見た目だけはこの上なく優雅なお嬢さんなのだが……彼女の美食に相応しい食べ物が用意される事を祈ろう。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "하루나",
-        "하루나(새해)",
-        "하루나 블루아카이브"
-      ],
-      "en": [
-        "haruna_(blue_archive)",
-        "haruna",
-        "blue_archive_haruna"
-      ],
-      "ja": [
-        "ハルナ",
-        "ハルナ(ブルーアーカイブ)",
-        "ブルーアーカイブ ハルナ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 4
   },
   "images": [
     {
@@ -69,7 +47,14 @@
       "category": "공식",
       "filename": "official_portrait.webp",
       "path": "게헨나 학원/미식연구회/하루나/새해/공식/official_portrait.webp"
+    },
+    {
+      "category": "공식",
+      "path": "게헨나 학원/미식연구회/하루나/새해/공식/official_zerochan_4527095.jpg",
+      "filename": "official_zerochan_4527095.jpg",
+      "source": "zerochan 4527095 (Official Art)"
     }
   ],
-  "image_count": 3
+  "image_count": 4,
+  "updated": "2026-08-27"
 }
