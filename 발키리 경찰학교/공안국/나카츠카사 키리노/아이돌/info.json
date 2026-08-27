@@ -1,0 +1,48 @@
+{
+  "canonical_name_kr": "나카츠카사 키리노",
+  "personal_name_kr": "키리노",
+  "family_name_kr": "나카츠카사",
+  "name_en": "Nakatsukasa Kirino",
+  "name_ja": "中務キリノ",
+  "school_kr": "발키리 경찰학교",
+  "school_en": "Valkyrie Police Academy",
+  "school_ja": "ヴァルキューレ警察学校",
+  "club_kr": "공안국",
+  "club_en": "Public Security Bureau",
+  "club_ja": "公安局",
+  "seasonal": "아이돌",
+  "status": "미출시 시즈널",
+  "role": "서포터",
+  "position": "스페셜",
+  "bullet_type": "관통",
+  "armor_type": "특수장갑",
+  "description_kr": "《Serenade Promenade》 이벤트에 등장한 발키리 경찰학교 홍보 아이돌 제복을 입은 키리노.",
+  "description_en": "Kirino in Valkyrie police idol PR costume during Serenade Promenade.",
+  "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のキリノ。",
+  "search_tags": {
+    "kr": [
+      "나카츠카사 키리노 (아이돌)",
+      "아이돌 키리노",
+      "키리노"
+    ],
+    "en": [
+      "kirino_idol"
+    ],
+    "ja": [
+      "アイドルキリノ"
+    ]
+  },
+  "id": null,
+  "name_kr": "나카츠카사 키리노",
+  "full_name_kr": "나카츠카사 키리노 (아이돌)",
+  "full_name_en": "Nakatsukasa Kirino (아이돌)",
+  "full_name_ja": "中務キリノ（아이돌）",
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "발키리 경찰학교/공안국/나카츠카사 키리노/아이돌/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}

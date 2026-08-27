@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name_kr": "나츠메 이로하",
+  "name_en": "Natsume Iroha",
+  "name_ja": "棗イロハ",
+  "full_name_kr": "나츠메 이로하 (수영복)",
+  "full_name_en": "Natsume Iroha (Swimsuit)",
+  "full_name_ja": "棗イロハ（水着）",
+  "school_kr": "게헨나 학원",
+  "school_en": "Gehenna Academy",
+  "school_ja": "ゲヘナ学園",
+  "club_kr": "만마전",
+  "club_en": "Pandemonium Society",
+  "club_ja": "万魔殿",
+  "seasonal": "수영복",
+  "status": "출시",
+  "role": "스트라이커",
+  "position": "미들",
+  "bullet_type": "신비",
+  "armor_type": "특수장갑",
+  "description_kr": "게헨나 학원 만마전 전술참모 나츠메 이로하의 수영복 모습. 플레이어블 3성 스트라이커.",
+  "description_en": "Unreleased 해적수영복 variant for Natsume Iroha.",
+  "description_ja": "棗イロハの未実装해적수영복衣装。",
+  "search_tags": {
+    "kr": [
+      "나츠메",
+      "나츠메 이로하",
+      "나츠메 이로하 (수영복)",
+      "나츠메이로하",
+      "만마전",
+      "수로하",
+      "수영복",
+      "수영복 이로하",
+      "이로하",
+      "이로하 수영복"
+    ],
+    "en": [
+      "natsume iroha",
+      "natsume_natsume iroha",
+      "이로하"
+    ],
+    "ja": [
+      "棗イロハ",
+      "棗棗イロハ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "게헨나 학원/만마전/나츠메 이로하/수영복/공식/standing.png"
+    }
+  ],
+  "image_count": 1,
+  "personal_name_kr": "이로하",
+  "family_name_kr": "나츠메",
+  "canonical_name_kr": "나츠메 이로하"
+}

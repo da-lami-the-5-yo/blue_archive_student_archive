@@ -1,0 +1,50 @@
+{
+  "canonical_name_kr": "켄자키 츠루기",
+  "personal_name_kr": "츠루기",
+  "family_name_kr": "켄자키",
+  "name_en": "Kenzaki Tsurugi",
+  "name_ja": "剣先ツルギ",
+  "school_kr": "트리니티 종합학원",
+  "school_en": "Trinity General School",
+  "school_ja": "トリニティ総合学園",
+  "club_kr": "정의실현부",
+  "club_en": "Justice Realization Committee",
+  "club_ja": "正義実現委員会",
+  "seasonal": "연극",
+  "status": "미출시 시즈널",
+  "role": "스트라이커",
+  "position": "프론트",
+  "bullet_type": "관통",
+  "armor_type": "중장갑",
+  "description_kr": "《Serenade Promenade》 트리니티 문화제 연극 무대에서 우아한 드레스 공주님 분장을 한 츠루기.",
+  "description_en": "Tsurugi dressed as a delicate princess for the Trinity festival play.",
+  "description_ja": "トリニティ学園祭の演劇でお姫様衣装を着たツルギ。",
+  "search_tags": {
+    "kr": [
+      "켄자키 츠루기 (연극)",
+      "공주 츠루기",
+      "연극 츠루기",
+      "츠루기"
+    ],
+    "en": [
+      "tsurugi_princess",
+      "tsurugi_play"
+    ],
+    "ja": [
+      "お姫様ツルギ"
+    ]
+  },
+  "id": null,
+  "name_kr": "켄자키 츠루기",
+  "full_name_kr": "켄자키 츠루기 (연극)",
+  "full_name_en": "Kenzaki Tsurugi (연극)",
+  "full_name_ja": "剣先ツルギ（연극）",
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "트리니티 종합학원/정의실현부/켄자키 츠루기/연극/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}

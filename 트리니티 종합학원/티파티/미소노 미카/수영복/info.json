@@ -1,0 +1,61 @@
+{
+  "id": null,
+  "family_name_kr": "미소노",
+  "personal_name_kr": "미카",
+  "canonical_name_kr": "미소노 미카",
+  "name_kr": "미소노 미카",
+  "name_en": "Misono Mika",
+  "name_ja": "聖園ミカ",
+  "full_name_kr": "미소노 미카 (수영복)",
+  "full_name_en": "Misono Mika (Swimsuit)",
+  "full_name_ja": "聖園ミカ（水着）",
+  "school_kr": "트리니티 종합학원",
+  "school_en": "Trinity General School",
+  "school_ja": "トリニティ総合学園",
+  "club_kr": "티파티",
+  "club_en": "Tea Party",
+  "club_ja": "ティーパーティー",
+  "seasonal": "수영복",
+  "status": "미출시 시즈널",
+  "role": "어태커",
+  "position": "스트라이커",
+  "bullet_type": "진동",
+  "armor_type": "특수장갑",
+  "description_kr": "에덴조약 및 공식 여름 이벤트에 등장하는 화이트 비키니 수영복 복장의 미카(수미카).",
+  "description_en": "4.5th Anniversary Limited Fest Character Swimsuit Mika from Trinity Tea Party.",
+  "description_ja": "ブルーアーカイブ4.5周年記念フェス限定キャラとして登場した水着姿のミカ。",
+  "search_tags": {
+    "kr": [
+      "미소노 미카 (수영복)",
+      "수영복 미카",
+      "수미카",
+      "미카"
+    ],
+    "en": [
+      "mika_swimsuit",
+      "swimsuit_mika"
+    ],
+    "ja": [
+      "水着ミカ",
+      "ミカ（水着）"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/수영복/공식/standing.png"
+    },
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_mika_swimsuit.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank00/fanart_mika_swimsuit.png"
+    },
+    {
+      "category": "비공식/rank01",
+      "filename": "fanart_mika_swimsuit_02.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/수영복/비공식/rank01/fanart_mika_swimsuit_02.png"
+    }
+  ],
+  "image_count": 3
+}

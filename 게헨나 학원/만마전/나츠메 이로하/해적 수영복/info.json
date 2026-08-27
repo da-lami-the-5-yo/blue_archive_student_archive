@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "family_name_kr": "나츠메",
+  "personal_name_kr": "이로하",
+  "canonical_name_kr": "나츠메 이로하",
+  "name_kr": "나츠메 이로하",
+  "name_en": "Natsume Iroha (Pirate Swimsuit)",
+  "name_ja": "棗イロハ（海賊水着）",
+  "full_name_kr": "나츠메 이로하 (해적 수영복)",
+  "full_name_en": "Natsume Iroha (Pirate Swimsuit)",
+  "full_name_ja": "棗イロハ（海賊水着）",
+  "school_kr": "게헨나 학원",
+  "school_en": "Gehenna Academy",
+  "school_ja": "ゲヘナ学園",
+  "club_kr": "만마전",
+  "club_en": "Pandemonium Society",
+  "club_ja": "万魔殿",
+  "seasonal": "해적 수영복",
+  "status": "미출시 시즈널",
+  "role": "스트라이커",
+  "position": "미들",
+  "bullet_type": "신비",
+  "armor_type": "특수장갑",
+  "description_kr": "이벤트 스토리 '출항! 만마선 ~마코토 의장님의 화려한 피서~'에 등장한 이로하의 해적 수영복 스토리 전용 모습.",
+  "description_en": "Event story variant of Natsume Iroha wearing a pirate swimsuit in Pandemonium Society summer event.",
+  "description_ja": "万魔殿の夏イベントストーリーに登場する棗イロハの海賊水着姿。",
+  "search_tags": {
+    "kr": [
+      "나츠메 이로하",
+      "나츠메 이로하 (해적 수영복)",
+      "만마전",
+      "수영복",
+      "이로하",
+      "해로하",
+      "해적",
+      "해적 수영복",
+      "해적 수영복 이로하",
+      "해적 이로하"
+    ],
+    "en": [
+      "natsume_iroha_pirate_swimsuit",
+      "iroha_pirate_swimsuit",
+      "pirate_iroha"
+    ],
+    "ja": [
+      "棗イロハ（海賊水着）",
+      "海賊イロハ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "게헨나 학원/만마전/나츠메 이로하/해적 수영복/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}

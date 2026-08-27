@@ -1,0 +1,70 @@
+{
+  "id": 20035,
+  "name_kr": "카스가 츠바키",
+  "name_en": "Tsubaki",
+  "name_ja": "ツバキ",
+  "full_name_kr": "카스가 츠바키 (가이드)",
+  "full_name_en": "Tsubaki (Guide)",
+  "full_name_ja": "ツバキ（ガイド）",
+  "school_kr": "백귀야행 연합학원",
+  "school_en": "Hyakkiyako",
+  "school_ja": "百鬼夜行",
+  "club_kr": "수행부",
+  "club_en": "Inner Discipline Club",
+  "club_ja": "修行部",
+  "seasonal": "가이드",
+  "status": "출시",
+  "role": "서포터",
+  "position": "스페셜",
+  "bullet_type": "관통",
+  "armor_type": "중장갑",
+  "description_kr": "언제나 어디서나 잘 자는 수행을 멈추지 않는 수행부의 부장님.\n\n수학여행을 맞아 백귀야행을 안내하는 가이드로서의 역할을 시작했지만, 수면에 대한 수행 역시 놓치고 싶지 않은듯 하다. 때로는 졸면서, 때로는 날카롭게 핵심을 찌르면서, 그녀는 어떻게든 양쪽 모두를 충실하게 이행한다.",
+  "description_en": "いつでも何処でも眠る修行をやめない百鬼夜行連合学院所属、修行部の部長。\n\n修学旅行を迎え百鬼夜行を案内するガイドの役割につくが、睡眠の修行も諦めない。時には居眠りをしたり、時には鋭く核心を突いたりするなど、さりげなく両方をこなしている。",
+  "description_ja": "いつでも何処でも眠る修行をやめない百鬼夜行連合学院所属、修行部の部長。\n\n修学旅行を迎え百鬼夜行を案内するガイドの役割につくが、睡眠の修行も諦めない。時には居眠りをしたり、時には鋭く核心を突いたりするなど、さりげなく両方をこなしている。",
+  "search_tags": {
+    "kr": [
+      "가이드",
+      "츠바키",
+      "츠바키(가이드)",
+      "카스가",
+      "카스가 츠바키",
+      "카스가 츠바키(가이드)",
+      "카스가츠바키"
+    ],
+    "en": [
+      "kasuga_tsubaki",
+      "tsubaki",
+      "츠바키"
+    ],
+    "ja": [
+      "ツバキ",
+      "春日ツバキ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "백귀야행 연합학원/수행부/카스가 츠바키/가이드/공식/standing.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "백귀야행 연합학원/수행부/츠바키/가이드/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "백귀야행 연합학원/수행부/츠바키/가이드/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "백귀야행 연합학원/수행부/츠바키/가이드/공식/official_portrait.webp"
+    }
+  ],
+  "image_count": 4,
+  "personal_name_kr": "츠바키",
+  "family_name_kr": "카스가",
+  "canonical_name_kr": "카스가 츠바키"
+}

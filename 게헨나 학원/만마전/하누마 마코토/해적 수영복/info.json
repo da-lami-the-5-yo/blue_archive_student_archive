@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "family_name_kr": "하누마",
+  "personal_name_kr": "마코토",
+  "canonical_name_kr": "하누마 마코토",
+  "name_kr": "하누마 마코토",
+  "name_en": "Hanuma Makoto (Pirate Swimsuit)",
+  "name_ja": "羽沼マコト（海賊水着）",
+  "full_name_kr": "하누마 마코토 (해적 수영복)",
+  "full_name_en": "Hanuma Makoto (Pirate Swimsuit)",
+  "full_name_ja": "羽沼マコト（海賊水着）",
+  "school_kr": "게헨나 학원",
+  "school_en": "Gehenna Academy",
+  "school_ja": "ゲヘナ学園",
+  "club_kr": "만마전",
+  "club_en": "Pandemonium Society",
+  "club_ja": "万魔殿",
+  "seasonal": "해적 수영복",
+  "status": "미출시 시즈널",
+  "role": "스트라이커",
+  "position": "미들",
+  "bullet_type": "관통",
+  "armor_type": "중장갑",
+  "description_kr": "이벤트 스토리 '출항! 만마선 ~마코토 의장님의 화려한 피서~'에 등장한 해적 선장 모자와 코트를 두른 마코토의 해적 수영복 스토리 전용 모습.",
+  "description_en": "Event story variant of Hanuma Makoto wearing a pirate swimsuit in Pandemonium Society summer event.",
+  "description_ja": "万魔殿の夏イベントストーリーに登場する羽沼マコトの海賊水着姿。",
+  "search_tags": {
+    "kr": [
+      "마코토",
+      "만마전",
+      "수영복",
+      "하누마 마코토",
+      "하누마 마코토 (해적 수영복)",
+      "해적",
+      "해적 마코토",
+      "해적 수영복",
+      "해적 수영복 마코토",
+      "해코토"
+    ],
+    "en": [
+      "hanuma_makoto_pirate_swimsuit",
+      "makoto_pirate_swimsuit",
+      "pirate_makoto"
+    ],
+    "ja": [
+      "羽沼マコト（海賊水着）",
+      "海賊マコト"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "게헨나 학원/만마전/하누마 마코토/해적 수영복/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}

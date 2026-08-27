@@ -1,0 +1,61 @@
+{
+  "id": null,
+  "family_name_kr": "미소노",
+  "personal_name_kr": "미카",
+  "canonical_name_kr": "미소노 미카",
+  "name_kr": "미소노 미카",
+  "name_en": "Misono Mika",
+  "name_ja": "聖園ミカ",
+  "full_name_kr": "미소노 미카 (체육복)",
+  "full_name_en": "Misono Mika (Track)",
+  "full_name_ja": "聖園ミカ（体操服）",
+  "school_kr": "트리니티 종합학원",
+  "school_en": "Trinity General School",
+  "school_ja": "トリニティ総合学園",
+  "club_kr": "티파티",
+  "club_en": "Tea Party",
+  "club_ja": "ティーパーティー",
+  "seasonal": "체육복",
+  "status": "미출시 시즈널",
+  "role": "스트라이커",
+  "position": "프론트",
+  "bullet_type": "관통",
+  "armor_type": "경장갑",
+  "description_kr": "황륜대제 트리니티 전용 트랙수트 체육복과 스포티한 똥머리 헤어스타일의 미카(체미카).",
+  "description_en": "Mika wearing Trinity track uniform / gym jacket during Kivotos Halo Festival.",
+  "description_ja": "キヴォトス大運動会・黄輪大祭で着用したトリニティ体操服姿のミカ。",
+  "search_tags": {
+    "kr": [
+      "미소노 미카 (체육복)",
+      "체육복 미카",
+      "체미카",
+      "미카"
+    ],
+    "en": [
+      "mika_track",
+      "mika_gym"
+    ],
+    "ja": [
+      "体操服ミカ",
+      "ジャージミカ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/체육복/공식/standing.png"
+    },
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_mika_gym.jpg",
+      "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank00/fanart_mika_gym.jpg"
+    },
+    {
+      "category": "비공식/rank01",
+      "filename": "fanart_mika_gym_02.png",
+      "path": "트리니티 종합학원/티파티/미소노 미카/체육복/비공식/rank01/fanart_mika_gym_02.png"
+    }
+  ],
+  "image_count": 3
+}

@@ -1,0 +1,70 @@
+{
+  "id": 10098,
+  "name_kr": "타카나시 호시노",
+  "name_en": "Hoshino",
+  "name_ja": "ホシノ",
+  "full_name_kr": "타카나시 호시노 (무장)",
+  "full_name_en": "Hoshino (Battle)",
+  "full_name_ja": "ホシノ（臨戦）",
+  "school_kr": "아비도스 고등학교",
+  "school_en": "Abydos",
+  "school_ja": "アビドス",
+  "club_kr": "대책위원회",
+  "club_en": "Foreclosure Task Force",
+  "club_ja": "対策委員会",
+  "seasonal": "무장",
+  "status": "출시",
+  "role": "탱커",
+  "position": "스트라이커",
+  "bullet_type": "신비",
+  "armor_type": "중장갑",
+  "description_kr": "아비도스의 부학생회장이자 대책위원회 부장을 맡고 있는 게으름뱅이 소녀.\n\n현재 모습은 호시노가 따로 보관하고 있던 무장을 장비한 것으로, 조금 더 전투에 적합한 상태를 취하고 있다. 언제나의 호시노지만, 무장을 갖춘 것만으로도 평소보다 조금 진지해졌다.",
+  "description_en": "アビドス高等学校所属、アビドス生徒会の元副会長であり、対策委員会の委員長を務める怠け者の少女。\n\n保管していた武装を装備し、より戦闘に適したスタイルになった。それ以外は普段のホシノと変わらないが、武装状態になったことで真剣な眼差しが垣間見える。",
+  "description_ja": "アビドス高等学校所属、アビドス生徒会の元副会長であり、対策委員会の委員長を務める怠け者の少女。\n\n保管していた武装を装備し、より戦闘に適したスタイルになった。それ以外は普段のホシノと変わらないが、武装状態になったことで真剣な眼差しが垣間見える。",
+  "search_tags": {
+    "kr": [
+      "무장",
+      "타카나시",
+      "타카나시 호시노",
+      "타카나시 호시노(무장)",
+      "타카나시호시노",
+      "호시노",
+      "호시노(무장)"
+    ],
+    "en": [
+      "hoshino",
+      "takanashi_hoshino",
+      "호시노"
+    ],
+    "ja": [
+      "ホシノ",
+      "小鳥遊ホシノ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/무장/공식/standing.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_collection.webp",
+      "path": "아비도스 고등학교/대책위원회/호시노/무장/공식/official_collection.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_lobby.webp",
+      "path": "아비도스 고등학교/대책위원회/호시노/무장/공식/official_lobby.webp"
+    },
+    {
+      "category": "공식",
+      "filename": "official_portrait.webp",
+      "path": "아비도스 고등학교/대책위원회/호시노/무장/공식/official_portrait.webp"
+    }
+  ],
+  "image_count": 4,
+  "personal_name_kr": "호시노",
+  "family_name_kr": "타카나시",
+  "canonical_name_kr": "타카나시 호시노"
+}

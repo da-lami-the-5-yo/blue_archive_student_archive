@@ -1,0 +1,57 @@
+{
+  "id": null,
+  "family_name_kr": "타카나시",
+  "personal_name_kr": "호시노",
+  "canonical_name_kr": "타카나시 호시노",
+  "name_kr": "타카나시 호시노",
+  "name_en": "Takanashi Hoshino",
+  "name_ja": "小鳥遊ホシノ",
+  "full_name_kr": "타카나시 호시노 (체육복)",
+  "full_name_en": "Takanashi Hoshino (Track)",
+  "full_name_ja": "小鳥遊ホシノ（体操服）",
+  "school_kr": "아비도스 고등학교",
+  "school_en": "Abydos High School",
+  "school_ja": "アビドス高等学校",
+  "club_kr": "대책위원회",
+  "club_en": "Foreclosure Task Force",
+  "club_ja": "対策委員会",
+  "seasonal": "체육복",
+  "status": "미출시 시즈널",
+  "role": "탱커",
+  "position": "프론트",
+  "bullet_type": "관통",
+  "armor_type": "중장갑",
+  "description_kr": "황륜대제 및 아비도스 체육 활동 시 착용하는 져지/반바지 체육복 복장의 호시노.",
+  "description_en": "Hoshino in Abydos track uniform / gym uniform for Kivotos Halo Festival.",
+  "description_ja": "黄輪大祭など運動会で着用するアビドス体操服姿のホシノ。",
+  "search_tags": {
+    "kr": [
+      "타카나시 호시노 (체육복)",
+      "체육복 호시노",
+      "학교 체육복 호시노",
+      "체시노",
+      "호시노"
+    ],
+    "en": [
+      "hoshino_gym",
+      "hoshino_track"
+    ],
+    "ja": [
+      "体操服ホシノ",
+      "ジャージホシノ"
+    ]
+  },
+  "images": [
+    {
+      "category": "비공식/rank00",
+      "filename": "fanart_hoshino_gym.jpg",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/체육복/비공식/rank00/fanart_hoshino_gym.jpg"
+    },
+    {
+      "category": "비공식/rank01",
+      "filename": "fanart_hoshino_gym_02.jpg",
+      "path": "아비도스 고등학교/대책위원회/타카나시 호시노/체육복/비공식/rank01/fanart_hoshino_gym_02.jpg"
+    }
+  ],
+  "image_count": 2
+}

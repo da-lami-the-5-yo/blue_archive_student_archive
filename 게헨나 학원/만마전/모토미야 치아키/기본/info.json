@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "family_name_kr": "모토미야",
+  "personal_name_kr": "치아키",
+  "canonical_name_kr": "모토미야 치아키",
+  "name_kr": "모토미야 치아키",
+  "name_en": "Motomiya Chiaki",
+  "name_ja": "元宮チアキ",
+  "full_name_kr": "모토미야 치아키",
+  "full_name_en": "Motomiya Chiaki",
+  "full_name_ja": "元宮チアキ",
+  "school_kr": "게헨나 학원",
+  "school_en": "Gehenna",
+  "school_ja": "ゲヘナ",
+  "club_kr": "만마전",
+  "club_en": "Pandemonium Society",
+  "club_ja": "万魔殿",
+  "seasonal": "기본",
+  "status": "미출시 학생",
+  "role": "서포터",
+  "position": "스페셜",
+  "bullet_type": "신비",
+  "armor_type": "중장갑",
+  "description_kr": "게헨나 학원 학생회 만마전(판데모니움 소사이어티) 소속의 의원이자 언론/홍보 담당.",
+  "description_en": "A council member and PR/press officer of the Pandemonium Society at Gehenna Academy.",
+  "description_ja": "ゲヘナ学園生徒会「万魔殿」所属の議員兼広報担当。",
+  "search_tags": {
+    "kr": [
+      "모토미야 치아키",
+      "모토미야치아키",
+      "치아키",
+      "만마전"
+    ],
+    "en": [
+      "chiaki",
+      "motomiya_chiaki"
+    ],
+    "ja": [
+      "チアキ",
+      "元宮チアキ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "게헨나 학원/만마전/모토미야 치아키/기본/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}

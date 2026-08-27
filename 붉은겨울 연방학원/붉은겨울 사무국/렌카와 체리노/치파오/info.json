@@ -1,0 +1,49 @@
+{
+  "id": null,
+  "family_name_kr": "렌카와",
+  "personal_name_kr": "체리노",
+  "canonical_name_kr": "렌카와 체리노",
+  "name_kr": "렌카와 체리노",
+  "name_en": "Renkawa Cherino",
+  "name_ja": "連河チェリノ",
+  "full_name_kr": "렌카와 체리노 (치파오)",
+  "full_name_en": "Renkawa Cherino (Qipao)",
+  "full_name_ja": "連河チェリノ（チャイナ服）",
+  "school_kr": "붉은겨울 연방학원",
+  "school_en": "Red Winter Federal Academy",
+  "school_ja": "レッドウィンター連邦学園",
+  "club_kr": "붉은겨울 사무국",
+  "club_en": "Red Winter Secretariat",
+  "club_ja": "レッドウィンター事務局",
+  "seasonal": "치파오",
+  "status": "미출시 시즈널",
+  "role": "스트라이커",
+  "position": "미들",
+  "bullet_type": "관통",
+  "armor_type": "경장갑",
+  "description_kr": "《월화몽소》 이벤트에 등장한 산해경풍 붉은 치파오를 입은 붉은겨울의 서기장 체리노(치리노).",
+  "description_en": "Cherino in Shanhaijing-style Qipao appearing in Tsukihana Moso event.",
+  "description_ja": "月華夢想イベントに登場したチャイナ服姿のチェリノ。",
+  "search_tags": {
+    "kr": [
+      "렌카와 체리노 (치파오)",
+      "치파오 체리노",
+      "치리노",
+      "체리노"
+    ],
+    "en": [
+      "cherino_qipao"
+    ],
+    "ja": [
+      "チャイナチェリノ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/렌카와 체리노/치파오/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}

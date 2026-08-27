@@ -1,0 +1,58 @@
+{
+  "id": null,
+  "name_kr": "쿄고쿠 사츠키",
+  "name_en": "Kyogoku Satsuki",
+  "name_ja": "京極サツキ",
+  "full_name_kr": "쿄고쿠 사츠키 (수영복)",
+  "full_name_en": "Kyogoku Satsuki (Swimsuit)",
+  "full_name_ja": "京極サツキ（水着）",
+  "school_kr": "게헨나 학원",
+  "school_en": "Gehenna Academy",
+  "school_ja": "ゲヘナ学園",
+  "club_kr": "만마전",
+  "club_en": "Pandemonium Society",
+  "club_ja": "万魔殿",
+  "seasonal": "수영복",
+  "status": "출시",
+  "role": "스페셜",
+  "position": "백",
+  "bullet_type": "관통",
+  "armor_type": "중장갑",
+  "description_kr": "게헨나 학원 만마전 정보부장 쿄고쿠 사츠키의 수영복 모습. 플레이어블 3성 스페셜.",
+  "description_en": "Unreleased 해적수영복 variant for Kyogoku Satsuki.",
+  "description_ja": "京極サツキの未実装해적수영복衣装。",
+  "search_tags": {
+    "kr": [
+      "만마전",
+      "사츠키",
+      "사츠키 수영복",
+      "수영복",
+      "수영복 사츠키",
+      "수츠키",
+      "쿄고쿠",
+      "쿄고쿠 사츠키",
+      "쿄고쿠 사츠키 (수영복)",
+      "쿄고쿠사츠키"
+    ],
+    "en": [
+      "kyogoku satsuki",
+      "kyogoku_kyogoku satsuki",
+      "사츠키"
+    ],
+    "ja": [
+      "京極サツキ",
+      "京極京極サツキ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "게헨나 학원/만마전/쿄고쿠 사츠키/수영복/공식/standing.png"
+    }
+  ],
+  "image_count": 1,
+  "personal_name_kr": "사츠키",
+  "family_name_kr": "쿄고쿠",
+  "canonical_name_kr": "쿄고쿠 사츠키"
+}

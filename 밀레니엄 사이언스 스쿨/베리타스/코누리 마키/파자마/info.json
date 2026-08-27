@@ -1,0 +1,48 @@
+{
+  "id": null,
+  "family_name_kr": "코누리",
+  "personal_name_kr": "마키",
+  "canonical_name_kr": "코누리 마키",
+  "name_kr": "코누리 마키",
+  "name_en": "Konuri Maki",
+  "name_ja": "小塗マキ",
+  "full_name_kr": "코누리 마키 (파자마)",
+  "full_name_en": "Konuri Maki (Pajamas)",
+  "full_name_ja": "小塗マキ（パジャマ）",
+  "school_kr": "밀레니엄 사이언스 스쿨",
+  "school_en": "Millennium Science School",
+  "school_ja": "ミレニアムサイエンススクール",
+  "club_kr": "베리타스",
+  "club_en": "Veritas",
+  "club_ja": "ヴェリタス",
+  "seasonal": "파자마",
+  "status": "미출시 시즈널",
+  "role": "스트라이커",
+  "position": "백",
+  "bullet_type": "관통",
+  "armor_type": "중장갑",
+  "description_kr": "《비밀의 미드나잇 파티》 이벤트에 등장한 파자마 차림의 코누리 마키.",
+  "description_en": "Maki in pajamas during Veritas Midnight Party.",
+  "description_ja": "パジャマ姿のマキ。",
+  "search_tags": {
+    "kr": [
+      "코누리 마키 (파자마)",
+      "파자마 마키",
+      "마키"
+    ],
+    "en": [
+      "maki_pajamas"
+    ],
+    "ja": [
+      "パジャママキ"
+    ]
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "standing.png",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/코누리 마키/파자마/공식/standing.png"
+    }
+  ],
+  "image_count": 1
+}
