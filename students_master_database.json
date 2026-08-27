@@ -1771,7 +1771,8 @@
       {
         "category": "공식",
         "path": "게헨나 학원/만마전/나츠메 이로하/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
-        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)",
+        "filename": "official_swimsuit_pirate_portrait.png"
       }
     ],
     "image_count": 1,
@@ -2145,7 +2146,8 @@
       {
         "category": "공식",
         "path": "게헨나 학원/만마전/쿄고쿠 사츠키/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
-        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)",
+        "filename": "official_swimsuit_pirate_portrait.png"
       }
     ],
     "image_count": 1,
@@ -2388,7 +2390,8 @@
       {
         "category": "공식",
         "path": "게헨나 학원/만마전/탄가 이부키/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
-        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)",
+        "filename": "official_swimsuit_pirate_portrait.png"
       }
     ],
     "image_count": 1,
@@ -2631,7 +2634,8 @@
       {
         "category": "공식",
         "path": "게헨나 학원/만마전/하누마 마코토/해적 수영복/공식/official_swimsuit_pirate_portrait.png",
-        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)"
+        "source": "fandom Swimsuit_Pirate_Portrait (기존 수영복 엔트리에 섞여 있던 해적 변형 분리)",
+        "filename": "official_swimsuit_pirate_portrait.png"
       }
     ],
     "image_count": 1,
@@ -11046,7 +11050,8 @@
       {
         "category": "공식",
         "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/기본/공식/official_fragment_icon.png",
-        "source": "fandom Kei_Fragment (키링에서 재배정: 인간형 조각 아이콘)"
+        "source": "fandom Kei_Fragment (키링에서 재배정: 인간형 조각 아이콘)",
+        "filename": "official_fragment_icon.png"
       }
     ],
     "image_count": 3,
@@ -11299,7 +11304,8 @@
       {
         "category": "비공식",
         "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/키링/비공식/rank01/fanart_keyring_kei_01.png",
-        "source": "사용자 제공 팬아트 (키링 케이: 상자형 로봇+헤일로)"
+        "source": "사용자 제공 팬아트 (키링 케이: 상자형 로봇+헤일로)",
+        "filename": "fanart_keyring_kei_01.png"
       }
     ],
     "image_count": 1,
@@ -17106,7 +17112,8 @@
       {
         "category": "공식",
         "path": "산해경 고급중학교/아기새반/우토 요코/기본/공식/official_youko_icon.png",
-        "source": "fandom Youko_Icon"
+        "source": "fandom Youko_Icon",
+        "filename": "official_youko_icon.png"
       }
     ],
     "image_count": 2,
@@ -17795,7 +17802,8 @@
       {
         "category": "공식",
         "path": "산해경 고급중학교/현룡문/키키/기본/공식/official_kiki_portrait.png",
-        "source": "fandom Kiki_Portrait"
+        "source": "fandom Kiki_Portrait",
+        "filename": "official_kiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -17808,7 +17816,9 @@
       "ja": [
         "キキ"
       ]
-    }
+    },
+    "canonical_name_kr": "키키",
+    "id": 26016
   },
   {
     "name_kr": "키키",
@@ -17835,7 +17845,9 @@
         "키키 체육복",
         "체육복 키키"
       ]
-    }
+    },
+    "canonical_name_kr": "키키",
+    "id": 26017
   },
   {
     "id": 10069,
@@ -22658,12 +22670,14 @@
       {
         "category": "공식",
         "path": "일곱 죄수/연단방/신타니 카이/리쿠/공식/official_riku_portrait.png",
-        "source": "fandom Riku_Portrait.png (카이의 변형 폼 리쿠)"
+        "source": "fandom Riku_Portrait.png (카이의 변형 폼 리쿠)",
+        "filename": "official_riku_portrait.png"
       },
       {
         "category": "공식",
         "path": "일곱 죄수/연단방/신타니 카이/리쿠/공식/official_riku_icon.png",
-        "source": "fandom Riku_Icon.png (카이의 변형 폼 리쿠)"
+        "source": "fandom Riku_Icon.png (카이의 변형 폼 리쿠)",
+        "filename": "official_riku_icon.png"
       }
     ],
     "image_count": 2,
@@ -23805,17 +23819,20 @@
       {
         "category": "공식",
         "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_portrait.png",
-        "source": "fandom GSC_President_Portrait.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
+        "source": "fandom GSC_President_Portrait.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)",
+        "filename": "official_gsc_president_portrait.png"
       },
       {
         "category": "공식",
         "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_prologue.png",
-        "source": "fandom GSC_President_Prologue.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
+        "source": "fandom GSC_President_Prologue.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)",
+        "filename": "official_gsc_president_prologue.png"
       },
       {
         "category": "공식",
         "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_icon.png",
-        "source": "fandom GSC_President_Icon.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
+        "source": "fandom GSC_President_Icon.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)",
+        "filename": "official_gsc_president_icon.png"
       }
     ],
     "image_count": 3,
@@ -27273,12 +27290,14 @@
       {
         "category": "공식",
         "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_portrait.png",
-        "source": "fandom Barbara_Portrait.png"
+        "source": "fandom Barbara_Portrait.png",
+        "filename": "official_barbara_portrait.png"
       },
       {
         "category": "공식",
         "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_icon.png",
-        "source": "fandom Barbara_Icon.png"
+        "source": "fandom Barbara_Icon.png",
+        "filename": "official_barbara_icon.png"
       }
     ],
     "image_count": 2,
@@ -27292,7 +27311,9 @@
         "barbara",
         "justina"
       ]
-    }
+    },
+    "canonical_name_kr": "바르바라",
+    "id": 26018
   },
   {
     "id": 10077,

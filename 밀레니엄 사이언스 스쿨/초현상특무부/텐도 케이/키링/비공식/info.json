@@ -1,0 +1,45 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 케이",
+      "en": "Tendo Key",
+      "ja": "天童ケイ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "초현상특무부",
+      "en": "Supernatural Phenomenon Task Force",
+      "ja": "特異現象特捜部"
+    },
+    "seasonal": "키링",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "케이의 키링(키홀더) 폼. 상자형 소형 로봇 몸체에 스크린 얼굴과 헤일로. 공식 단독 일러스트 미확보(fandom 에셋 부재)로 팬아트만 수록.",
+      "en": "Kei existing as a save file inside a robot-shaped keyholder, kept by Alice after Vol.F. First appeared in Pavane Chapter 2 (2022.12.07).",
+      "ja": "ロボット型キーホルダーのセーブファイルとして残ったケイ。パヴァーヌ編2章後編で初登場。"
+    }
+  },
+  "collection_stats": {
+    "비공식": 1
+  },
+  "images": [
+    {
+      "category": "비공식",
+      "path": "밀레니엄 사이언스 스쿨/초현상특무부/텐도 케이/키링/비공식/rank01/fanart_keyring_kei_01.png",
+      "source": "사용자 제공 팬아트 (키링 케이: 상자형 로봇+헤일로)",
+      "filename": "fanart_keyring_kei_01.png"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

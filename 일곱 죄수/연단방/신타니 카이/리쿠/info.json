@@ -36,12 +36,14 @@
     {
       "category": "공식",
       "path": "일곱 죄수/연단방/신타니 카이/리쿠/공식/official_riku_portrait.png",
-      "source": "fandom Riku_Portrait.png (카이의 변형 폼 리쿠)"
+      "source": "fandom Riku_Portrait.png (카이의 변형 폼 리쿠)",
+      "filename": "official_riku_portrait.png"
     },
     {
       "category": "공식",
       "path": "일곱 죄수/연단방/신타니 카이/리쿠/공식/official_riku_icon.png",
-      "source": "fandom Riku_Icon.png (카이의 변형 폼 리쿠)"
+      "source": "fandom Riku_Icon.png (카이의 변형 폼 리쿠)",
+      "filename": "official_riku_icon.png"
     }
   ],
   "image_count": 2,

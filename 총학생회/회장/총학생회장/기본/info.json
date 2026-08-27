@@ -36,17 +36,20 @@
     {
       "category": "공식",
       "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_portrait.png",
-      "source": "fandom GSC_President_Portrait.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
+      "source": "fandom GSC_President_Portrait.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)",
+      "filename": "official_gsc_president_portrait.png"
     },
     {
       "category": "공식",
       "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_prologue.png",
-      "source": "fandom GSC_President_Prologue.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
+      "source": "fandom GSC_President_Prologue.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)",
+      "filename": "official_gsc_president_prologue.png"
     },
     {
       "category": "공식",
       "path": "총학생회/회장/총학생회장/기본/공식/official_gsc_president_icon.png",
-      "source": "fandom GSC_President_Icon.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)"
+      "source": "fandom GSC_President_Icon.png (오배정 이미지 정정: 기존 3장은 다른 캐릭터[검은 양복 계열]였음)",
+      "filename": "official_gsc_president_icon.png"
     }
   ],
   "image_count": 3,

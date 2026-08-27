@@ -36,12 +36,14 @@
     {
       "category": "공식",
       "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_portrait.png",
-      "source": "fandom Barbara_Portrait.png"
+      "source": "fandom Barbara_Portrait.png",
+      "filename": "official_barbara_portrait.png"
     },
     {
       "category": "공식",
       "path": "트리니티 종합학원/유스티나 성도회/바르바라/기본/공식/official_barbara_icon.png",
-      "source": "fandom Barbara_Icon.png"
+      "source": "fandom Barbara_Icon.png",
+      "filename": "official_barbara_icon.png"
     }
   ],
   "image_count": 2,
