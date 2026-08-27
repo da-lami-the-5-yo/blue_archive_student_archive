@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "오르",
+      "en": "Ohr",
+      "ja": "オル"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "데카그라마톤",
+      "en": "Decagrammaton",
+      "ja": "デカグラマトン"
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "데카그라마톤의 예언자 유닛 오르. 거대한 백색 헤일로가 특징.",
+      "en": "Decagrammaton prophet unit Ohr.",
+      "ja": "デカグラマトンの預言者ユニットオル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_ohr_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/데카그라마톤/오르/기본/공식/official_ohr_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ohr_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_ohr_damaged_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/데카그라마톤/오르/기본/공식/official_ohr_damaged_portrait.png",
+      "note": "bluearchive.fandom portrait (파손)",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ohr_Damaged_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

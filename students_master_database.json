@@ -1125,9 +1125,25 @@
         "category": "공식",
         "filename": "official_wiki_portrait.png",
         "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_wiki_portrait.png"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shouko_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_shouko_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shouko_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shouko_no_glasses_portrait.png",
+        "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_shouko_no_glasses_portrait.png",
+        "note": "bluearchive.fandom portrait (안경 없음)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shouko_No_Glasses_Portrait.png",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 1,
+    "image_count": 3,
     "personal_name_kr": "쇼코",
     "family_name_kr": "이가라시",
     "canonical_name_kr": "이가라시 쇼코"
@@ -1896,9 +1912,17 @@
         "note": "인게임 Icon",
         "source": "https://bluearchive.fandom.com",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_chiaki_swimsuit_pirate_portrait.png",
+        "path": "게헨나 학원/만마전/모토미야 치아키/수영복/공식/official_chiaki_swimsuit_pirate_portrait.png",
+        "note": "bluearchive.fandom portrait (해적 변형)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Chiaki_Swimsuit_Pirate_Portrait.png",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 3,
+    "image_count": 4,
     "personal_name_kr": "치아키",
     "family_name_kr": "모토미야",
     "canonical_name_kr": "모토미야 치아키"
@@ -3861,6 +3885,62 @@
   {
     "id": null,
     "name_kr": "아마우 아코",
+    "name_en": "Ako",
+    "name_ja": "アコ",
+    "full_name_kr": "아마우 아코 (방주 제복)",
+    "full_name_en": "Ako (Ark Uniform)",
+    "full_name_ja": "アコ（方舟制服）",
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna",
+    "school_ja": "ゲヘナ",
+    "club_kr": "선도부",
+    "club_en": "Prefect Team",
+    "club_ja": "風紀委員会",
+    "seasonal": "방주 제복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "중장갑",
+    "description_kr": "아마우 아코의 방주 제복 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+    "description_en": "Unreleased 'Ark Uniform' variant of Ako.",
+    "description_ja": "アコの方舟制服バージョン。",
+    "search_tags": {
+      "kr": [
+        "방주 제복",
+        "아마우",
+        "아마우 아코",
+        "아마우아코",
+        "아코"
+      ],
+      "en": [
+        "ako",
+        "amau_ako",
+        "아코"
+      ],
+      "ja": [
+        "アコ",
+        "天雨アコ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ako_ark_uniform_portrait.png",
+        "path": "게헨나 학원/선도부/아코/방주 제복/공식/official_ako_ark_uniform_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ako_Ark_Uniform_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아코",
+    "family_name_kr": "아마우",
+    "canonical_name_kr": "아마우 아코"
+  },
+  {
+    "id": null,
+    "name_kr": "아마우 아코",
     "name_en": "Amau Ako",
     "name_ja": "天雨アコ",
     "full_name_kr": "아마우 아코 (우주전함)",
@@ -5730,9 +5810,17 @@
         "note": "schaledb icon (id 20057)",
         "source": "https://schaledb.com/images/student/icon/20057.webp",
         "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_akane_schoolgirl_no_glasses_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_akane_schoolgirl_no_glasses_portrait.png",
+        "note": "bluearchive.fandom portrait (안경 없음)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Akane_Schoolgirl_No_Glasses_Portrait.png",
+        "collected": "2026-08-27"
       }
     ],
-    "image_count": 3
+    "image_count": 4
   },
   {
     "id": 13000,
@@ -7384,6 +7472,62 @@
   {
     "id": null,
     "name_kr": "텐도 아리스",
+    "name_en": "Aris",
+    "name_ja": "アリス",
+    "full_name_kr": "텐도 아리스 (바디수트)",
+    "full_name_en": "Aris (Bodysuit)",
+    "full_name_ja": "アリス（ボディスーツ）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium",
+    "school_ja": "ミレニアム",
+    "club_kr": "게임개발부",
+    "club_en": "Game Development Department",
+    "club_ja": "ゲーム開発部",
+    "seasonal": "바디수트",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "텐도 아리스의 바디수트 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+    "description_en": "Unreleased 'Bodysuit' variant of Aris.",
+    "description_ja": "アリスのボディスーツバージョン。",
+    "search_tags": {
+      "kr": [
+        "바디수트",
+        "아리스",
+        "텐도",
+        "텐도 아리스",
+        "텐도아리스"
+      ],
+      "en": [
+        "aris",
+        "tendou_aris",
+        "아리스"
+      ],
+      "ja": [
+        "アリス",
+        "天童アリス"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_alice_bodysuit_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/바디수트/공식/official_alice_bodysuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Alice_Bodysuit_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아리스",
+    "family_name_kr": "텐도",
+    "canonical_name_kr": "텐도 아리스"
+  },
+  {
+    "id": null,
+    "name_kr": "텐도 아리스",
     "name_en": "Tendo Alice",
     "name_ja": "天童アリス",
     "full_name_kr": "텐도 아리스 (방한복)",
@@ -7759,6 +7903,242 @@
     "personal_name_kr": "유즈",
     "family_name_kr": "하나오카",
     "canonical_name_kr": "하나오카 유즈"
+  },
+  {
+    "id": null,
+    "name_kr": "말쿠트",
+    "name_en": "Malkuth",
+    "name_ja": "マルクト",
+    "full_name_kr": "말쿠트",
+    "full_name_en": "Malkuth",
+    "full_name_ja": "マルクト",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "데카그라마톤",
+    "club_en": "Decagrammaton",
+    "club_ja": "デカグラマトン",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "데카그라마톤의 예언자 유닛 말쿠트.",
+    "description_en": "Decagrammaton prophet unit Malkuth.",
+    "description_ja": "デカグラマトンの預言者ユニットマルクト。",
+    "search_tags": {
+      "kr": [
+        "말쿠트",
+        "데카그라마톤",
+        "밀레니엄"
+      ],
+      "en": [
+        "Malkuth",
+        "Decagrammaton"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_malkuth_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/말쿠트/기본/공식/official_malkuth_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Malkuth_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_malkuth_damaged_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/말쿠트/기본/공식/official_malkuth_damaged_portrait.png",
+        "note": "bluearchive.fandom portrait (파손)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Malkuth_Damaged_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_malkuth_hatless_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/말쿠트/기본/공식/official_malkuth_hatless_portrait.png",
+        "note": "bluearchive.fandom portrait (모자 없음)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Malkuth_Hatless_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "말쿠트",
+    "family_name_kr": null,
+    "canonical_name_kr": "말쿠트"
+  },
+  {
+    "id": null,
+    "name_kr": "소프",
+    "name_en": "Sof",
+    "name_ja": "ソフ",
+    "full_name_kr": "소프",
+    "full_name_en": "Sof",
+    "full_name_ja": "ソフ",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "데카그라마톤",
+    "club_en": "Decagrammaton",
+    "club_ja": "デカグラマトン",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "데카그라마톤의 예언자 유닛 소프.",
+    "description_en": "Decagrammaton prophet unit Sof.",
+    "description_ja": "デカグラマトンの預言者ユニットソフ。",
+    "search_tags": {
+      "kr": [
+        "소프",
+        "데카그라마톤",
+        "밀레니엄"
+      ],
+      "en": [
+        "Sof",
+        "Decagrammaton"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_sof_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/소프/기본/공식/official_sof_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Sof_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_sof_damaged_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/소프/기본/공식/official_sof_damaged_portrait.png",
+        "note": "bluearchive.fandom portrait (파손)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Sof_Damaged_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2,
+    "personal_name_kr": "소프",
+    "family_name_kr": null,
+    "canonical_name_kr": "소프"
+  },
+  {
+    "id": null,
+    "name_kr": "아인",
+    "name_en": "Ein",
+    "name_ja": "アイン",
+    "full_name_kr": "아인",
+    "full_name_en": "Ein",
+    "full_name_ja": "アイン",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "데카그라마톤",
+    "club_en": "Decagrammaton",
+    "club_ja": "デカグラマトン",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "데카그라마톤의 예언자 유닛 아인. 무수한 칼날을 두른 백색의 기체.",
+    "description_en": "Decagrammaton prophet unit Ein.",
+    "description_ja": "デカグラマトンの預言者ユニットアイン。",
+    "search_tags": {
+      "kr": [
+        "아인",
+        "데카그라마톤",
+        "밀레니엄"
+      ],
+      "en": [
+        "Ein",
+        "Decagrammaton"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ein_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/아인/기본/공식/official_ein_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ein_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ein_damaged_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/아인/기본/공식/official_ein_damaged_portrait.png",
+        "note": "bluearchive.fandom portrait (파손)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ein_Damaged_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2,
+    "personal_name_kr": "아인",
+    "family_name_kr": null,
+    "canonical_name_kr": "아인"
+  },
+  {
+    "id": null,
+    "name_kr": "오르",
+    "name_en": "Ohr",
+    "name_ja": "オル",
+    "full_name_kr": "오르",
+    "full_name_en": "Ohr",
+    "full_name_ja": "オル",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "데카그라마톤",
+    "club_en": "Decagrammaton",
+    "club_ja": "デカグラマトン",
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "description_kr": "데카그라마톤의 예언자 유닛 오르. 거대한 백색 헤일로가 특징.",
+    "description_en": "Decagrammaton prophet unit Ohr.",
+    "description_ja": "デカグラマトンの預言者ユニットオル。",
+    "search_tags": {
+      "kr": [
+        "오르",
+        "데카그라마톤",
+        "밀레니엄"
+      ],
+      "en": [
+        "Ohr",
+        "Decagrammaton"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ohr_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/오르/기본/공식/official_ohr_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ohr_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ohr_damaged_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/데카그라마톤/오르/기본/공식/official_ohr_damaged_portrait.png",
+        "note": "bluearchive.fandom portrait (파손)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ohr_Damaged_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2,
+    "personal_name_kr": "오르",
+    "family_name_kr": null,
+    "canonical_name_kr": "오르"
   },
   {
     "id": 23003,
@@ -12649,6 +13029,70 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "아야메",
+    "family_name_kr": "나나카도",
+    "canonical_name_kr": "나나카도 아야메"
+  },
+  {
+    "id": null,
+    "name_kr": "나나카도 아야메",
+    "name_en": "Nanakado Ayame",
+    "name_ja": "七門アヤメ",
+    "full_name_kr": "나나카도 아야메 (트와일라잇)",
+    "full_name_en": "Nanakado Ayame (Twilight)",
+    "full_name_ja": "七門アヤメ（トワイライト）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Allied Hyakkiyako Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkayouran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "트와일라잇",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "진동",
+    "armor_type": "탄력장갑",
+    "description_kr": "나나카도 아야메의 트와일라잇 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+    "description_en": "Unreleased 'Twilight' variant of Nanakado Ayame.",
+    "description_ja": "七門アヤメのトワイライトバージョン。",
+    "search_tags": {
+      "kr": [
+        "나나카도",
+        "나나카도 아야메",
+        "나나카도아야메",
+        "아야메",
+        "트와일라잇"
+      ],
+      "en": [
+        "nanakado ayame",
+        "nanakado_nanakado ayame",
+        "아야메"
+      ],
+      "ja": [
+        "七門アヤメ",
+        "七門七門アヤメ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ayame_twilight_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/트와일라잇/공식/official_ayame_twilight_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayame_Twilight_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_ayame_twilight_enhanced_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/나나카도 아야메/트와일라잇/공식/official_ayame_twilight_enhanced_portrait.png",
+        "note": "bluearchive.fandom portrait (강화)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayame_Twilight_Enhanced_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2,
     "personal_name_kr": "아야메",
     "family_name_kr": "나나카도",
     "canonical_name_kr": "나나카도 아야메"
@@ -18871,6 +19315,62 @@
     "canonical_name_kr": "오쿠소라 아야네"
   },
   {
+    "id": null,
+    "name_kr": "오쿠소라 아야네",
+    "name_en": "Ayane",
+    "name_ja": "アヤネ",
+    "full_name_kr": "오쿠소라 아야네 (방주 제복)",
+    "full_name_en": "Ayane (Ark Uniform)",
+    "full_name_ja": "アヤネ（方舟制服）",
+    "school_kr": "아비도스 고등학교",
+    "school_en": "Abydos",
+    "school_ja": "アビドス",
+    "club_kr": "대책위원회",
+    "club_en": "Foreclosure Task Force",
+    "club_ja": "対策委員会",
+    "seasonal": "방주 제복",
+    "status": "미출시 시즈널",
+    "role": "힐러",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "오쿠소라 아야네의 방주 제복 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+    "description_en": "Unreleased 'Ark Uniform' variant of Ayane.",
+    "description_ja": "アヤネの方舟制服バージョン。",
+    "search_tags": {
+      "kr": [
+        "방주 제복",
+        "아야네",
+        "오쿠소라",
+        "오쿠소라 아야네",
+        "오쿠소라아야네"
+      ],
+      "en": [
+        "ayane",
+        "okusora_ayane",
+        "아야네"
+      ],
+      "ja": [
+        "アヤネ",
+        "奥空アヤネ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ayane_ark_uniform_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/아야네/방주 제복/공식/official_ayane_ark_uniform_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayane_Ark_Uniform_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
+    "personal_name_kr": "아야네",
+    "family_name_kr": "오쿠소라",
+    "canonical_name_kr": "오쿠소라 아야네"
+  },
+  {
     "id": 26007,
     "name_kr": "오쿠소라 아야네",
     "name_en": "Ayane",
@@ -22842,6 +23342,62 @@
       }
     ],
     "image_count": 3,
+    "personal_name_kr": "아유무",
+    "family_name_kr": "이와비츠",
+    "canonical_name_kr": "이와비츠 아유무"
+  },
+  {
+    "id": null,
+    "name_kr": "이와비츠 아유무",
+    "name_en": "Iwabitsu Ayumu",
+    "name_ja": "岩櫃アユム",
+    "full_name_kr": "이와비츠 아유무 (방주 제복)",
+    "full_name_en": "Iwabitsu Ayumu (Ark Uniform)",
+    "full_name_ja": "岩櫃アユム（方舟制服）",
+    "school_kr": "총학생회",
+    "school_en": "General Student Council",
+    "school_ja": "連邦生徒会",
+    "club_kr": "조정실",
+    "club_en": "Coordination Bureau",
+    "club_ja": "調整室",
+    "seasonal": "방주 제복",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "이와비츠 아유무의 방주 제복 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+    "description_en": "Unreleased 'Ark Uniform' variant of Iwabitsu Ayumu.",
+    "description_ja": "岩櫃アユムの方舟制服バージョン。",
+    "search_tags": {
+      "kr": [
+        "방주 제복",
+        "아유무",
+        "이와비츠",
+        "이와비츠 아유무",
+        "이와비츠아유무"
+      ],
+      "en": [
+        "iwabitsu ayumu",
+        "iwabitsu_iwabitsu ayumu",
+        "아유무"
+      ],
+      "ja": [
+        "岩櫃アユム",
+        "岩櫃岩櫃アユム"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_ayumu_ark_uniform_portrait.png",
+        "path": "총학생회/조정실/이와비츠 아유무/방주 제복/공식/official_ayumu_ark_uniform_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayumu_Ark_Uniform_Portrait.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 1,
     "personal_name_kr": "아유무",
     "family_name_kr": "이와비츠",
     "canonical_name_kr": "이와비츠 아유무"

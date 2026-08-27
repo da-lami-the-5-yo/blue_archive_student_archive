@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "텐도 아리스",
+      "en": "Aris",
+      "ja": "アリス"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium",
+      "ja": "ミレニアム"
+    },
+    "club": {
+      "kr": "게임개발부",
+      "en": "Game Development Department",
+      "ja": "ゲーム開発部"
+    },
+    "seasonal": "바디수트",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "스트라이커",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "텐도 아리스의 바디수트 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+      "en": "Unreleased 'Bodysuit' variant of Aris.",
+      "ja": "アリスのボディスーツバージョン。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_alice_bodysuit_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/게임개발부/아리스/바디수트/공식/official_alice_bodysuit_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Alice_Bodysuit_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}

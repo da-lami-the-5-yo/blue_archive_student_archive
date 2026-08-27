@@ -30,7 +30,7 @@
     }
   },
   "collection_stats": {
-    "공식": 3
+    "공식": 4
   },
   "images": [
     {
@@ -56,8 +56,16 @@
       "note": "schaledb icon (id 20057)",
       "source": "https://schaledb.com/images/student/icon/20057.webp",
       "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_akane_schoolgirl_no_glasses_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/아카네/교복/공식/official_akane_schoolgirl_no_glasses_portrait.png",
+      "note": "bluearchive.fandom portrait (안경 없음)",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Akane_Schoolgirl_No_Glasses_Portrait.png",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 3,
+  "image_count": 4,
   "updated": "2026-08-27"
 }

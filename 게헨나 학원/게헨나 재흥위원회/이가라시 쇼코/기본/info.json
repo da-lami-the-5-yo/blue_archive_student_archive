@@ -27,33 +27,34 @@
       "kr": "게헨나 재흥위원회의 부원.",
       "en": "Unreleased student from Gehenna Academy Gehenna Restoration Committee.",
       "ja": "ゲヘナ学園 ゲヘナ再興委員会所属の未実装生徒。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "이가라시 쇼코"
-      ],
-      "en": [
-        "igarashi_shoko_(blue_archive)"
-      ],
-      "ja": [
-        "五十嵐ショウコ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
       "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_wiki_portrait.png"
+    },
+    {
+      "category": "공식",
+      "filename": "official_shouko_portrait.png",
+      "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_shouko_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shouko_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_shouko_no_glasses_portrait.png",
+      "path": "게헨나 학원/게헨나 재흥위원회/이가라시 쇼코/기본/공식/official_shouko_no_glasses_portrait.png",
+      "note": "bluearchive.fandom portrait (안경 없음)",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shouko_No_Glasses_Portrait.png",
+      "collected": "2026-08-27"
     }
   ],
-  "image_count": 1
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

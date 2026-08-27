@@ -1,0 +1,47 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "오쿠소라 아야네",
+      "en": "Ayane",
+      "ja": "アヤネ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos",
+      "ja": "アビドス"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "방주 제복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "힐러",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "오쿠소라 아야네의 방주 제복 버전. 스토리 등장 미출시 시즈널 (게임 내 에셋 기반).",
+      "en": "Unreleased 'Ark Uniform' variant of Ayane.",
+      "ja": "アヤネの方舟制服バージョン。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_ayane_ark_uniform_portrait.png",
+      "path": "아비도스 고등학교/대책위원회/아야네/방주 제복/공식/official_ayane_ark_uniform_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Ayane_Ark_Uniform_Portrait.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-27"
+}
