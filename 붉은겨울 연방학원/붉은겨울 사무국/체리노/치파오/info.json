@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "렌카와 체리노",
+      "en": "Renkawa Cherino",
+      "ja": "連河チェリノ"
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter Federal Academy",
+      "ja": "レッドウィンター連邦学園"
+    },
+    "club": {
+      "kr": "붉은겨울 사무국",
+      "en": "Red Winter Secretariat",
+      "ja": "レッドウィンター事務局"
+    },
+    "seasonal": "치파오",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "미들",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "《월화몽소》 이벤트에 등장한 산해경풍 붉은 치파오를 입은 붉은겨울의 서기장 체리노(치리노).",
+      "en": "Cherino in Shanhaijing-style Qipao appearing in Tsukihana Moso event.",
+      "ja": "月華夢想イベントに登場したチャイナ服姿のチェリノ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_cherino_qipao_portrait.png",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/치파오/공식/official_cherino_qipao_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Cherino_Qipao_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_cherino_qipao_icon.png",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/치파오/공식/official_cherino_qipao_icon.png",
+      "note": "bluearchive.fandom icon",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Cherino_Qipao_Icon.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_cherino_qipao_portrait_no_moustache.png",
+      "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/치파오/공식/official_cherino_qipao_portrait_no_moustache.png",
+      "note": "bluearchive.fandom portrait (수염 없음)",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Cherino_Qipao_Portrait_No_Moustache.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

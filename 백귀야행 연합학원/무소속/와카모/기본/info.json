@@ -1,7 +1,7 @@
 {
   "student_info": {
     "name": {
-      "kr": "와카모",
+      "kr": "코사카 와카모",
       "en": "Wakamo",
       "ja": "ワカモ"
     },
@@ -11,7 +11,7 @@
       "ja": "百鬼夜行"
     },
     "club": {
-      "kr": "없음",
+      "kr": "무소속",
       "en": "None",
       "ja": "無し"
     },
@@ -27,49 +27,28 @@
       "kr": "백귀야행 연합학원에서 정학당하고, 교정국에서는 탈옥까지 한 <일곱 죄수> 중 한 명.\n\n평소 기분이 내키는 대로 무차별 파괴를 일삼고 있기에 <재액의 여우>라고 불리며 두려움의 대상이 되었다. 동기와 목적도 일체 수수께끼에 싸여 있으며, 들리기로는 가면 밑의 얼굴이 굉장히 무섭다. 악마처럼 흉측하다. 등의 소문이 끊이지 않지만, 어디까지나 소문은 소문일 뿐이다.",
       "en": "One of the Seven Prisoners that escaped the Corrections Bureau after being suspended from Allied Hyakkiyako Academy.\n\nShe is the feared Fox of Calamity due to her destructive ways. Her motives are a mystery, and there are several rumors surrounding the face under her mask. Some say there's a monstrous devil underneath, but it remains only a rumor.",
       "ja": "百鬼夜行連合学院所属、しかし停学処分となった後に矯正局へと入れられ、さらにそこから脱獄した「七囚人」の一人。\n\n無差別かつ大規模な破壊行為により「災厄の狐」と呼ばれ恐れられる少女。動機も目的も一切が謎に包まれている。仮面の下に隠された素顔は鬼のように怖い、悪魔のように醜いなどの噂が絶えないが、知らないものは大抵恐ろしく感じられるものである。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "와카모",
-        "와카모",
-        "와카모 블루아카이브"
-      ],
-      "en": [
-        "wakamo_(blue_archive)",
-        "wakamo",
-        "blue_archive_wakamo"
-      ],
-      "ja": [
-        "ワカモ",
-        "ワカモ(ブルーアーカイブ)",
-        "ブルーアーカイブ ワカモ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 3,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 3
+    "공식": 3
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_collection.webp",
-      "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_collection.webp"
+      "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_collection.webp"
     },
     {
       "category": "공식",
       "filename": "official_lobby.webp",
-      "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_lobby.webp"
+      "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_lobby.webp"
     },
     {
       "category": "공식",
       "filename": "official_portrait.webp",
-      "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_portrait.webp"
+      "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_portrait.webp"
     }
   ],
-  "image_count": 3
+  "image_count": 3,
+  "updated": "2026-08-27"
 }

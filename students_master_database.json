@@ -5210,114 +5210,6 @@
     "canonical_name_kr": "후도 안"
   },
   {
-    "id": null,
-    "family_name_kr": "아스마",
-    "personal_name_kr": "토키",
-    "canonical_name_kr": "아스마 토키",
-    "name_kr": "아스마 토키",
-    "name_en": "Asuma Toki",
-    "name_ja": "飛鳥馬トキ",
-    "full_name_kr": "아스마 토키 (교복)",
-    "full_name_en": "Asuma Toki (School Uniform)",
-    "full_name_ja": "飛鳥馬トキ（制服）",
-    "school_kr": "밀레니엄 사이언스 스쿨",
-    "school_en": "Millennium Science School",
-    "school_ja": "ミレニアムサイエンススクール",
-    "club_kr": "C&C",
-    "club_en": "Cleaning & Clearing",
-    "club_ja": "C&C",
-    "seasonal": "교복",
-    "status": "미출시 시즈널",
-    "role": "스트라이커",
-    "position": "미들",
-    "bullet_type": "폭발",
-    "armor_type": "특수장갑",
-    "description_kr": "밀레니엄 이벤트 《Code: BOX》에 등장한 정식 밀레니엄 교복을 착용한 토키(교토키).",
-    "description_en": "Toki wearing Millennium official school uniform appearing in Code: BOX event.",
-    "description_ja": "ミレニアムイベント『Code: BOX』に登場した制服姿のトキ。",
-    "search_tags": {
-      "kr": [
-        "아스마 토키 (교복)",
-        "교복 토키",
-        "교토키",
-        "토키"
-      ],
-      "en": [
-        "toki_school_uniform"
-      ],
-      "ja": [
-        "制服トキ"
-      ]
-    },
-    "images": [],
-    "image_count": 0
-  },
-  {
-    "id": 16019,
-    "family_name_kr": "아스마",
-    "personal_name_kr": "토키",
-    "canonical_name_kr": "아스마 토키",
-    "name_kr": "아스마 토키",
-    "name_en": "Asuma Toki",
-    "name_ja": "飛鳥馬トキ",
-    "full_name_kr": "아스마 토키 (무장)",
-    "full_name_en": "Asuma Toki (Armed)",
-    "full_name_ja": "飛鳥馬トキ（기본）",
-    "school_kr": "밀레니엄 사이언스 스쿨",
-    "school_en": "Millennium Science School",
-    "school_ja": "ミレニアムサイエンススクール",
-    "club_kr": "C&C",
-    "club_en": "Cleaning & Clearing",
-    "club_ja": "C&C",
-    "seasonal": "무장",
-    "status": "출시",
-    "role": "스트라이커",
-    "position": "미들",
-    "bullet_type": "관통",
-    "armor_type": "경장갑",
-    "description_kr": "아스마 토키의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
-    "description_en": "Released variant 'Armed' of Asuma Toki, added via schaledb roster sync (2026-08).",
-    "description_ja": "飛鳥馬トキの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Armed",
-      "Asuma Toki",
-      "C&C",
-      "Toki ",
-      "飛鳥馬トキ",
-      "무장",
-      "밀레니엄 사이언스 스쿨",
-      "아스마 토키",
-      "토키"
-    ],
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_schaledb_portrait.webp",
-        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_portrait.webp",
-        "note": "schaledb portrait (id 16019)",
-        "source": "https://schaledb.com/images/student/portrait/16019.webp",
-        "collected": "2026-08-27"
-      },
-      {
-        "category": "공식",
-        "filename": "official_schaledb_collection.webp",
-        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_collection.webp",
-        "note": "schaledb collection (id 16019)",
-        "source": "https://schaledb.com/images/student/collection/16019.webp",
-        "collected": "2026-08-27"
-      },
-      {
-        "category": "공식",
-        "filename": "official_schaledb_icon.webp",
-        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_icon.webp",
-        "note": "schaledb icon (id 16019)",
-        "source": "https://schaledb.com/images/student/icon/16019.webp",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 3
-  },
-  {
     "id": 20057,
     "family_name_kr": "무로카사",
     "personal_name_kr": "아카네",
@@ -5702,6 +5594,66 @@
     "canonical_name_kr": "미카모 네루"
   },
   {
+    "id": null,
+    "family_name_kr": "아스마",
+    "personal_name_kr": "토키",
+    "canonical_name_kr": "아스마 토키",
+    "name_kr": "아스마 토키",
+    "name_en": "Asuma Toki",
+    "name_ja": "飛鳥馬トキ",
+    "full_name_kr": "아스마 토키 (교복)",
+    "full_name_en": "Asuma Toki (School Uniform)",
+    "full_name_ja": "飛鳥馬トキ（制服）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "Cleaning&Clearing",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "Cleaning&Clearing",
+    "seasonal": "교복",
+    "status": "미출시 시즈널",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "밀레니엄 이벤트 《Code: BOX》에 등장한 정식 밀레니엄 교복을 착용한 토키(교토키).",
+    "description_en": "Toki wearing Millennium official school uniform appearing in Code: BOX event.",
+    "description_ja": "ミレニアムイベント『Code: BOX』に登場した制服姿のトキ。",
+    "search_tags": {
+      "kr": [
+        "아스마 토키 (교복)",
+        "교복 토키",
+        "교토키",
+        "토키"
+      ],
+      "en": [
+        "toki_school_uniform"
+      ],
+      "ja": [
+        "制服トキ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_toki_schoolgirl_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/교복/공식/official_toki_schoolgirl_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Toki_Schoolgirl_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_toki_schoolgirl_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/교복/공식/official_toki_schoolgirl_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Toki_Schoolgirl_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
+  },
+  {
     "id": 10062,
     "name_kr": "아스마 토키",
     "name_en": "Toki",
@@ -5762,6 +5714,71 @@
     "personal_name_kr": "토키",
     "family_name_kr": "아스마",
     "canonical_name_kr": "아스마 토키"
+  },
+  {
+    "id": 16019,
+    "family_name_kr": "아스마",
+    "personal_name_kr": "토키",
+    "canonical_name_kr": "아스마 토키",
+    "name_kr": "아스마 토키",
+    "name_en": "Asuma Toki",
+    "name_ja": "飛鳥馬トキ",
+    "full_name_kr": "아스마 토키 (무장)",
+    "full_name_en": "Asuma Toki (Armed)",
+    "full_name_ja": "飛鳥馬トキ（기본）",
+    "school_kr": "밀레니엄 사이언스 스쿨",
+    "school_en": "Millennium Science School",
+    "school_ja": "ミレニアムサイエンススクール",
+    "club_kr": "Cleaning&Clearing",
+    "club_en": "Cleaning & Clearing",
+    "club_ja": "Cleaning&Clearing",
+    "seasonal": "무장",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "아스마 토키의 무장 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Armed' of Asuma Toki, added via schaledb roster sync (2026-08).",
+    "description_ja": "飛鳥馬トキの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Armed",
+      "Asuma Toki",
+      "C&C",
+      "Toki ",
+      "飛鳥馬トキ",
+      "무장",
+      "밀레니엄 사이언스 스쿨",
+      "아스마 토키",
+      "토키"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 16019)",
+        "source": "https://schaledb.com/images/student/portrait/16019.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 16019)",
+        "source": "https://schaledb.com/images/student/collection/16019.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/무장/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 16019)",
+        "source": "https://schaledb.com/images/student/icon/16019.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 10067,
@@ -7437,8 +7454,25 @@
         "パジャマハレ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_hare_pajamas_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/파자마/공식/official_hare_pajamas_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hare_Pajamas_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_hare_pajamas_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/하레/파자마/공식/official_hare_pajamas_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Hare_Pajamas_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 26001,
@@ -7606,8 +7640,25 @@
         "パジャマコタマ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kotama_pajamas_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/파자마/공식/official_kotama_pajamas_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kotama_Pajamas_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kotama_pajamas_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/파자마/공식/official_kotama_pajamas_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kotama_Pajamas_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 20013,
@@ -8281,8 +8332,25 @@
         "防寒リオ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_rio_winter_portrait.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/방한복/공식/official_rio_winter_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rio_Winter_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_rio_winter_icon.png",
+        "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/방한복/공식/official_rio_winter_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rio_Winter_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 10063,
@@ -10171,65 +10239,6 @@
     "image_count": 3
   },
   {
-    "canonical_name_kr": "나카츠카사 키리노",
-    "personal_name_kr": "키리노",
-    "family_name_kr": "나카츠카사",
-    "name_en": "Nakatsukasa Kirino",
-    "name_ja": "中務キリノ",
-    "school_kr": "발키리 경찰학교",
-    "school_en": "Valkyrie Police Academy",
-    "school_ja": "ヴァルキューレ警察学校",
-    "club_kr": "공안국",
-    "club_en": "Public Security Bureau",
-    "club_ja": "公安局",
-    "seasonal": "아이돌",
-    "status": "미출시 시즈널",
-    "role": "서포터",
-    "position": "스페셜",
-    "bullet_type": "관통",
-    "armor_type": "특수장갑",
-    "description_kr": "《Serenade Promenade》 이벤트에 등장한 발키리 경찰학교 홍보 아이돌 제복을 입은 키리노.",
-    "description_en": "Kirino in Valkyrie police idol PR costume during Serenade Promenade.",
-    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のキリノ。",
-    "search_tags": {
-      "kr": [
-        "나카츠카사 키리노 (아이돌)",
-        "아이돌 키리노",
-        "키리노"
-      ],
-      "en": [
-        "kirino_idol"
-      ],
-      "ja": [
-        "アイドルキリノ"
-      ]
-    },
-    "id": null,
-    "name_kr": "나카츠카사 키리노",
-    "full_name_kr": "나카츠카사 키리노 (아이돌)",
-    "full_name_en": "Nakatsukasa Kirino (아이돌)",
-    "full_name_ja": "中務キリノ（아이돌）",
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_kirino_idol_portrait.png",
-        "path": "발키리 경찰학교/생활안전국/키리노/아이돌/공식/official_kirino_idol_portrait.png",
-        "note": "인게임 포트레이트",
-        "source": "https://bluearchive.fandom.com",
-        "collected": "2026-08-27"
-      },
-      {
-        "category": "공식",
-        "filename": "official_kirino_idol_icon.png",
-        "path": "발키리 경찰학교/생활안전국/키리노/아이돌/공식/official_kirino_idol_icon.png",
-        "note": "인게임 아이콘",
-        "source": "https://bluearchive.fandom.com",
-        "collected": "2026-08-27"
-      }
-    ],
-    "image_count": 2
-  },
-  {
     "id": null,
     "name_kr": "시마 코노카",
     "name_en": "Shima Konoka",
@@ -10618,6 +10627,65 @@
     "personal_name_kr": "키리노",
     "family_name_kr": "나카츠카사",
     "canonical_name_kr": "나카츠카사 키리노"
+  },
+  {
+    "canonical_name_kr": "나카츠카사 키리노",
+    "personal_name_kr": "키리노",
+    "family_name_kr": "나카츠카사",
+    "name_en": "Nakatsukasa Kirino",
+    "name_ja": "中務キリノ",
+    "school_kr": "발키리 경찰학교",
+    "school_en": "Valkyrie Police Academy",
+    "school_ja": "ヴァルキューレ警察学校",
+    "club_kr": "생활안전국",
+    "club_en": "Public Safety Bureau",
+    "club_ja": "生活安全局",
+    "seasonal": "아이돌",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "관통",
+    "armor_type": "특수장갑",
+    "description_kr": "《Serenade Promenade》 이벤트에 등장한 발키리 경찰학교 홍보 아이돌 제복을 입은 키리노.",
+    "description_en": "Kirino in Valkyrie police idol PR costume during Serenade Promenade.",
+    "description_ja": "セレナーデ・プロムナードに登場したアイドル衣装のキリノ。",
+    "search_tags": {
+      "kr": [
+        "나카츠카사 키리노 (아이돌)",
+        "아이돌 키리노",
+        "키리노"
+      ],
+      "en": [
+        "kirino_idol"
+      ],
+      "ja": [
+        "アイドルキリノ"
+      ]
+    },
+    "id": null,
+    "name_kr": "나카츠카사 키리노",
+    "full_name_kr": "나카츠카사 키리노 (아이돌)",
+    "full_name_en": "Nakatsukasa Kirino (아이돌)",
+    "full_name_ja": "中務キリノ（아이돌）",
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_kirino_idol_portrait.png",
+        "path": "발키리 경찰학교/생활안전국/키리노/아이돌/공식/official_kirino_idol_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_kirino_idol_icon.png",
+        "path": "발키리 경찰학교/생활안전국/키리노/아이돌/공식/official_kirino_idol_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 16008,
@@ -11221,6 +11289,68 @@
     "image_count": 0
   },
   {
+    "id": 10033,
+    "name_kr": "코사카 와카모",
+    "name_en": "Wakamo",
+    "name_ja": "ワカモ",
+    "full_name_kr": "코사카 와카모",
+    "full_name_en": "Wakamo",
+    "full_name_ja": "ワカモ",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "무소속",
+    "club_en": "None",
+    "club_ja": "無し",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "어태커",
+    "position": "스트라이커",
+    "bullet_type": "신비",
+    "armor_type": "경장갑",
+    "description_kr": "백귀야행 연합학원에서 정학당하고, 교정국에서는 탈옥까지 한 <일곱 죄수> 중 한 명.\n\n평소 기분이 내키는 대로 무차별 파괴를 일삼고 있기에 <재액의 여우>라고 불리며 두려움의 대상이 되었다. 동기와 목적도 일체 수수께끼에 싸여 있으며, 들리기로는 가면 밑의 얼굴이 굉장히 무섭다. 악마처럼 흉측하다. 등의 소문이 끊이지 않지만, 어디까지나 소문은 소문일 뿐이다.",
+    "description_en": "One of the Seven Prisoners that escaped the Corrections Bureau after being suspended from Allied Hyakkiyako Academy.\n\nShe is the feared Fox of Calamity due to her destructive ways. Her motives are a mystery, and there are several rumors surrounding the face under her mask. Some say there's a monstrous devil underneath, but it remains only a rumor.",
+    "description_ja": "百鬼夜行連合学院所属、しかし停学処分となった後に矯正局へと入れられ、さらにそこから脱獄した「七囚人」の一人。\n\n無差別かつ大規模な破壊行為により「災厄の狐」と呼ばれ恐れられる少女。動機も目的も一切が謎に包まれている。仮面の下に隠された素顔は鬼のように怖い、悪魔のように醜いなどの噂が絶えないが、知らないものは大抵恐ろしく感じられるものである。",
+    "search_tags": {
+      "kr": [
+        "와카모",
+        "코사카",
+        "코사카 와카모",
+        "코사카와카모"
+      ],
+      "en": [
+        "kosaka_wakamo",
+        "wakamo",
+        "와카모"
+      ],
+      "ja": [
+        "ワカモ",
+        "狐坂ワカモ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_collection.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_lobby.webp"
+      },
+      {
+        "category": "공식",
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/무소속/와카모/기본/공식/official_portrait.webp"
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "와카모",
+    "family_name_kr": "코사카",
+    "canonical_name_kr": "코사카 와카모"
+  },
+  {
     "id": null,
     "name_kr": "코사카 와카모",
     "name_en": "Kosaka Wakamo",
@@ -11267,7 +11397,7 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "백귀야행 연합학원/무소속/코사카 와카모/사복/공식/official_wiki_portrait.png"
+        "path": "백귀야행 연합학원/무소속/와카모/사복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
@@ -11276,129 +11406,200 @@
     "canonical_name_kr": "코사카 와카모"
   },
   {
-    "id": 10121,
-    "family_name_kr": "카데노코지",
-    "personal_name_kr": "유카리",
-    "canonical_name_kr": "카데노코지 유카리",
-    "name_kr": "카데노코지 유카리",
-    "name_en": "Kadenokouji Yukari",
-    "name_ja": "勘解由小路ユカリ",
-    "full_name_kr": "카데노코지 유카리 (수영복)",
-    "full_name_en": "Kadenokouji Yukari (Swimsuit)",
-    "full_name_ja": "勘解由小路ユカリ（기본）",
+    "id": 10043,
+    "name_kr": "코사카 와카모",
+    "name_en": "Wakamo",
+    "name_ja": "ワカモ",
+    "full_name_kr": "코사카 와카모 (수영복)",
+    "full_name_en": "Wakamo (Swimsuit)",
+    "full_name_ja": "ワカモ（水着）",
     "school_kr": "백귀야행 연합학원",
-    "school_en": "Hyakkiyako Alliance Academy",
-    "school_ja": "百鬼夜行連合学院",
-    "club_kr": "백화요란",
-    "club_en": "Hyakkaryoran Conflict Resolution Council",
-    "club_ja": "百花繚乱紛争調停委員会",
+    "school_en": "Hyakkiyako",
+    "school_ja": "百鬼夜行",
+    "club_kr": "무소속",
+    "club_en": "None",
+    "club_ja": "無し",
     "seasonal": "수영복",
     "status": "출시",
-    "role": "스트라이커",
-    "position": "백",
+    "role": "어태커",
+    "position": "스트라이커",
     "bullet_type": "관통",
-    "armor_type": "경장갑",
-    "description_kr": "카데노코지 유카리의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
-    "description_en": "Released variant 'Swimsuit' of Kadenokouji Yukari, added via schaledb roster sync (2026-08).",
-    "description_ja": "勘解由小路ユカリの기본バージョン。schaledbロスター同期で追加。",
-    "search_tags": [
-      "Kadenokouji Yukari",
-      "Swimsuit",
-      "Yukari ",
-      "勘解由小路ユカリ",
-      "백귀야행 연합학원",
-      "백화요란",
-      "수영복",
-      "유카리",
-      "카데노코지 유카리"
-    ],
+    "armor_type": "중장갑",
+    "description_kr": "<일곱 죄수> 중 한 명으로, 여름을 맞이하여 보다 화려한 꽃처럼 피어난 소녀.\n\n그녀가 수영복 차림으로 바다를 찾은 건 어디까지나 선생님에게 보여주기 위해서이며, 얼굴에 미소를 띠고 있는 건 이 여름 바다에서 우연히 선생님을 발견했기 때문이다. 이처럼 뜨거운 여름 햇살 아래, 그 뜨거움에 지지 않을 만큼 선생님을 향한 정열적인 어프로치가 시작된, 언제나 변함없이 연심에 전력투구 중인 소녀.",
+    "description_en": "One of the Seven Prisoners. A girl who blooms like a colorful flower in summer.\n\nShe arrived on the beach in her swimsuit to show it off to Sensei and ended up with a huge smile on her face because she ran into Sensei just in time. Her passion toward Sensei is as strong as the summer sun. She always tries her best to get closer to them.",
+    "description_ja": "百鬼夜行連合学院所属、「七囚人」の一人であり、夏を迎えてより艶やかに咲いた少女。\n\n彼女が水着姿で海を訪れたのは、ただその姿を先生に見せるため。彼女が笑顔でいられるのは、ひとえに先生と出会えたため。どんなに暑い夏の日差しの下でも、それに負けないほどの情熱的なアプローチで先生を襲う。相変わらず誰よりも恋心に全力投球な少女、夏バージョン。",
+    "search_tags": {
+      "kr": [
+        "수영복",
+        "와카모",
+        "와카모(수영복)",
+        "코사카",
+        "코사카 와카모",
+        "코사카 와카모(수영복)",
+        "코사카와카모"
+      ],
+      "en": [
+        "kosaka_wakamo",
+        "wakamo",
+        "와카모"
+      ],
+      "ja": [
+        "ワカモ",
+        "狐坂ワカモ"
+      ]
+    },
     "images": [
       {
         "category": "공식",
-        "filename": "official_schaledb_portrait.webp",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_portrait.webp",
-        "note": "schaledb portrait (id 10121)",
-        "source": "https://schaledb.com/images/student/portrait/10121.webp",
-        "collected": "2026-08-27"
+        "filename": "official_collection.webp",
+        "path": "백귀야행 연합학원/무소속/와카모/수영복/공식/official_collection.webp"
       },
       {
         "category": "공식",
-        "filename": "official_schaledb_collection.webp",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_collection.webp",
-        "note": "schaledb collection (id 10121)",
-        "source": "https://schaledb.com/images/student/collection/10121.webp",
-        "collected": "2026-08-27"
+        "filename": "official_lobby.webp",
+        "path": "백귀야행 연합학원/무소속/와카모/수영복/공식/official_lobby.webp"
       },
       {
         "category": "공식",
-        "filename": "official_schaledb_icon.webp",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_icon.webp",
-        "note": "schaledb icon (id 10121)",
-        "source": "https://schaledb.com/images/student/icon/10121.webp",
-        "collected": "2026-08-27"
+        "filename": "official_portrait.webp",
+        "path": "백귀야행 연합학원/무소속/와카모/수영복/공식/official_portrait.webp"
       }
     ],
-    "image_count": 3
+    "image_count": 3,
+    "personal_name_kr": "와카모",
+    "family_name_kr": "코사카",
+    "canonical_name_kr": "코사카 와카모"
   },
   {
-    "canonical_name_kr": "카데노코지 유카리",
-    "personal_name_kr": "유카리",
-    "family_name_kr": "카데노코지",
-    "name_en": "Kadenokoji Yukari",
-    "name_ja": "勘解由小路ユカリ",
+    "id": null,
+    "name_kr": "고료 나구사",
+    "name_en": "Goryou Nagusa",
+    "name_ja": "五稜ナグサ",
+    "full_name_kr": "고료 나구사",
+    "full_name_en": "Goryou Nagusa (Default)",
+    "full_name_ja": "五稜ナグサ（基本）",
     "school_kr": "백귀야행 연합학원",
     "school_en": "Hyakkiyako Alliance Academy",
     "school_ja": "百鬼夜行連合学院",
-    "club_kr": "백화요란",
-    "club_en": "Hyakkaryoran Conflict Resolution Council",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkayouran Conflict Resolution Council",
     "club_ja": "百花繚乱紛争調停委員会",
-    "seasonal": "중학생",
-    "status": "미출시 시즈널",
-    "role": "서포터",
-    "position": "스페셜",
-    "bullet_type": "신비",
-    "armor_type": "특수장갑",
-    "description_kr": "백화요란 편 1장에 등장한 과거 중학생 시절의 어린 카데노코지 유카리(응애유카리).",
-    "description_en": "Middle school younger version of Yukari appearing in Hyakkaryoran Chapter 1.",
-    "description_ja": "百花繚乱編1章に登場した中学生時代のユカリ。",
+    "seasonal": "기본",
+    "status": "출시",
+    "role": "딜러",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "중장갑",
+    "description_kr": "백귀야행 연합학원 백화요란 분쟁조정제 부부장. 아야메의 뒤를 이어 백화요란을 지키기 위해 고뇌하는 학생.",
+    "description_en": "Vice President of the Hyakkayouran Conflict Resolution Council at Hyakkiyako Alliance Academy.",
+    "description_ja": "百鬼夜行連合学院百花繚乱紛争調停委員会の副部長。",
     "search_tags": {
       "kr": [
-        "카데노코지 유카리 (중학생)",
-        "중학생 유카리",
-        "응애유카리",
-        "유카리"
+        "고료",
+        "고료 나구사",
+        "고료나구사",
+        "나구사"
       ],
       "en": [
-        "yukari_middle_school"
+        "goryo_goryou nagusa",
+        "goryou nagusa",
+        "나구사"
       ],
       "ja": [
-        "中学生ユカリ"
+        "五稜ナグサ",
+        "御稜五稜ナグサ"
       ]
     },
-    "id": null,
-    "name_kr": "카데노코지 유카리",
-    "full_name_kr": "카데노코지 유카리 (중학생)",
-    "full_name_en": "Kadenokoji Yukari (중학생)",
-    "full_name_ja": "勘解由小路ユカリ（중학생）",
     "images": [
       {
         "category": "공식",
-        "filename": "official_yukari_middle_school_portrait.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_portrait.png",
-        "note": "인게임 포트레이트",
-        "source": "https://bluearchive.fandom.com",
-        "collected": "2026-08-27"
+        "filename": "official_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/공식/official_portrait.png"
       },
       {
-        "category": "공식",
-        "filename": "official_yukari_middle_school_icon.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_icon.png",
-        "note": "인게임 아이콘",
-        "source": "https://bluearchive.fandom.com",
-        "collected": "2026-08-27"
+        "category": "비공식",
+        "filename": "fanart_7084025_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/비공식/rank01/fanart_7084025_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7074475_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/기본/비공식/rank01/fanart_7074475_rank01.jpg",
+        "similarity": 0.65
       }
     ],
-    "image_count": 2
+    "image_count": 3,
+    "personal_name_kr": "나구사",
+    "family_name_kr": "고료",
+    "canonical_name_kr": "고료 나구사"
+  },
+  {
+    "id": null,
+    "name_kr": "고료 나구사",
+    "name_en": "Goryou Nagusa",
+    "name_ja": "五稜ナグサ",
+    "full_name_kr": "고료 나구사 (수영복)",
+    "full_name_en": "Goryou Nagusa (Swimsuit)",
+    "full_name_ja": "五稜ナグサ（水着）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkayouran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "수영복",
+    "status": "출시(일본 서버)",
+    "role": "서포터",
+    "position": "스트라이커",
+    "bullet_type": "폭발",
+    "armor_type": "특수장갑",
+    "description_kr": "수영복 차림으로 여름 휴양지에 참여한 백화요란 분쟁조정제 부부장 고료 나구사.",
+    "description_en": "Swimsuit variant of Goryou Nagusa during the summer festival.",
+    "description_ja": "水着姿の百花繚乱副部長・五稜ナグサ。",
+    "search_tags": {
+      "kr": [
+        "고료",
+        "고료 나구사",
+        "고료 나구사(수영복)",
+        "고료나구사",
+        "나구사",
+        "나구사(수영복)",
+        "수영복"
+      ],
+      "en": [
+        "goryo_goryou nagusa",
+        "goryou nagusa",
+        "나구사"
+      ],
+      "ja": [
+        "五稜ナグサ",
+        "御稜五稜ナグサ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_portrait.png"
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7084025_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
+        "similarity": 0.65
+      },
+      {
+        "category": "비공식",
+        "filename": "fanart_7074475_rank01.jpg",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7074475_rank01.jpg",
+        "similarity": 0.65
+      }
+    ],
+    "image_count": 3,
+    "personal_name_kr": "나구사",
+    "family_name_kr": "고료",
+    "canonical_name_kr": "고료 나구사"
   },
   {
     "id": null,
@@ -11577,13 +11778,138 @@
       {
         "category": "공식",
         "filename": "official_wiki_portrait.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/카데노코지 유카리/무녀복/공식/official_wiki_portrait.png"
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/무녀복/공식/official_wiki_portrait.png"
       }
     ],
     "image_count": 1,
     "personal_name_kr": "유카리",
     "family_name_kr": "카데노코지",
     "canonical_name_kr": "카데노코지 유카리"
+  },
+  {
+    "id": 10121,
+    "family_name_kr": "카데노코지",
+    "personal_name_kr": "유카리",
+    "canonical_name_kr": "카데노코지 유카리",
+    "name_kr": "카데노코지 유카리",
+    "name_en": "Kadenokouji Yukari",
+    "name_ja": "勘解由小路ユカリ",
+    "full_name_kr": "카데노코지 유카리 (수영복)",
+    "full_name_en": "Kadenokouji Yukari (Swimsuit)",
+    "full_name_ja": "勘解由小路ユカリ（기본）",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkaryoran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "수영복",
+    "status": "출시",
+    "role": "스트라이커",
+    "position": "백",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "카데노코지 유카리의 수영복 버전. 2026-08 schaledb 로스터 동기화로 추가된 출시 학생.",
+    "description_en": "Released variant 'Swimsuit' of Kadenokouji Yukari, added via schaledb roster sync (2026-08).",
+    "description_ja": "勘解由小路ユカリの기본バージョン。schaledbロスター同期で追加。",
+    "search_tags": [
+      "Kadenokouji Yukari",
+      "Swimsuit",
+      "Yukari ",
+      "勘解由小路ユカリ",
+      "백귀야행 연합학원",
+      "백화요란",
+      "수영복",
+      "유카리",
+      "카데노코지 유카리"
+    ],
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_schaledb_portrait.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_portrait.webp",
+        "note": "schaledb portrait (id 10121)",
+        "source": "https://schaledb.com/images/student/portrait/10121.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_collection.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_collection.webp",
+        "note": "schaledb collection (id 10121)",
+        "source": "https://schaledb.com/images/student/collection/10121.webp",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_schaledb_icon.webp",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/수영복/공식/official_schaledb_icon.webp",
+        "note": "schaledb icon (id 10121)",
+        "source": "https://schaledb.com/images/student/icon/10121.webp",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
+  },
+  {
+    "canonical_name_kr": "카데노코지 유카리",
+    "personal_name_kr": "유카리",
+    "family_name_kr": "카데노코지",
+    "name_en": "Kadenokoji Yukari",
+    "name_ja": "勘解由小路ユカリ",
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "백화요란 분쟁조정위원회",
+    "club_en": "Hyakkaryoran Conflict Resolution Council",
+    "club_ja": "百花繚乱紛争調停委員会",
+    "seasonal": "중학생",
+    "status": "미출시 시즈널",
+    "role": "서포터",
+    "position": "스페셜",
+    "bullet_type": "신비",
+    "armor_type": "특수장갑",
+    "description_kr": "백화요란 편 1장에 등장한 과거 중학생 시절의 어린 카데노코지 유카리(응애유카리).",
+    "description_en": "Middle school younger version of Yukari appearing in Hyakkaryoran Chapter 1.",
+    "description_ja": "百花繚乱編1章に登場した中学生時代のユカリ。",
+    "search_tags": {
+      "kr": [
+        "카데노코지 유카리 (중학생)",
+        "중학생 유카리",
+        "응애유카리",
+        "유카리"
+      ],
+      "en": [
+        "yukari_middle_school"
+      ],
+      "ja": [
+        "中学生ユカリ"
+      ]
+    },
+    "id": null,
+    "name_kr": "카데노코지 유카리",
+    "full_name_kr": "카데노코지 유카리 (중학생)",
+    "full_name_en": "Kadenokoji Yukari (중학생)",
+    "full_name_ja": "勘解由小路ユカリ（중학생）",
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_yukari_middle_school_portrait.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_portrait.png",
+        "note": "인게임 포트레이트",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_yukari_middle_school_icon.png",
+        "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/중학생/공식/official_yukari_middle_school_icon.png",
+        "note": "인게임 아이콘",
+        "source": "https://bluearchive.fandom.com",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,
@@ -11910,137 +12236,6 @@
       }
     ],
     "image_count": 3
-  },
-  {
-    "id": null,
-    "name_kr": "고료 나구사",
-    "name_en": "Goryou Nagusa",
-    "name_ja": "五稜ナグサ",
-    "full_name_kr": "고료 나구사",
-    "full_name_en": "Goryou Nagusa (Default)",
-    "full_name_ja": "五稜ナグサ（基本）",
-    "school_kr": "백귀야행 연합학원",
-    "school_en": "Hyakkiyako Alliance Academy",
-    "school_ja": "百鬼夜行連合学院",
-    "club_kr": "백화요란 분쟁조정제",
-    "club_en": "Hyakkayouran Conflict Resolution Council",
-    "club_ja": "百花繚乱紛争調停委員会",
-    "seasonal": "기본",
-    "status": "출시",
-    "role": "딜러",
-    "position": "스트라이커",
-    "bullet_type": "폭발",
-    "armor_type": "중장갑",
-    "description_kr": "백귀야행 연합학원 백화요란 분쟁조정제 부부장. 아야메의 뒤를 이어 백화요란을 지키기 위해 고뇌하는 학생.",
-    "description_en": "Vice President of the Hyakkayouran Conflict Resolution Council at Hyakkiyako Alliance Academy.",
-    "description_ja": "百鬼夜行連合学院百花繚乱紛争調停委員会の副部長。",
-    "search_tags": {
-      "kr": [
-        "고료",
-        "고료 나구사",
-        "고료나구사",
-        "나구사"
-      ],
-      "en": [
-        "goryo_goryou nagusa",
-        "goryou nagusa",
-        "나구사"
-      ],
-      "ja": [
-        "五稜ナグサ",
-        "御稜五稜ナグサ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/공식/official_portrait.png"
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7084025_rank01.jpg",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/비공식/rank01/fanart_7084025_rank01.jpg",
-        "similarity": 0.65
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7074475_rank01.jpg",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/기본/비공식/rank01/fanart_7074475_rank01.jpg",
-        "similarity": 0.65
-      }
-    ],
-    "image_count": 3,
-    "personal_name_kr": "나구사",
-    "family_name_kr": "고료",
-    "canonical_name_kr": "고료 나구사"
-  },
-  {
-    "id": null,
-    "name_kr": "고료 나구사",
-    "name_en": "Goryou Nagusa",
-    "name_ja": "五稜ナグサ",
-    "full_name_kr": "고료 나구사 (수영복)",
-    "full_name_en": "Goryou Nagusa (Swimsuit)",
-    "full_name_ja": "五稜ナグサ（水着）",
-    "school_kr": "백귀야행 연합학원",
-    "school_en": "Hyakkiyako Alliance Academy",
-    "school_ja": "百鬼夜行連合学院",
-    "club_kr": "백화요란 분쟁조정제",
-    "club_en": "Hyakkayouran Conflict Resolution Council",
-    "club_ja": "百花繚乱紛争調停委員会",
-    "seasonal": "수영복",
-    "status": "출시(일본 서버)",
-    "role": "서포터",
-    "position": "스트라이커",
-    "bullet_type": "폭발",
-    "armor_type": "특수장갑",
-    "description_kr": "수영복 차림으로 여름 휴양지에 참여한 백화요란 분쟁조정제 부부장 고료 나구사.",
-    "description_en": "Swimsuit variant of Goryou Nagusa during the summer festival.",
-    "description_ja": "水着姿の百花繚乱副部長・五稜ナグサ。",
-    "search_tags": {
-      "kr": [
-        "고료",
-        "고료 나구사",
-        "고료 나구사(수영복)",
-        "고료나구사",
-        "나구사",
-        "나구사(수영복)",
-        "수영복"
-      ],
-      "en": [
-        "goryo_goryou nagusa",
-        "goryou nagusa",
-        "나구사"
-      ],
-      "ja": [
-        "五稜ナグサ",
-        "御稜五稜ナグサ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_portrait.png",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/공식/official_portrait.png"
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7084025_rank01.jpg",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
-        "similarity": 0.65
-      },
-      {
-        "category": "비공식",
-        "filename": "fanart_7074475_rank01.jpg",
-        "path": "백귀야행 연합학원/백화요란 분쟁조정제/고료 나구사/수영복/비공식/rank01/fanart_7074475_rank01.jpg",
-        "similarity": 0.65
-      }
-    ],
-    "image_count": 3,
-    "personal_name_kr": "나구사",
-    "family_name_kr": "고료",
-    "canonical_name_kr": "고료 나구사"
   },
   {
     "id": 10034,
@@ -12411,133 +12606,6 @@
     "personal_name_kr": "츠바키",
     "family_name_kr": "카스가",
     "canonical_name_kr": "카스가 츠바키"
-  },
-  {
-    "id": 10033,
-    "name_kr": "코사카 와카모",
-    "name_en": "Wakamo",
-    "name_ja": "ワカモ",
-    "full_name_kr": "코사카 와카모",
-    "full_name_en": "Wakamo",
-    "full_name_ja": "ワカモ",
-    "school_kr": "백귀야행 연합학원",
-    "school_en": "Hyakkiyako",
-    "school_ja": "百鬼夜行",
-    "club_kr": "없음",
-    "club_en": "None",
-    "club_ja": "無し",
-    "seasonal": "기본",
-    "status": "출시",
-    "role": "어태커",
-    "position": "스트라이커",
-    "bullet_type": "신비",
-    "armor_type": "경장갑",
-    "description_kr": "백귀야행 연합학원에서 정학당하고, 교정국에서는 탈옥까지 한 <일곱 죄수> 중 한 명.\n\n평소 기분이 내키는 대로 무차별 파괴를 일삼고 있기에 <재액의 여우>라고 불리며 두려움의 대상이 되었다. 동기와 목적도 일체 수수께끼에 싸여 있으며, 들리기로는 가면 밑의 얼굴이 굉장히 무섭다. 악마처럼 흉측하다. 등의 소문이 끊이지 않지만, 어디까지나 소문은 소문일 뿐이다.",
-    "description_en": "One of the Seven Prisoners that escaped the Corrections Bureau after being suspended from Allied Hyakkiyako Academy.\n\nShe is the feared Fox of Calamity due to her destructive ways. Her motives are a mystery, and there are several rumors surrounding the face under her mask. Some say there's a monstrous devil underneath, but it remains only a rumor.",
-    "description_ja": "百鬼夜行連合学院所属、しかし停学処分となった後に矯正局へと入れられ、さらにそこから脱獄した「七囚人」の一人。\n\n無差別かつ大規模な破壊行為により「災厄の狐」と呼ばれ恐れられる少女。動機も目的も一切が謎に包まれている。仮面の下に隠された素顔は鬼のように怖い、悪魔のように醜いなどの噂が絶えないが、知らないものは大抵恐ろしく感じられるものである。",
-    "search_tags": {
-      "kr": [
-        "와카모",
-        "코사카",
-        "코사카 와카모",
-        "코사카와카모"
-      ],
-      "en": [
-        "kosaka_wakamo",
-        "wakamo",
-        "와카모"
-      ],
-      "ja": [
-        "ワカモ",
-        "狐坂ワカモ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_collection.webp",
-        "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_collection.webp"
-      },
-      {
-        "category": "공식",
-        "filename": "official_lobby.webp",
-        "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_lobby.webp"
-      },
-      {
-        "category": "공식",
-        "filename": "official_portrait.webp",
-        "path": "백귀야행 연합학원/없음/와카모/기본/공식/official_portrait.webp"
-      }
-    ],
-    "image_count": 3,
-    "personal_name_kr": "와카모",
-    "family_name_kr": "코사카",
-    "canonical_name_kr": "코사카 와카모"
-  },
-  {
-    "id": 10043,
-    "name_kr": "코사카 와카모",
-    "name_en": "Wakamo",
-    "name_ja": "ワカモ",
-    "full_name_kr": "코사카 와카모 (수영복)",
-    "full_name_en": "Wakamo (Swimsuit)",
-    "full_name_ja": "ワカモ（水着）",
-    "school_kr": "백귀야행 연합학원",
-    "school_en": "Hyakkiyako",
-    "school_ja": "百鬼夜行",
-    "club_kr": "없음",
-    "club_en": "None",
-    "club_ja": "無し",
-    "seasonal": "수영복",
-    "status": "출시",
-    "role": "어태커",
-    "position": "스트라이커",
-    "bullet_type": "관통",
-    "armor_type": "중장갑",
-    "description_kr": "<일곱 죄수> 중 한 명으로, 여름을 맞이하여 보다 화려한 꽃처럼 피어난 소녀.\n\n그녀가 수영복 차림으로 바다를 찾은 건 어디까지나 선생님에게 보여주기 위해서이며, 얼굴에 미소를 띠고 있는 건 이 여름 바다에서 우연히 선생님을 발견했기 때문이다. 이처럼 뜨거운 여름 햇살 아래, 그 뜨거움에 지지 않을 만큼 선생님을 향한 정열적인 어프로치가 시작된, 언제나 변함없이 연심에 전력투구 중인 소녀.",
-    "description_en": "One of the Seven Prisoners. A girl who blooms like a colorful flower in summer.\n\nShe arrived on the beach in her swimsuit to show it off to Sensei and ended up with a huge smile on her face because she ran into Sensei just in time. Her passion toward Sensei is as strong as the summer sun. She always tries her best to get closer to them.",
-    "description_ja": "百鬼夜行連合学院所属、「七囚人」の一人であり、夏を迎えてより艶やかに咲いた少女。\n\n彼女が水着姿で海を訪れたのは、ただその姿を先生に見せるため。彼女が笑顔でいられるのは、ひとえに先生と出会えたため。どんなに暑い夏の日差しの下でも、それに負けないほどの情熱的なアプローチで先生を襲う。相変わらず誰よりも恋心に全力投球な少女、夏バージョン。",
-    "search_tags": {
-      "kr": [
-        "수영복",
-        "와카모",
-        "와카모(수영복)",
-        "코사카",
-        "코사카 와카모",
-        "코사카 와카모(수영복)",
-        "코사카와카모"
-      ],
-      "en": [
-        "kosaka_wakamo",
-        "wakamo",
-        "와카모"
-      ],
-      "ja": [
-        "ワカモ",
-        "狐坂ワカモ"
-      ]
-    },
-    "images": [
-      {
-        "category": "공식",
-        "filename": "official_collection.webp",
-        "path": "백귀야행 연합학원/없음/와카모/수영복/공식/official_collection.webp"
-      },
-      {
-        "category": "공식",
-        "filename": "official_lobby.webp",
-        "path": "백귀야행 연합학원/없음/와카모/수영복/공식/official_lobby.webp"
-      },
-      {
-        "category": "공식",
-        "filename": "official_portrait.webp",
-        "path": "백귀야행 연합학원/없음/와카모/수영복/공식/official_portrait.webp"
-      }
-    ],
-    "image_count": 3,
-    "personal_name_kr": "와카모",
-    "family_name_kr": "코사카",
-    "canonical_name_kr": "코사카 와카모"
   },
   {
     "id": null,
@@ -13937,8 +14005,33 @@
         "チャイナチェリノ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_cherino_qipao_portrait.png",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/치파오/공식/official_cherino_qipao_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Cherino_Qipao_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_cherino_qipao_icon.png",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/치파오/공식/official_cherino_qipao_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Cherino_Qipao_Icon.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_cherino_qipao_portrait_no_moustache.png",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/체리노/치파오/공식/official_cherino_qipao_portrait_no_moustache.png",
+        "note": "bluearchive.fandom portrait (수염 없음)",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Cherino_Qipao_Portrait_No_Moustache.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 3
   },
   {
     "id": 16007,
@@ -17134,8 +17227,25 @@
         "1年生シロコ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_shiroko_young_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/시로코/1학년/공식/official_shiroko_young_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shiroko_Young_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_shiroko_young_icon.png",
+        "path": "아비도스 고등학교/대책위원회/시로코/1학년/공식/official_shiroko_young_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Shiroko_Young_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 10010,
@@ -17635,8 +17745,25 @@
         "1年生ノノミ"
       ]
     },
-    "images": [],
-    "image_count": 0
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_nonomi_young_portrait.png",
+        "path": "아비도스 고등학교/대책위원회/노노미/1학년/공식/official_nonomi_young_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Nonomi_Young_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_nonomi_young_icon.png",
+        "path": "아비도스 고등학교/대책위원회/노노미/1학년/공식/official_nonomi_young_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Nonomi_Young_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": 13004,
@@ -25386,6 +25513,68 @@
       }
     ],
     "image_count": 5
+  },
+  {
+    "id": null,
+    "family_name_kr": "미소노",
+    "personal_name_kr": "미카",
+    "canonical_name_kr": "미소노 미카",
+    "name_kr": "미소노 미카",
+    "name_en": "Misono Mika",
+    "name_ja": "聖園ミカ",
+    "full_name_kr": "미소노 미카 (학교 수영복)",
+    "full_name_en": "Misono Mika (School Swimsuit)",
+    "full_name_ja": "聖園ミカ（スクール水着）",
+    "school_kr": "트리니티 종합학원",
+    "school_en": "Trinity General School",
+    "school_ja": "トリニティ総合学園",
+    "club_kr": "티파티",
+    "club_en": "Tea Party",
+    "club_ja": "ティーパーティー",
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "role": "어태커",
+    "position": "미들",
+    "bullet_type": "관통",
+    "armor_type": "경장갑",
+    "description_kr": "미소노 미카의 학교 수영복(경영 수영복) 버전. 게임 내 미출시 시즈널.",
+    "description_en": "Misono Mika in her school (competition) swimsuit. Unreleased seasonal.",
+    "description_ja": "聖園ミカのスクール水着バージョン。未実装シーズナル。",
+    "search_tags": {
+      "kr": [
+        "미소노 미카 (드레스)",
+        "드레스 미카",
+        "드미카",
+        "미카 드레스",
+        "미카"
+      ],
+      "en": [
+        "mika_dress",
+        "dress_mika"
+      ],
+      "ja": [
+        "ドレスミカ"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "filename": "official_mika_school_swimsuit_portrait.png",
+        "path": "트리니티 종합학원/티파티/미카/학교 수영복/공식/official_mika_school_swimsuit_portrait.png",
+        "note": "bluearchive.fandom portrait",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mika_School_Swimsuit_Portrait.png",
+        "collected": "2026-08-27"
+      },
+      {
+        "category": "공식",
+        "filename": "official_mika_school_swimsuit_icon.png",
+        "path": "트리니티 종합학원/티파티/미카/학교 수영복/공식/official_mika_school_swimsuit_icon.png",
+        "note": "bluearchive.fandom icon",
+        "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mika_School_Swimsuit_Icon.png",
+        "collected": "2026-08-27"
+      }
+    ],
+    "image_count": 2
   },
   {
     "id": null,

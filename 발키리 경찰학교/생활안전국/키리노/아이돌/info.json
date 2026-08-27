@@ -11,9 +11,9 @@
       "ja": "ヴァルキューレ警察学校"
     },
     "club": {
-      "kr": "공안국",
-      "en": "Public Security Bureau",
-      "ja": "公安局"
+      "kr": "생활안전국",
+      "en": "Public Safety Bureau",
+      "ja": "生活安全局"
     },
     "seasonal": "아이돌",
     "status": "미출시 시즈널",
@@ -27,28 +27,10 @@
       "kr": "《Serenade Promenade》 이벤트에 등장한 발키리 경찰학교 홍보 아이돌 제복을 입은 키리노.",
       "en": "Kirino in Valkyrie police idol PR costume during Serenade Promenade.",
       "ja": "セレナーデ・プロムナードに登場したアイドル衣装のキリノ。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "나카츠카사 키리노 (아이돌)",
-        "아이돌 키리노",
-        "키리노"
-      ],
-      "en": [
-        "kirino_idol"
-      ],
-      "ja": [
-        "アイドルキリノ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 2,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 2
+    "공식": 2
   },
   "images": [
     {

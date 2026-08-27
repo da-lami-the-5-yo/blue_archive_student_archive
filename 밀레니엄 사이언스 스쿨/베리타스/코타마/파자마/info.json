@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "오토세 코타마",
+      "en": "Otose Kotama",
+      "ja": "音瀬コタマ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "베리타스",
+      "en": "Veritas",
+      "ja": "ヴェリタス"
+    },
+    "seasonal": "파자마",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스페셜",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "《비밀의 미드나잇 파티》 이벤트에 등장한 파자마 차림의 오토세 코타마.",
+      "en": "Kotama in pajamas during Veritas Midnight Party.",
+      "ja": "パジャマ姿のコタマ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_kotama_pajamas_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/파자마/공식/official_kotama_pajamas_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kotama_Pajamas_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_kotama_pajamas_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/베리타스/코타마/파자마/공식/official_kotama_pajamas_icon.png",
+      "note": "bluearchive.fandom icon",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Kotama_Pajamas_Icon.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

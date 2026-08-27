@@ -27,33 +27,18 @@
       "kr": "백화요란 1장에서 등장한 카데노코지 유카리의 가문 전통 무녀복 차림.",
       "en": "Unreleased 무녀복 variant for Kadenokoji Yukari.",
       "ja": "勘解由小路ユカリの未実装무녀복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "무녀 유카리"
-      ],
-      "en": [
-        "kadenokoji_yukari_(miko)_(blue_archive)"
-      ],
-      "ja": [
-        "勘解由小路ユカリ(巫女服)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 1
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
-      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/카데노코지 유카리/무녀복/공식/official_wiki_portrait.png"
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/유카리/무녀복/공식/official_wiki_portrait.png"
     }
   ],
-  "image_count": 1
+  "image_count": 1,
+  "updated": "2026-08-27"
 }

@@ -1,0 +1,57 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "고료 나구사",
+      "en": "Goryou Nagusa",
+      "ja": "五稜ナグサ"
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako Alliance Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "백화요란 분쟁조정위원회",
+      "en": "Hyakkayouran Conflict Resolution Council",
+      "ja": "百花繚乱紛争調停委員会"
+    },
+    "seasonal": "수영복",
+    "status": "출시(일본 서버)",
+    "combat_profile": {
+      "role": "서포터",
+      "position": "스트라이커",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "수영복 차림으로 여름 휴양지에 참여한 백화요란 분쟁조정제 부부장 고료 나구사.",
+      "en": "Swimsuit variant of Goryou Nagusa during the summer festival.",
+      "ja": "水着姿の百花繚乱副部長・五稜ナグサ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 1,
+    "비공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_portrait.png",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/공식/official_portrait.png"
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_7084025_rank01.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7084025_rank01.jpg",
+      "similarity": 0.65
+    },
+    {
+      "category": "비공식",
+      "filename": "fanart_7074475_rank01.jpg",
+      "path": "백귀야행 연합학원/백화요란 분쟁조정위원회/고료 나구사/수영복/비공식/rank01/fanart_7074475_rank01.jpg",
+      "similarity": 0.65
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-27"
+}

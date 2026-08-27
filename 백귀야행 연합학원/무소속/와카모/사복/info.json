@@ -27,34 +27,18 @@
       "kr": "샬레의 해피 발렌타인 순찰 이벤트에서 등장한 와카모의 기모노 사복 스탠딩.",
       "en": "Unreleased 사복 variant for Kosaka Wakamo.",
       "ja": "狐坂ワカモの未実装사복衣装。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "기모노 와카모",
-        "사복 와카모"
-      ],
-      "en": [
-        "kosaka_wakamo_(casual)_(blue_archive)"
-      ],
-      "ja": [
-        "狐坂ワカモ(私服)"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 0,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 0
+    "공식": 1
   },
   "images": [
     {
       "category": "공식",
       "filename": "official_wiki_portrait.png",
-      "path": "백귀야행 연합학원/무소속/코사카 와카모/사복/공식/official_wiki_portrait.png"
+      "path": "백귀야행 연합학원/무소속/와카모/사복/공식/official_wiki_portrait.png"
     }
   ],
-  "image_count": 1
+  "image_count": 1,
+  "updated": "2026-08-27"
 }

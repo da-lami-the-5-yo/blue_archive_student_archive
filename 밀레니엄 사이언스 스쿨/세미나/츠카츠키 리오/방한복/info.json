@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "츠카츠키 리오",
+      "en": "Tsukatsuki Rio",
+      "ja": "調月リオ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "세미나",
+      "en": "Seminar",
+      "ja": "セミナー"
+    },
+    "seasonal": "방한복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "신비",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "데카그라마톤 편 2장 Part 2에 등장한 따뜻한 방한 코트를 입은 세미나 전 회장 리오.",
+      "en": "Rio in winter coat appearing in Decagrammaton Chapter 2 Part 2.",
+      "ja": "デカグラマトン編2章Part2に登場した防寒服姿の元セミナー会長リオ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_rio_winter_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/방한복/공식/official_rio_winter_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rio_Winter_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_rio_winter_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/세미나/츠카츠키 리오/방한복/공식/official_rio_winter_icon.png",
+      "note": "bluearchive.fandom icon",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Rio_Winter_Icon.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

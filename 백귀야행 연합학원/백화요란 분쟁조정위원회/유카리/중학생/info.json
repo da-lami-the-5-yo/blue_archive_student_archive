@@ -11,7 +11,7 @@
       "ja": "百鬼夜行連合学院"
     },
     "club": {
-      "kr": "백화요란",
+      "kr": "백화요란 분쟁조정위원회",
       "en": "Hyakkaryoran Conflict Resolution Council",
       "ja": "百花繚乱紛争調停委員会"
     },
@@ -27,29 +27,10 @@
       "kr": "백화요란 편 1장에 등장한 과거 중학생 시절의 어린 카데노코지 유카리(응애유카리).",
       "en": "Middle school younger version of Yukari appearing in Hyakkaryoran Chapter 1.",
       "ja": "百花繚乱編1章に登場した中学生時代のユカリ。"
-    },
-    "multilingual_search_tags": {
-      "kr": [
-        "카데노코지 유카리 (중학생)",
-        "중학생 유카리",
-        "응애유카리",
-        "유카리"
-      ],
-      "en": [
-        "yukari_middle_school"
-      ],
-      "ja": [
-        "中学生ユカリ"
-      ]
     }
   },
   "collection_stats": {
-    "official_images": 2,
-    "semi_official_images": 0,
-    "unofficial_rank00": 0,
-    "unofficial_rank01": 0,
-    "unofficial_rank02": 0,
-    "total_images": 2
+    "공식": 2
   },
   "images": [
     {

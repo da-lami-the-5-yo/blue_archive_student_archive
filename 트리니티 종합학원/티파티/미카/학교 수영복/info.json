@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "미소노 미카",
+      "en": "Misono Mika",
+      "ja": "聖園ミカ"
+    },
+    "school": {
+      "kr": "트리니티 종합학원",
+      "en": "Trinity General School",
+      "ja": "トリニティ総合学園"
+    },
+    "club": {
+      "kr": "티파티",
+      "en": "Tea Party",
+      "ja": "ティーパーティー"
+    },
+    "seasonal": "학교 수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "어태커",
+      "position": "미들",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "미소노 미카의 학교 수영복(경영 수영복) 버전. 게임 내 미출시 시즈널.",
+      "en": "Misono Mika in her school (competition) swimsuit. Unreleased seasonal.",
+      "ja": "聖園ミカのスクール水着バージョン。未実装シーズナル。"
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_mika_school_swimsuit_portrait.png",
+      "path": "트리니티 종합학원/티파티/미카/학교 수영복/공식/official_mika_school_swimsuit_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mika_School_Swimsuit_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_mika_school_swimsuit_icon.png",
+      "path": "트리니티 종합학원/티파티/미카/학교 수영복/공식/official_mika_school_swimsuit_icon.png",
+      "note": "bluearchive.fandom icon",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Mika_School_Swimsuit_Icon.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

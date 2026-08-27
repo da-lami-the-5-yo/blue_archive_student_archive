@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "이자요이 노노미",
+      "en": "Izayoi Nonomi",
+      "ja": "十六夜ノノミ"
+    },
+    "school": {
+      "kr": "아비도스 고등학교",
+      "en": "Abydos High School",
+      "ja": "アビドス高等学校"
+    },
+    "club": {
+      "kr": "대책위원회",
+      "en": "Foreclosure Task Force",
+      "ja": "対策委員会"
+    },
+    "seasonal": "1학년",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "백",
+      "bullet_type": "관통",
+      "armor_type": "경장갑"
+    },
+    "description": {
+      "kr": "메인스토리 대책위원회 편 3장에 등장한 아비도스 1학년 시절의 양갈래머리 노노미(1노미).",
+      "en": "Nonomi during her 1st year at Abydos appearing in Main Story Vol.1 Chapter 3.",
+      "ja": "対策委員会編3章に登場したアビドス1年生時代のツインテール姿のノノミ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_nonomi_young_portrait.png",
+      "path": "아비도스 고등학교/대책위원회/노노미/1학년/공식/official_nonomi_young_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Nonomi_Young_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_nonomi_young_icon.png",
+      "path": "아비도스 고등학교/대책위원회/노노미/1학년/공식/official_nonomi_young_icon.png",
+      "note": "bluearchive.fandom icon",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Nonomi_Young_Icon.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}

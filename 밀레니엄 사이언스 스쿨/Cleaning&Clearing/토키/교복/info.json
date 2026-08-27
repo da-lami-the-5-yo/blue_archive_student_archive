@@ -1,0 +1,55 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "아스마 토키",
+      "en": "Asuma Toki",
+      "ja": "飛鳥馬トキ"
+    },
+    "school": {
+      "kr": "밀레니엄 사이언스 스쿨",
+      "en": "Millennium Science School",
+      "ja": "ミレニアムサイエンススクール"
+    },
+    "club": {
+      "kr": "Cleaning&Clearing",
+      "en": "Cleaning & Clearing",
+      "ja": "Cleaning&Clearing"
+    },
+    "seasonal": "교복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": "스트라이커",
+      "position": "미들",
+      "bullet_type": "폭발",
+      "armor_type": "특수장갑"
+    },
+    "description": {
+      "kr": "밀레니엄 이벤트 《Code: BOX》에 등장한 정식 밀레니엄 교복을 착용한 토키(교토키).",
+      "en": "Toki wearing Millennium official school uniform appearing in Code: BOX event.",
+      "ja": "ミレニアムイベント『Code: BOX』に登場した制服姿のトキ。"
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "filename": "official_toki_schoolgirl_portrait.png",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/교복/공식/official_toki_schoolgirl_portrait.png",
+      "note": "bluearchive.fandom portrait",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Toki_Schoolgirl_Portrait.png",
+      "collected": "2026-08-27"
+    },
+    {
+      "category": "공식",
+      "filename": "official_toki_schoolgirl_icon.png",
+      "path": "밀레니엄 사이언스 스쿨/Cleaning&Clearing/토키/교복/공식/official_toki_schoolgirl_icon.png",
+      "note": "bluearchive.fandom icon",
+      "source": "https://bluearchive.fandom.com/wiki/Special:FilePath/Toki_Schoolgirl_Icon.png",
+      "collected": "2026-08-27"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-27"
+}
