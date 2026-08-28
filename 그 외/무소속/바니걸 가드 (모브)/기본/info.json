@@ -1,0 +1,63 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "바니걸 가드 (모브)",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "그 외",
+      "en": null,
+      "ja": null
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "카지노 이벤트에 등장하는 바니걸 복장의 경비 모브.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 4
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_sr_portrait.png",
+      "filename": "official_bunny_girl_guard_sr_portrait.png",
+      "source": "fandom Bunny_Girl_Guard_SR_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_sr_sprite.png",
+      "filename": "official_bunny_girl_guard_sr_sprite.png",
+      "source": "fandom Bunny_Girl_Guard_SR_Sprite.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_ar_sprite.png",
+      "filename": "official_bunny_girl_guard_ar_sprite.png",
+      "source": "fandom Bunny_Girl_Guard_AR_Sprite.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_sg_sprite.png",
+      "filename": "official_bunny_girl_guard_sg_sprite.png",
+      "source": "fandom Bunny_Girl_Guard_SG_Sprite.png"
+    }
+  ],
+  "image_count": 4,
+  "updated": "2026-08-28"
+}

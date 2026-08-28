@@ -1,0 +1,57 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "하이랜더 승무원 (모브) 1",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "하이랜더 철도학원",
+      "en": "Highlander Railroad Academy",
+      "ja": "ハイランダー鉄道学園"
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "하이랜더 철도학원의 승무원 모브.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 1/기본/공식/official_highlander_attendant_1_icon.png",
+      "filename": "official_highlander_attendant_1_icon.png",
+      "source": "fandom Highlander_Attendant_1_Icon.png"
+    },
+    {
+      "category": "공식",
+      "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 1/기본/공식/official_highlander_attendant_1_portrait.png",
+      "filename": "official_highlander_attendant_1_portrait.png",
+      "source": "fandom Highlander_Attendant_1_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 1/기본/공식/official_highlander_attendant_hg_sprite.png",
+      "filename": "official_highlander_attendant_hg_sprite.png",
+      "source": "fandom Highlander_Attendant_HG_Sprite.png"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-28"
+}

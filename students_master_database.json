@@ -4675,6 +4675,126 @@
     "canonical_name_kr": "시모쿠라 메구"
   },
   {
+    "name_kr": "온천개발부 부원 (모브) 1",
+    "canonical_name_kr": "온천개발부 부원 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "온천개발부",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26075,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "게헨나 온천개발부 소속 모브.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "온천개발부 부원 (모브) 1"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/온천개발부/온천개발부 부원 (모브) 1/기본/공식/official_hot_spring_development_department_icon.png",
+        "filename": "official_hot_spring_development_department_icon.png",
+        "source": "fandom Hot_Spring_Development_Department_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/온천개발부/온천개발부 부원 (모브) 1/기본/공식/official_hot_spring_development_department_portrait.png",
+        "filename": "official_hot_spring_development_department_portrait.png",
+        "source": "fandom Hot_Spring_Development_Department_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "게헨나 학원/온천개발부/온천개발부 부원 (모브) 1/기본/공식/official_hot_spring_soldier_rl_sprite.png",
+        "filename": "official_hot_spring_soldier_rl_sprite.png",
+        "source": "fandom Hot_Spring_Soldier_RL_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "온천개발부 부원 (모브) 2",
+    "canonical_name_kr": "온천개발부 부원 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "온천개발부",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26076,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "게헨나 온천개발부 소속 모브(GL).",
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "온천개발부 부원 (모브) 2"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/온천개발부/온천개발부 부원 (모브) 2/기본/공식/official_hot_spring_soldier_gl_sprite.png",
+        "filename": "official_hot_spring_soldier_gl_sprite.png",
+        "source": "fandom Hot_Spring_Soldier_GL_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "온천개발부 부원 (모브) 3",
+    "canonical_name_kr": "온천개발부 부원 (모브) 3",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "게헨나 학원",
+    "school_en": "Gehenna Academy",
+    "school_ja": "ゲヘナ学園",
+    "club_kr": "온천개발부",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26077,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "게헨나 온천개발부 소속 모브(SG).",
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "온천개발부 부원 (모브) 3"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "게헨나 학원/온천개발부/온천개발부 부원 (모브) 3/기본/공식/official_hot_spring_soldier_sg_sprite.png",
+        "filename": "official_hot_spring_soldier_sg_sprite.png",
+        "source": "fandom Hot_Spring_Soldier_SG_Sprite.png"
+      }
+    ]
+  },
+  {
     "id": 10078,
     "name_kr": "키누가와 카스미",
     "name_en": "Kasumi",
@@ -6043,6 +6163,60 @@
     "canonical_name_kr": "이구사 하루카"
   },
   {
+    "name_kr": "바니걸 가드 (모브)",
+    "canonical_name_kr": "바니걸 가드 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26060,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "카지노 이벤트에 등장하는 바니걸 복장의 경비 모브.",
+    "image_count": 4,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "바니걸 가드 (모브)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_sr_portrait.png",
+        "filename": "official_bunny_girl_guard_sr_portrait.png",
+        "source": "fandom Bunny_Girl_Guard_SR_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_sr_sprite.png",
+        "filename": "official_bunny_girl_guard_sr_sprite.png",
+        "source": "fandom Bunny_Girl_Guard_SR_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_ar_sprite.png",
+        "filename": "official_bunny_girl_guard_ar_sprite.png",
+        "source": "fandom Bunny_Girl_Guard_AR_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/바니걸 가드 (모브)/기본/공식/official_bunny_girl_guard_sg_sprite.png",
+        "filename": "official_bunny_girl_guard_sg_sprite.png",
+        "source": "fandom Bunny_Girl_Guard_SG_Sprite.png"
+      }
+    ]
+  },
+  {
     "name_kr": "새 학생 (모브)",
     "canonical_name_kr": "새 학생 (모브)",
     "name_en": null,
@@ -6083,6 +6257,318 @@
         "새 학생 (모브)"
       ]
     }
+  },
+  {
+    "name_kr": "스케반 (모브) 1",
+    "canonical_name_kr": "스케반 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26061,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "스케반(불량 학생) 모브. MG 타입.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 (모브) 1"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 1/기본/공식/official_sukeban_mg_icon.png",
+        "filename": "official_sukeban_mg_icon.png",
+        "source": "fandom Sukeban_MG_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 1/기본/공식/official_sukeban_mg_portrait.png",
+        "filename": "official_sukeban_mg_portrait.png",
+        "source": "fandom Sukeban_MG_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 1/기본/공식/official_sukeban_schoolgirl_mg_sprite.png",
+        "filename": "official_sukeban_schoolgirl_mg_sprite.png",
+        "source": "fandom Sukeban_Schoolgirl_MG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "스케반 (모브) 1",
+    "canonical_name_kr": "스케반 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26064,
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description_kr": "스케반 모브 수영복 버전. MG 타입.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 (모브) 1"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 1/수영복/공식/official_sukeban_swimsuit_mg_icon.png",
+        "filename": "official_sukeban_swimsuit_mg_icon.png",
+        "source": "fandom Sukeban_Swimsuit_MG_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 1/수영복/공식/official_sukeban_swimsuit_mg_portrait.png",
+        "filename": "official_sukeban_swimsuit_mg_portrait.png",
+        "source": "fandom Sukeban_Swimsuit_MG_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 1/수영복/공식/official_sukeban_swimsuit_schoolgirl_mg_sprite.png",
+        "filename": "official_sukeban_swimsuit_schoolgirl_mg_sprite.png",
+        "source": "fandom Sukeban_Swimsuit_Schoolgirl_MG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "스케반 (모브) 2",
+    "canonical_name_kr": "스케반 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26062,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "스케반(불량 학생) 모브. SMG 타입.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 (모브) 2"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 2/기본/공식/official_sukeban_smg_icon.png",
+        "filename": "official_sukeban_smg_icon.png",
+        "source": "fandom Sukeban_SMG_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 2/기본/공식/official_sukeban_smg_portrait.png",
+        "filename": "official_sukeban_smg_portrait.png",
+        "source": "fandom Sukeban_SMG_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 2/기본/공식/official_sukeban_schoolgirl_smg_sprite.png",
+        "filename": "official_sukeban_schoolgirl_smg_sprite.png",
+        "source": "fandom Sukeban_Schoolgirl_SMG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "스케반 (모브) 2",
+    "canonical_name_kr": "스케반 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26065,
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description_kr": "스케반 모브 수영복 버전. SMG 타입.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 (모브) 2"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 2/수영복/공식/official_sukeban_swimsuit_smg_icon.png",
+        "filename": "official_sukeban_swimsuit_smg_icon.png",
+        "source": "fandom Sukeban_Swimsuit_SMG_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 2/수영복/공식/official_sukeban_swimsuit_smg_portrait.png",
+        "filename": "official_sukeban_swimsuit_smg_portrait.png",
+        "source": "fandom Sukeban_Swimsuit_SMG_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 2/수영복/공식/official_sukeban_swimsuit_schoolgirl_smg_sprite.png",
+        "filename": "official_sukeban_swimsuit_schoolgirl_smg_sprite.png",
+        "source": "fandom Sukeban_Swimsuit_Schoolgirl_SMG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "스케반 (모브) 3",
+    "canonical_name_kr": "스케반 (모브) 3",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26063,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "스케반(불량 학생) 모브. SR 타입.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 (모브) 3"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 3/기본/공식/official_sukeban_sr_icon.png",
+        "filename": "official_sukeban_sr_icon.png",
+        "source": "fandom Sukeban_SR_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 3/기본/공식/official_sukeban_sr_portrait.png",
+        "filename": "official_sukeban_sr_portrait.png",
+        "source": "fandom Sukeban_SR_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 3/기본/공식/official_sukeban_schoolgirl_sr_sprite.png",
+        "filename": "official_sukeban_schoolgirl_sr_sprite.png",
+        "source": "fandom Sukeban_Schoolgirl_SR_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "스케반 (모브) 3",
+    "canonical_name_kr": "스케반 (모브) 3",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26066,
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description_kr": "스케반 모브 수영복 버전. SR 타입.",
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 (모브) 3"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 (모브) 3/수영복/공식/official_sukeban_swimsuit_schoolgirl_sr_sprite.png",
+        "filename": "official_sukeban_swimsuit_schoolgirl_sr_sprite.png",
+        "source": "fandom Sukeban_Swimsuit_Schoolgirl_SR_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "스케반 보스 (모브)",
+    "canonical_name_kr": "스케반 보스 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26067,
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description_kr": "스케반 무리의 보스 모브. 수영복 버전(MG).",
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "스케반 보스 (모브)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/무소속/스케반 보스 (모브)/수영복/공식/official_sukeban_swimsuit_schoolgirl_boss_mg_sprite.png",
+        "filename": "official_sukeban_swimsuit_schoolgirl_boss_mg_sprite.png",
+        "source": "fandom Sukeban_Swimsuit_Schoolgirl_Boss_MG_Sprite.png"
+      }
+    ]
   },
   {
     "id": 20007,
@@ -6145,6 +6631,132 @@
     "personal_name_kr": "미쿠",
     "family_name_kr": "하츠네",
     "canonical_name_kr": "하츠네 미쿠"
+  },
+  {
+    "name_kr": "헬멧단원 (모브) 1",
+    "canonical_name_kr": "헬멧단원 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "헬멧단",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26068,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "헬멧단 소속 모브. 흑색 헬멧.",
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "헬멧단원 (모브) 1"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/헬멧단/헬멧단원 (모브) 1/기본/공식/official_helmet_gangster_1_icon.png",
+        "filename": "official_helmet_gangster_1_icon.png",
+        "source": "fandom Helmet_Gangster_1_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/헬멧단/헬멧단원 (모브) 1/기본/공식/official_helmet_gangster_1_portrait.png",
+        "filename": "official_helmet_gangster_1_portrait.png",
+        "source": "fandom Helmet_Gangster_1_Portrait.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "헬멧단원 (모브) 2",
+    "canonical_name_kr": "헬멧단원 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "헬멧단",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26069,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "헬멧단 소속 모브. 적색 헬멧.",
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "헬멧단원 (모브) 2"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/헬멧단/헬멧단원 (모브) 2/기본/공식/official_helmet_gangster_2_icon.png",
+        "filename": "official_helmet_gangster_2_icon.png",
+        "source": "fandom Helmet_Gangster_2_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/헬멧단/헬멧단원 (모브) 2/기본/공식/official_helmet_gangster_2_portrait.png",
+        "filename": "official_helmet_gangster_2_portrait.png",
+        "source": "fandom Helmet_Gangster_2_Portrait.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "헬멧단원 (모브) 3",
+    "canonical_name_kr": "헬멧단원 (모브) 3",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "그 외",
+    "school_en": null,
+    "school_ja": null,
+    "club_kr": "헬멧단",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26070,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "헬멧단 소속 모브. 고글 헬멧.",
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "헬멧단원 (모브) 3"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "그 외/헬멧단/헬멧단원 (모브) 3/기본/공식/official_helmet_gangster_3_icon.png",
+        "filename": "official_helmet_gangster_3_icon.png",
+        "source": "fandom Helmet_Gangster_3_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "그 외/헬멧단/헬멧단원 (모브) 3/기본/공식/official_helmet_gangster_3_portrait.png",
+        "filename": "official_helmet_gangster_3_portrait.png",
+        "source": "fandom Helmet_Gangster_3_Portrait.png"
+      }
+    ]
   },
   {
     "id": null,
@@ -12387,6 +12999,48 @@
     }
   },
   {
+    "name_kr": "발키리 학생 (모브)",
+    "canonical_name_kr": "발키리 학생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "발키리 경찰학교",
+    "school_en": "Valkyrie Police Academy",
+    "school_ja": "ヴァルキューレ警察学校",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26081,
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description_kr": "발키리 경찰학교 모브 학생의 수영복 버전.",
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "발키리 학생 (모브)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "발키리 경찰학교/무소속/발키리 학생 (모브)/수영복/공식/official_valkyrie_student_swimsuit_icon.png",
+        "filename": "official_valkyrie_student_swimsuit_icon.png",
+        "source": "fandom Valkyrie_Student_Swimsuit_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "발키리 경찰학교/무소속/발키리 학생 (모브)/수영복/공식/official_valkyrie_student_swimsuit_portrait.png",
+        "filename": "official_valkyrie_student_swimsuit_portrait.png",
+        "source": "fandom Valkyrie_Student_Swimsuit_Portrait.png"
+      }
+    ]
+  },
+  {
     "id": 13012,
     "name_kr": "나카츠카사 키리노",
     "name_en": "Kirino",
@@ -13330,6 +13984,42 @@
         "백귀야행 학생 (모브) 1"
       ]
     }
+  },
+  {
+    "name_kr": "백귀야행 학생 (모브) 1",
+    "canonical_name_kr": "백귀야행 학생 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "백귀야행 연합학원",
+    "school_en": "Hyakkiyako Alliance Academy",
+    "school_ja": "百鬼夜行連合学院",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26082,
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "description_kr": "백귀야행 모브 학생 1의 수영복 버전.",
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "백귀야행 학생 (모브) 1"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 1/수영복/공식/official_hyakkiyako_student_1_swimsuit_icon.png",
+        "filename": "official_hyakkiyako_student_1_swimsuit_icon.png",
+        "source": "fandom Hyakkiyako_Student_1_Swimsuit_Icon.png"
+      }
+    ]
   },
   {
     "name_kr": "백귀야행 학생 (모브) 2",
@@ -16372,6 +17062,48 @@
     "canonical_name_kr": "아마미 노도카"
   },
   {
+    "name_kr": "붉은겨울 아르바이트생 (모브)",
+    "canonical_name_kr": "붉은겨울 아르바이트생 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "붉은겨울 연방학원",
+    "school_en": "Red Winter Federal Academy",
+    "school_ja": "レッドウィンター連邦学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26079,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "붉은겨울 연방학원의 아르바이트생 모브.",
+    "image_count": 2,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "붉은겨울 아르바이트생 (모브)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/무소속/붉은겨울 아르바이트생 (모브)/기본/공식/official_red_winter_part_timer_icon.png",
+        "filename": "official_red_winter_part_timer_icon.png",
+        "source": "fandom Red_Winter_Part_Timer_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/무소속/붉은겨울 아르바이트생 (모브)/기본/공식/official_red_winter_part_timer_portrait.png",
+        "filename": "official_red_winter_part_timer_portrait.png",
+        "source": "fandom Red_Winter_Part_Timer_Portrait.png"
+      }
+    ]
+  },
+  {
     "id": 10017,
     "name_kr": "렌카와 체리노",
     "name_en": "Cherino",
@@ -16565,6 +17297,72 @@
       }
     ],
     "image_count": 3
+  },
+  {
+    "name_kr": "붉은겨울 사무국 경비 (모브)",
+    "canonical_name_kr": "붉은겨울 사무국 경비 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "붉은겨울 연방학원",
+    "school_en": "Red Winter Federal Academy",
+    "school_ja": "レッドウィンター連邦学園",
+    "club_kr": "붉은겨울 사무국",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26078,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "붉은겨울 사무국의 의장대풍 경비 모브(부사관 포함).",
+    "image_count": 6,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "붉은겨울 사무국 경비 (모브)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/붉은겨울 사무국 경비 (모브)/기본/공식/official_red_winter_office_guard_icon.png",
+        "filename": "official_red_winter_office_guard_icon.png",
+        "source": "fandom Red_Winter_Office_Guard_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/붉은겨울 사무국 경비 (모브)/기본/공식/official_red_winter_office_guard_portrait.png",
+        "filename": "official_red_winter_office_guard_portrait.png",
+        "source": "fandom Red_Winter_Office_Guard_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/붉은겨울 사무국 경비 (모브)/기본/공식/official_red_winter_guard_ar_sprite.png",
+        "filename": "official_red_winter_guard_ar_sprite.png",
+        "source": "fandom Red_Winter_Guard_AR_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/붉은겨울 사무국 경비 (모브)/기본/공식/official_red_winter_guard_gl_sprite.png",
+        "filename": "official_red_winter_guard_gl_sprite.png",
+        "source": "fandom Red_Winter_Guard_GL_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/붉은겨울 사무국 경비 (모브)/기본/공식/official_red_winter_guard_smg_sprite.png",
+        "filename": "official_red_winter_guard_smg_sprite.png",
+        "source": "fandom Red_Winter_Guard_SMG_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/붉은겨울 사무국/붉은겨울 사무국 경비 (모브)/기본/공식/official_red_winter_sergeant_ar_sprite.png",
+        "filename": "official_red_winter_sergeant_ar_sprite.png",
+        "source": "fandom Red_Winter_Sergeant_AR_Sprite.png"
+      }
+    ]
   },
   {
     "id": 16007,
@@ -16897,6 +17695,54 @@
     "personal_name_kr": "미노리",
     "family_name_kr": "야스모리",
     "canonical_name_kr": "야스모리 미노리"
+  },
+  {
+    "name_kr": "용역부 병사 (모브)",
+    "canonical_name_kr": "용역부 병사 (모브)",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "붉은겨울 연방학원",
+    "school_en": "Red Winter Federal Academy",
+    "school_ja": "レッドウィンター連邦学園",
+    "club_kr": "용역부",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26080,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "붉은겨울 용역부 소속 병사 모브.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "용역부 병사 (모브)"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/용역부/용역부 병사 (모브)/기본/공식/official_red_winter_yoheki_soldier_ar_sprite.png",
+        "filename": "official_red_winter_yoheki_soldier_ar_sprite.png",
+        "source": "fandom Red_Winter_Yoheki_Soldier_AR_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/용역부/용역부 병사 (모브)/기본/공식/official_red_winter_yoheki_soldier_sg_sprite.png",
+        "filename": "official_red_winter_yoheki_soldier_sg_sprite.png",
+        "source": "fandom Red_Winter_Yoheki_Soldier_SG_Sprite.png"
+      },
+      {
+        "category": "공식",
+        "path": "붉은겨울 연방학원/용역부/용역부 병사 (모브)/기본/공식/official_red_winter_yoheki_soldier_sr_sprite.png",
+        "filename": "official_red_winter_yoheki_soldier_sr_sprite.png",
+        "source": "fandom Red_Winter_Yoheki_Soldier_SR_Sprite.png"
+      }
+    ]
   },
   {
     "id": 13013,
@@ -31682,6 +32528,186 @@
     "personal_name_kr": "스오우",
     "family_name_kr": "아사기리",
     "canonical_name_kr": "아사기리 스오우"
+  },
+  {
+    "name_kr": "하이랜더 승무원 (모브) 1",
+    "canonical_name_kr": "하이랜더 승무원 (모브) 1",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "하이랜더 철도학원",
+    "school_en": "Highlander Railroad Academy",
+    "school_ja": "ハイランダー鉄道学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26071,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "하이랜더 철도학원의 승무원 모브.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "하이랜더 승무원 (모브) 1"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 1/기본/공식/official_highlander_attendant_1_icon.png",
+        "filename": "official_highlander_attendant_1_icon.png",
+        "source": "fandom Highlander_Attendant_1_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 1/기본/공식/official_highlander_attendant_1_portrait.png",
+        "filename": "official_highlander_attendant_1_portrait.png",
+        "source": "fandom Highlander_Attendant_1_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 1/기본/공식/official_highlander_attendant_hg_sprite.png",
+        "filename": "official_highlander_attendant_hg_sprite.png",
+        "source": "fandom Highlander_Attendant_HG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "하이랜더 승무원 (모브) 2",
+    "canonical_name_kr": "하이랜더 승무원 (모브) 2",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "하이랜더 철도학원",
+    "school_en": "Highlander Railroad Academy",
+    "school_ja": "ハイランダー鉄道学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26072,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "하이랜더 철도학원의 승무원 모브.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "하이랜더 승무원 (모브) 2"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 2/기본/공식/official_highlander_attendant_2_icon.png",
+        "filename": "official_highlander_attendant_2_icon.png",
+        "source": "fandom Highlander_Attendant_2_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 2/기본/공식/official_highlander_attendant_2_portrait.png",
+        "filename": "official_highlander_attendant_2_portrait.png",
+        "source": "fandom Highlander_Attendant_2_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 2/기본/공식/official_highlander_attendant_mg_sprite.png",
+        "filename": "official_highlander_attendant_mg_sprite.png",
+        "source": "fandom Highlander_Attendant_MG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "하이랜더 승무원 (모브) 3",
+    "canonical_name_kr": "하이랜더 승무원 (모브) 3",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "하이랜더 철도학원",
+    "school_en": "Highlander Railroad Academy",
+    "school_ja": "ハイランダー鉄道学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26073,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "하이랜더 철도학원의 승무원 모브.",
+    "image_count": 3,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "하이랜더 승무원 (모브) 3"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 3/기본/공식/official_highlander_attendant_3_icon.png",
+        "filename": "official_highlander_attendant_3_icon.png",
+        "source": "fandom Highlander_Attendant_3_Icon.png"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 3/기본/공식/official_highlander_attendant_3_portrait.png",
+        "filename": "official_highlander_attendant_3_portrait.png",
+        "source": "fandom Highlander_Attendant_3_Portrait.png"
+      },
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 3/기본/공식/official_highlander_attendant_sg_sprite.png",
+        "filename": "official_highlander_attendant_sg_sprite.png",
+        "source": "fandom Highlander_Attendant_SG_Sprite.png"
+      }
+    ]
+  },
+  {
+    "name_kr": "하이랜더 승무원 (모브) 4",
+    "canonical_name_kr": "하이랜더 승무원 (모브) 4",
+    "name_en": null,
+    "name_ja": null,
+    "school_kr": "하이랜더 철도학원",
+    "school_en": "Highlander Railroad Academy",
+    "school_ja": "ハイランダー鉄道学園",
+    "club_kr": "무소속",
+    "club_en": null,
+    "club_ja": null,
+    "role": null,
+    "position": null,
+    "bullet_type": null,
+    "armor_type": null,
+    "id": 26074,
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "description_kr": "하이랜더 철도학원의 승무원(선임) 모브.",
+    "image_count": 1,
+    "search_tags": {
+      "kr": [
+        "모브",
+        "모브 학생",
+        "하이랜더 승무원 (모브) 4"
+      ]
+    },
+    "images": [
+      {
+        "category": "공식",
+        "path": "하이랜더 철도학원/무소속/하이랜더 승무원 (모브) 4/기본/공식/official_highlander_attendant_boss_hg_sprite.png",
+        "filename": "official_highlander_attendant_boss_hg_sprite.png",
+        "source": "fandom Highlander_Attendant_Boss_HG_Sprite.png"
+      }
+    ]
   },
   {
     "id": null,

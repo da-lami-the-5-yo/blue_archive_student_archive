@@ -1,0 +1,51 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "붉은겨울 아르바이트생 (모브)",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter Federal Academy",
+      "ja": "レッドウィンター連邦学園"
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "붉은겨울 연방학원의 아르바이트생 모브.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 2
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/무소속/붉은겨울 아르바이트생 (모브)/기본/공식/official_red_winter_part_timer_icon.png",
+      "filename": "official_red_winter_part_timer_icon.png",
+      "source": "fandom Red_Winter_Part_Timer_Icon.png"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/무소속/붉은겨울 아르바이트생 (모브)/기본/공식/official_red_winter_part_timer_portrait.png",
+      "filename": "official_red_winter_part_timer_portrait.png",
+      "source": "fandom Red_Winter_Part_Timer_Portrait.png"
+    }
+  ],
+  "image_count": 2,
+  "updated": "2026-08-28"
+}

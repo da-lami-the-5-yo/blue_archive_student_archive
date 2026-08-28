@@ -1,0 +1,57 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스케반 (모브) 1",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "그 외",
+      "en": null,
+      "ja": null
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "스케반 모브 수영복 버전. MG 타입.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 (모브) 1/수영복/공식/official_sukeban_swimsuit_mg_icon.png",
+      "filename": "official_sukeban_swimsuit_mg_icon.png",
+      "source": "fandom Sukeban_Swimsuit_MG_Icon.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 (모브) 1/수영복/공식/official_sukeban_swimsuit_mg_portrait.png",
+      "filename": "official_sukeban_swimsuit_mg_portrait.png",
+      "source": "fandom Sukeban_Swimsuit_MG_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 (모브) 1/수영복/공식/official_sukeban_swimsuit_schoolgirl_mg_sprite.png",
+      "filename": "official_sukeban_swimsuit_schoolgirl_mg_sprite.png",
+      "source": "fandom Sukeban_Swimsuit_Schoolgirl_MG_Sprite.png"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-28"
+}

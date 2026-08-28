@@ -1,0 +1,57 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "용역부 병사 (모브)",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "붉은겨울 연방학원",
+      "en": "Red Winter Federal Academy",
+      "ja": "レッドウィンター連邦学園"
+    },
+    "club": {
+      "kr": "용역부",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "붉은겨울 용역부 소속 병사 모브.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/용역부/용역부 병사 (모브)/기본/공식/official_red_winter_yoheki_soldier_ar_sprite.png",
+      "filename": "official_red_winter_yoheki_soldier_ar_sprite.png",
+      "source": "fandom Red_Winter_Yoheki_Soldier_AR_Sprite.png"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/용역부/용역부 병사 (모브)/기본/공식/official_red_winter_yoheki_soldier_sg_sprite.png",
+      "filename": "official_red_winter_yoheki_soldier_sg_sprite.png",
+      "source": "fandom Red_Winter_Yoheki_Soldier_SG_Sprite.png"
+    },
+    {
+      "category": "공식",
+      "path": "붉은겨울 연방학원/용역부/용역부 병사 (모브)/기본/공식/official_red_winter_yoheki_soldier_sr_sprite.png",
+      "filename": "official_red_winter_yoheki_soldier_sr_sprite.png",
+      "source": "fandom Red_Winter_Yoheki_Soldier_SR_Sprite.png"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-28"
+}

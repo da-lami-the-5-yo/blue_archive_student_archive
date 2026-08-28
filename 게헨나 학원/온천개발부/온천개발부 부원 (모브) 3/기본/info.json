@@ -1,0 +1,45 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "온천개발부 부원 (모브) 3",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "게헨나 학원",
+      "en": "Gehenna Academy",
+      "ja": "ゲヘナ学園"
+    },
+    "club": {
+      "kr": "온천개발부",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "게헨나 온천개발부 소속 모브(SG).",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "게헨나 학원/온천개발부/온천개발부 부원 (모브) 3/기본/공식/official_hot_spring_soldier_sg_sprite.png",
+      "filename": "official_hot_spring_soldier_sg_sprite.png",
+      "source": "fandom Hot_Spring_Soldier_SG_Sprite.png"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-28"
+}

@@ -1,0 +1,57 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스케반 (모브) 3",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "그 외",
+      "en": null,
+      "ja": null
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "기본",
+    "status": "미출시 학생",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "스케반(불량 학생) 모브. SR 타입.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 3
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 (모브) 3/기본/공식/official_sukeban_sr_icon.png",
+      "filename": "official_sukeban_sr_icon.png",
+      "source": "fandom Sukeban_SR_Icon.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 (모브) 3/기본/공식/official_sukeban_sr_portrait.png",
+      "filename": "official_sukeban_sr_portrait.png",
+      "source": "fandom Sukeban_SR_Portrait.png"
+    },
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 (모브) 3/기본/공식/official_sukeban_schoolgirl_sr_sprite.png",
+      "filename": "official_sukeban_schoolgirl_sr_sprite.png",
+      "source": "fandom Sukeban_Schoolgirl_SR_Sprite.png"
+    }
+  ],
+  "image_count": 3,
+  "updated": "2026-08-28"
+}

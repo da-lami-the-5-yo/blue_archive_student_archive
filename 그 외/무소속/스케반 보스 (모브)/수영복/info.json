@@ -1,0 +1,45 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "스케반 보스 (모브)",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "그 외",
+      "en": null,
+      "ja": null
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "스케반 무리의 보스 모브. 수영복 버전(MG).",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "그 외/무소속/스케반 보스 (모브)/수영복/공식/official_sukeban_swimsuit_schoolgirl_boss_mg_sprite.png",
+      "filename": "official_sukeban_swimsuit_schoolgirl_boss_mg_sprite.png",
+      "source": "fandom Sukeban_Swimsuit_Schoolgirl_Boss_MG_Sprite.png"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-28"
+}

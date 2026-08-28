@@ -1,0 +1,45 @@
+{
+  "student_info": {
+    "name": {
+      "kr": "백귀야행 학생 (모브) 1",
+      "en": null,
+      "ja": null
+    },
+    "school": {
+      "kr": "백귀야행 연합학원",
+      "en": "Hyakkiyako Alliance Academy",
+      "ja": "百鬼夜行連合学院"
+    },
+    "club": {
+      "kr": "무소속",
+      "en": null,
+      "ja": null
+    },
+    "seasonal": "수영복",
+    "status": "미출시 시즈널",
+    "combat_profile": {
+      "role": null,
+      "position": null,
+      "bullet_type": null,
+      "armor_type": null
+    },
+    "description": {
+      "kr": "백귀야행 모브 학생 1의 수영복 버전.",
+      "en": null,
+      "ja": null
+    }
+  },
+  "collection_stats": {
+    "공식": 1
+  },
+  "images": [
+    {
+      "category": "공식",
+      "path": "백귀야행 연합학원/무소속/백귀야행 학생 (모브) 1/수영복/공식/official_hyakkiyako_student_1_swimsuit_icon.png",
+      "filename": "official_hyakkiyako_student_1_swimsuit_icon.png",
+      "source": "fandom Hyakkiyako_Student_1_Swimsuit_Icon.png"
+    }
+  ],
+  "image_count": 1,
+  "updated": "2026-08-28"
+}
